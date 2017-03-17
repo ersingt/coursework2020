@@ -48,6 +48,34 @@ SCHEDULE TEMPLATE
 **2:00pm <br> 5:00pm** | Classification Metrics |  KNN | Guest | Web Scraping II | Project 4 Review  
 **Training** | | | | |
 
+#### Week 5 - Gathering, Collecting and Aquiring Data
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+**9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
+**10:00am <br> 1:00pm** | Data Modeling + ERDs | SQL + Pandas I | Pipelines | NLP I | Project 5
+**2:00pm <br> 5:00pm** |PostgreSQL |  SQL + Pandas II | Guest | NLP II | Project 5 Review  
+**Training** | | | | |
+
+#### Week 6 - Tree Classifiers
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+**9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
+**10:00am <br> 1:00pm** | Object Oriented Python | Random Forests | Boosting | Recommendation Engine I | Project 6
+**2:00pm <br> 5:00pm** | CART | Bagging | Field Trip | Recommendation Engine II | Project 6 Review  
+**Training** | | | | | 
+
+#### Week 7 - Unsupervised Learning
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+**9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
+**10:00am <br> 1:00pm** | Introduction to Clustering/ K-Means | Clustering Evaluation | PCA I | PCA II | Project 7
+**2:00pm <br> 5:00pm** | DBScan | Linear Algebra Review | Guest | RegEx | Project 7 Review  
+**Training** | | | | |
+
+
 
 ## Administrative
 
