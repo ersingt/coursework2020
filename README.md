@@ -75,7 +75,14 @@ SCHEDULE TEMPLATE
 **2:00pm <br> 5:00pm** | DBScan | Linear Algebra Review | Guest | RegEx | Project 7 Review  
 **Training** | | | | |
 
+#### Week 8 - Bayesian Inference
 
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+**9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
+**10:00am <br> 1:00pm** | JSON + APIs | Model-Based Bayes | LDA | MCMC | Project 8
+**2:00pm <br> 5:00pm** | Introduction to Bayes |  A/B Testing | Guest | Naive Bayes | Project 8 Review  
+**Training** | | | | |
 
 ## Administrative
 
