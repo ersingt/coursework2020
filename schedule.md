@@ -36,7 +36,7 @@ SCHEDULE TEMPLATE
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Codewars: Good vs. Evil | Codewars: Dubstep | Blogging | Codewars: Temperature Analysis | Codewars: Breaking Chocolate 
 **10:00am <br> 1:00pm** | Linear Regression | Multivariate Linear Regression | Feature Scaling | Regularization - Lasso, Ridge, Elastic Net | Project 3
-**2:00pm <br> 5:00pm** | Train/Test Splitting, KFold, Leave One Out |  Lesson Name | Lesson Name | Lesson Name | Lesson Name](Link)  
+**2:00pm <br> 5:00pm** | Train/Test Splitting, KFold, Leave One Out |  Regression Metrics | Guest | GridSearchCV | Project 3 Review  
 **Training** | | | | |
 
 #### Week 4 - Classifiers
