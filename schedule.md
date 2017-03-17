@@ -84,6 +84,15 @@ SCHEDULE TEMPLATE
 **2:00pm <br> 5:00pm** | Introduction to Bayes |  A/B Testing | Guest | Naive Bayes | Project 8 Review  
 **Training** | | | | |
 
+#### Week 9 - Time Series Analysis
+
+ Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
+----- | ----- | ------ | ---- | ----- | ---- |
+**9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
+**10:00am <br> 1:00pm** | Introduction to Time Series | ARIMA I | Capstone Project | Kaggle Project | Project 9
+**2:00pm <br> 5:00pm** | Autocorrelation |  ARIMA II | Guest | Kaggle Project | Project 9 Review  
+**Training** | | | | |
+
 ## Administrative
 
 - [Graduation Requirements](graduation-requirements.md)
