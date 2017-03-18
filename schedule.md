@@ -159,7 +159,7 @@ SCHEDULE TEMPLATE
 - You can specify the language directly after the backticks to have colors show up on github
   <pre>
   &grave;&grave;&grave;javascript
-    var words = ["hello", "what", "is", "up", "dude"];
+    colors = ['red', 'blue', 'yellow']
   &grave;&grave;&grave;
   </pre>
 - These same backtick tricks also work on **GitHub** and **Slack**.
