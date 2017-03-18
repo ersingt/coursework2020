@@ -25,7 +25,7 @@ SCHEDULE TEMPLATE
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** | Codewars: Fake Binary | Codewars: Is the String Uppercase? | Morning Exercise | Codewars: DNA to RNA Conversion | Codewars: Area of an Arrow 
+**9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
 **10:00am <br> 1:00pm** | Pandas I | Pandas III | Matplotlib | Seaborn | Project 1
 **2:00pm <br> 5:00pm** | Pandas II | Pandas IV | Guest | Tableau | Project 1 Review  
 **Training** | | | | | 
@@ -34,7 +34,7 @@ SCHEDULE TEMPLATE
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** | Codewars: Good vs. Evil | Codewars: Dubstep | Blogging | Codewars: Temperature Analysis | Codewars: Breaking Chocolate 
+**9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
 **10:00am <br> 1:00pm** | Linear Regression | Multivariate Linear Regression | Feature Scaling | Regularization - Lasso, Ridge, Elastic Net | Project 3
 **2:00pm <br> 5:00pm** | Train/Test Splitting, KFold, Leave One Out |  Regression Metrics | Guest | GridSearchCV | Project 3 Review  
 **Training** | | | | |
@@ -127,22 +127,25 @@ SCHEDULE TEMPLATE
 - [Homework Policy](homework-policy.md)
 - [Office Hours](office-hours.md)
 - [Asking for Help](asking-for-help.md)
+- [Expectations] (expectations.md)
+- [One-on-Ones] (one-on-ones.md)
+- [Squads] (squads.md)
+- [Resources] (resources.md)
 
 ## Important Dates
-  * **3/13 - 3/17** SXSW 
+  * **5/29** Memorial Day (No Class) 
 
 ## Communication
   - You have been invited to the following Slack teams:
     - [GA Immersive Students](https://ga-students.slack.com)
-      - [#wdi-atx-10](https://ga-students.slack.com/messages/wdi-atx-10/)
-      - [#wdi-fundamentals](https://ga-students.slack.com/messages/wdi-fundamentals/)
-    - [GA ATX Alumni](https://atx-alumni.slack.com) - Austin WDI Alumni (You will be invited end of course)
-  - For informal communication that doesn't need to be private, use the #wdi-atx-10 room
+      - [#dsi-atx-2](https://ga-students.slack.com/messages/dsi-atx-2/)
+  - For informal communication that doesn't need to be private, use the #dsi-atx-2 room
   - If you need to talk to the instructors privately, use the Slack rooms we're creating for you with each of the instructors in it. Please don't Slack or email the instructors individually as this creates information asymmetry.
+  -Instructors: Riley Dallas @rldaggie, Nichole Bennett @nbennett
 
 ## Outcomes
 
-- [Outcomes Programming Syllabus](https://docs.google.com/document/d/1KQ1WZfj_0IWo6Ja0lF4uIleoavEzz_NT5KIOraOwtJk/edit)
+- [Outcomes Programming Syllabus]()
 
 ## Slack Tips
 
