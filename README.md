@@ -17,8 +17,8 @@ SCHEDULE TEMPLATE
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Icebreakers + Installfest | Command Line Interface Lab Review | Git Review | Python Functions Lab Review | Python Movies Lab 
-**10:00am <br> 1:00pm** | Command Line Interface | Git I | Python I | Python II | Introduction to Statistics
-**2:00pm <br> 5:00pm** | Command Line Interface II | Git II | Guest | NumPy | Notebooks + CSVs  
+**10:00am <br> 1:00pm** | [Command Line Interface](https://git.generalassemb.ly/DSI-ATX-2/lesson-intro-cli) | Git I | Python I | Python II | Introduction to Statistics
+**2:00pm <br> 5:00pm** | [Command Line Interface II](https://git.generalassemb.ly/DSI-ATX-2/lesson-intro-cli) | Git II | Guest | NumPy | Notebooks + CSVs  
 **Training** | | | | |
 
 #### Week 2 - Data Manipulation
