@@ -158,7 +158,7 @@ SCHEDULE TEMPLATE
   </pre>
 - You can specify the language directly after the backticks to have colors show up on github
   <pre>
-  &grave;&grave;&grave;javascript
+  &grave;&grave;&grave;python
     colors = ['red', 'blue', 'yellow']
   &grave;&grave;&grave;
   </pre>
