@@ -145,7 +145,7 @@ SCHEDULE TEMPLATE
 
 ## Outcomes
 
-- [Outcomes Programming Syllabus]()
+- [Outcomes Programming Syllabus](https://docs.google.com/document/d/19kRR5dM3JRba5Wq-GtG2Tr4VFU2e9qhHAOVrzKPB4Rg/edit)
 
 ## Slack Tips
 
