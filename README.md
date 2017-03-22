@@ -16,8 +16,8 @@ SCHEDULE TEMPLATE
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** | Icebreakers + Installfest | Command Line Interface Lab Review | Git Review | Python Functions Lab Review | Python Movies Lab 
-**10:00am <br> 1:00pm** | [Command Line Interface](https://git.generalassemb.ly/DSI-ATX-2/lesson-intro-cli) | [Git](https://git.generalassemb.ly/DSI-ATX-2/lesson-git-intro) | Python I | Python II | Introduction to Statistics
+**9:00am <br> 9:45am** | Icebreakers + Installfest | Command Line Interface Lab Review | Git Review | Python [Datatypes](https://git.generalassemb.ly/DSI-ATX-2/lesson-python-datatypes), [Lists/Dictionaries](https://git.generalassemb.ly/DSI-ATX-2/lesson-python-lists-dictionaries), [Control Flow](https://git.generalassemb.ly/DSI-ATX-2/lesson-python-control-flow), and [Looping](https://git.generalassemb.ly/DSI-ATX-2/lesson-python-looping) | Python Movies Lab 
+**10:00am <br> 1:00pm** | [Command Line Interface](https://git.generalassemb.ly/DSI-ATX-2/lesson-intro-cli) | [Git](https://git.generalassemb.ly/DSI-ATX-2/lesson-git-intro) | [Python Looping and Control Flow Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-python-looping-control-flow) [Python Functions Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-python-functions) | Python II | Introduction to Statistics
 **2:00pm <br> 5:00pm** | [Command Line Interface II](https://git.generalassemb.ly/DSI-ATX-2/lesson-intro-cli) | GitHub | Guest | NumPy | Notebooks + CSVs  
 **Training** | | | | |
 
