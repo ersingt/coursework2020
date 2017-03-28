@@ -1,1 +1,46 @@
+# Resources for Data Science
+(Have something to add to this list? Slack Nichole @nlbennett and let her know)
+
+## Bash
+* [Bash Cheat Sheet](http://www.pixelbeat.org/cmdline.html)
+* [A-Z Command Line](https://ss64.com/bash/)
+* [Bash Scripting Tutorial](http://ryanstutorials.net/bash-scripting-tutorial/)
+* [Bash Guide](http://mywiki.wooledge.org/BashGuide)
+* [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bashref.html)
+
+## RegEx
+* [Pythex: Python Regular Expression Tester](http://pythex.org/)
+
+## Git
+* [Git Reference for Beginners](http://www.dataschool.io/git-quick-reference-for-beginners/)
+* [Try Git Tutorial](https://try.github.io/levels/1/challenges/1)
+* [Pro Git](https://git-scm.com/book/en/v2)
+* [How to Master the Art of Git](https://hackernoon.com/how-to-master-the-art-of-git-68e1050f3147)
+* [Git Reference](http://gitref.org/)
+* [Git Guide](http://rogerdudler.github.io/git-guide/)
+* [Git Cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
+* [GitHub vs. Git](http://www.dataschool.io/github-is-just-dropbox-for-git/)
+* [GitHub Guides](https://guides.github.com/)
+* [Simple Guide to Forks in GitHub and Git](http://www.dataschool.io/simple-guide-to-forks-in-github-and-git/)
+* [Version Control with Git and GitHub Videos](https://www.youtube.com/playlist?list=PL5-da3qGB5IBLMp7LtN8Nc3Efd4hJq0kD)
+* [Version Control By Example](http://ericsink.com/vcbe/html/bk01-toc.html)
+* [Git for Scientists](http://nyuccl.org/pages/GitTutorial/)
+
+## Python
+* [Key Differences between Python 2 and 3](http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html)
+* [Python Vs. R](http://www.dataschool.io/python-or-r-for-data-science/)
+* [Python Reference](https://github.com/rasbt/python_reference)
+* [Curated List of Python Frameworks](https://github.com/vinta/awesome-python)
+* [How to Think Like a Computer Scientist: Learning with Python](http://openbookproject.net/thinkcs/python/english2e/index.html)
+* [Python for Biologists](http://pythonforbiologists.com/)
+
+## SQL
+* [Khan Academy: SQL](https://www.khanacademy.org/computing/computer-programming/sql)
+
+## Data Science/General
+* [Data Science Terms](https://github.com/rasbt/pattern_classification/blob/master/resources/data_glossary.md)
+* [Data Management Plan Tool](https://dmptool.org/)
+* [Chris Albon](https://chrisalbon.com/)
+* [Data School YouTube Channel](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg)
+* [Software Carpentry](https://software-carpentry.org/)
 
