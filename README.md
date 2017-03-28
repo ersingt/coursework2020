@@ -122,6 +122,7 @@ SCHEDULE TEMPLATE
 
 ## Administrative
 
+- [Pre-Work](https://docs.google.com/document/d/1u94VcFlFVHsBooTlWMc7uW6sL837ZfTsg-lhRimu5jQ/edit#heading=h.uelq79y3wpvb)
 - [Graduation Requirements](graduation-requirements.md)
 - [Attendance](attendance.md)
 - [Homework Policy](homework-policy.md)
