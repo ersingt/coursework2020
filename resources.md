@@ -45,3 +45,9 @@
 * [Data School YouTube Channel](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg)
 * [Software Carpentry](https://software-carpentry.org/)
 
+## Data Visualization
+* [Storytelling with Data](http://www.storytellingwithdata.com/)
+* [Junk Charts](http://junkcharts.typepad.com/)
+* [Edward Tufte] (https://www.edwardtufte.com/tufte/)
+* [Information is Beautiful] (http://www.informationisbeautiful.net/)
+
