@@ -1,6 +1,9 @@
 # Resources for Data Science
 (Have something to add to this list? Slack Nichole @nlbennett and let her know)
 
+## Programming (General)
+* [Giving and Receiving Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s)
+
 ## Bash
 * [Bash Cheat Sheet](http://www.pixelbeat.org/cmdline.html)
 * [A-Z Command Line](https://ss64.com/bash/)
@@ -34,9 +37,16 @@
 * [Curated List of Python Frameworks](https://github.com/vinta/awesome-python)
 * [How to Think Like a Computer Scientist: Learning with Python](http://openbookproject.net/thinkcs/python/english2e/index.html)
 * [Python for Biologists](http://pythonforbiologists.com/)
+* [Google Python Class] (https://developers.google.com/edu/python/)
 
 ## SQL
 * [Khan Academy: SQL](https://www.khanacademy.org/computing/computer-programming/sql)
+* [SQLBolt](https://sqlbolt.com/)
+* [Mode SQL Tutorial](https://modeanalytics.com/)
+
+## Machine Learning
+* [Machine Learning Coursera](https://www.coursera.org/learn/machine-learning)
+* Python Machine Learning by Sebastian Raschka
 
 ## Data Science/General
 * [Jupyter Notebook Tips](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
@@ -45,6 +55,7 @@
 * [Chris Albon](https://chrisalbon.com/)
 * [Data School YouTube Channel](https://www.youtube.com/channel/UCnVzApLJE2ljPZSeQylSEyg)
 * [Software Carpentry](https://software-carpentry.org/)
+* Data Science From Scratch by Joel Grus
 
 ## Data Visualization
 * [Storytelling with Data](http://www.storytellingwithdata.com/)
