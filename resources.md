@@ -38,6 +38,7 @@
 * [Khan Academy: SQL](https://www.khanacademy.org/computing/computer-programming/sql)
 
 ## Data Science/General
+* [Jupyter Notebook Tips](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * [Data Science Terms](https://github.com/rasbt/pattern_classification/blob/master/resources/data_glossary.md)
 * [Data Management Plan Tool](https://dmptool.org/)
 * [Chris Albon](https://chrisalbon.com/)
