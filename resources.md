@@ -34,6 +34,7 @@
 * [Python Vs. R](http://www.dataschool.io/python-or-r-for-data-science/)
 * [Jupyter Notebook Tips and Tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * [Python Reference](https://github.com/rasbt/python_reference)
+* [List Comprehensions Explained Visually](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
 * [Curated List of Python Frameworks](https://github.com/vinta/awesome-python)
 * [How to Think Like a Computer Scientist: Learning with Python](http://openbookproject.net/thinkcs/python/english2e/index.html)
 * [Python for Biologists](http://pythonforbiologists.com/)
