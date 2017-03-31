@@ -26,8 +26,8 @@ SCHEDULE TEMPLATE
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
-**10:00am <br> 1:00pm** | [Pandas I](https://git.generalassemb.ly/DSI-ATX-2/lesson-pandas-intro), [Pandas I Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-pandas-intro) | Pandas III | Matplotlib | Seaborn | Project 1
-**2:00pm <br> 5:00pm** | Pandas II | Pandas IV | Guest | Tableau | Project 1 Review  
+**10:00am <br> 1:00pm** | [Pandas I](https://git.generalassemb.ly/DSI-ATX-2/lesson-pandas-intro), [Pandas I Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-pandas-intro) | Pandas III, [Pandas III Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-pandas-music) | [Matplotlib](https://git.generalassemb.ly/DSI-ATX-2/lesson-matplotlib), [Matplotlib Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-matplotlib) | [Intro to Visualization](https://git.generalassemb.ly/DSI-ATX-2/lesson-visualization_intro), [Seaborn](https://git.generalassemb.ly/DSI-ATX-2/lesson-seaborn) | [Project 1](https://git.generalassemb.ly/DSI-ATX-2/project-01)
+**2:00pm <br> 5:00pm** | [Pandas II](https://git.generalassemb.ly/DSI-ATX-2/lesson-pandas-feature-engineering), [Pandas II Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-pandas-feature-engineering) | [Pandas IV](https://git.generalassemb.ly/DSI-ATX-2/lesson-pandas-combining) | Guest | Tableau | Project 1 Review  
 **Training** | | | | | 
 
 #### Week 3 - Foundations of Data Modeling
