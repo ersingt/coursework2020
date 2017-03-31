@@ -19,16 +19,14 @@ SCHEDULE TEMPLATE
 **9:00am <br> 9:45am** | Icebreakers + Installfest | Command Line Interface Lab Review | Python [Datatypes](https://git.generalassemb.ly/DSI-ATX-2/lesson-python-datatypes), [Lists/Dictionaries](https://git.generalassemb.ly/DSI-ATX-2/lesson-python-lists-dictionaries), [Control Flow](https://git.generalassemb.ly/DSI-ATX-2/lesson-python-control-flow), and [Looping](https://git.generalassemb.ly/DSI-ATX-2/lesson-python-looping) | Python Lab Review | Python Movies Lab 
 **10:00am <br> 1:00pm** | [Command Line Interface](https://git.generalassemb.ly/DSI-ATX-2/lesson-intro-cli) | [Git](https://git.generalassemb.ly/DSI-ATX-2/lesson-git-intro) | [Python Looping and Control Flow Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-python-looping-control-flow), [Python Functions Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-python-functions) | [Python mapping and filtering](https://git.generalassemb.ly/DSI-ATX-2/lesson-python-enumeration) | [Intro Stats I](https://git.generalassemb.ly/DSI-ATX-2/lesson-stats1), [Intro Stats II] (https://git.generalassemb.ly/DSI-ATX-2/lesson-stats2)
 **2:00pm <br> 5:00pm** | [Command Line Interface II](https://git.generalassemb.ly/DSI-ATX-2/lesson-intro-cli) | GitHub | [Python FizzBuzz Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-python-fizzbuzz) | [NumPy and Math Primer](https://git.generalassemb.ly/DSI-ATX-2/lesson-numpy), [NumPy Bingo](https://git.generalassemb.ly/DSI-ATX-2/lab-numpy-bingo), [NumPy Lab (extra)](https://git.generalassemb.ly/DSI-ATX-2/lab-numpy) | [Monty Hall Problem](https://git.generalassemb.ly/DSI-ATX-2/lab-python-monty-hall)  
-**Training** | | | | |
 
 #### Week 2 - Data Manipulation
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
-**10:00am <br> 1:00pm** | [Pandas I](https://git.generalassemb.ly/DSI-ATX-2/lesson-pandas-intro), [Pandas I Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-pandas-intro) | Pandas III, [Pandas III Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-pandas-music) | [Matplotlib](https://git.generalassemb.ly/DSI-ATX-2/lesson-matplotlib), [Matplotlib Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-matplotlib) | [Intro to Visualization](https://git.generalassemb.ly/DSI-ATX-2/lesson-visualization_intro), [Seaborn](https://git.generalassemb.ly/DSI-ATX-2/lesson-seaborn) | [Project 1](https://git.generalassemb.ly/DSI-ATX-2/project-01)
+**9:00am <br> 9:45am** | Morning Exercise | [Probability Foundations](https://git.generalassemb.ly/DSI-ATX-2/lesson-probability-foundations) | [Statistical Distributions](https://git.generalassemb.ly/DSI-ATX-2/lesson-statistics-distributions) | Pandas Music Lab | Benford Austin City Data 
+**10:00am <br> 1:00pm** | [Pandas I](https://git.generalassemb.ly/DSI-ATX-2/lesson-pandas-intro), [Pandas I Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-pandas-intro) | [Pandas III](https://git.generalassemb.ly/DSI-ATX-2/lesson-pandas-filtering), [Pandas III Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-pandas-music) | [Matplotlib](https://git.generalassemb.ly/DSI-ATX-2/lesson-matplotlib), [Matplotlib Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-matplotlib) | [Intro to Visualization](https://git.generalassemb.ly/DSI-ATX-2/lesson-visualization_intro), [Seaborn](https://git.generalassemb.ly/DSI-ATX-2/lesson-seaborn) | [Project 1](https://git.generalassemb.ly/DSI-ATX-2/project-01)
 **2:00pm <br> 5:00pm** | [Pandas II](https://git.generalassemb.ly/DSI-ATX-2/lesson-pandas-feature-engineering), [Pandas II Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-pandas-feature-engineering) | [Pandas IV](https://git.generalassemb.ly/DSI-ATX-2/lesson-pandas-combining) | Guest | Tableau | Project 1 Review  
-**Training** | | | | | 
 
 #### Week 3 - Foundations of Data Modeling
 
@@ -37,7 +35,6 @@ SCHEDULE TEMPLATE
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
 **10:00am <br> 1:00pm** | Linear Regression | Multivariate Linear Regression | Feature Scaling | Regularization - Lasso, Ridge, Elastic Net | Project 3
 **2:00pm <br> 5:00pm** | Train/Test Splitting, KFold, Leave One Out |  Regression Metrics | Guest | GridSearchCV | Project 3 Review  
-**Training** | | | | |
 
 #### Week 4 - Classifiers
 
@@ -46,7 +43,6 @@ SCHEDULE TEMPLATE
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
 **10:00am <br> 1:00pm** | Logistic Regression | SVM | Introduction to HTML/CSS Scraping | Web Scraping I | Project 4
 **2:00pm <br> 5:00pm** | Classification Metrics |  KNN | Guest | Web Scraping II | Project 4 Review  
-**Training** | | | | |
 
 #### Week 5 - Gathering, Collecting and Aquiring Data
 
@@ -55,7 +51,6 @@ SCHEDULE TEMPLATE
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
 **10:00am <br> 1:00pm** | Data Modeling + ERDs | SQL + Pandas I | Pipelines | NLP I | Project 5
 **2:00pm <br> 5:00pm** |PostgreSQL |  SQL + Pandas II | Guest | NLP II | Project 5 Review  
-**Training** | | | | |
 
 #### Week 6 - Tree Classifiers
 
@@ -63,8 +58,7 @@ SCHEDULE TEMPLATE
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
 **10:00am <br> 1:00pm** | Object Oriented Python | Random Forests | Boosting | Recommendation Engine I | Project 6
-**2:00pm <br> 5:00pm** | CART | Bagging | Field Trip | Recommendation Engine II | Project 6 Review  
-**Training** | | | | | 
+**2:00pm <br> 5:00pm** | CART | Bagging | Field Trip | Recommendation Engine II | Project 6 Review   
 
 #### Week 7 - Unsupervised Learning
 
@@ -73,7 +67,6 @@ SCHEDULE TEMPLATE
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
 **10:00am <br> 1:00pm** | Introduction to Clustering/ K-Means | Clustering Evaluation | PCA I | PCA II | Project 7
 **2:00pm <br> 5:00pm** | DBScan | Linear Algebra Review | Guest | RegEx | Project 7 Review  
-**Training** | | | | |
 
 #### Week 8 - Bayesian Inference
 
@@ -82,7 +75,6 @@ SCHEDULE TEMPLATE
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
 **10:00am <br> 1:00pm** | JSON + APIs | Model-Based Bayes | LDA | MCMC | Project 8
 **2:00pm <br> 5:00pm** | Introduction to Bayes |  A/B Testing | Guest | Naive Bayes | Project 8 Review  
-**Training** | | | | |
 
 #### Week 9 - Time Series Analysis
 
@@ -91,7 +83,6 @@ SCHEDULE TEMPLATE
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
 **10:00am <br> 1:00pm** | Introduction to Time Series | ARIMA I | Capstone Project | Kaggle Project | Project 9
 **2:00pm <br> 5:00pm** | Autocorrelation |  ARIMA II | Guest | Kaggle Project | Project 9 Review  
-**Training** | | | | |
 
 #### Week 10 - Big Data
 
@@ -100,7 +91,6 @@ SCHEDULE TEMPLATE
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
 **10:00am <br> 1:00pm** | Introduction to Big Data/ Hadoop | Hive | Flask | AWS I/EC2/S3 | Project 10
 **2:00pm <br> 5:00pm** | Spark |  Mr.Job | Guest | AWS II | Project 10 Review  
-**Training** | | | | |
 
 #### Week 11 - Special Topics
 
@@ -109,7 +99,6 @@ SCHEDULE TEMPLATE
 **9:00am <br> 9:45am** | No Class (Memorial Day) | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
 **10:00am <br> 1:00pm** | No Class (Memorial Day) | Neural Networks | Neural Networks | Special Topics | Capstone
 **2:00pm <br> 5:00pm** | No Class (Memorial Day) |  Neural Networks | Guest | Special Topics | Capstone  
-**Training** | | | | |
 
 #### Week 12 - Capstone
 
@@ -118,7 +107,6 @@ SCHEDULE TEMPLATE
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
 **10:00am <br> 1:00pm** | Capstone | Capstone | Capstone | Capstone | Capstone
 **2:00pm <br> 5:00pm** | Capstone |  Capstone | Guest | Capstone | Capstone  
-**Training** | | | | |
 
 ## Administrative
 
