@@ -49,7 +49,7 @@ SCHEDULE TEMPLATE
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
-**10:00am <br> 1:00pm** | UX Project | [SQL 1](https://git.generalassemb.ly/DSI-ATX-2/lesson-sql-1) | Pipelines | NLP I | Project 5
+**10:00am <br> 1:00pm** | UX Project | [SQL 1](https://git.generalassemb.ly/DSI-ATX-2/lesson-sql-1) | [Pipelines](https://git.generalassemb.ly/DSI-ATX-2/lesson-pipelines) | NLP I | Project 5
 **2:00pm <br> 5:00pm** |[Introduction to Databases](https://git.generalassemb.ly/DSI-ATX-2/lesson-database-fundamentals/blob/master/database-fundamentals-types-of-databases.ipynb) |  SQL + Pandas II | Guest | NLP II | Project 5 Review  
 
 #### Week 6 - Tree Classifiers
