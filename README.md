@@ -65,7 +65,7 @@ SCHEDULE TEMPLATE
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
-**10:00am <br> 1:00pm** | [Introduction to Clustering/ K-Means](https://git.generalassemb.ly/DSI-ATX-2/lesson-clustering-kmeans) | Clustering Evaluation | LDA | RegEx I | Project 7
+**10:00am <br> 1:00pm** | [Introduction to Clustering/ K-Means](https://git.generalassemb.ly/DSI-ATX-2/lesson-clustering-kmeans) | Clustering Metrics | LDA | RegEx I | Project 7
 **2:00pm <br> 5:00pm** | [Hierarchical Clustering](https://git.generalassemb.ly/DSI-ATX-2/lesson-hierarchical-clustering) and [DBScan](https://git.generalassemb.ly/DSI-ATX-2/lesson-dbscan) | PCA | Guest | RegEx II | Project 7 Review  
 
 #### Week 8 - Bayesian Inference
