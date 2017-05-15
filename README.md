@@ -81,8 +81,8 @@ SCHEDULE TEMPLATE
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
-**10:00am <br> 1:00pm** | Introduction to Time Series | ARIMA I | Capstone Project | Kaggle Project | Project 9
-**2:00pm <br> 5:00pm** | Autocorrelation |  ARIMA II | Guest | Kaggle Project | Project 9 Review  
+**10:00am <br> 1:00pm** | [Datetime Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-intro-timeseries) | ARIMA I | Capstone Project | Kaggle Project | Project 9
+**2:00pm <br> 5:00pm** | [Introduction to Time Series](https://git.generalassemb.ly/DSI-ATX-2/lesson-intro-timeseries) and [Autocorrelation](https://git.generalassemb.ly/DSI-ATX-2/lesson-timeseries-autocorrelation), [Time Series Code-Along](https://git.generalassemb.ly/DSI-ATX-2/lesson-intro-timeseries-codealong), [Time Series/Autocorrelation Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-timeseries) |  ARIMA II | Guest | Kaggle Project | Project 9 Review  
 
 #### Week 10 - Big Data
 
