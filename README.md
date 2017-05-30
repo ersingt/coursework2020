@@ -97,8 +97,8 @@ SCHEDULE TEMPLATE
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | No Class (Memorial Day) | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
-**10:00am <br> 1:00pm** | No Class (Memorial Day) | Neural Networks | Neural Networks | Special Topics | Capstone
-**2:00pm <br> 5:00pm** | No Class (Memorial Day) |  Neural Networks | Guest | Special Topics | Capstone  
+**10:00am <br> 1:00pm** | No Class (Memorial Day) | Introduction to Neural Networks, Multiclass Classification in Keras | Neural Networks | Special Topics | Capstone
+**2:00pm <br> 5:00pm** | No Class (Memorial Day) | Binary Classification in Keras, Regression in Keras  | Guest | Special Topics | Capstone  
 
 #### Week 12 - Capstone
 
