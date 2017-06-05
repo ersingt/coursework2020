@@ -1,4 +1,4 @@
-# ![GA Logo](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67) DSI 2 Schedule 
+# ![GA Logo](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67) DSI 3 Schedule 
 
 <!---- 
 SCHEDULE TEMPLATE 
@@ -16,89 +16,89 @@ SCHEDULE TEMPLATE
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** | Icebreakers + Installfest | Command Line Interface Lab Review | Python [Datatypes](https://git.generalassemb.ly/DSI-ATX-2/lesson-python-datatypes), [Lists/Dictionaries](https://git.generalassemb.ly/DSI-ATX-2/lesson-python-lists-dictionaries), [Control Flow](https://git.generalassemb.ly/DSI-ATX-2/lesson-python-control-flow), and [Looping](https://git.generalassemb.ly/DSI-ATX-2/lesson-python-looping) | Python Lab Review | Python Movies Lab 
-**10:00am <br> 1:00pm** | [Command Line Interface](https://git.generalassemb.ly/DSI-ATX-2/lesson-intro-cli) | [Git](https://git.generalassemb.ly/DSI-ATX-2/lesson-git-intro) | [Python Looping and Control Flow Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-python-looping-control-flow), [Python Functions Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-python-functions) | [Python mapping and filtering](https://git.generalassemb.ly/DSI-ATX-2/lesson-python-enumeration) | [Intro Stats I](https://git.generalassemb.ly/DSI-ATX-2/lesson-stats1), [Intro Stats II] (https://git.generalassemb.ly/DSI-ATX-2/lesson-stats2)
-**2:00pm <br> 5:00pm** | [Command Line Interface II](https://git.generalassemb.ly/DSI-ATX-2/lesson-intro-cli) | GitHub | [Python FizzBuzz Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-python-fizzbuzz) | [NumPy and Math Primer](https://git.generalassemb.ly/DSI-ATX-2/lesson-numpy), [NumPy Bingo](https://git.generalassemb.ly/DSI-ATX-2/lab-numpy-bingo), [NumPy Lab (extra)](https://git.generalassemb.ly/DSI-ATX-2/lab-numpy) | [Monty Hall Problem](https://git.generalassemb.ly/DSI-ATX-2/lab-python-monty-hall)  
+**9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise
+**10:00am <br> 1:00pm** | Icebreakers + Installfest | Git | Python I | Python II | Introduction to Stats
+**2:00pm <br> 5:00pm** | Command Line Interface II | GitHub | Guest/Outcomes | NumPy | Notebooks and CSVs 
 
 #### Week 2 - Data Manipulation
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** | Morning Exercise | [Probability Foundations](https://git.generalassemb.ly/DSI-ATX-2/lesson-probability-foundations) | [Statistical Distributions](https://git.generalassemb.ly/DSI-ATX-2/lesson-statistics-distributions) | Pandas Music Lab | Benford Austin City Data 
-**10:00am <br> 1:00pm** | [Pandas I](https://git.generalassemb.ly/DSI-ATX-2/lesson-pandas-intro), [Pandas I Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-pandas-intro) | [Pandas III](https://git.generalassemb.ly/DSI-ATX-2/lesson-pandas-filtering), [Pandas III Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-pandas-music) | [Matplotlib](https://git.generalassemb.ly/DSI-ATX-2/lesson-matplotlib), [Matplotlib Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-matplotlib) | [Intro to Visualization](https://git.generalassemb.ly/DSI-ATX-2/lesson-visualization_intro), [Seaborn](https://git.generalassemb.ly/DSI-ATX-2/lesson-seaborn) | [Project 1](https://git.generalassemb.ly/DSI-ATX-2/project-01)
-**2:00pm <br> 5:00pm** | [Pandas II](https://git.generalassemb.ly/DSI-ATX-2/lesson-pandas-feature-engineering), [Pandas II Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-pandas-feature-engineering) | [Pandas IV](https://git.generalassemb.ly/DSI-ATX-2/lesson-pandas-combining) | Guest | Tableau | Project 1 Review  
+**9:00am <br> 9:45am** |  Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise
+**10:00am <br> 1:00pm** | Pandas I  | Pandas III | Matplotlip | Seaborn | Project 1
+**2:00pm <br> 5:00pm** | Pandas II | Pandas IV | Guest/Outcomes | Tableau | Project 1 Review  
 
 #### Week 3 - Foundations of Data Modeling
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
-**10:00am <br> 1:00pm** | [Linear Regression](https://git.generalassemb.ly/DSI-ATX-2/lesson-linear-regression), [Linear Regression Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-linear-regression) | [Multiple Linear Regression](https://git.generalassemb.ly/DSI-ATX-2/lesson-multiple-linear-regression), [Fast Food Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-regression-fast-food) | [Feature Scaling](https://git.generalassemb.ly/DSI-ATX-2/lesson-feature_scaling) | [Regularization](https://git.generalassemb.ly/DSI-ATX-2/lesson-regularization), [Regularization Lab](https://git.generalassemb.ly/DSI-ATX-2/course-info/edit/master/README.md) | [Project 2](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-**2:00pm <br> 5:00pm** | [Train/Test Splitting, KFold, Leave One Out](https://git.generalassemb.ly/DSI-ATX-2/lesson-splitting), [Splitting Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-splitting) | [Regression Metrics](https://git.generalassemb.ly/DSI-ATX-2/lesson-regression-metrics) | Guest | [GridSearchCV](https://git.generalassemb.ly/DSI-ATX-2/lesson-gridsearchcv) | Project 2 Review  
+**9:00am <br> 9:45am** | Morning Exercise | No Class (Independence Day) | Morning Exercise | Morning Exercise | Morning Exercise 
+**10:00am <br> 1:00pm** | Stats and Intro,  Linear Regression I | No Class (Independence Day) | Train/Test Split, KFold | Regularization | Project 2
+**2:00pm <br> 5:00pm** | Linear Regression II | No Class (Independence Day) | Guest/Outcomes | GridSearchCV | Project 2 Review  
 
 #### Week 4 - Classifiers
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
-**10:00am <br> 1:00pm** | [Logistic Regression](https://git.generalassemb.ly/DSI-ATX-2/lesson-logistic-regression) | [SVM](https://git.generalassemb.ly/DSI-ATX-2/lesson-svm), [SVM Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-svm) | [Introduction to HTML/CSS](https://git.generalassemb.ly/DSI-ATX-2/lesson-html) | Web Scraping I | Project 4
-**2:00pm <br> 5:00pm** | Classification Metrics |  KNN | Guest | Web Scraping II | Project 4 Review  
+**10:00am <br> 1:00pm** | Logistic Regression | SVM | HTML/CSS | Web Scraping I | Project 4
+**2:00pm <br> 5:00pm** | Classification Metrics |  KNN | Guest/Outcomes | Web Scraping II | Project 4 Review  
 
 #### Week 5 - Gathering, Collecting and Aquiring Data
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
-**10:00am <br> 1:00pm** | UX Project | [SQL 1](https://git.generalassemb.ly/DSI-ATX-2/lesson-sql-1) | [Pipelines](https://git.generalassemb.ly/DSI-ATX-2/lesson-pipelines) | NLP I | Project 5
-**2:00pm <br> 5:00pm** |[Introduction to Databases](https://git.generalassemb.ly/DSI-ATX-2/lesson-database-fundamentals/blob/master/database-fundamentals-types-of-databases.ipynb) |  SQL + Pandas II | Guest | NLP II | Project 5 Review  
+**10:00am <br> 1:00pm** | UX Project TBA | SQL + Pandas I | Pipelines | NLP I | Project 5
+**2:00pm <br> 5:00pm** | Introduction to Databases |  SQL + Pandas II | Guest/Outcomes | NLP II | Project 5 Review  
 
 #### Week 6 - Tree Classifiers
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
-**10:00am <br> 1:00pm** | [Object Oriented Python](https://git.generalassemb.ly/DSI-ATX-2/lesson-oop) | [Bagging](https://git.generalassemb.ly/DSI-ATX-2/lesson-ensembles-bagging) | Boosting | Recommendation Engine I | Project 6
-**2:00pm <br> 5:00pm** | CART | [Random Forests](https://git.generalassemb.ly/DSI-ATX-2/lesson-randomforest) | Field Trip | Recommendation Engine II | Project 6 Review   
+**10:00am <br> 1:00pm** | Object-Oriented Python | Bagging | Boosting | Recommendation Engine I | Project 6
+**2:00pm <br> 5:00pm** | CART | Random Forests | Field Trip | Tour TBA | Project 6 Review   
 
 #### Week 7 - Unsupervised Learning
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
-**10:00am <br> 1:00pm** | [Introduction to Clustering/ K-Means](https://git.generalassemb.ly/DSI-ATX-2/lesson-clustering-kmeans) | [Clustering Metrics](https://git.generalassemb.ly/DSI-ATX-2/lesson-clustering-metrics) ([Code](https://git.generalassemb.ly/DSI-ATX-2/lab-clustering-metrics)) | Project Time | [RegEx I](https://git.generalassemb.ly/DSI-ATX-2/lesson-regex-1) | LDA
-**2:00pm <br> 5:00pm** | [Hierarchical Clustering](https://git.generalassemb.ly/DSI-ATX-2/lesson-hierarchical-clustering) and [DBScan](https://git.generalassemb.ly/DSI-ATX-2/lesson-dbscan) | PCA | Guest | RegEx II | Project 7 Review  
+**10:00am <br> 1:00pm** | Introduction to Clustering/ K-Means | Clustering Metrics | LDA | RegEx | Project
+**2:00pm <br> 5:00pm** | DBSCAN | PCA | Guest/Outcomes | RegEx II | Project  
 
 #### Week 8 - Bayesian Inference
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
-**10:00am <br> 1:00pm** | JSON + APIs | [Introduction to Bayes](https://git.generalassemb.ly/DSI-ATX-2/lesson-bayes-rule) | LDA | [Naive Bayes](https://git.generalassemb.ly/DSI-ATX-2/lesson-naive-bayes) and [Insult Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-naive-bayes) | Project 8
-**2:00pm <br> 5:00pm** | [Model-Based Bayes](https://git.generalassemb.ly/DSI-ATX-2/lesson-bayes-modeling)|  A/B Testing | Guest | [MCMC](https://git.generalassemb.ly/DSI-ATX-2/lesson-mcmc) | Project 8 Review  
+**10:00am <br> 1:00pm** | JSON | Introduction to Bayes | A/B Testing | Naive Bayes | Project
+**2:00pm <br> 5:00pm** | JSON + APIs|  Model-Based Bayes | Guest/Outcomes | MCMC | Project 
 
 #### Week 9 - Time Series Analysis
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
-**10:00am <br> 1:00pm** | [Datetime Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-intro-timeseries) | ARIMA I | Capstone Project | Kaggle Project | Project 9
-**2:00pm <br> 5:00pm** | [Introduction to Time Series](https://git.generalassemb.ly/DSI-ATX-2/lesson-intro-timeseries) and [Autocorrelation](https://git.generalassemb.ly/DSI-ATX-2/lesson-timeseries-autocorrelation), [Time Series Code-Along](https://git.generalassemb.ly/DSI-ATX-2/lesson-intro-timeseries-codealong), [Time Series/Autocorrelation Lab](https://git.generalassemb.ly/DSI-ATX-2/lab-timeseries) |  ARIMA II | Guest | Kaggle Project | Project 9 Review  
+**10:00am <br> 1:00pm** | Introduction to Time Series | ARIMA I | Capstone Project | Capstone Project | Capstone Project
+**2:00pm <br> 5:00pm** | Autocorrelation |  ARIMA II | Guest/Outcomes | Capstone Project | Capstone Project 
 
 #### Week 10 - Big Data
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
-**10:00am <br> 1:00pm** | [Introduction to Big Data](https://git.generalassemb.ly/DSI-ATX-2/lesson-intro-big-data) | Hive | Flask | AWS I/EC2/S3 | Project 10
-**2:00pm <br> 5:00pm** | Spark |  Mr.Job | Guest | AWS II | Project 10 Review  
+**10:00am <br> 1:00pm** | Introduction to Big Data | Spark Dataframes | Regression | Pipelines | Project
+**2:00pm <br> 5:00pm** | EMR + Scala |  Classification | Guest/Outcomes | NLP | Project 
 
 #### Week 11 - Special Topics
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** | No Class (Memorial Day) | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
-**10:00am <br> 1:00pm** | No Class (Memorial Day) | Introduction to Neural Networks, Multiclass Classification in Keras | Neural Networks | Special Topics | Capstone
-**2:00pm <br> 5:00pm** | No Class (Memorial Day) | Binary Classification in Keras, Regression in Keras  | Guest | Special Topics | Capstone  
+**9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise 
+**10:00am <br> 1:00pm** | AWS I | Introduction to Neural Networks | Convolutional Neural Networks | LSTM | Capstone Project
+**2:00pm <br> 5:00pm** | AWS II | Keras  | Guest/Outcomes | Misc. Neural Networks | Capstone Project  
 
 #### Week 12 - Capstone
 
@@ -110,31 +110,30 @@ SCHEDULE TEMPLATE
 
 ## Administrative
 
-- [Pre-Work](https://docs.google.com/document/d/1u94VcFlFVHsBooTlWMc7uW6sL837ZfTsg-lhRimu5jQ/edit#heading=h.uelq79y3wpvb)
+- Pre-Work
 - [Graduation Requirements](graduation-requirements.md)
 - [Attendance](attendance.md)
 - [Homework Policy](homework-policy.md)
-- [Office Hours](office-hours.md)
+- Office Hours
 - [Asking for Help](asking-for-help.md)
 - [Expectations] (expectations.md)
 - [One-on-Ones] (one-on-ones.md)
-- [Squads] (squads.md)
 - [Resources] (resources.md)
 
 ## Important Dates
-  * **5/29** Memorial Day (No Class) 
+  * **6/4** Independence Day (No Class) 
 
 ## Communication
   - You have been invited to the following Slack teams:
     - [GA Immersive Students](https://ga-students.slack.com)
-      - [#dsi-atx-2](https://ga-students.slack.com/messages/dsi-atx-2/)
-  - For informal communication that doesn't need to be private, use the #dsi-atx-2 room
+      - [#dsi-atx-3](https://ga-students.slack.com/messages/dsi-atx-3/)
+  - For informal communication that doesn't need to be private, use the #dsi-atx-3 room
   - If you need to talk to the instructors privately, use the Slack rooms we're creating for you with each of the instructors in it. Please don't Slack or email the instructors individually as this creates information asymmetry.
   -Instructors: Riley Dallas @rldaggie, Nichole Bennett @nbennett
 
 ## Outcomes
 
-- [Outcomes Programming Syllabus](https://docs.google.com/document/d/19kRR5dM3JRba5Wq-GtG2Tr4VFU2e9qhHAOVrzKPB4Rg/edit)
+- Outcomes Programming Syllabus
 
 ## Slack Tips
 
