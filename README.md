@@ -17,8 +17,8 @@ SCHEDULE TEMPLATE
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise
-**10:00am <br> 1:00pm** | Icebreakers + Installfest | Git | Python I | Python II | Introduction to Stats
-**2:00pm <br> 5:00pm** | Command Line Interface II | GitHub | Guest/Outcomes | NumPy | Notebooks and CSVs 
+**10:00am <br> 1:00pm** | Icebreakers + Installfest | Git | [Python Datatypes, Lists, Dictionaries](https://git.generalassemb.ly/DSI-ATX-3/lesson-python-types_lists_dicts), [Iteration & Control Flow](https://git.generalassemb.ly/DSI-ATX-3/lesson-python-iteration-control-flow), [Functions](https://git.generalassemb.ly/DSI-ATX-3/lesson-python-functions), [Movies Lab](https://git.generalassemb.ly/DSI-ATX-3/lab-python-movies) | Python II | -----
+**2:00pm <br> 5:00pm** | [Command Line Interface Lesson](https://git.generalassemb.ly/DSI-ATX-3/lesson-command-line), [Lion King CLI](https://git.generalassemb.ly/DSI-ATX-3/lab-cli-lion-king), [CLI Golf](https://git.generalassemb.ly/DSI-ATX-3/lab-cli-golf)  | GitHub | Guest/Outcomes | NumPy | Notebooks and CSVs 
 
 #### Week 2 - Data Manipulation
 
