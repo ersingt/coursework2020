@@ -39,3 +39,15 @@ The structure of this repository provides the resources from lectures, homeworks
 You will need to clone this repository to your computer. We will update it as the class goes on and you can pull down the updates on the master branch.
 
 If you have any questions about the organization of resources or about the scope of our curriculum, feel free ask at anytime!
+
+### Expectations as Agreed Upon by DSI-ATX-3
+We would like to encourage community by eating together and perhaps having breakfasts, etc.
+No headphones on during lecture.
+Close laptops when guests or other students are presenting.
+Communicate via Slack if you are running late.
+Participate in classroom discussions.
+Movement around the room is totally allowed. If you need to stand during lecture, totally fine. 
+Stepping out for phone interviews is fine. Be sure to give guest presenters a heads up.
+The instructor will allow for both internal and external processing of information.
++/- 10 minutes late to class, and not to make a habit of it. 
+
