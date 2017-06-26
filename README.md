@@ -25,16 +25,16 @@ SCHEDULE TEMPLATE
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** |  Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise
-**10:00am <br> 1:00pm** | Pandas I  | Pandas III | Matplotlip | Seaborn | Project 1
+**10:00am <br> 1:00pm** | [Pandas I Lesson](https://git.generalassemb.ly/DSI-ATX-3/lesson-pandas-intro), [Lab](https://git.generalassemb.ly/DSI-ATX-3/lab-pandas-intro)  | Pandas III | Matplotlib | Seaborn | Project 1
 **2:00pm <br> 5:00pm** | Pandas II | Pandas IV | Guest/Outcomes | Tableau | Project 1 Review  
 
 #### Week 3 - Foundations of Data Modeling
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** | Morning Exercise | No Class (Independence Day) | Morning Exercise | Morning Exercise | Morning Exercise
-**10:00am <br> 1:00pm** | Stats and Intro,  Linear Regression I | No Class (Independence Day) | Train/Test Split, KFold | Regularization | Project 2
-**2:00pm <br> 5:00pm** | Linear Regression II | No Class (Independence Day) | Guest/Outcomes | GridSearchCV | Project 2 Review  
+**9:00am <br> 9:45am** | No Class (Independence Day) | No Class (Independence Day) | Morning Exercise | Morning Exercise | Morning Exercise
+**10:00am <br> 1:00pm** | No Class (Independence Day) | No Class (Independence Day) | Linear Regression I | Regularization | Project 2
+**2:00pm <br> 5:00pm** | No Class (Independence Day) | No Class (Independence Day) | Linear Regression II | Train, Test, Split, KFoldsGridSearchCV | Project 2 Review  
 
 #### Week 4 - Classifiers
 
