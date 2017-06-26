@@ -104,9 +104,9 @@ SCHEDULE TEMPLATE
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise
-**10:00am <br> 1:00pm** | Capstone | Capstone | Capstone | Capstone | Capstone
-**2:00pm <br> 5:00pm** | Capstone |  Capstone | Guest | Capstone | Capstone  
+**9:00am <br> 9:45am** | No Class (Labor Day)| Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise
+**10:00am <br> 1:00pm** | No Class (Labor Day) | Capstone | Capstone | Capstone | Capstone
+**2:00pm <br> 5:00pm** | No Class (Labor Day) |  Capstone | Guest | Capstone | Capstone  
 
 ## Administrative
 
