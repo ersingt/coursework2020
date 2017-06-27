@@ -24,7 +24,7 @@ SCHEDULE TEMPLATE
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** |  Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise
+**9:00am <br> 9:45am** |  [DNA to RNA Conversion](https://www.codewars.com/kata/dna-to-rna-conversion) | [Area of an Arrow](https://www.codewars.com/kata/area-of-an-arrow) | [Good vs Evil](https://www.codewars.com/kata/good-vs-evil/train/python) | [Dubstep](https://www.codewars.com/kata/dubstep/train/python) | [Temperature Analysis](https://www.codewars.com/kata/temperature-analysis-ii/train/python)
 **10:00am <br> 1:00pm** | [Pandas I Lesson](https://git.generalassemb.ly/DSI-ATX-3/lesson-pandas-intro), [Lab](https://git.generalassemb.ly/DSI-ATX-3/lab-pandas-intro)  | Pandas III | Matplotlib | Seaborn | Project 1
 **2:00pm <br> 5:00pm** | Pandas II | Pandas IV | Guest/Outcomes | Tableau | Project 1 Review  
 
