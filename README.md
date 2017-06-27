@@ -24,7 +24,7 @@ SCHEDULE TEMPLATE
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** |  [DNA to RNA Conversion](https://www.codewars.com/kata/dna-to-rna-conversion) | [Area of an Arrow](https://www.codewars.com/kata/area-of-an-arrow) | [Good vs Evil](https://www.codewars.com/kata/good-vs-evil/train/python) | [Dubstep](https://www.codewars.com/kata/dubstep/train/python) | [Temperature Analysis](https://www.codewars.com/kata/temperature-analysis-ii/train/python)
+**9:00am <br> 9:45am** |  [DNA to RNA Conversion](https://www.codewars.com/kata/dna-to-rna-conversion) | [Area of an Arrow](https://www.codewars.com/kata/area-of-an-arrow) | [Good vs Evil](https://www.codewars.com/kata/good-vs-evil/train/python) | [Dubstep](https://www.codewars.com/kata/dubstep/train/python) | Project 1 
 **10:00am <br> 1:00pm** | [Pandas I Lesson](https://git.generalassemb.ly/DSI-ATX-3/lesson-pandas-intro), [Lab](https://git.generalassemb.ly/DSI-ATX-3/lab-pandas-intro)  | Pandas III | Matplotlib | Seaborn | Project 1
 **2:00pm <br> 5:00pm** | Pandas II | Pandas IV | Guest/Outcomes | Tableau | Project 1 Review  
 
@@ -32,7 +32,7 @@ SCHEDULE TEMPLATE
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** | No Class (Independence Day) | No Class (Independence Day) | Morning Exercise | Morning Exercise | Morning Exercise
+**9:00am <br> 9:45am** | No Class (Independence Day) | No Class (Independence Day) | [Temperature Analysis](https://www.codewars.com/kata/temperature-analysis-ii/train/python) | Morning Exercise | Morning Exercise
 **10:00am <br> 1:00pm** | No Class (Independence Day) | No Class (Independence Day) | Linear Regression I | Regularization | Project 2
 **2:00pm <br> 5:00pm** | No Class (Independence Day) | No Class (Independence Day) | Linear Regression II | Train, Test, Split, KFoldsGridSearchCV | Project 2 Review  
 
