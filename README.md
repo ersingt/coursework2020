@@ -32,7 +32,7 @@ SCHEDULE TEMPLATE
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** | No Class (Independence Day) | No Class (Independence Day) | [Temperature Analysis](https://www.codewars.com/kata/temperature-analysis-ii/train/python) | Morning Exercise | Morning Exercise
+**9:00am <br> 9:45am** | No Class (Independence Day) | No Class (Independence Day) | [Temperature Analysis](https://www.codewars.com/kata/temperature-analysis-ii/train/python) | [Temperature Analysis](https://www.codewars.com/kata/breaking-chocolate-problem/train/python) | [Remove Anchor from URL](https://www.codewars.com/kata/remove-anchor-from-url/train/python)
 **10:00am <br> 1:00pm** | No Class (Independence Day) | No Class (Independence Day) | Linear Regression I | Regularization | Project 2
 **2:00pm <br> 5:00pm** | No Class (Independence Day) | No Class (Independence Day) | Linear Regression II | Train, Test, Split, KFoldsGridSearchCV | Project 2 Review  
 
