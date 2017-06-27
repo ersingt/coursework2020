@@ -26,7 +26,7 @@ SCHEDULE TEMPLATE
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** |  [DNA to RNA Conversion](https://www.codewars.com/kata/dna-to-rna-conversion) | [Area of an Arrow](https://www.codewars.com/kata/area-of-an-arrow) | [Good vs Evil](https://www.codewars.com/kata/good-vs-evil/train/python) | [Dubstep](https://www.codewars.com/kata/dubstep/train/python) | Project 1 
 **10:00am <br> 1:00pm** | [Pandas I Lesson](https://git.generalassemb.ly/DSI-ATX-3/lesson-pandas-intro), [Lab](https://git.generalassemb.ly/DSI-ATX-3/lab-pandas-intro)  | Pandas III | Matplotlib | Seaborn | Project 1
-**2:00pm <br> 5:00pm** | [Pandas II](https://git.generalassemb.ly/DSI-ATX-3/lesson-pandas-feature-engineering) | [Pandas IV](https://git.generalassemb.ly/DSI-ATX-3/lesson-pandas-feature-engineering) | Guest/Outcomes | Tableau | Project 1 Review  
+**2:00pm <br> 5:00pm** | [Pandas II](https://git.generalassemb.ly/DSI-ATX-3/lesson-pandas-feature-engineering) | [Pandas IV](https://git.generalassemb.ly/DSI-ATX-3/lesson-pandas-feature-engineering) | Guest/Outcomes | Stats | Project 1 Review  
 
 #### Week 3 - Foundations of Data Modeling
 
