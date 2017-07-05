@@ -40,7 +40,7 @@ SCHEDULE TEMPLATE
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise
+**9:00am <br> 9:45am** | Confidence Intervals and ANOVA | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise
 **10:00am <br> 1:00pm** | Logistic Regression | SVM | HTML/CSS | Web Scraping I | Project 4
 **2:00pm <br> 5:00pm** | Classification Metrics |  KNN | Guest/Outcomes | Web Scraping II | Project 4 Review  
 
@@ -48,7 +48,7 @@ SCHEDULE TEMPLATE
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise
+**9:00am <br> 9:45am** | Bootstrapping | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise
 **10:00am <br> 1:00pm** | UX Project TBA | SQL + Pandas I | Pipelines | NLP I | Project 5
 **2:00pm <br> 5:00pm** | Introduction to Databases |  SQL + Pandas II | Guest/Outcomes | NLP II | Project 5 Review  
 
@@ -72,7 +72,7 @@ SCHEDULE TEMPLATE
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise
+**9:00am <br> 9:45am** | Probability | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise
 **10:00am <br> 1:00pm** | JSON | Introduction to Bayes | A/B Testing | Naive Bayes | Project
 **2:00pm <br> 5:00pm** | JSON + APIs|  Model-Based Bayes | Guest/Outcomes | MCMC | Project
 
