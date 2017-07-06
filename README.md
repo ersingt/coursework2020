@@ -32,7 +32,7 @@ SCHEDULE TEMPLATE
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** | No Class (Independence Day) | No Class (Independence Day) | [Temperature Analysis](https://www.codewars.com/kata/temperature-analysis-ii/train/python) | [Temperature Analysis](https://www.codewars.com/kata/breaking-chocolate-problem/train/python) | [Remove Anchor from URL](https://www.codewars.com/kata/remove-anchor-from-url/train/python)
+**9:00am <br> 9:45am** | No Class (Independence Day) | No Class (Independence Day) | [Temperature Analysis](https://www.codewars.com/kata/temperature-analysis-ii/train/python) | [Breaking Chocolate](https://www.codewars.com/kata/breaking-chocolate-problem/train/python) | [Remove Anchor from URL](https://www.codewars.com/kata/remove-anchor-from-url/train/python)
 **10:00am <br> 1:00pm** | No Class (Independence Day) | No Class (Independence Day) | [Linear Regression](https://git.generalassemb.ly/DSI-ATX-3/lesson-linear-regression)  | [Regularization](https://git.generalassemb.ly/DSI-ATX-3/lesson-regularization) | Project 2
 **2:00pm <br> 5:00pm** | No Class (Independence Day) | No Class (Independence Day) | [Linear Regression Lab](https://git.generalassemb.ly/DSI-ATX-3/lab-linear-regression) | [Train, Test, Split, KFold, GridSearchCV](https://git.generalassemb.ly/DSI-ATX-3/lesson-gridsearchcv) | Project 2 Review  
 
