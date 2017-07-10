@@ -42,7 +42,7 @@ SCHEDULE TEMPLATE
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Morning Exercise | Confidence Intervals and ANOVA | Morning Exercise | Morning Exercise | Morning Exercise
 **10:00am <br> 1:00pm** | Logistic Regression | SVM | HTML/CSS | Web Scraping I | Project 4
-**2:00pm <br> 5:00pm** | Classification Metrics |  KNN | Guest/Outcomes | Web Scraping II | Project 4 Review  
+**2:00pm <br> 5:00pm** | [Classification Metrics](https://git.generalassemb.ly/DSI-ATX-3/lesson-classification-metrics) |  KNN | Guest/Outcomes | Web Scraping II | Project 4 Review  
 
 #### Week 5 - Gathering, Collecting and Aquiring Data
 
