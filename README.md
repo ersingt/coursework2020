@@ -40,7 +40,7 @@ SCHEDULE TEMPLATE
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** | Morning Exercise | Confidence Intervals and ANOVA | Morning Exercise | Morning Exercise | Morning Exercise
+**9:00am <br> 9:45am** | Morning Exercise | Confidence Intervals | Morning Exercise | Morning Exercise | Morning Exercise
 **10:00am <br> 1:00pm** | Logistic Regression | SVM | HTML/CSS | Web Scraping I | Project 4
 **2:00pm <br> 5:00pm** | [Classification Metrics](https://git.generalassemb.ly/DSI-ATX-3/lesson-classification-metrics) |  KNN | Guest/Outcomes | Web Scraping II | Project 4 Review  
 
@@ -48,7 +48,7 @@ SCHEDULE TEMPLATE
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** | Morning Exercise | Bootstrapping and Distributions| Morning Exercise | Morning Exercise | Morning Exercise
+**9:00am <br> 9:45am** | Morning Exercise | Bootstrapping| Morning Exercise | Morning Exercise | Morning Exercise
 **10:00am <br> 1:00pm** | UX Project TBA | SQL + Pandas I | Pipelines | NLP I | Project 5
 **2:00pm <br> 5:00pm** | Introduction to Databases |  SQL + Pandas II | Guest/Outcomes | NLP II | Project 5 Review  
 
@@ -56,7 +56,7 @@ SCHEDULE TEMPLATE
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** | Morning Exercise | Power Analysis | Morning Exercise | Morning Exercise | Morning Exercise
+**9:00am <br> 9:45am** | Morning Exercise | ANOVA | Morning Exercise | Morning Exercise | Morning Exercise
 **10:00am <br> 1:00pm** | Object-Oriented Python | Bagging | Boosting | Recommendation Engine I | Project 6
 **2:00pm <br> 5:00pm** | CART | Random Forests | Field Trip | Tour TBA | Project 6 Review   
 
@@ -64,7 +64,7 @@ SCHEDULE TEMPLATE
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** | Morning Exercis | Linear Algebra Review | Morning Exercise | Morning Exercise | Morning Exercise
+**9:00am <br> 9:45am** | Morning Exercise | Power Analysis | Morning Exercise | Morning Exercise | Morning Exercise
 **10:00am <br> 1:00pm** | Introduction to Clustering/ K-Means | Clustering Metrics | LDA | RegEx | Project
 **2:00pm <br> 5:00pm** | DBSCAN | PCA | Guest/Outcomes | RegEx II | Project  
 
@@ -72,7 +72,7 @@ SCHEDULE TEMPLATE
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** | Probability | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise
+**9:00am <br> 9:45am** | Morning Exercise | Probability and Distributions | Morning Exercise | Morning Exercise | Morning Exercise
 **10:00am <br> 1:00pm** | JSON | Introduction to Bayes | A/B Testing | Naive Bayes | Project
 **2:00pm <br> 5:00pm** | JSON + APIs|  Model-Based Bayes | Guest/Outcomes | MCMC | Project
 
