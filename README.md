@@ -40,8 +40,8 @@ SCHEDULE TEMPLATE
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** | Morning Exercise | Confidence Intervals | Morning Exercise | Morning Exercise | Morning Exercise
-**10:00am <br> 1:00pm** | Logistic Regression | SVM | HTML/CSS | Web Scraping I | Project 4
+**9:00am <br> 9:45am** | Morning Exercise | [Confidence Intervals](https://git.generalassemb.ly/DSI-ATX-3/morning-confidence-intervals) | Morning Exercise | Morning Exercise | Morning Exercise
+**10:00am <br> 1:00pm** | [Logistic Regression](https://git.generalassemb.ly/DSI-ATX-3/lesson-logistic-regression_, [Lab](https://git.generalassemb.ly/DSI-ATX-3/course-info) | [SVM](https://git.generalassemb.ly/DSI-ATX-3/lesson-svm) | HTML/CSS | Web Scraping I | Project 4
 **2:00pm <br> 5:00pm** | [Classification Metrics](https://git.generalassemb.ly/DSI-ATX-3/lesson-classification-metrics) |  KNN | Guest/Outcomes | Web Scraping II | Project 4 Review  
 
 #### Week 5 - Gathering, Collecting and Aquiring Data
