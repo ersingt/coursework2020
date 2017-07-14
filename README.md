@@ -49,7 +49,7 @@ SCHEDULE TEMPLATE
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise| Bootstrapping | Morning Exercise | Morning Exercise
-**10:00am <br> 1:00pm** | Introduction to Databases | SQL + Pandas II | | NLP I | | NLP II | Project
+**10:00am <br> 1:00pm** | Introduction to Databases | SQL + Pandas II | NLP I | NLP II | Project
 **2:00pm <br> 5:00pm** | SQLAlchemy, SQL + Pandas I |   Pipelines | Guest/Outcomes | LDA | Project Review  
 
 #### Week 6 - Tree Classifiers
