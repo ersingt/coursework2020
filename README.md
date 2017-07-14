@@ -33,32 +33,32 @@ SCHEDULE TEMPLATE
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | No Class (Independence Day) | No Class (Independence Day) | [Temperature Analysis](https://www.codewars.com/kata/temperature-analysis-ii/train/python) | [Breaking Chocolate](https://www.codewars.com/kata/breaking-chocolate-problem/train/python) | [Remove Anchor from URL](https://www.codewars.com/kata/remove-anchor-from-url/train/python)
-**10:00am <br> 1:00pm** | No Class (Independence Day) | No Class (Independence Day) | [Linear Regression](https://git.generalassemb.ly/DSI-ATX-3/lesson-linear-regression)  | [Regularization](https://git.generalassemb.ly/DSI-ATX-3/lesson-regularization) | Project 2
-**2:00pm <br> 5:00pm** | No Class (Independence Day) | No Class (Independence Day) | [Linear Regression Lab](https://git.generalassemb.ly/DSI-ATX-3/lab-linear-regression) | [Train, Test, Split, KFold, GridSearchCV](https://git.generalassemb.ly/DSI-ATX-3/lesson-gridsearchcv) | Project 2 Review  
+**10:00am <br> 1:00pm** | No Class (Independence Day) | No Class (Independence Day) | [Linear Regression](https://git.generalassemb.ly/DSI-ATX-3/lesson-linear-regression)  | [Regularization](https://git.generalassemb.ly/DSI-ATX-3/lesson-regularization) | Project
+**2:00pm <br> 5:00pm** | No Class (Independence Day) | No Class (Independence Day) | [Linear Regression Lab](https://git.generalassemb.ly/DSI-ATX-3/lab-linear-regression) | [Train, Test, Split, KFold, GridSearchCV](https://git.generalassemb.ly/DSI-ATX-3/lesson-gridsearchcv) | Project Review  
 
 #### Week 4 - Classifiers
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Morning Exercise | [Confidence Intervals](https://git.generalassemb.ly/DSI-ATX-3/morning-confidence-intervals) | Morning Exercise | Morning Exercise | Morning Exercise
-**10:00am <br> 1:00pm** | [Logistic Regression](https://git.generalassemb.ly/DSI-ATX-3/lesson-logistic-regression), [Lab](https://git.generalassemb.ly/DSI-ATX-3/course-info) | [SVM](https://git.generalassemb.ly/DSI-ATX-3/lesson-svm) | HTML/CSS, [Lab](https://git.generalassemb.ly/DSI-ATX-3/lab-html-css) | Web Scraping I | Project 4
-**2:00pm <br> 5:00pm** | [Classification Metrics](https://git.generalassemb.ly/DSI-ATX-3/lesson-classification-metrics) |  KNN | Guest/Outcomes | Web Scraping II | Project 4 Review  
+**10:00am <br> 1:00pm** | [Logistic Regression](https://git.generalassemb.ly/DSI-ATX-3/lesson-logistic-regression), [Lab](https://git.generalassemb.ly/DSI-ATX-3/course-info) | [SVM](https://git.generalassemb.ly/DSI-ATX-3/lesson-svm) | HTML/CSS, [Lab](https://git.generalassemb.ly/DSI-ATX-3/lab-html-css) | Web Scraping I | Project
+**2:00pm <br> 5:00pm** | [Classification Metrics](https://git.generalassemb.ly/DSI-ATX-3/lesson-classification-metrics) |  KNN | Guest/Outcomes | Web Scraping II | Project Review  
 
 #### Week 5 - Gathering, Collecting and Aquiring Data
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Morning Exercise | Bootstrapping| Morning Exercise | Morning Exercise | Morning Exercise
-**10:00am <br> 1:00pm** | UX Project TBA | SQL + Pandas I | Pipelines | NLP I | Project 5
-**2:00pm <br> 5:00pm** | Introduction to Databases |  SQL + Pandas II | Guest/Outcomes | NLP II | Project 5 Review  
+**10:00am <br> 1:00pm** | UX Project TBA | SQL + Pandas I | Pipelines | NLP I | Project
+**2:00pm <br> 5:00pm** | Introduction to Databases |  SQL + Pandas II | Guest/Outcomes | NLP II | Project Review  
 
 #### Week 6 - Tree Classifiers
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Morning Exercise | ANOVA | Morning Exercise | Morning Exercise | Morning Exercise
-**10:00am <br> 1:00pm** | Object-Oriented Python | Bagging | Boosting | Recommendation Engine I | Project 6
-**2:00pm <br> 5:00pm** | CART | Random Forests | Field Trip | Tour TBA | Project 6 Review   
+**10:00am <br> 1:00pm** | Object-Oriented Python | Bagging | Boosting | Recommendation Engine I | Project
+**2:00pm <br> 5:00pm** | CART | Random Forests | Field Trip | Tour TBA | Project Review   
 
 #### Week 7 - Unsupervised Learning
 
