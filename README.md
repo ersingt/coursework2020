@@ -48,7 +48,7 @@ SCHEDULE TEMPLATE
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** | Morning Exercise | Morning Exercise| Bootstrapping | Morning Exercise | Morning Exercise
+**9:00am <br> 9:45am** | [Morning Exercise](http://bit.ly/28TBz3l) | [Morning Exercise](https://www.codewars.com/kata/tribonacci-sequence/train/python) | Bootstrapping | [Morning Exercise](https://www.codewars.com/kata/sql-basics-simple-join/train/sql) | Morning Exercise
 **10:00am <br> 1:00pm** | [Introduction to Databases](https://git.generalassemb.ly/DSI-ATX-3/lesson-intro-databases/blob/master/database-fundamentals-types-of-databases.ipynb) | SQL + Pandas II | NLP I | NLP II | Project
 **2:00pm <br> 5:00pm** | [SQL + Pandas I](https://git.generalassemb.ly/DSI-ATX-3/lesson-connect-to-databases/blob/master/solution-code/intro-to-sql-connecting-to-databases-solutions.ipynb) | Pipelines | Guest/Outcomes | LDA | Project Review  
 
