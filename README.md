@@ -50,7 +50,7 @@ SCHEDULE TEMPLATE
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | [Morning Exercise](http://bit.ly/28TBz3l) | [Morning Exercise](https://www.codewars.com/kata/tribonacci-sequence/train/python) | [Bootstrapping](https://git.generalassemb.ly/DSI-ATX-3/morning-bootstrapping) | [Morning Exercise](https://www.codewars.com/kata/sql-basics-simple-join/train/sql) | Morning Exercise
 **10:00am <br> 1:00pm** | [Introduction to Databases](https://git.generalassemb.ly/DSI-ATX-3/lesson-intro-databases/blob/master/database-fundamentals-types-of-databases.ipynb) | SQL + Pandas II | NLP I | NLP II | Project
-**2:00pm <br> 5:00pm** | [SQL + Pandas I](https://git.generalassemb.ly/DSI-ATX-3/lesson-connect-to-databases/blob/master/solution-code/intro-to-sql-connecting-to-databases-solutions.ipynb) | [Pipelines](https://git.generalassemb.ly/DSI-ATX-3/lesson-pipelines) | Guest/Outcomes | LDA | Project Review  
+**2:00pm <br> 5:00pm** | [SQL + Pandas I](https://git.generalassemb.ly/DSI-ATX-3/lesson-connect-to-databases/blob/master/solution-code/intro-to-sql-connecting-to-databases-solutions.ipynb) | [Pipelines](https://git.generalassemb.ly/DSI-ATX-3/lesson-pipelines) | Guest/Outcomes | [LDA](https://git.generalassemb.ly/DSI-ATX-3/lesson-lda-topic-modeling) | Project Review  
 
 #### Week 6 - Tree Classifiers
 
