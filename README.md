@@ -57,7 +57,7 @@ SCHEDULE TEMPLATE
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Morning Exercise: [1](https://www.khanacademy.org/computing/computer-science/informationtheory/moderninfotheory/v/information-entropy), [2](https://www.codewars.com/kata/sql-basics-simple-group-by/train/sql) |[Morning Exercise](https://www.codewars.com/kata/sql-basics-simple-join-with-count/train/sql) | [Morning Exercise](https://www.codewars.com/kata/sql-basics-simple-having/train/sql)  | Morning Exercise | Morning Exercise
-**10:00am <br> 1:00pm** | [Object-Oriented Python](https://git.generalassemb.ly/DSI-ATX-3/lesson-oop) | [Bagging](https://git.generalassemb.ly/DSI-ATX-3/lesson-ensembles-bagging) | [Boosting](https://git.generalassemb.ly/DSI-ATX-3/lesson-boosting) | Recommendation Engine I | Project
+**10:00am <br> 1:00pm** | [Object-Oriented Python](https://git.generalassemb.ly/DSI-ATX-3/lesson-oop) | [Bagging](https://git.generalassemb.ly/DSI-ATX-3/lesson-ensembles-bagging) | [Boosting](https://git.generalassemb.ly/DSI-ATX-3/lesson-boosting) | [Recommendation Engine](https://git.generalassemb.ly/DSI-ATX-3/lesson-reccomender) | Project
 **2:00pm <br> 5:00pm** | [CART](https://git.generalassemb.ly/DSI-ATX-3/lesson-trees-CARTs) | [Random Forests](https://git.generalassemb.ly/DSI-ATX-3/lesson-randomforest) | Field Trip | TBA | Project Review   
 
 #### Week 7 - Unsupervised Learning
