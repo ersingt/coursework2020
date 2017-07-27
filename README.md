@@ -81,7 +81,7 @@ SCHEDULE TEMPLATE
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise
-**10:00am <br> 1:00pm** | Introduction to Time Series | ARIMA I | Capstone Project | Capstone Project | Capstone Project
+**10:00am <br> 1:00pm** | Introduction to Time Series | ARIMA I | Capstone Project/ Communicating With Data | Capstone Project | Capstone Project
 **2:00pm <br> 5:00pm** | Autocorrelation |  ARIMA II | Guest/Outcomes | Capstone Project | Capstone Project
 
 #### Week 10 - Big Data
