@@ -64,9 +64,9 @@ SCHEDULE TEMPLATE
 
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
-**9:00am <br> 9:45am** | Morning Exercise | ANOVA/Power Analysis | Morning Exercise | Morning Exercise | Morning Exercise
-**10:00am <br> 1:00pm** | Introduction to Clustering/ K-Means | Clustering Metrics | LDA | RegEx | Project
-**2:00pm <br> 5:00pm** | DBSCAN | PCA | Guest/Outcomes | RegEx II | Project  
+**9:00am <br> 9:45am** | Morning Exercise | Power Analysis | Morning Exercise | Morning Exercise | Morning Exercise
+**10:00am <br> 1:00pm** | [Introduction to Clustering/ K-Means](https://git.generalassemb.ly/DSI-ATX-3/lesson-clustering-kmeans), [Lab](https://git.generalassemb.ly/DSI-ATX-3/lab-kmeans-clustering) | [Clustering Metrics](https://git.generalassemb.ly/DSI-ATX-3/lesson-cluster-evaluation-metrics), [Lab](https://git.generalassemb.ly/DSI-ATX-3/lab-cluster-evaluation-metrics), [Battle of the Clusterers](https://git.generalassemb.ly/DSI-ATX-3/lab-battle-of-the-clusterers)  | LDA | [RegEx](https://git.generalassemb.ly/DSI-ATX-3/lesson-regex-1) | Project
+**2:00pm <br> 5:00pm** | [Hierarchical Clustering](https://git.generalassemb.ly/DSI-ATX-3/lesson-hierarchical-clustering), [DBSCAN](https://git.generalassemb.ly/DSI-ATX-3/lesson-dbscan), [Lab](https://git.generalassemb.ly/DSI-ATX-3/lab-dbscan) | PCA | Guest/Outcomes | RegEx II | Project  
 
 #### Week 8 - Bayesian Inference
 
