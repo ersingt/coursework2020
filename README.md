@@ -74,7 +74,7 @@ SCHEDULE TEMPLATE
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise
 **10:00am <br> 1:00pm** | JSON | Introduction to Bayes | A/B Testing | Naive Bayes | Project
-**2:00pm <br> 5:00pm** | JSON + APIs|  Model-Based Bayes | Guest/Outcomes | MCMC | Project
+**2:00pm <br> 5:00pm** | [JSON + APIs](https://git.generalassemb.ly/DSI-ATX-3/lab-api) |  Model-Based Bayes | Guest/Outcomes | MCMC | Project
 
 #### Week 9 - Time Series Analysis
 
