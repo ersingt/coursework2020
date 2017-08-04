@@ -73,8 +73,8 @@ SCHEDULE TEMPLATE
  Time | Day 1 |  Day 2 | Day 3| Day 4 | Day 5|
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise
-**10:00am <br> 1:00pm** | [JSON](https://git.generalassemb.ly/DSI-ATX-3/lesson-api) | Introduction to Bayes | MCMC/Pymc | Naive Bayes | Project
-**2:00pm <br> 5:00pm** | [JSON + APIs](https://git.generalassemb.ly/DSI-ATX-3/lab-api) |  Model-Based Bayes | Guest/Outcomes | A/B Testing | Project
+**10:00am <br> 1:00pm** | [JSON](https://git.generalassemb.ly/DSI-ATX-3/lesson-api) | [Introduction to Bayesian Statistics](https://git.generalassemb.ly/DSI-ATX-3/lesson-intro-bayesian-stats) | [MCMC](https://git.generalassemb.ly/DSI-ATX-3/lesson-bayes-mcmc), [Pymc](https://git.generalassemb.ly/DSI-ATX-3/lesson-bayes-pymc3), [Lab](https://git.generalassemb.ly/DSI-ATX-3/lab-bayes-pymc3) | [Naive Bayes](https://git.generalassemb.ly/DSI-ATX-3/lesson-naive-bayes), [Lab](https://git.generalassemb.ly/DSI-ATX-3/lab-naive-bayes-spam) | Project
+**2:00pm <br> 5:00pm** | [JSON + APIs](https://git.generalassemb.ly/DSI-ATX-3/lab-api) |  [Model-Based Bayes](https://git.generalassemb.ly/DSI-ATX-3/lesson-bayes-conjugacy-beta-binomial), [Lab](https://git.generalassemb.ly/DSI-ATX-3/lab-bayes-priors-posteriors-baseball) | Guest/Outcomes | [A/B Testing](https://git.generalassemb.ly/DSI-ATX-3/lesson-bayes-ab-testing) | Project
 
 #### Week 9 - Time Series Analysis
 
