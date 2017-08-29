@@ -98,7 +98,7 @@ SCHEDULE TEMPLATE
 ----- | ----- | ------ | ---- | ----- | ---- |
 **9:00am <br> 9:45am** | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise | Morning Exercise
 **10:00am <br> 1:00pm** | Cancelled | [Introduction to Neural Networks/Keras](https://git.generalassemb.ly/DSI-ATX-3/lesson-intro-neural-networks/) | Guest | Convolutional Neural Networks | Capstone Project
-**2:00pm <br> 5:00pm** | Cancelled | AWS, Jupyter, Keras  | Keras/Outcomes | LSTM | Capstone Project  
+**2:00pm <br> 5:00pm** | Cancelled | AWS, Jupyter, Keras  | [Keras Regression Lab](https://git.generalassemb.ly/DSI-ATX-3/lab-keras-regression) | LSTM | Capstone Project  
 
 #### Week 12 - Capstone
 
