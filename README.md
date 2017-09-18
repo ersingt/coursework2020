@@ -4,28 +4,28 @@
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
-| Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
-| Afternoon | Lab     | Lab     | Lab     | Lab     | Project |
+| Morning   | Intros | Git, GitHub | Python I | Python II | Stats + NumPy  |
+| Afternoon | Terminal     | Lab     | Lab     | Lab     | Project |
 
 #### Week 2 - Data Manipulation
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
-| Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
+| Morning   | Pandas I | Pandas II | Matplotlib, Seaborn | Central Limit Theorem, Confidence  Intervals | Review  |
 | Afternoon | Lab     | Lab     | Lab     | Lab     | Project |
 
 #### Week 3 - Foundations of Data Modeling
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
-| Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
-| Afternoon | Lab     | Lab     | Lab     | Lab     | Project |
+| Morning   | Columbus Day, No Class | SQL I | SQL II | Hypothesis Testing, Power Analysis | Review  |
+| Afternoon | Columbus Day, No Class  | Lab     | Lab     | Lab     | Project |
 
 #### Week 4 - Classifiers
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
-| Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
+| Morning   | Linear Regression | Cross Validation | Train/Test Split, Preprocessing | Regularization (Lasso, Ridge, ElasticNets) | Review  |
 | Afternoon | Lab     | Lab     | Lab     | Lab     | Project |
 
 #### Week 5 - Gathering, Collecting and Aquiring Data
