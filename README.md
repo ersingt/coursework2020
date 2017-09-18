@@ -7,7 +7,7 @@
 | Morning   | Intros | Git, GitHub | Intro to Python | Python Enumeration (Mapping and Filtering) | Stats + NumPy  |
 | Afternoon | Terminal     | Lab     | Lab     | Lab     | Project |
 
-#### Week 2 - Data Manipulation
+#### Week 2 -Exploratory Data Analysis
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
@@ -21,14 +21,14 @@
 | Morning   | Columbus Day, No Class | SQL I | SQL II | Hypothesis Testing, Power Analysis | Review  |
 | Afternoon | Columbus Day, No Class  | Lab     | Lab     | Lab     | Project |
 
-#### Week 4 - Classifiers
+#### Week 4 - Regression
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Linear Regression | Cross Validation | Train/Test Split, Preprocessing | Regularization (Lasso, Ridge, ElasticNets) | Review  |
 | Afternoon | Lab     | Lab     | Lab     | Lab     | Project |
 
-#### Week 5 - Gathering, Collecting and Aquiring Data
+#### Week 5 - Classification
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
