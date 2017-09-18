@@ -4,7 +4,7 @@
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
-| Morning   | Intros | Git, GitHub | Python I | Python II | Stats + NumPy  |
+| Morning   | Intros | Git, GitHub | Intro to Python | Python Enumeration (Mapping and Filtering) | Stats + NumPy  |
 | Afternoon | Terminal     | Lab     | Lab     | Lab     | Project |
 
 #### Week 2 - Data Manipulation
