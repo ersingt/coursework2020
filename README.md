@@ -5,7 +5,7 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Intros | Git, GitHub | Intro to Python | Python Enumeration (Mapping and Filtering) | Stats + NumPy  |
-| Afternoon | Terminal     | Lab     | Lab     | Lab     | Project |
+| Afternoon | Terminal     | Lab     | Lab     | [Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-python-enumeration)     | Project |
 
 #### Week 2 -Exploratory Data Analysis
 
