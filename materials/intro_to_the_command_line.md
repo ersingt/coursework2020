@@ -54,9 +54,22 @@ When we talk about the position of a file or a folder in a file system, we refer
 
 **Directory** is an important term that's used interchangeably with **folder**. Though they are not exactly the same thing, when we say "navigate to your project directory" think of this as "navigate to your project folder".
 
+##### Important Directory Locations
+
+- `/` -- this is known as the root directory. It is the top most level of your computer and it contains all of your files. If you were on a Windows machine, this would be equivalent to `C:/`
+    - _Note_: If you **are** on a Windows machine, GitBash still uses the typical Unix notation, so your root directory will also be `/`
+    - _Note_: If you begin any directory that you are looking for with `/`, it will try to find that folder _directly in your root directory_ -- try to avoid this unless you know that it is there!
+- Home -- Where this folder lives will ultimately depend on whether you are on OS X, Linux, or Windows, but you should consider this your default folder. 
+    - _Note_: `~` is a handy shortcut for this
+    - _Note_: Typing `cd` with no destination afterwards will move you to your home folder
+- `.` -- this is a shortcut for the **current folder that you are in**
+- `..` -- this is a shortcut for the **folder above your current one**
+
+If I were at `/Users/richardharris`, what folder would I be looking at if I were looking at the `.` folder? What about the `..` folder?
+
 ##### What is an absolute path?
 
-An absolute path is defined as the specific location of a file or folder from the root directory, typically shown as `/`. The root directory is the starting point from which all other folders are defined and is not normally the same as your **Home** directory, which is normally found at `/Users/[Your Username]`.
+An absolute path is defined as the specific location of a file or folder from the root directory, typically shown as `/`. 
 
 ##### Working with unix commands and file paths
 
@@ -94,7 +107,6 @@ At any time, we can also use the absolute path, by adding a slash to the beginni
 
 **Check:**  What is the difference between an absolute path and a relative path?
 
-
 #### Navigating using the command prompt
 
 The tilde `~` character is an alias to your home directory. Use it to quickly return home.
@@ -121,8 +133,7 @@ The `ls` command lists files and directories in the current folder.
 ls
 ```
 
-It can also be used to list files located in any directory. For example to list
-your applications you can type:
+It can also be used to list files located in any directory. For example to list your applications you can type:
 ```bash
 ls /Applications
 ```
@@ -136,6 +147,8 @@ To create a new file.
 ```bash
 touch file1
 ```
+
+##### Warning -- Destructive Commands Ahead!
 
 To remove a file.
 ```bash
@@ -230,7 +243,7 @@ tail /etc/passwd
 
 The wonderful `grep` command will search within files and traverse within subdirectories.
 
-**Find all files with the word "the" inside.**
+**Find all files containing the word "the"**
 ```
 grep -r "the" *
 ```
@@ -273,8 +286,65 @@ Here's some optional (but highly recommended) reading about pipe and I/O redirec
 * [I/O redirection](http://linuxcommand.org/lts0060.php)
 * [Good examples of piping commands together](http://unix.stackexchange.com/questions/30759/whats-a-good-example-of-piping-commands-together)
 
+## Moving Files
+
+The command line offers two different ways to move files around back and forth!
+
+#### Copy a file using `cp`
+
+```bash
+cp path/to/file path/to/destination
+```
+
+Use `cp` to take a file at the location in the first argument and make a copy of it at the second argument. The file will now exist in both places!
+
+#### Move a file using `mv`
+
+```bash
+mv path/to/file path/to/destination
+```
+
+Use `mv` to take a file at the location in the first argument and **move** it to the second argument. The file now only exists in one place (the second argument!)
+
+_Note_: This is also how you rename files on the command line! If I wanted to rename `readme.md` to `readthis.md`, I would do the following:
+
+```bash
+mv readme.md readthis.md
+```
+
+#### I'm stuck!
+
+Here are some tips for getting through the command line:
+
+1. If the CLI doesn't seem to be responding to your input, try pressing `Ctrl+c` (control and c together) -- that will stop anything actively running on the command line 
+2. Especially starting out, make liberal use of `pwd` and `ls` -- the quicker that you can build a map in your head of your system, the more skillfully you'll be able to navigate it!
+3. Be very careful about using `rm` 
+4. Don't type everything out! Type as much as you need to and use `<tab>` to autocomplete. If you hit tab and nothing comes up, hit tab twice in rapid succession and it will show you all the possibilities it could autocomplete at that point. Type until you've uniquely identified the file or folder you're pointing at and then use tab.
+
 ## Independent Practice: Try it Out! 
-Try out the **mkdir**, **touch**, **cd**, **pwd**, **rm**, and **ls** commands on your own. If you want, try out using the wildcard command.
+
+(Some exercises taken from [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial))
+
+1. Starting in your home directory, execute commands to make a directory `foo`, change into it, create a file `bar` containing the string `baz`, print out `bar`’s contents, and then change directory back to the directory you came from. 
+2. Delete the `foo` directory and try the previous step, but this time write it so that it executes it all in one line. 
+  - _Hint_: You may need to google the `&&` symbol on the command line to make this work. Get used to googling things that you do not know yet! It is the best tool we data scientists have.
+3. Without deleting the `foo` directory, what happens when you run the previous command again? How many of the commands executed? Why?
+4. With a partner in the room, work together on each person's machine to show examples of the following commands. Note that some of these commands we have not discussed / these commands may not be on your machines currently! Again, making use of Google is the best thing you can do.
+  - `mkdir`
+  - `touch`
+  - `echo`
+  - `cd`
+  - `pwd`
+  - `ls`
+  - `rm` **Do not run this unless you know what you are doing!**
+  - `cp`
+  - `mv`
+  - `sleep`
+  - `man`
+  - `grep`
+  - `open`
+  - `cat`
+  - `cowsay`
 
 ## Conclusion
 Today we learned about the CLI commands mkdir, touch, cd, pwd, and ls. We also discussed absolute and relative paths.
