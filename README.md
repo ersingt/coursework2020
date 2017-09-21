@@ -27,7 +27,7 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Columbus Day, No Class | SQL I | SQL II | Hypothesis Testing, Power Analysis | Review  |
-| Afternoon | Columbus Day, No Class  | Lab     | Lab     | [Outcomes:Finding Your Voice and Defining your Brand](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week03)     | Project |
+| Afternoon | Columbus Day, No Class  | Lab     | Lab     | [Outcomes: Finding Your Voice and Defining your Brand](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week03)     | Project |
 
 #### Week 4 - Regression
 
@@ -55,7 +55,7 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
-| Afternoon | Lab     | Lab     | Lab     | Lab     | Project |
+| Afternoon | Lab     | Lab     | Lab     | Outcomes: Defining Your Non-Negotiables and Negotiating like a Boss    | Project |
 
 #### Week 8 - Bayesian Inference
 
