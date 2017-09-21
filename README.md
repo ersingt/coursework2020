@@ -8,7 +8,7 @@
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
-| Morning   | Intros | Git, GitHub | Intro to Python | [Python Enumeration (Mapping and Filtering)](https://git.generalassemb.ly/DSI-EAST-1/lesson-python-enumeration) | Stats + NumPy  |
+| Morning   | Intros | [Intro to Git](./materials/intro_to_git.md) | Intro to Python | [Python Enumeration (Mapping and Filtering)](https://git.generalassemb.ly/DSI-EAST-1/lesson-python-enumeration) | Stats + NumPy  |
 | Afternoon | [Intro to the Command Line](./materials/intro_to_the_command_line.md)     | Lab     | Lab     | [Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-python-enumeration)     | Project |
 
 #### Week 2 -Exploratory Data Analysis
