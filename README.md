@@ -13,21 +13,21 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Intros | [Intro to Git](./materials/intro_to_git.md) | Intro to Python | [Python Enumeration (Mapping and Filtering)](https://git.generalassemb.ly/DSI-EAST-1/lesson-python-enumeration) | Stats + NumPy  |
-| Afternoon | [Intro to the Command Line](./materials/intro_to_the_command_line.md)     | Lab     | Lab     | [Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-python-enumeration)     | Project |
+| Afternoon | [Intro to the Command Line](./materials/intro_to_the_command_line.md)     | Lab     | Lab     | [Intro to Outcomes + Alumni Panel](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week01/readme.md)     | Project |
 
 #### Week 2 -Exploratory Data Analysis
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Pandas I | Pandas II | Matplotlib, Seaborn | Central Limit Theorem, Confidence  Intervals | Review  |
-| Afternoon | Lab     | Lab     | Lab     | Lab     | Project |
+| Afternoon | Lab     | Lab     | Lab     | [Outcomes:      | Project |
 
 #### Week 3 - Foundations of Data Modeling
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Columbus Day, No Class | SQL I | SQL II | Hypothesis Testing, Power Analysis | Review  |
-| Afternoon | Columbus Day, No Class  | Lab     | Lab     | Lab     | Project |
+| Afternoon | Columbus Day, No Class  | Lab     | Lab     | [Outcomes:Finding Your Voice and Defining your Brand](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week03)     | Project |
 
 #### Week 4 - Regression
 
