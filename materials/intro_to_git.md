@@ -2,7 +2,7 @@
 
 #### What is Git?
 
-![](../images/git_2x.png)
+![](./images/git_2x.png)
 
 (with apologies to [xkcd.com](https://xkcd.com))
 
