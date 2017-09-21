@@ -4,6 +4,10 @@
 
 *Lesson recordings:* [https://www.youtube.com/playlist?list=PLDKt9D1xqbPadAkUC_O-kKYQ90mQjA0Al](https://www.youtube.com/playlist?list=PLDKt9D1xqbPadAkUC_O-kKYQ90mQjA0Al)
 
+---
+
+**Projects:** [Click here](./projects.md)
+
 #### Week 1 - Getting Started: Python for Data Science
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
