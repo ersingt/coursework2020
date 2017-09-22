@@ -20,7 +20,7 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Pandas I | Pandas II | Matplotlib, Seaborn | Central Limit Theorem, Confidence  Intervals | Review  |
-| Afternoon | Lab     | Lab     | Lab     | [Outcomes: Job Search Techniques and the Local Landscape](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week%2022.md)   | Project |
+| Afternoon | Lab     | Lab     | Lab and Project 1 Due | [Outcomes: Job Search Techniques and the Local Landscape](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week%2022.md)   | Project |
 
 #### Week 3 - Foundations of Data Modeling
 
@@ -35,7 +35,7 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Linear Regression | Cross Validation | Train/Test Split, Preprocessing | Regularization (Lasso, Ridge, ElasticNets) | Review  |
-| Afternoon | Lab     | Lab     | Lab     | [Outcomes: Studio Tour](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week05)     | Project |
+| Afternoon | Lab     | Lab     | Lab and Project 2 Due | [Outcomes: Studio Tour](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week05)     | Project |
 | HW        |[Outcomes HW due at 7 pm: Draft Brand Statement](https://git.generalassemb.ly/DSI-EAST-1/draft-brand-statement/tree/master)
 
 #### Week 5 - Classification
@@ -43,14 +43,14 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
-| Afternoon | Lab     | Lab     | Lab     | [Outcomes: Preparing for the Interview](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week07)    | Project |
+| Afternoon | Lab     | Lab     | Lab and Capstone 1 Due | [Outcomes: Preparing for the Interview](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week07)    | Project |
 
 #### Week 6 - Tree Classifiers
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
-| Afternoon | Lab     | Lab     | Lab     | [Outcomes: Winning Resume Package](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week04)     | Project |
+| Afternoon | Lab     | Lab     | Lab and Project 3 Due | [Outcomes: Winning Resume Package](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week04)     | Project |
 
 #### Week 7 - Unsupervised Learning
 
@@ -64,21 +64,21 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
-| Afternoon | Lab     | Lab     | Lab     | Lab     | Project |
+| Afternoon | Lab     | Lab     | Lab and Capstone Part 2 Due | Lab     | Project |
 
 #### Week 9 - Time Series Analysis
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
-| Afternoon | Lab     | Lab     | Lab     | Lab     | Project |
+| Afternoon | Lab     | Lab     | Lab and Project 4 Due | Lab     | Project |
 
 #### Week 10 - Big Data
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
-| Afternoon | Lab     | Lab     | Lab     | Lab     | Project |
+| Afternoon | Lab     | Lab     | Lab and Capstone 3 Due | Lab     | Project |
 
 #### Week 11 - Special Topics
 
@@ -93,3 +93,12 @@
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
 | Afternoon | Lab     | Lab     | Lab     | Lab     | Project |
+
+#### Week 13 - Capstone
+
+|           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
+|-----------|---------|---------|---------|---------|---------|
+| Morning   | Lecture | Lecture | Capstone 5 Due |  |  |
+| Afternoon | Capstone 4 Due     | Lab     |  |  |  |
+
+
