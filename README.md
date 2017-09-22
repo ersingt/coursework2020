@@ -29,12 +29,14 @@
 | Morning   | Columbus Day, No Class | SQL I | SQL II | Hypothesis Testing, Power Analysis | Review  |
 | Afternoon | Columbus Day, No Class  | Lab     | Lab     | [Outcomes: Finding Your Voice and Defining your Brand](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week03)     | Project |
 
+
 #### Week 4 - Regression
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Linear Regression | Cross Validation | Train/Test Split, Preprocessing | Regularization (Lasso, Ridge, ElasticNets) | Review  |
 | Afternoon | Lab     | Lab     | Lab     | [Outcomes: Studio Tour](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week05)     | Project |
+| HW        |[Outcomes HW due at 7 pm: Draft Brand Statement](https://git.generalassemb.ly/DSI-EAST-1/draft-brand-statement/tree/master)
 
 #### Week 5 - Classification
 
