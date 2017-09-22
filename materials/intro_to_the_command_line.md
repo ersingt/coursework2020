@@ -345,6 +345,7 @@ Here are some tips for getting through the command line:
   - `open`
   - `cat`
   - `cowsay`
+5. **Mini-lab**: Challenge yourself to get through the [Lion King CLI Lab](./lion_king.md)!
 
 ## Conclusion
 Today we learned about the CLI commands mkdir, touch, cd, pwd, and ls. We also discussed absolute and relative paths.
