@@ -21,6 +21,7 @@
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Pandas I | Pandas II | Matplotlib, Seaborn | Central Limit Theorem, Confidence  Intervals | Review  |
 | Afternoon | Lab     | Lab     | Lab and [Project 1](./projects/project_1) Due | [Outcomes: Job Search Techniques and the Local Landscape](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week%2022.md)   | Project |
+|          | [Outcomes HW due at 7 pm: Vision and Goals Worksheet](https://git.generalassemb.ly/DSI-EAST-1/vision-goals/tree/master)
 
 #### Week 3 - Foundations of Data Modeling
 
