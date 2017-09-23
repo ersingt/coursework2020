@@ -29,6 +29,7 @@
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Columbus Day, No Class | SQL I | SQL II | Hypothesis Testing, Power Analysis | Review  |
 | Afternoon | Columbus Day, No Class  | Lab     | Lab     | [Outcomes: Finding Your Voice and Defining your Brand](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week03)     | Project |
+|           | [Outcomes HW due at 7 pm: What's my Brand Worksheet](https://docs.google.com/forms/d/e/1FAIpQLSc9PPBX7vEuNaHHfgWy9JwKGFTAiogpKN917wKmgcnKEGWA8w/viewform)
 
 
 #### Week 4 - Regression
@@ -46,12 +47,14 @@
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
 | Afternoon | Lab     | Lab     | Lab and [Capstone 1](./projects/capstone/part_01.md) Due | [Outcomes: Preparing for the Interview](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week07)    | Project |
 
+
 #### Week 6 - Tree Classifiers
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
 | Afternoon | Lab     | Lab     | Lab and [Project 3](./projects/project_3) Due | [Outcomes: Winning Resume Package](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week04)     | Project |
+|           | [Outcomes HW due at 7 pm: Draft Resume](/https://git.generalassemb.ly/DSI-EAST-1/draft-resume) 
 
 #### Week 7 - Unsupervised Learning
 
