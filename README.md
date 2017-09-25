@@ -30,7 +30,7 @@
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Columbus Day, No Class | SQL I | SQL II | Hypothesis Testing, Power Analysis | Review  |
 | Afternoon | Columbus Day, No Class  | Lab     | Lab     | [Outcomes: Finding Your Voice and Defining your Brand](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week03)     | Project |
-|           | [Outcomes HW due at 7 pm: What's my Brand Worksheet](https://docs.google.com/forms/d/e/1FAIpQLSc9PPBX7vEuNaHHfgWy9JwKGFTAiogpKN917wKmgcnKEGWA8w/viewform)
+|           | [Outcomes HW due at 7 pm: What's my Brand Worksheet](https://git.generalassemb.ly/DSI-EAST-1/brand-worksheet/blob/master/README.md)
 
 
 #### Week 4 - Regression
