@@ -12,8 +12,9 @@
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
-| Morning   | Intros | [Intro to Git](./materials/intro_to_git.md) | Intro to Python | [Python Enumeration (Mapping and Filtering)](https://git.generalassemb.ly/DSI-EAST-1/lesson-python-enumeration) | Stats + NumPy  |
-| Afternoon | [Intro to the Command Line](./materials/intro_to_the_command_line.md)     | [Intro to Git Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-git)     | Lab     | [Outcomes: Intro to Outcomes + Alumni Panel](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week01/readme.md)     | Project |
+| Morning   | Intros | [Intro to Git](./materials/intro_to_git.md) | [Intro to Python](https://git.generalassemb.ly/DSI-EAST-1/lesson-python) | [Python Enumeration (Mapping and Filtering)](https://git.generalassemb.ly/DSI-EAST-1/lesson-python-enumeration) | Stats + NumPy  |
+| Afternoon | [Intro to the Command Line](./materials/intro_to_the_command_line.md)     | [Intro to Git Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-git)     | [FizzBuzz](https://git.generalassemb.ly/DSI-EAST-1/lab-fizzbuzz)     | [Python Enumeration Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-python-enumeration)     | Project |
+| Outcomes |    |     |    | [Outcomes: Intro to Outcomes + Alumni Panel](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week01/readme.md)     |  |
 
 #### Week 2 -Exploratory Data Analysis
 
@@ -54,7 +55,7 @@
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
 | Afternoon | Lab     | Lab     | Lab and [Project 3](./projects/project_3) Due | [Outcomes: Winning Resume Package](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week04)     | Project |
-|           | [Outcomes HW due at 7 pm: Draft Resume](/https://git.generalassemb.ly/DSI-EAST-1/draft-resume) 
+|           | [Outcomes HW due at 7 pm: Draft Resume](/https://git.generalassemb.ly/DSI-EAST-1/draft-resume)
 
 #### Week 7 - Unsupervised Learning
 
@@ -104,5 +105,3 @@
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | [Capstone Part 5](./projects/capstone/part_05.md) Due |  |  |
 | Afternoon | [Capstone Part 4](./projects/capstone/part_04.md) Due     | Lab     |  |  |  |
-
-
