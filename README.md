@@ -21,16 +21,16 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Pandas I | Pandas II | Matplotlib, Seaborn | Central Limit Theorem, Confidence  Intervals | Review  |
-| Afternoon | Lab     | Lab     | Lab and [Project 1](./projects/project_1) Due | [Outcomes: Job Search Techniques and the Local Landscape](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week%2022.md)   | Project |
-|          | [Outcomes HW due at 7 pm: Vision and Goals Worksheet](https://git.generalassemb.ly/DSI-EAST-1/vision-goals/tree/master)
+| Afternoon | Lab     | Lab     | Lab and [Project 1](./projects/project_1) Due | Lab  | Project |
+| Outcomes  | [Outcomes HW due at 7 pm: Vision and Goals Worksheet](https://git.generalassemb.ly/DSI-EAST-1/vision-goals/tree/master)    |     |    | [Outcomes: Job Search Techniques and the Local Landscape](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week%2022.md)
 
 #### Week 3 - Foundations of Data Modeling
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Columbus Day, No Class | SQL I | SQL II | Hypothesis Testing, Power Analysis | Review  |
-| Afternoon | Columbus Day, No Class  | Lab     | Lab     | [Outcomes: Finding Your Voice and Defining your Brand](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week03)     | Project |
-|           | [Outcomes HW due at 7 pm: What's my Brand Worksheet](https://git.generalassemb.ly/DSI-EAST-1/brand-worksheet/blob/master/README.md)
+| Afternoon | Columbus Day, No Class  | Lab     | Lab     |  Lab    | Project | Lab 
+| Outcomes  | [Outcomes HW due at 7 pm: What's my Brand Worksheet](https://git.generalassemb.ly/DSI-EAST-1/brand-worksheet/blob/master/README.md)    |     |    | [Outcomes: Finding Your Voice and Defining your Brand](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week03)
 
 
 #### Week 4 - Regression
@@ -38,8 +38,8 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Linear Regression | Cross Validation | Train/Test Split, Preprocessing | Regularization (Lasso, Ridge, ElasticNets) | Review  |
-| Afternoon | Lab     | Lab     | Lab and [Project 2](./projects/project_2) Due | [Outcomes: Studio Tour](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week05)     | Project |
-| HW        |[Outcomes HW due at 7 pm: Draft Brand Statement](https://git.generalassemb.ly/DSI-EAST-1/draft-brand-statement/tree/master)
+| Afternoon | Lab     | Lab     | Lab and [Project 2](./projects/project_2) Due | Lab  | Project |
+| Outcomes  |[Outcomes HW due at 7 pm: Draft Brand Statement](https://git.generalassemb.ly/DSI-EAST-1/draft-brand-statement/tree/master)    |     |    | [Outcomes: Studio Tour](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week05)      |  |   
 
 #### Week 5 - Classification
 
@@ -54,8 +54,8 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
-| Afternoon | Lab     | Lab     | Lab and [Project 3](./projects/project_3) Due | [Outcomes: Winning Resume Package](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week04)     | Project |
-|           | [Outcomes HW due at 7 pm: Draft Resume](/https://git.generalassemb.ly/DSI-EAST-1/draft-resume)
+| Afternoon | Lab     | Lab     | Lab and [Project 3](./projects/project_3) Due | Lab | Project | Lab
+| Outcomes  | [Outcomes HW due at 7 pm: Draft Resume](/https://git.generalassemb.ly/DSI-EAST-1/draft-resume)    |     |    |[Outcomes: Winning Resume Package](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week04)      |  |        
 
 #### Week 7 - Unsupervised Learning
 
