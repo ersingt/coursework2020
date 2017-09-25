@@ -46,7 +46,8 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
-| Afternoon | Lab     | Lab     | Lab and [Capstone 1](./projects/capstone/part_01.md) Due | [Outcomes: Preparing for the Interview](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week07)    | Project |
+| Afternoon | Lab     | Lab     | Lab and [Capstone 1](./projects/capstone/part_01.md) Due | Lab   | Project |
+| Outcomes  |[Outcomes HW due at 7 pm: Find 3 Networking events](https://git.generalassemb.ly/DSI-EAST-1/meetups/tree/master)    |     |    | [Outcomes: Preparing for the Interview](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week07)       |  |  
 
 
 #### Week 6 - Tree Classifiers
