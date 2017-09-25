@@ -13,7 +13,7 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Intros | [Intro to Git](./materials/intro_to_git.md) | [Intro to Python](https://git.generalassemb.ly/DSI-EAST-1/lesson-python) | [Python Enumeration (Mapping and Filtering)](https://git.generalassemb.ly/DSI-EAST-1/lesson-python-enumeration) | Stats + NumPy  |
-| Afternoon | [Intro to the Command Line](./materials/intro_to_the_command_line.md)     | [Intro to Git Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-git)     | [FizzBuzz](https://git.generalassemb.ly/DSI-EAST-1/lab-fizzbuzz)     | [Outcomes: Intro to Outcomes + Alumni Panel](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week01/readme.md)     | Project |
+| Afternoon | [Intro to the Command Line](./materials/intro_to_the_command_line.md)     | [Intro to Git Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-git)     | [FizzBuzz](https://git.generalassemb.ly/DSI-EAST-1/lab-fizzbuzz)     | [Python Enumeration Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-python-enumeration)     | Project |
 | Outcomes |    |     |    | [Outcomes: Intro to Outcomes + Alumni Panel](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week01/readme.md)     |  |
 
 #### Week 2 -Exploratory Data Analysis
