@@ -63,7 +63,8 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
-| Afternoon | Lab     | Lab     | Lab     | Outcomes: Defining Your Non-Negotiables and Negotiating like a Boss    | Project |
+| Afternoon | Lab     | Lab     | Lab     | Lab    | Project |
+| Outcomes  | Outcomes HW due at 7 pm    |     |    | [Outcomes: Defining Your Non-Negotiables and Negotiating like a Boss](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week88.md)      |  |  
 
 #### Week 8 - Bayesian Inference
 
@@ -71,6 +72,7 @@
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
 | Afternoon | Lab     | Lab     | Lab and [Capstone Part 2](./projects/capstone/part_02.md) Due | Lab     | Project |
+| Outcomes  | Outcomes HW due at 7 pm    |     |    |[Outcomes: GA Profiles + Portfolios](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week08)      |  |  
 
 #### Week 9 - Time Series Analysis
 
@@ -78,6 +80,7 @@
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
 | Afternoon | Lab     | Lab     | Lab and [Project 4](./projects/project_4) Due | Lab     | Project |
+| Outcomes  | Outcomes HW due at 7 pm    |     |    | Thanksgiving      |  |  
 
 #### Week 10 - Big Data
 
@@ -85,6 +88,7 @@
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
 | Afternoon | Lab     | Lab     | Lab and [Capstone Part 3](./projects/capstone/part_03.md) Due | Lab     | Project |
+| Outcomes  | Outcomes HW due at 7 pm    |     |    |[Outcomes: Hiring Panel](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week10)      |  |  
 
 #### Week 11 - Special Topics
 
@@ -92,6 +96,7 @@
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
 | Afternoon | Lab     | Lab     | Lab     | Lab     | Project |
+| Outcomes  | Outcomes HW due at 7 pm    |     |    |[Outcomes: Catch your Breadth and Regroup](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week09)       |  |  
 
 #### Week 12 - Capstone
 
@@ -99,6 +104,7 @@
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
 | Afternoon | Lab     | Lab     | Lab     | Lab     | Project |
+| Outcomes  | Outcomes HW due at 7 pm    |     |    |[Outcomes: Cracking the Technical Interivew](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week11/DSI/readme.md)       |  |  
 
 #### Week 13 - Capstone
 
@@ -106,3 +112,4 @@
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | [Capstone Part 5](./projects/capstone/part_05.md) Due |  |  |
 | Afternoon | [Capstone Part 4](./projects/capstone/part_04.md) Due     | Lab     |  |  |  |
+
