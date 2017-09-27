@@ -13,7 +13,7 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Intros | [Intro to Git](./materials/intro_to_git.md) | [Intro to Python](https://git.generalassemb.ly/DSI-EAST-1/lesson-python) | [Python Enumeration (Mapping and Filtering)](https://git.generalassemb.ly/DSI-EAST-1/lesson-python-enumeration) | Stats + NumPy  |
-| Afternoon | [Intro to the Command Line](./materials/intro_to_the_command_line.md)     | [Intro to Git Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-git)     | [FizzBuzz](https://git.generalassemb.ly/DSI-EAST-1/lab-fizzbuzz)     | [Python Enumeration Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-python-enumeration)     | Project |
+| Afternoon | [Intro to the Command Line](./materials/intro_to_the_command_line.md)     | [Intro to Git Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-git)     | [FizzBuzz](https://git.generalassemb.ly/DSI-EAST-1/lab-fizzbuzz), [Functions](https://git.generalassemb.ly/DSI-EAST-1/lab-python-functions), [Lists and Dictionaries](https://git.generalassemb.ly/DSI-EAST-1/lab-python-lists-dicts)     | [Python Enumeration Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-python-enumeration)     | Project |
 | Outcomes |    |     |    | [Outcomes: Intro to Outcomes + Alumni Panel](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week01/readme.md)     |  |
 
 #### Week 2 -Exploratory Data Analysis
@@ -21,16 +21,16 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Pandas I | Pandas II | Matplotlib, Seaborn | Central Limit Theorem, Confidence  Intervals | Review  |
-| Afternoon | Lab     | Lab     | Lab and [Project 1](./projects/project_1) Due | [Outcomes: Job Search Techniques and the Local Landscape](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week%2022.md)   | Project |
-|          | [Outcomes HW due at 7 pm: Vision and Goals Worksheet](https://git.generalassemb.ly/DSI-EAST-1/vision-goals/tree/master)
+| Afternoon | Lab     | Lab     | Lab and [Project 1](./projects/project_1) Due | Lab  | Project |
+| Outcomes  | [Outcomes HW due at 7 pm: Vision and Goals Worksheet](https://git.generalassemb.ly/DSI-EAST-1/vision-goals/tree/master)    |     |    | [Outcomes: Job Search Techniques and the Local Landscape](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week%2022.md)
 
 #### Week 3 - Foundations of Data Modeling
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Columbus Day, No Class | SQL I | SQL II | Hypothesis Testing, Power Analysis | Review  |
-| Afternoon | Columbus Day, No Class  | Lab     | Lab     | [Outcomes: Finding Your Voice and Defining your Brand](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week03)     | Project |
-|           | [Outcomes HW due at 7 pm: What's my Brand Worksheet](https://docs.google.com/forms/d/e/1FAIpQLSc9PPBX7vEuNaHHfgWy9JwKGFTAiogpKN917wKmgcnKEGWA8w/viewform)
+| Afternoon | Columbus Day, No Class  | Lab     | Lab     |  Lab    | Project | Lab 
+| Outcomes  | [Outcomes HW due at 7 pm: What's my Brand Worksheet](https://git.generalassemb.ly/DSI-EAST-1/brand-worksheet/blob/master/README.md)    |     |    | [Outcomes: Finding Your Voice and Defining your Brand](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week03)
 
 
 #### Week 4 - Regression
@@ -38,15 +38,16 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Linear Regression | Cross Validation | Train/Test Split, Preprocessing | Regularization (Lasso, Ridge, ElasticNets) | Review  |
-| Afternoon | Lab     | Lab     | Lab and [Project 2](./projects/project_2) Due | [Outcomes: Studio Tour](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week05)     | Project |
-| HW        |[Outcomes HW due at 7 pm: Draft Brand Statement](https://git.generalassemb.ly/DSI-EAST-1/draft-brand-statement/tree/master)
+| Afternoon | Lab     | Lab     | Lab and [Project 2](./projects/project_2) Due | Lab  | Project |
+| Outcomes  |[Outcomes HW due at 7 pm: Draft Brand Statement](https://git.generalassemb.ly/DSI-EAST-1/draft-brand-statement/tree/master)    |     |    | [Outcomes: Studio Tour](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week05)      |  |   
 
 #### Week 5 - Classification
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
-| Afternoon | Lab     | Lab     | Lab and [Capstone 1](./projects/capstone/part_01.md) Due | [Outcomes: Preparing for the Interview](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week07)    | Project |
+| Afternoon | Lab     | Lab     | Lab and [Capstone 1](./projects/capstone/part_01.md) Due | Lab   | Project |
+| Outcomes  |[Outcomes HW due at 7 pm: Find 3 Networking events](https://git.generalassemb.ly/DSI-EAST-1/meetups/tree/master)    |     |    | [Outcomes: Preparing for the Interview](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week07)       |  |  
 
 
 #### Week 6 - Tree Classifiers
@@ -54,8 +55,8 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
-| Afternoon | Lab     | Lab     | Lab and [Project 3](./projects/project_3) Due | [Outcomes: Winning Resume Package](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week04)     | Project |
-|           | [Outcomes HW due at 7 pm: Draft Resume](/https://git.generalassemb.ly/DSI-EAST-1/draft-resume)
+| Afternoon | Lab     | Lab     | Lab and [Project 3](./projects/project_3) Due | Lab | Project | Lab
+| Outcomes  | [Outcomes HW due at 7 pm: Draft Resume](/https://git.generalassemb.ly/DSI-EAST-1/draft-resume)    |     |    |[Outcomes: Winning Resume Package](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week04)      |  |        
 
 #### Week 7 - Unsupervised Learning
 
