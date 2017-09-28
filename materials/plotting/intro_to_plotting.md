@@ -28,4 +28,38 @@ Typically, we're going to choose between one of several types of plots when tryi
 | Line | 2 | Shows changes in one value versus another | Easily show trends over some value | Requires meaningfully sorted data |
 | Scatter | 2 | Compares pairwise relationships | Intuitive visualization | Scale and density affect quality |
 
+## Checklist for Good Plots
 
+- [ ] Include Title
+- [ ] Include x-axis and y-axis label
+- [ ] Appropriate Type of Plot
+- [ ] If there is color, it is used appropriately
+  - [ ] Not too many colors (to avoid confusion)
+  - [ ] Colorblind readers taken into account
+- [ ] When necessary, include a legend
+- [ ] Data is shown as accurately / truthfully as possible
+- [ ] Chart tells *one* story 
+- [ ] *One* set of axes
+- [ ] Information per ink ratio is maximized (Tufte)
+
+## Examples of Bad Plots
+
+![](./images/badplot_1.png)
+
+![](./images/badplot_2.png)
+
+![](./images/badplot_3.png)
+
+![](./images/badplot_4.png)
+
+![](./images/badplot_5.jpg)
+
+![](./images/badplot_6.jpg)
+
+![](./images/badplot_7.jpg)
+
+![](./images/badplot_8.jpg)
+
+![](./images/badplot_9.jpg)
+
+![](./images/badplot_10.jpg)
