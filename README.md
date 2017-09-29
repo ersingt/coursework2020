@@ -4,6 +4,8 @@
 
 *Lesson recordings:* [https://www.youtube.com/playlist?list=PLDKt9D1xqbPadAkUC_O-kKYQ90mQjA0Al](https://www.youtube.com/playlist?list=PLDKt9D1xqbPadAkUC_O-kKYQ90mQjA0Al)
 
+*Link to Justin's notebooks:* [https://1drv.ms/u/s!AhFKW80cknnIfUE5gb0vgeMAgMA](https://1drv.ms/u/s!AhFKW80cknnIfUE5gb0vgeMAgMA)
+
 ---
 
 **Projects:** [Click here](./projects.md)
