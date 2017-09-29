@@ -45,17 +45,20 @@ Your project should demonstrate your ability to do the following:
 
 ### Project Feedback + Evaluation
 
-_(Note: precise grading rubric, scoring metric and feedback mechanism are subject to change at the instructors' discretion.)_
-
-For all projects, students will be evaluated on a simple 3 point scale (0, 1, or 2). Instructors will use this rubric when scoring student performance on each of the core project **requirements**:
-
+Projects will be evaluated across several cateogires.  For each category, students will receive a score on a scale of 0-4.
    
 Score | Expectations
 ----- | ------------
 **0** | _Does not meet expectations. Try again._
-**1** | _Meets expectations. Good job._
+**1** | _Approaching expectations. Getting there..._
+**2** | _Meets expecations. Great job._
 **2** | _Surpasses expectations. Brilliant!_
 
+For project 1 the evaluation categories are as follows:
 
+- **Organization**:	Clearly commented, annotated and sectioned Jupyter notebook or Python script.  Comments and annotations add clarity, explanation and intent to the work.  Notebook is well-structured with title, author and sections. Assumptions are stated and justified.
+- **Data Structures**:	Python data structures including lists, dictionaries and imported structures (e.g. DataFrames), are created and used correctly.  The appropriate data structures are used in context.  Data structures are created and accessed using appropriate mechanisms such as comprehensions, slices, filters and copies.
+- **Python Syntax and Control Flow**:	Python code is written correctly and follows standard style guidelines and best practices.  There are no runtime errors.  The code is expressive while being reasonably concise.
+- **Probability and Statistics**: 	Descriptive and inferential statistics are calculated and applied where appropriate.  Probabilistic reasoning is demonstrated.  There is a clear understanding of how probability and statistics affects the analysis being performed.
 
 [For more information on how we grade our DSI projects, see our project grading walkthrough.](./grading.md)
