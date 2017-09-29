@@ -21,7 +21,7 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Pandas I | [Feature Engineering](https://git.generalassemb.ly/DSI-EAST-1/lesson-pandas-feature-engineering), [Combining DataFrames](https://git.generalassemb.ly/DSI-EAST-1/lesson-pandas-combining) | Matplotlib, Seaborn | Central Limit Theorem, Confidence  Intervals | Review  |
-| Afternoon | Lab     | Lab     | Lab and [Project 1](./projects/project_1) Due | Lab  | Project |
+| Afternoon | Lab     | [Feature Engineering](https://git.generalassemb.ly/DSI-EAST-1/lab-pandas-feature-engineering), [Merging DataFrames](https://git.generalassemb.ly/DSI-EAST-1/lab-pandas-merge), [Concatenating DataFrames](https://git.generalassemb.ly/DSI-EAST-1/lab-pandas-concat)     | Lab and [Project 1](./projects/project_1) Due | Lab  | Project |
 | Outcomes  | [Outcomes HW due at 7 pm: Vision and Goals Worksheet](https://git.generalassemb.ly/DSI-EAST-1/vision-goals/tree/master)    |     |    | [Outcomes: Job Search Techniques and the Local Landscape](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week%2022.md)
 
 #### Week 3 - Foundations of Data Modeling
