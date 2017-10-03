@@ -205,4 +205,87 @@ An alternative to ACID is BASE and is typically associated with NoSQL databases.
 
 Main concept: get rid of locks, allow everyone to write, worry about consistency later.
 
+## Connecting to and Using Databases
+
+A database can be local or remote, it can span a single machine or it can be distributed with replicated data over several machines. The latter configuration is called sharding.
+
+Let's start by using a type of relational database known as SQLite to practice basic SQL commands.
+
+### SQLite
+
+SQLite is a database software package built on the Structured Query Language (SQL). It is similar to other SQL databases, such as PostgreSQL, MySQL, Oracle, and Microsoft SQL Server, except that it is file-based, rather than server-based. This makes it easy to setup and use for small projects, but less suitable for production environments. Once you are familiar with sqlite, the same ideas, and similar syntax, can be applied to other SQL databases.
+
+SQLite is bundled with most Python distributions (including Anaconda) but to make things easier, we'll use an online version [https://sqliteonline.com/](https://sqliteonline.com/) instead.
+
+## Common SQL Command Patterns
+
+The SQL command set has a rich syntax with numerous options, but most of the commonly used commands follow a few simple patterns. A basic familiarity of these patterns is helpful when working in SQL:
+
+```sql
+CREATE TABLE ...
+ALTER TABLE ... ADD COLUMN ...
+INSERT INTO ... VALUES ...
+UPDATE ... SET ... WHERE ...
+SELECT ... FROM ... WHERE ...
+SELECT ... FROM ... JOIN ... ON ...
+DELETE FROM ... WHERE ...
+```
+
+### Creating tables and adding columns
+
+Create an table called table1 with a single column field1 containing an INTEGER PRIMARY KEY:
+
+```sql
+CREATE TABLE table1 (field1 INTEGER PRIMARY KEY);
+```
+
+Add a few more columns to table1:
+
+```sql
+ALTER TABLE table1 ADD COLUMN field2 VARCHAR(16);
+ALTER TABLE table1 ADD COLUMN field3 REAL;
+ALTER TABLE table1 ADD COLUMN field4 TEXT;
+```
+
+Notice the different field types in the ALTER TABLE commands. SQLite supports several different field types, including INTEGERS, variable length VARCHAR character fields (with a max length), TEXT fields, and 'REALS', which are used to store floating point numbers.
+
+> Note this is unlike Python, where we _do not have to establish a type for variables first_ -- whether or not your language is **typed** or not can be a very big distinction when comparing languages!
+
+### Adding data
+
+Let's add some data:
+
+```sql
+INSERT INTO table1 VALUES (1, 'Henry James', 42, '75 Mission Street, San Francisco, CA');
+INSERT INTO table1 VALUES (2, 'Carol James', 40, '75 Mission Street, San Francisco, CA');
+INSERT INTO table1 VALUES (3, 'Jesse James', 12, '75 Mission Street, San Francisco, CA');
+```
+
+Notice that the first column has unique values - this is a requirement for the PRIMARY KEY column. If we try to add a record using an existing PK value we'll get an error:
+
+```sql
+INSERT INTO table1 VALUES (3, 'Julie James', 10, '75 Mission Street, San Francisco, CA');
+```
+
+Fortunately, SQLite has some built in functionality to auto-increment the PK value - just set the value of the PK field to NULL when doing the INSERT and it will automatically be set to a valid value.
+
+```sql
+INSERT INTO table1 VALUES (NULL, 'Julie James', 10, '75 Mission Street, San Francisco, CA');
+```
+
+### Updating records
+
+Suppose we need to update an existing record with new data - e.g. maybe Julie James is only 9. For this we use the UPDATE command:
+
+```sql
+UPDATE table1 SET field3=9 WHERE field1=4;
+```
+
+### Removing records
+
+To remove records use the DELETE command:
+
+```sql
+DELETE FROM table1 WHERE field2 like '%Jesse%';
+```
 
