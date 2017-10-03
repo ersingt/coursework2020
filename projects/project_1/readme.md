@@ -45,14 +45,14 @@ Your project should demonstrate your ability to do the following:
 
 ### Project Feedback + Evaluation
 
-Projects will be evaluated across several cateogires.  For each category, students will receive a score on a scale of 0-4.
+Projects will be evaluated across several cateogires.  For each category, students will receive a score on a scale of 0-3.
    
 Score | Expectations
 ----- | ------------
 **0** | _Does not meet expectations. Try again._
 **1** | _Approaching expectations. Getting there..._
 **2** | _Meets expecations. Great job._
-**2** | _Surpasses expectations. Brilliant!_
+**3** | _Surpasses expectations. Brilliant!_
 
 For project 1 the evaluation categories are as follows:
 
