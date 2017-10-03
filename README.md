@@ -4,6 +4,8 @@
 
 *Lesson recordings:* [https://www.youtube.com/playlist?list=PLDKt9D1xqbPadAkUC_O-kKYQ90mQjA0Al](https://www.youtube.com/playlist?list=PLDKt9D1xqbPadAkUC_O-kKYQ90mQjA0Al)
 
+*Link to Justin's notebooks:* [https://1drv.ms/u/s!AhFKW80cknnIfUE5gb0vgeMAgMA](https://1drv.ms/u/s!AhFKW80cknnIfUE5gb0vgeMAgMA)
+
 ---
 
 **Projects:** [Click here](./projects.md)
@@ -20,8 +22,8 @@
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
-| Morning   | Pandas I | Pandas II | Matplotlib, Seaborn | Central Limit Theorem, Confidence  Intervals | Review  |
-| Afternoon | Lab     | Lab     | Lab and [Project 1](./projects/project_1) Due | Lab  | Project |
+| Morning   | [Intro to Pandas](https://git.generalassemb.ly/DSI-EAST-1/lesson-pandas-intro) | [Feature Engineering](https://git.generalassemb.ly/DSI-EAST-1/lesson-pandas-feature-engineering), [Combining DataFrames](https://git.generalassemb.ly/DSI-EAST-1/lesson-pandas-combining) | [Plotting](./materials/plotting/intro_to_plotting.md) | Central Limit Theorem, Confidence  Intervals | Review  |
+| Afternoon | [Pandas Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-pandas-intro)     | [Feature Engineering](https://git.generalassemb.ly/DSI-EAST-1/lab-pandas-feature-engineering), [Merging](https://git.generalassemb.ly/DSI-EAST-1/lab-pandas-merge), [Concatenating](https://git.generalassemb.ly/DSI-EAST-1/lab-pandas-concat)     | [Plotting Lab](https://git.generalassemb.ly/DSI-EAST-1/intro_to_plotting_lab) and [Project 1](./projects/project_1) Due | Lab  | Project |
 | Outcomes  | [Outcomes HW due at 7 pm: Vision and Goals Worksheet](https://git.generalassemb.ly/DSI-EAST-1/vision-goals/tree/master)    |     |    | [Outcomes: Job Search Techniques and the Local Landscape](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week%2022.md)
 
 #### Week 3 - Foundations of Data Modeling
