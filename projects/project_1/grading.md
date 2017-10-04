@@ -75,12 +75,11 @@ Instructors should apply the rubric to a student's performance on each requireme
 
 _(Note: precise grading rubric, scoring metric and feedback mechanism are subject to change at the instructors' discretion.)_
 
-For all projects, requirements should be evaluated on a simple 3 point scale (0, 1, or 2). 
+For all projects, requirements should be evaluated on a simple 4 point scale (0, 1, 2 or 3). 
 
 Score | Expectations
-:--- | :---
+:----- | :------------
 **0** | _Does not meet expectations. Try again._
-**1** | _Meets expectations. Good job._
-**2** | _Surpasses expectations. Brilliant!_
-
-
+**1** | _Approaching expectations. Getting there..._
+**2** | _Meets expecations. Great job._
+**3** | _Surpasses expectations. Brilliant!_
