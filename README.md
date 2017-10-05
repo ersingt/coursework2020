@@ -32,7 +32,7 @@
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Columbus Day, No Class | SQL I | SQL II | Hypothesis Testing, Power Analysis | Review  |
 | Afternoon | Columbus Day, No Class  | Lab     | Lab     |  Lab    | Project | Lab 
-| Outcomes  | [Outcomes HW due at 7 pm: What's my Brand Worksheet](https://git.generalassemb.ly/DSI-EAST-1/brand-worksheet/blob/master/README.md)    |     |    | [Outcomes: Finding Your Voice and Defining your Brand](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week03)
+| Outcomes  |     |  [Outcomes HW due at 7 pm: What's my Brand Worksheet](https://git.generalassemb.ly/DSI-EAST-1/brand-worksheet/blob/master/README.md)   |    | [Outcomes: Finding Your Voice and Defining your Brand](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week03)
 
 
 #### Week 4 - Regression
@@ -58,7 +58,7 @@
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
 | Afternoon | Lab     | Lab     | Lab and [Project 3](./projects/project_3) Due | Lab | Project | Lab
-| Outcomes  | [Outcomes HW due at 7 pm: Draft Resume](/https://git.generalassemb.ly/DSI-EAST-1/draft-resume)    |     |    |[Outcomes: Winning Resume Package](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week04)      |  |        
+| Outcomes  | [Outcomes HW due at 7 pm: Draft Resume](https://git.generalassemb.ly/DSI-EAST-1/draft-resume)    |     |    |[Outcomes: Winning Resume Package](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week04)      |  |        
 
 #### Week 7 - Unsupervised Learning
 
