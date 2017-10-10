@@ -30,8 +30,8 @@
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
-| Morning   | Columbus Day, No Class | SQL I | SQL II | Hypothesis Testing, Power Analysis | Review  |
-| Afternoon | Columbus Day, No Class  | Lab     | Lab     |  Lab    | Project | Lab 
+| Morning   | Columbus Day, No Class | [SQL I](https://git.generalassemb.ly/DSI-EAST-1/lab-sql-1) | [SQL II](https://git.generalassemb.ly/DSI-EAST-1/lab-sql-2) | Hypothesis Testing, Power Analysis | Review  |
+| Afternoon | Columbus Day, No Class  | [Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-sql-1)     | [Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-sql-2)     |  Lab    | Project | Lab 
 | Outcomes  |     |  [Outcomes HW due at 7 pm: What's my Brand Worksheet](https://git.generalassemb.ly/DSI-EAST-1/brand-worksheet/blob/master/README.md)   |    | [Outcomes: Finding Your Voice and Defining your Brand](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week03)
 
 
