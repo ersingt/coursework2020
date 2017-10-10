@@ -40,7 +40,7 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Linear Regression | Cross Validation | Train/Test Split, Preprocessing | Regularization (Lasso, Ridge, ElasticNets) | Review  |
-| Afternoon | Lab     | Lab     | Lab and [Project 2](./projects/project_2) Due | Lab  | Project |
+| Afternoon | Lab     | Lab     | Lab and [Project 2](https://git.generalassemb.ly/DSI-EAST-1/project-two) Due | Lab  | Project |
 | Outcomes  |[Outcomes HW due at 7 pm: Draft Brand Statement](https://git.generalassemb.ly/DSI-EAST-1/draft-brand-statement/tree/master)    |     |    | [Outcomes: Studio Tour](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week05)      |  |   
 
 #### Week 5 - Classification
