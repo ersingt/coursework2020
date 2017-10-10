@@ -8,8 +8,6 @@
 
 ---
 
-**Projects:** [Click here](./projects.md)
-
 #### Week 1 - Getting Started: Python for Data Science
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
