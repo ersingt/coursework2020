@@ -46,7 +46,7 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
-| Afternoon | Lab     | Lab     | Lab and [Capstone 1](./projects/capstone/part_01.md) Due | Lab   | Project |
+| Afternoon | Lab     | Lab     | Lab  | Lab   | Project and Capstone 1 Due |
 | Outcomes  |[Outcomes HW due at 7 pm: Find 3 Networking events](https://git.generalassemb.ly/DSI-EAST-1/meetups/tree/master)    |     |    | [Outcomes: Preparing for the Interview](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week07)       |  |  
 
 
@@ -71,7 +71,7 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
-| Afternoon | Lab     | Lab     | Lab and [Capstone Part 2](./projects/capstone/part_02.md) Due | Lab     | Project |
+| Afternoon | Lab     | Lab     | Lab and Capstone Part 2 Due | Lab     | Project |
 | Outcomes  | Outcomes HW due at 7 pm    |     |    |[Outcomes: GA Profiles + Portfolios](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week08)      |  |  
 
 #### Week 9 - Time Series Analysis
@@ -79,7 +79,7 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
-| Afternoon | Lab     | Lab     | Lab and [Project 4](./projects/project_4) Due | Lab     | Project |
+| Afternoon | Lab     | Lab     | Lab and Project 4 Due | Lab     | Project |
 | Outcomes  | Outcomes HW due at 7 pm    |     |    | Thanksgiving      |  |  
 
 #### Week 10 - Big Data
@@ -87,7 +87,7 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
-| Afternoon | Lab     | Lab     | Lab and [Capstone Part 3](./projects/capstone/part_03.md) Due | Lab     | Project |
+| Afternoon | Lab     | Lab     | Lab and Capstone Part 3 Due | Lab     | Project |
 | Outcomes  | Outcomes HW due at 7 pm    |     |    |[Outcomes: Hiring Panel](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week10)      |  |  
 
 #### Week 11 - Special Topics
@@ -110,6 +110,6 @@
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
-| Morning   | Lecture | Lecture | [Capstone Part 5](./projects/capstone/part_05.md) Due |  |  |
-| Afternoon | [Capstone Part 4](./projects/capstone/part_04.md) Due     | Lab     |  |  |  |
+| Morning   | Lecture | Lecture | Capstone Part 5 Due |  |  |
+| Afternoon | Capstone Part 4 Due     | Lab     |  |  |  |
 
