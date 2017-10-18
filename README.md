@@ -45,12 +45,12 @@
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
-| Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
-| Afternoon | Lab     | Lab     | Lab  | Lab   | Project and Capstone 1 Due |
+| Morning   | Lecture | Lecture | [Feature Selection and Grid Search](https://git.generalassemb.ly/DSI-EAST-1/lesson-feature-selection-grid-search) | Lecture | Review  |
+| Afternoon | Lab     | Lab     | [Feature Selection and Grid Search Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-feature-selection-grid-search)  | Lab   | Project and Capstone 1 Due |
 | Outcomes  |[Outcomes HW due at 7 pm: Find 3 Networking events](https://git.generalassemb.ly/DSI-EAST-1/meetups/tree/master)    |     |    | [Outcomes: Preparing for the Interview](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week07)       |  |  
 
 
-#### Week 6 - Tree Classifiers
+#### Week 6 - Tree Classifiers and Web Scraping / APIs
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
@@ -62,35 +62,35 @@
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
-| Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
-| Afternoon | Lab     | Lab     | Lab     | Lab    | Project |
+| Morning   | Lecture | Lecture | [Intro to OOP and Data Pipelines](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-oop-data-pipelines) | [Hierarchical Clustering](https://git.generalassemb.ly/DSI-EAST-1/lesson-hierarchical-clustering) and [Evaluating Clusters](https://git.generalassemb.ly/DSI-EAST-1/lesson-cluster-evaluation) | Review  |
+| Afternoon | Lab     | Lab     | [Intro to OOP and Data Pipelines Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-oop-data-pipelines)     | [Hierarchical Clustering and Evaluating Clusters Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-hierarchical-clusters-and-cluster-evaluation)    | Project |
 | Outcomes  | Outcomes HW due at 7 pm    |     |    | [Outcomes: Defining Your Non-Negotiables and Negotiating like a Boss](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week88.md)      |  |  
 
-#### Week 8 - Bayesian Inference
+#### Week 8 - Natural Language Processing and Time Series
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
-| Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
-| Afternoon | Lab     | Lab     | Lab and Capstone Part 2 Due | Lab     | Project |
+| Morning   | [Intro to NLP](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-nlp) | [NLP Techniques](https://git.generalassemb.ly/DSI-EAST-1/lesson-nlp-techniques) | Lecture | Lecture | Review  |
+| Afternoon | [Intro to NLP Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-nlp)     | [NLP Techniques Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-nlp-techniques)     | Lab and Capstone Part 2 Due | Lab     | Project |
 | Outcomes  | Outcomes HW due at 7 pm    |     |    |[Outcomes: GA Profiles + Portfolios](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week08)      |  |  
 
-#### Week 9 - Time Series Analysis
+#### Week 9 - Bayesian Statistics and Inference
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
-| Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
-| Afternoon | Lab     | Lab     | Lab and Project 4 Due | Lab     | Project |
+| Morning   | [Intro to Bayes](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-bayesian-stats) | Lecture | Lecture | Lecture | Review  |
+| Afternoon | [Intro to Bayes Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-bayesian-stats)     | Lab     | Lab and Project 4 Due | Lab     | Project |
 | Outcomes  | Outcomes HW due at 7 pm    |     |    | Thanksgiving      |  |  
 
-#### Week 10 - Big Data
+#### Week 10 - Neural Networks
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
-| Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
-| Afternoon | Lab     | Lab     | Lab and Capstone Part 3 Due | Lab     | Project |
+| Morning   | [Intro to Neural Networks](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-neural-networks) | Lecture | Lecture | Lecture | Review  |
+| Afternoon | [Intro to Neural Networks Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-neural-networks)     | Lab     | Lab and Capstone Part 3 Due | Lab     | Project |
 | Outcomes  | Outcomes HW due at 7 pm    |     |    |[Outcomes: Hiring Panel](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week10)      |  |  
 
-#### Week 11 - Special Topics
+#### Week 11 - Big Data
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
