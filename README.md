@@ -56,7 +56,7 @@
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
 | Afternoon | Lab     | Lab     | Lab and [Project 3](./projects/project_3) Due | Lab | Project | Lab
-| Outcomes  | [Outcomes HW due at 7 pm: Draft Resume](https://git.generalassemb.ly/DSI-EAST-1/draft-resume)    |     |    |[Outcomes: Winning Resume Package](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week04)      |  |        
+| Outcomes  | [Outcomes HW due at 7 pm: Organizational Research](https://git.generalassemb.ly/DSI-EAST-1/Orgresearch-/tree/master)    |     |    |[Outcomes: Winning Resume Package](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week04)      |  |        
 
 #### Week 7 - Unsupervised Learning
 
@@ -64,7 +64,7 @@
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | [Intro to OOP and Data Pipelines](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-oop-data-pipelines) | [Hierarchical Clustering](https://git.generalassemb.ly/DSI-EAST-1/lesson-hierarchical-clustering) and [Evaluating Clusters](https://git.generalassemb.ly/DSI-EAST-1/lesson-cluster-evaluation) | Review  |
 | Afternoon | Lab     | Lab     | [Intro to OOP and Data Pipelines Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-oop-data-pipelines)     | [Hierarchical Clustering and Evaluating Clusters Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-hierarchical-clusters-and-cluster-evaluation)    | Project |
-| Outcomes  | Outcomes HW due at 7 pm    |     |    | [Outcomes: Defining Your Non-Negotiables and Negotiating like a Boss](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week88.md)      |  |  
+| Outcomes  | [Outcomes HW due at 7 pm: Draft Resume](https://git.generalassemb.ly/DSI-EAST-1/draft-resume)   |     |    | [Outcomes: Defining Your Non-Negotiables and Negotiating like a Boss](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week88.md)      |  |  
 
 #### Week 8 - Natural Language Processing and Time Series
 
