@@ -38,7 +38,7 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | [Linear Regression](https://git.generalassemb.ly/DSI-EAST-1/lesson-regression-simple_linear_regression) | [Cross Validation](https://git.generalassemb.ly/DSI-EAST-1/lesson-tts-cross-validation) | [Preprocessing](https://git.generalassemb.ly/DSI-EAST-1/lesson-sklearn-preprocessing) | [Regularization (Lasso, Ridge, ElasticNets)](https://git.generalassemb.ly/DSI-EAST-1/lesson-regression-regularization) | Review  |
-| Afternoon | [Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-regression-simple_linear_regression)  | [Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-tts-cross-validation)     | [Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-sklearn-preprocessing) and [Project 2](https://git.generalassemb.ly/DSI-EAST-1/project-two) Due | Lab  | Project |
+| Afternoon | [Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-regression-simple_linear_regression)  | [Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-tts-cross-validation)     | [Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-sklearn-preprocessing) and [Project 2](https://git.generalassemb.ly/DSI-EAST-1/project-two) Due | [Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-regression-regularization_kobe_shots)  | Project |
 | Outcomes  |[Outcomes HW due at 7 pm: Draft Brand Statement](https://git.generalassemb.ly/DSI-EAST-1/draft-brand-statement/tree/master)    |     |    | [Outcomes: Studio Tour](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week05)      |  |   
 
 #### Week 5 - Classification
