@@ -54,7 +54,7 @@
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
-| Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
+| Morning   | Lecture | [Boosting](https://git.generalassemb.ly/DSI-EAST-1/ensemble-boosting_adaboost-lesson) | Lecture | Lecture | Review  |
 | Afternoon | Lab     | Lab     | Lab and [Project 3](./projects/project_3) Due | Lab | Project | Lab
 | Outcomes  | [Outcomes HW due at 7 pm: Organizational Research](https://git.generalassemb.ly/DSI-EAST-1/Orgresearch-/tree/master)    |     |    |[Outcomes: Winning Resume Package](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week04)      |  |        
 
@@ -112,4 +112,3 @@
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Capstone Part 5 Due |  |  |
 | Afternoon | Capstone Part 4 Due     | Lab     |  |  |  |
-
