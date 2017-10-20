@@ -72,7 +72,7 @@
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | [Intro to NLP](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-nlp) | [NLP Techniques](https://git.generalassemb.ly/DSI-EAST-1/lesson-nlp-techniques) | Lecture | Lecture | Review  |
 | Afternoon | [Intro to NLP Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-nlp)     | [NLP Techniques Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-nlp-techniques)     | Lab and Capstone Part 2 Due | Lab     | Project |
-| Outcomes  | Outcomes HW due at 7 pm    |     |    |[Outcomes: GA Profiles + Portfolios](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week08)      |  |  
+| Outcomes  | [Outcomes HW due at 7 pm Review, research, and network](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/Reviewresearch.md)    |     |    |[Outcomes: GA Profiles + Portfolios](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week08)      |  |  
 
 #### Week 9 - Bayesian Statistics and Inference
 
@@ -80,7 +80,7 @@
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | [Intro to Bayes](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-bayesian-stats) | Lecture | Lecture | Lecture | Review  |
 | Afternoon | [Intro to Bayes Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-bayesian-stats)     | Lab     | Lab and Project 4 Due | Lab     | Project |
-| Outcomes  | Outcomes HW due at 7 pm    |     |    | Thanksgiving      |  |  
+| Outcomes  |     |     |    | Thanksgiving      |  |  
 
 #### Week 10 - Neural Networks
 
@@ -88,7 +88,7 @@
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | [Intro to Neural Networks](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-neural-networks) | Lecture | Lecture | Lecture | Review  |
 | Afternoon | [Intro to Neural Networks Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-neural-networks)     | Lab     | Lab and Capstone Part 3 Due | Lab     | Project |
-| Outcomes  | Outcomes HW due at 7 pm    |     |    |[Outcomes: Hiring Panel](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week10)      |  |  
+| Outcomes  | [Outcomes HW due at 7 pm: GA Profile](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/GAProfile.md)     |     |    |[Outcomes: Hiring Panel](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week10)      |  |  
 
 #### Week 11 - Big Data
 
@@ -96,7 +96,7 @@
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
 | Afternoon | Lab     | Lab     | Lab     | Lab     | Project |
-| Outcomes  | Outcomes HW due at 7 pm    |     |    |[Outcomes: Catch your Breadth and Regroup](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week09)       |  |  
+| Outcomes  | [Outcomes HW due at 7 pm: Final Resume + LinkedIn](https://git.generalassemb.ly/DSI-EAST-1/final-resume-linkedin)    |     |    |[Outcomes: Catch your Breadth and Regroup](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week09)       |  |  
 
 #### Week 12 - Capstone
 
@@ -104,7 +104,7 @@
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
 | Afternoon | Lab     | Lab     | Lab     | Lab     | Project |
-| Outcomes  | Outcomes HW due at 7 pm    |     |    |[Outcomes: Cracking the Technical Interivew](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week11/DSI/readme.md)       |  |  
+| Outcomes  | [Outcomes HW due at 7 pm: Final Materials](https://git.generalassemb.ly/DSI-EAST-1/Finalmaterials-/tree/master)    |     |    |[Outcomes: Cracking the Technical Interivew](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week11/DSI/readme.md)       |  |  
 
 #### Week 13 - Capstone
 
