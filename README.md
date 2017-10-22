@@ -46,7 +46,7 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | [kNN](https://git.generalassemb.ly/DSI-EAST-1/lesson-classification-knn_intro_to_classification) and [Logistic Regression](https://git.generalassemb.ly/DSI-EAST-1/lesson-classification-logistic_regression) | Lecture | [Feature Selection and Grid Search](https://git.generalassemb.ly/DSI-EAST-1/lesson-feature-selection-grid-search) | Lecture | Review  |
-| Afternoon | Lab     | Lab     | [Feature Selection and Grid Search Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-feature-selection-grid-search)  | Lab   | Project and Capstone 1 Due |
+| Afternoon | [kNN Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-classification-knn_intro_to_classification) and [Logistic Regression Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-classification-logistic_regression)     | Lab     | [Feature Selection and Grid Search Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-feature-selection-grid-search)  | Lab   | Project and Capstone 1 Due |
 | Outcomes  |[Outcomes HW due at 7 pm: Find 3 Networking events](https://git.generalassemb.ly/DSI-EAST-1/meetups/tree/master)    |     |    | [Outcomes: Preparing for the Interview](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week07)       |  |  |
 
 
