@@ -37,7 +37,7 @@ Unless otherwise stated, please keep in mind the following when submitting work:
 - Your work is expected at end of class on the due date (though early submissions are always welcome!)
 - Create your own branch on the forked repo for each of your projects
 - Please submit your code as a Python script (`.py`) or as a Jupyter Notebook (`.ipynb`)
-- If your work includes a write-up or discussion of your findings, please include those in your submission folder (write-ups are _strongly encouraged_ to be Markdown files, but not strictly required)
+- If your work includes a write-up or discussion of your findings, please include those in your submission (write-ups are _strongly encouraged_ to be Markdown files, but not strictly required)
 - When submitting your work, issue a pull request into `master` from the branch containing your work. Inside the pull request, note where any key files are (such as your write-up) if they are not immediately apparent. 
 
 ## Assessment 
