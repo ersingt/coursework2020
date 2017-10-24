@@ -28,23 +28,13 @@ Here are some good tips when starting out on a new project (particularly for the
 
 ## Submission Dates
 
-- Project 1: October 4, 2017
-- Project 2: October 18, 2017
-- Project 3: November 1, 2017
-- Project 4: November 22, 2017
-- Capstone Project
-    - Part 1: October 25, 2017
-    - Part 2: November 15, 2017
-    - Part 3: November 29, 2017
-    - Part 4: December 18, 2017
-    - Part 5: December 20, 2017
+Check `course-info/README.md` (main document in this repository)!
 
 ## Submission Process
 
 Unless otherwise stated, please keep in mind the following when submitting work:
 
-- Your work is expected at 9 AM CDT on the due date (though early submissions are always welcome!)
-- Each project has a `submissions/` directory -- create a directory under your own name there and include all work within that folder
+- Your work is expected at end of day on the due date (though early submissions are always welcome!)
 - Create your own branch on the forked repo for each of your projects
 - Please submit your code as a Python script (`.py`) or as a Jupyter Notebook (`.ipynb`)
 - If your work includes a write-up or discussion of your findings, please include those in your submission folder (write-ups are _strongly encouraged_ to be Markdown files, but not strictly required)
@@ -52,7 +42,7 @@ Unless otherwise stated, please keep in mind the following when submitting work:
 
 ## Assessment 
 
-We do not assess your work using strict letter or numeric grades -- you should expect written feedback on your work within a week of submission. We will be looking at your work holistically and, in general, assessing the following:
+You should expect written feedback on your work within a week of submission as well as some guidelines on different elements of the project.  We will be looking at your work holistically and, in general, assessing the following:
 
 - Were the main goals of each project met?
 - Was your code well-written and able to be successfully ran?
