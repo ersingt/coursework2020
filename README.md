@@ -55,7 +55,7 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | [Boosting](https://git.generalassemb.ly/DSI-EAST-1/ensemble-boosting_adaboost-lesson) | Lecture | Lecture | Review  |
-| Afternoon | Lab     | Lab     | [Beautiful Soup Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-beautiful-soup) and [Project 3](https://git.generalassemb.ly/DSI-EAST-1/project-3) Due | [API Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-api) | Project |
+| Afternoon | Lab     | Lab     | [Beautiful Soup Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-beautiful-soup)| [API Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-api) | Project |
 | Outcomes  | [Outcomes HW due at 7 pm: Organizational Research](https://git.generalassemb.ly/DSI-EAST-1/Orgresearch-/tree/master)    |     |    |[Outcomes: Winning Resume Package](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week04)      |  |        |
 
 #### Week 7 - Unsupervised Learning
@@ -63,7 +63,7 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Lecture | Lecture | [Intro to OOP and Data Pipelines](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-oop-data-pipelines) | [Hierarchical Clustering](https://git.generalassemb.ly/DSI-EAST-1/lesson-hierarchical-clustering) and [Evaluating Clusters](https://git.generalassemb.ly/DSI-EAST-1/lesson-cluster-evaluation) | Review  |
-| Afternoon | Lab     | Lab     | [Intro to OOP and Data Pipelines Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-oop-data-pipelines)     | [Hierarchical Clustering and Evaluating Clusters Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-hierarchical-clusters-and-cluster-evaluation)    | Project |
+| Afternoon | Lab     | Lab     | [Intro to OOP and Data Pipelines Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-oop-data-pipelines)     | [Hierarchical Clustering and Evaluating Clusters Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-hierarchical-clusters-and-cluster-evaluation) and [Project 3](https://git.generalassemb.ly/DSI-EAST-1/project-3) Due    | Project |
 | Outcomes  | [Outcomes HW due at 7 pm: Draft Resume](https://git.generalassemb.ly/DSI-EAST-1/draft-resume)   |     |    | [Outcomes: Defining Your Non-Negotiables and Negotiating like a Boss](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week88.md)      |  |  
 
 #### Week 8 - Natural Language Processing and Time Series
