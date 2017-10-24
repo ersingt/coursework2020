@@ -62,8 +62,8 @@
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
-| Morning   | Lecture | Lecture | [Intro to OOP and Data Pipelines](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-oop-data-pipelines) | [Hierarchical Clustering](https://git.generalassemb.ly/DSI-EAST-1/lesson-hierarchical-clustering) and [Evaluating Clusters](https://git.generalassemb.ly/DSI-EAST-1/lesson-cluster-evaluation) | Review  |
-| Afternoon | Lab     | Lab     | [Intro to OOP and Data Pipelines Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-oop-data-pipelines)     | [Hierarchical Clustering and Evaluating Clusters Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-hierarchical-clusters-and-cluster-evaluation) and [Project 3](https://git.generalassemb.ly/DSI-EAST-1/project-3) Due    | Project |
+| Morning   | Lecture | [Intro to OOP and Data Pipelines](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-oop-data-pipelines)  |[Hierarchical Clustering](https://git.generalassemb.ly/DSI-EAST-1/lesson-hierarchical-clustering) and [Evaluating Clusters](https://git.generalassemb.ly/DSI-EAST-1/lesson-cluster-evaluation)  | Lecture| Review  |
+| Afternoon | Lab     | [Intro to OOP and Data Pipelines Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-oop-data-pipelines)      |    [Hierarchical Clustering and Evaluating Clusters Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-hierarchical-clusters-and-cluster-evaluation) and [Project 3](https://git.generalassemb.ly/DSI-EAST-1/project-3) Due  |   Lab | Project |
 | Outcomes  | [Outcomes HW due at 7 pm: Draft Resume](https://git.generalassemb.ly/DSI-EAST-1/draft-resume)   |     |    | [Outcomes: Defining Your Non-Negotiables and Negotiating like a Boss](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week88.md)      |  |  
 
 #### Week 8 - Natural Language Processing and Time Series
