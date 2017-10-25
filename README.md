@@ -88,7 +88,7 @@
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | [Intro to Neural Networks](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-neural-networks) | Lecture | Lecture | Lecture | Review  |
 | Afternoon | [Intro to Neural Networks Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-neural-networks)     | Lab     | Lab and Capstone Part 3 Due | Lab     | Project |
-| Outcomes  | [Outcomes HW due at 7 pm: GA Profile](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/GAProfile.md)     |     |    |[Outcomes: Hiring Panel](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week10)      |  |  
+| Outcomes  | [Outcomes HW due at 7 pm: GA Profile + Cover Letter](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/GAProfile.md)     |     |    |[Outcomes: Hiring Panel](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week10)      |  |  
 
 #### Week 11 - Big Data
 
