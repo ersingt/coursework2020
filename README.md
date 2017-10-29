@@ -54,8 +54,8 @@
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
-| Morning   | Lecture | [Boosting](https://git.generalassemb.ly/DSI-EAST-1/ensemble-boosting_adaboost-lesson) | Lecture | Lecture | Review  |
-| Afternoon | Lab     | Lab     | [Beautiful Soup Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-beautiful-soup)| [API Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-api) | Project |
+| Morning   | [CARTs and Bagging Lesson](https://git.generalassemb.ly/DSI-EAST-1/lesson-trees-CARTs) | [Boosting](https://git.generalassemb.ly/DSI-EAST-1/ensemble-boosting_adaboost-lesson) | Lecture | Lecture | Review  |
+| Afternoon | [CART Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-trees-CARTs)     | Lab     | [Beautiful Soup Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-beautiful-soup)| [API Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-api) | Project |
 | Outcomes  | [Outcomes HW due at 7 pm: Organizational Research](https://git.generalassemb.ly/DSI-EAST-1/Orgresearch-/tree/master)    |     |    |[Outcomes: Winning Resume Package](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week04)      |  |        |
 
 #### Week 7 - Unsupervised Learning
