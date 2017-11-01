@@ -62,15 +62,15 @@
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
-| Morning   | Lecture | [Intro to OOP and Data Pipelines](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-oop-data-pipelines)  |[Hierarchical Clustering and Evaluating Clusters](https://git.generalassemb.ly/DSI-EAST-1/lesson-hierarchical-clustering-evaluation)  | Lecture| Review  |
-| Afternoon | Lab     | [Intro to OOP and Data Pipelines Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-oop-data-pipelines)      |    [Hierarchical Clustering and Evaluating Clusters Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-hierarchical-clusters-and-cluster-evaluation) and [Project 3](https://git.generalassemb.ly/DSI-EAST-1/project-3) Due  |   Lab | Project |
+| Morning   | [k-Means and DBSCAN Clustering](https://git.generalassemb.ly/DSI-EAST-1/lesson-clustering-intro_to_clustering_kmeans_dbscan) | [Intro to OOP and Data Pipelines](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-oop-data-pipelines)  |[Hierarchical Clustering and Evaluating Clusters](https://git.generalassemb.ly/DSI-EAST-1/lesson-hierarchical-clustering-evaluation)  | Principal Component Analysis | Review  |
+| Afternoon | [k-Means and DBSCAN Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-clustering-kmeans_dbscan/tree/master)     | [Intro to OOP and Data Pipelines Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-oop-data-pipelines)      |    [Hierarchical Clustering and Evaluating Clusters Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-hierarchical-clusters-and-cluster-evaluation) and [Project 3](https://git.generalassemb.ly/DSI-EAST-1/project-3) Due  |   Lab | Project |
 | Outcomes  | [Outcomes HW due at 7 pm: Draft Resume](https://git.generalassemb.ly/DSI-EAST-1/draft-resume)   |     |    | [Outcomes: Defining Your Non-Negotiables and Negotiating like a Boss](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/week88.md)      |  |  
 
 #### Week 8 - Natural Language Processing and Time Series
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
-| Morning   | [Intro to NLP](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-nlp) | [NLP Techniques](https://git.generalassemb.ly/DSI-EAST-1/lesson-nlp-techniques) | Lecture | Lecture | Review  |
+| Morning   | [Intro to NLP](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-nlp) | [NLP Techniques](https://git.generalassemb.ly/DSI-EAST-1/lesson-nlp-techniques) | Lecture | Intro to Timeseries | Review  |
 | Afternoon | [Intro to NLP Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-nlp)     | [NLP Techniques Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-nlp-techniques)     | Lab and Capstone Part 2 Due | Lab     | Project |
 | Outcomes  | [Outcomes HW due at 7 pm Review, research, and network](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/Reviewresearch.md)    |     |    |[Outcomes: GA Profiles + Portfolios](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week08)      |  |  
 
@@ -78,8 +78,8 @@
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
-| Morning   | [Intro to Bayes](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-bayesian-stats) | Lecture | Lecture | Lecture | Review  |
-| Afternoon | [Intro to Bayes Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-bayesian-stats)     | Lab     | Lab and Project 4 Due | Lab     | Project |
+| Morning   | [Intro to Bayes](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-bayesian-stats) | Conjugacy and MLE | Monte Carlo | No class! | No class!  |
+| Afternoon | [Intro to Bayes Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-bayesian-stats)     | Lab     | Lab and Project 4 Due | No class!     | No class! |
 | Outcomes  |     |     |    | Thanksgiving      |  |  
 
 #### Week 10 - Neural Networks
