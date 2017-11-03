@@ -79,7 +79,7 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | [Intro to Bayes](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-bayesian-stats) | Conjugacy and MLE | Monte Carlo | No class! | No class!  |
-| Afternoon | [Intro to Bayes Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-bayesian-stats)     | Lab     | Lab and Project 4 Due | No class!     | No class! |
+| Afternoon | [Intro to Bayes Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-bayesian-stats)     | Lab     | Lab | No class!     | No class! |
 | Outcomes  |     |     |    | Thanksgiving      |  |  
 
 #### Week 10 - Neural Networks
@@ -87,7 +87,7 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | [Intro to Neural Networks](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-neural-networks) | Lecture | Lecture | Lecture | Review  |
-| Afternoon | [Intro to Neural Networks Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-neural-networks)     | Lab     | Lab and Capstone Part 3 Due | Lab     | Project |
+| Afternoon | [Intro to Neural Networks Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-neural-networks)     | Lab     | Lab, Project 4 Due and Capstone Part 3 Due | Lab     | Project |
 | Outcomes  | [Outcomes HW due at 7 pm: GA Profile + Cover Letter](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/GAProfile.md)     |     |    |[Outcomes: Hiring Panel](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week10)      |  |  
 
 #### Week 11 - Big Data
