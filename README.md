@@ -70,7 +70,7 @@
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
-| Morning   | [Intro to NLP](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-nlp) | [NLP Techniques](https://git.generalassemb.ly/DSI-EAST-1/lesson-nlp-techniques) | Lecture | Intro to Timeseries | Review  |
+| Morning   | [Intro to NLP](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-nlp) | [NLP Techniques](https://git.generalassemb.ly/DSI-EAST-1/lesson-nlp-techniques) | [Regular Expressions](https://git.generalassemb.ly/DSI-EAST-1/python-regex-lesson) | Intro to Timeseries | Review  |
 | Afternoon | [Intro to NLP Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-nlp)     | [NLP Techniques Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-nlp-techniques)     | Lab and Capstone Part 2 Due | Lab     | Project |
 | Outcomes  | [Outcomes HW due at 7 pm Review, research, and network](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/Reviewresearch.md)    |     |    |[Outcomes: GA Profiles + Portfolios](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week08)      |  |  
 
