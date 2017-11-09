@@ -86,7 +86,7 @@
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
-| Morning   | [Intro to Neural Networks](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-neural-networks) | Lecture | Lecture | Lecture | Review  |
+| Morning   | [Intro to Neural Networks](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-neural-networks) | Intro to Keras | Convolutional Neural Networks with Keras | Intro to Tensorflow | Review  |
 | Afternoon | [Intro to Neural Networks Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-neural-networks)     | Lab     | Lab, Project 4 Due and Capstone Part 3 Due | Lab     | Project |
 | Outcomes  | [Outcomes HW due at 7 pm: GA Profile + Cover Letter](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/GAProfile.md)     |     |    |[Outcomes: Hiring Panel](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week10)      |  |  
 
@@ -94,7 +94,7 @@
 
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
-| Morning   | Lecture | Lecture | Lecture | Lecture | Review  |
+| Morning   | Intro to Scala + Spark DataFrames | Spark Regression and Classification | Spark Pipelines and Grid Search | NLP with Spark | Review  |
 | Afternoon | Lab     | Lab     | Lab     | Lab     | Project |
 | Outcomes  | [Outcomes HW due at 7 pm: Final Resume + LinkedIn](https://git.generalassemb.ly/DSI-EAST-1/final-resume-linkedin)    |     |    |[Outcomes: Catch your Breadth and Regroup](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week09)       |  |  
 
