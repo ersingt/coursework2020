@@ -71,7 +71,7 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | [Intro to NLP](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-nlp) | [NLP Techniques](https://git.generalassemb.ly/DSI-EAST-1/lesson-nlp-techniques) | [Regular Expressions](https://git.generalassemb.ly/DSI-EAST-1/python-regex-lesson) | [Intro to Timeseries](https://git.generalassemb.ly/DSI-EAST-1/lesson-timeseries) | Review  |
-| Afternoon | [Intro to NLP Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-nlp)     | [NLP Techniques Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-nlp-techniques)     | [Regex Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-regex) and Capstone Part 2 Due | Lab     | Project |
+| Afternoon | [Intro to NLP Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-intro-to-nlp)     | [NLP Techniques Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-nlp-techniques)     | [Regex Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-regex) and Capstone Part 2 Due | [Optional Practice](https://git.generalassemb.ly/DSI-EAST-1/lab-timeseries)     | Project |
 | Outcomes  | [Outcomes HW due at 7 pm Review, research, and network](https://github.com/ga-students/ga-dsiplus/blob/master/roadmap/Reviewresearch.md)    |     |    |[Outcomes: GA Profiles + Portfolios](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week08)      |  |  
 
 #### Week 9 - Bayesian Statistics and Inference
