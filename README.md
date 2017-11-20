@@ -79,7 +79,7 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | [Intro to Bayes](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-bayesian-stats) | [Conjugacy and MLE](https://git.generalassemb.ly/DSI-EAST-1/lesson-bayes-conjugacy-mle) | Monte Carlo | No class! | No class!  |
-| Afternoon | No lab -- work on Project 4 / Capstone     | Lab     | Lab | No class!     | No class! |
+| Afternoon | No lab -- work on Project 4 / Capstone     | [Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-bayes-conjugacy)     | No lab | No class!     | No class! |
 | Outcomes  | [Outcomes HW due at 7 pm: GA Profile + Cover Letter](https://git.generalassemb.ly/DSI-EAST-1/GAProfile-/tree/master)    |     |    | Thanksgiving      |  |  
 
 #### Week 10 - Neural Networks
