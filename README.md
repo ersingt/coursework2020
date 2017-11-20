@@ -87,7 +87,7 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | [Intro to Neural Networks](https://git.generalassemb.ly/DSI-EAST-1/lesson-intro-to-neural-networks) | Intro to Keras | Convolutional Neural Networks with Keras | Intro to Tensorflow | Review  |
-| Afternoon | No lab -- work on Project 4 / Capstone | Lab     | Lab, Project 4 Due and Capstone Part 3 Due | Lab     | Project |
+| Afternoon | No lab -- work on Project 4 / Capstone | [Keras Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-keras)     | [Project 4](https://git.generalassemb.ly/DSI-EAST-1/project-4) Due and Capstone Part 3 Due | Lab     | Project |
 | Outcomes  |  [Outcomes HW Due at 7 pm: DRAFT Portfolio](https://git.generalassemb.ly/DSI-EAST-1/draft-portfolio-)    |     |    |[Outcomes: Hiring Panel](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week10)      |  |  
 
 #### Week 11 - Big Data
