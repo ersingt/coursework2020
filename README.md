@@ -95,7 +95,7 @@
 |           | Day 1   | Day 2   | Day 3   | Day 4   | Day 5   |
 |-----------|---------|---------|---------|---------|---------|
 | Morning   | Intro to Scala + Spark DataFrames | Spark Regression and Classification | Spark Pipelines and Grid Search | NLP with Spark | Review  |
-| Afternoon | Lab     | Lab     | Lab     | Lab     | Project |
+| Afternoon | Lab     | [Spark Regression Lab](https://git.generalassemb.ly/DSI-EAST-1/lab-spark-model)     | Lab     | Lab     | Project |
 | Outcomes  | [Outcomes HW due at 7 pm: Final Resume + LinkedIn](https://git.generalassemb.ly/DSI-EAST-1/final-resume-linkedin)    |     |    |[Outcomes: Catch your Breadth and Regroup](https://github.com/ga-students/ga-dsiplus/tree/master/roadmap/week09)       |  |  
 
 #### Week 12 - Capstone
