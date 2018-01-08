@@ -10,8 +10,8 @@
 
 | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |---------------|---------------|---------------|---------------|---------|
-| *No Class* | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
-|  | Lecture (Lab) | Lecture (Lab) | Outcomes      | Project |
+| **No Class** | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
+| **No Class** | Lecture (Lab) | Lecture (Lab) | Outcomes      | Project |
 
 #### Week 2 -Exploratory Data Analysis
 
@@ -46,8 +46,8 @@
 
 | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |---------------|---------------|---------------|---------------|---------|
-| Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
-| Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Outcomes      | Project |
+| **No Class** | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
+| **No Class** | Lecture (Lab) | Lecture (Lab) | Outcomes      | Project |
 
 #### Week 7 - Unsupervised Learning
 
