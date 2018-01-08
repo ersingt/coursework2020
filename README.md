@@ -10,7 +10,7 @@
 
 | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |---------------|---------------|---------------|---------------|---------|
-| **No Class** | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
+| **No Class** | [Python: Enumeration](https://git.generalassemb.ly/DSI-WEST-3/lesson-python-enumeration) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-python-enumeration)) | Lecture (Lab) | Lecture (Lab) | Review  |
 | **No Class** | Lecture (Lab) | Lecture (Lab) | Outcomes      | Project |
 
 #### Week 2 -Exploratory Data Analysis
