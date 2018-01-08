@@ -4,16 +4,14 @@
 
 *Lesson recordings:* [https://www.youtube.com/playlist?list=PLDKt9D1xqbPadAkUC_O-kKYQ90mQjA0Al](https://www.youtube.com/playlist?list=PLDKt9D1xqbPadAkUC_O-kKYQ90mQjA0Al)
 
-*Link to Justin's notebooks:* [https://1drv.ms/u/s!AhFKW80cknnIfUE5gb0vgeMAgMA](https://1drv.ms/u/s!AhFKW80cknnIfUE5gb0vgeMAgMA)
-
 ---
 
 #### Week 1 - Getting Started: Python for Data Science
 
 | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |---------------|---------------|---------------|---------------|---------|
-| Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
-| Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Outcomes      | Project |
+| *No Class* | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
+|  | Lecture (Lab) | Lecture (Lab) | Outcomes      | Project |
 
 #### Week 2 -Exploratory Data Analysis
 
