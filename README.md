@@ -19,6 +19,8 @@
 |---------------|---------------|---------------|---------------|---------|
 | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
 | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Outcomes      | Project |
+| [Outcomes Homework
+  Due at 7pm] (https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week01)
 
 #### Week 3 - Foundations of Data Modeling
 
