@@ -8,10 +8,10 @@
 
 #### Week 1 - Getting Started: Python for Data Science
 
-| Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|---------------|---------------|---------------|---------------|---------|
+|         | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|Morning  |---------------|---------------|---------------|---------------|---------|
 | **No Class** | [Python: Enumeration](https://git.generalassemb.ly/DSI-WEST-3/lesson-python-enumeration) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-python-enumeration)) | Lecture (Lab) | Lecture (Lab) | Review  |
-| **No Class** | Lecture (Lab) | Lecture (Lab) | Outcomes: [Intro To Outcomes + Cheers to Those Who Survived, Alumni Panel!](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week01) [Global Session] | Project |
+|Afternoon| **No Class** | Lecture (Lab) | Lecture (Lab) | Outcomes: [Intro To Outcomes + Cheers to Those Who Survived, Alumni Panel!](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week01) [Global Session] | Project |
 
 #### Week 2 -Exploratory Data Analysis
 
