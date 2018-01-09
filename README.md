@@ -11,7 +11,8 @@
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
 | Morning | **No Class** | [Python: Enumeration](https://git.generalassemb.ly/DSI-WEST-3/lesson-python-enumeration) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-python-enumeration)) | Lecture (Lab) | Lecture (Lab) | Review  |
-| Afternoon| **No Class** | Lecture (Lab) | Lecture (Lab) |[Outcomes: Intro to Outcomes + Alumni Panel](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week01)| Project |
+| Afternoon| **No Class** | Lecture (Lab) | Lecture (Lab) | Lecture (Lab)| Project |
+| Outcomes |    |    |   | [Outcomes: Intro to Outcomes + Alumni Panel](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week01)| |        
 
 #### Week 2 -Exploratory Data Analysis
 
@@ -19,7 +20,7 @@
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
 | Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Outcomes      | Project |
-|           |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week01)|  |  | [Outcomes:Developing Your Network + The Local Landscape](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week%2022.md)
+| Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week01)|  |  | [Outcomes:Developing Your Network + The Local Landscape](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week%2022.md)| |
 
 #### Week 3 - Foundations of Data Modeling
 
