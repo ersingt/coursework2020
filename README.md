@@ -2,7 +2,7 @@
 
 ---
 
-*Lesson recordings:* [https://www.youtube.com/playlist?list=PLDKt9D1xqbPadAkUC_O-kKYQ90mQjA0Al](https://www.youtube.com/playlist?list=PLDKt9D1xqbPadAkUC_O-kKYQ90mQjA0Al)
+*Lesson recordings:* Link Coming Soon! 
 
 ---
 
