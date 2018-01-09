@@ -49,42 +49,56 @@
 
 #### Week 6 - Tree Classifiers and Web Scraping / APIs
 
-| Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|---------------|---------------|---------------|---------------|---------|
-| **No Class** | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
-| **No Class** | Lecture (Lab) | Lecture (Lab) | Outcomes      | Project |
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
+| Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Project |
+| Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week05)|  |  | [Outcomes: GA Profiles, Blogging + Portfolios](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week08)| |
 
 #### Week 7 - Unsupervised Learning
 
-| Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|---------------|---------------|---------------|---------------|---------|
-| Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
-| Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Outcomes      | Project |
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
+| Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Project |
+| Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week08)|  |  | [Outcomes: Catch Your Breath + Regroup](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/catchbreath.md)| |
 
 #### Week 8 - Natural Language Processing and Time Series
 
-| Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|---------------|---------------|---------------|---------------|---------|
-| Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
-| Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Outcomes      | Project |
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
+| Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Project |
+| Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/catchbreath.md)|  |  | [Outcomes: Ask The Experts Panel](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week10)| |
 
 #### Week 9 - Bayesian Statistics and Inference
 
-| Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|---------------|---------------|---------------|---------------|---------|
-| Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
-| Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Outcomes      | Project |
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
+| Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Project |
+| Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week10)|  |  | [Outcomes: Interviewing + Negotiating](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week07)| |
 
 #### Week 10 - Neural Networks
 
-| Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|---------------|---------------|---------------|---------------|---------|
-| Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
-| Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Outcomes      | Project |
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
+| Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Project |
+| Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week07)|  |  | [Outcomes: Non-Negotiables + Application Strategy](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week88.md)| |
 
 #### Week 11 - Big Data
 
-| Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|---------------|---------------|---------------|---------------|---------|
-| Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
-| Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Outcomes      | Project |
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
+| Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Project |
+| Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week88.md)|  |  | [Outcomes: Cracking the Technical Interview](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week11)| |
+
+#### Week 12 - Capstone
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
+| Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Project |
+| Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week11)|  |  | [Outcomes: Qualification Check In + Post-Course Expectations](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week09)| |
