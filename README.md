@@ -33,17 +33,19 @@
 
 #### Week 4 - Regression
 
-| Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|---------------|---------------|---------------|---------------|---------|
-| Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
-| Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Outcomes      | Project |
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
+| Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Project |
+| Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week03)|  |  | [Outcomes: The Winning Resume Package](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week04)| |
 
 #### Week 5 - Classification
 
-| Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|---------------|---------------|---------------|---------------|---------|
-| Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
-| Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Outcomes      | Project |
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
+| Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Project |
+| Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week04)|  |  | [Outcomes: A Day In The Life Studio Tour](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week05)| |
 
 #### Week 6 - Tree Classifiers and Web Scraping / APIs
 
