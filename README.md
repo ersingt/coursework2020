@@ -11,7 +11,7 @@
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
 | Morning | **No Class** | [Python: Enumeration](https://git.generalassemb.ly/DSI-WEST-3/lesson-python-enumeration) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-python-enumeration)) | Lecture (Lab) | Lecture (Lab) | Review  |
-| Afternoon| **No Class** | Lecture (Lab) | Lecture (Lab) | Outcomes: [Intro To Outcomes + Alumni Panel!](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week01) [Global Session] | Project |
+| Afternoon| **No Class** | Lecture (Lab) | Lecture (Lab) |[Outcomes: Intro to Outcomes + Alumni Panel](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week01)| Project |
 
 #### Week 2 -Exploratory Data Analysis
 
