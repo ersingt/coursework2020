@@ -14,7 +14,7 @@
 | Afternoon| **No Class** | Lecture (Lab) | Lecture (Lab) | Lecture (Lab)| Project |
 | Outcomes |    |    |   | [Outcomes: Intro to Outcomes + Alumni Panel](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week01)| |        
 
-#### Week 2 -Exploratory Data Analysis
+#### Week 2 - Exploratory Data Analysis
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -24,10 +24,11 @@
 
 #### Week 3 - Foundations of Data Modeling
 
-| Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|---------------|---------------|---------------|---------------|---------|
-| Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
-| Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Outcomes      | Project |
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
+| Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Project |
+| Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week%2022.md)|  |  | [Outcomes: Finding Your Voice + Defining Your Brand](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week03)| |
 
 
 #### Week 4 - Regression
