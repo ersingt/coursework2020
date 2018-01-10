@@ -1,7 +1,7 @@
 
 > Note:  Many of these links still need to be filled in but should start to exist over the next day or two -Dave
 
-# DSI+ 2
+# DSI+ 3
 
 Welcome to DSI+!  If this is your first time, here are a few first steps for you to start with.
 
@@ -44,7 +44,7 @@ Take the time to bookmark the wiki now. You will be using it everyday.
 
 
 A: We will be using Github Enterprise (http://git.generalassemb.ly)!
-Material once it's avaiable, can be found in our [DSI-plus-2 Org](https://git.generalassemb.ly/dsi-plus-2/).  You will want to clone these repositories if you would like to keep a copy for yourself (this is recommended).  During instruction, these resources will be used by instructors during lectures.  It's also great to be able to keep a copy for yourself, take notes, make updates, etc.  We will be going over in class how this works for the first few days.
+Material once it's avaiable, can be found in our [DSI-plus-3 Org](https://git.generalassemb.ly/DSI-WEST-3/).  You will want to clone these repositories if you would like to keep a copy for yourself (this is recommended).  During instruction, these resources will be used by instructors during lectures.  It's also great to be able to keep a copy for yourself, take notes, make updates, etc.  We will be going over in class how this works for the first few days.
 
 It's recommended that you fork any lessons to your own repo, then clone them to your workspace for every new lesson or lab repo as they are available.  To get a head start on learning Git/Github, you can check out [try.github.com](http://try.github.com)
 </p></details>
