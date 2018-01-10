@@ -100,7 +100,7 @@ Follow this guide:
 
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
-| Morning | **No Class** | [Python: Enumeration](https://git.generalassemb.ly/DSI-WEST-3/lesson-python-enumeration) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-python-enumeration)) | NumPy: Intro (Lab) | Pandas: Feature Engineering (Lab) | Pandas: Combining DataFrames (Lab)  |
+| Morning | **No Class** | [Python: Enumeration](https://git.generalassemb.ly/DSI-WEST-3/lesson-python-enumeration) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-python-enumeration)) | [NumPy: Intro](https://git.generalassemb.ly/DSI-WEST-3/lesson-numpy) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-numpy-bingo)) | Pandas: Feature Engineering (Lab) | Pandas: Combining DataFrames (Lab)  |
 | Afternoon| **No Class** | Python: Functions and Data Types (Lab) | Pandas: Intro (Lab) | | Review |
 | Outcomes |    |    |   | [Outcomes: Intro to Outcomes + Alumni Panel](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week01)| |        
 
