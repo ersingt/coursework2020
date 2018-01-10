@@ -157,38 +157,38 @@ Follow this guide:
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
-| Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) |  | Project |
+| Morning   | Unsupervised Learning: Intro (Lab) | Hierarchical Clustering (Lab) | DBSCAN (Lab) | PCA (Lab) | Review  |
+| Afternoon | Project Time | Project Time | Project Time |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/catchbreath.md)|  |  | [Outcomes: Ask The Experts Panel](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week10)| |
 
 #### Week 9 - Big Data
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
-| Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) |  | Project |
+| Morning   | Intro to Scala + Spark DataFrames | Spark: Classification and Regression | Spark: Pipelines and Grid Search | Spark: NLP | Review  |
+| Afternoon | Project Time | Project Time | Project Time |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week10)|  |  | [Outcomes: Interviewing + Negotiating](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week07)| |
 
 #### Week 10 - Advanced Topics
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
-| Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) |  | Project |
+| Morning   | Timeseries in Pandas | Trump vs Sanders | Django | Recommendation Engine | Review  |
+| Afternoon | Project Time | Project Time | Project Time |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week07)|  |  | [Outcomes: Non-Negotiables + Application Strategy](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week88.md)| |
 
 #### Week 11 - Bayesian Statistics and Inference
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
-| Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) |  | Project |
+| Morning   | Bayes: Intro | Bayesian Inference | Project Time | MCMC | Bayesian Networks  |
+| Afternoon | Model-Based Bayes | Maximum Likelihood | Bayes Regression/PyMC |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week88.md)|  |  | [Outcomes: Cracking the Technical Interview](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week11)| |
 
 #### Week 12 - Capstone
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
-| Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) |  | Project |
+| Morning   | Capstone | Capstone | Capstone | Capstone | Review  |
+| Afternoon | Capstone | Capstone | Capstone |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week11)|  |  | [Outcomes: Qualification Check In + Post-Course Expectations](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week09)| |
