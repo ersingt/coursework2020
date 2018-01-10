@@ -108,8 +108,8 @@ Follow this guide:
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
-| Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) |  | Project |
+| Morning   | Plotting (Lab) | EDA: Benford's Law | Discrete + Continuous Distributions (Lab) | Advanced EDA: Titanic | Review  |
+| Afternoon | Pandas: Advanced Transformations (Lab) | EDA: Intro + Imputation (Lab) | Central Limit Theorem (Lab) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week01)|  |  | [Outcomes: Developing Your Network + The Local Landscape](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week%2022.md)| |
 
 #### Week 3 - Foundations of Data Modeling
