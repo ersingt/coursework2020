@@ -6,12 +6,12 @@
 Welcome to DSI+!  If this is your first time, here are a few first steps for you to start with.
 
 It's important that you've completed the following before doing anything:
-1. Completed your [Datacamp](https://www.datacamp.com/) pre-work (the 8 required modules).
-1. Created a [GitHub Enterprise](http://git.generalassemb.ly) and [Github](http://www.github.com) account. Make sure to set-up an account and add a photo.
-1. Download and install [Slack](http://www.slack.com).  
-_Check your mail for the invite to the ga-students.slack.com team. Update your profile under “Profile & Account” so that it includes your actual name and which General Assembly Campus you are attending (ex: John Smith attending class in LA would put First Name: John Last Name: Smith (LA)._
-1. Opened an account with [Amazon Web Services (AWS)](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/).
-1. Completed the [technology survey](https://goo.gl/forms/eAVWUaIigClCYrP52) so we know how to support you.
+1. Completed your prework.
+2. Created a [GitHub Enterprise](http://git.generalassemb.ly) and [Github](http://www.github.com) account. Make sure to set-up an account and add a photo.
+3. Download and install [Slack](http://www.slack.com).  
+_Check your mail for the invite to the ga-students.slack.com team. Update your profile under “Profile & Account” so that it includes your actual name and which General Assembly Campus you are attending (ex: John Smith attending class in Las Angeles would put **John Smith (LA)**._
+4. Opened an account with [Amazon Web Services (AWS)](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/).
+5. Completed the [technology survey](https://goo.gl/forms/eAVWUaIigClCYrP52) so we know how to support you.
 
 ## Day 0: Lessons
 
