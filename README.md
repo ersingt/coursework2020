@@ -125,32 +125,32 @@ Follow this guide:
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
-| Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) |  | Project |
+| Morning   | Intro to Classification + KNN (Lab) | Grid Search (Lab) | Pipelines (Lab) | Stats: Hypothesis Testing, Intro to HTML | Review  |
+| Afternoon | Classification Metrics I (Lab) | Classification Metrics II (Lab) | Logistic Regression (Lab) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week03)|  |  | [Outcomes: The Winning Resume Package](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week04)| |
 
 #### Week 5 - Web Scraping, APIs and NLP
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
-| Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) |  | Project |
+| Morning   | Web Scraping I (Lab) | APIs: Flask (Lab) | NLP I (Lab) | Regex (Lab) | Review  |
+| Afternoon | Web Scraping II (Lab) | APIs (Lab) | NLP II (Lab) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week04)|  |  | [Outcomes: A Day In The Life Studio Tour](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week05)| |
 
 #### Week 6 - Tree Classifiers
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
-| Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) |  | Project |
+| Morning   | **No Class** | Decision Trees I (Lab) | Bagging, Random Forests, Boosting | Capstone: Milestone I | Review  |
+| Afternoon | **No Class** | Decision Trees II (Lab) | Ensemble Lab |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week05)|  |  | [Outcomes: GA Profiles, Blogging + Portfolios](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week08)| |
 
 #### Week 7 - Neural Networks
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
-| Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) |  | Project |
+| Morning   | Hackathon | Keras: Regression (Lab) | Convolutional Neural Networks (Lab) | Intro to Tensorflow | Review  |
+| Afternoon | Hackathon | Keras: Classification (Lab) | Python: Object Oriented Programming (Lab) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week08)|  |  | [Outcomes: Catch Your Breath + Regroup](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/catchbreath.md)| |
 
 #### Week 8 - Unsupervised Learning
