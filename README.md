@@ -112,7 +112,7 @@ Follow this guide:
 | Afternoon | Pandas: Advanced Transformations (Lab) | EDA: Intro + Imputation (Lab) | Central Limit Theorem (Lab) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week01)|  |  | [Outcomes: Developing Your Network + The Local Landscape](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week%2022.md)| |
 
-#### Week 3 - Foundations of Data Modeling
+#### Week 3 - Regression and SQL
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -121,7 +121,7 @@ Follow this guide:
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week%2022.md)|  |  | [Outcomes: Finding Your Voice + Defining Your Brand](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week03)| |
 
 
-#### Week 4 - Regression
+#### Week 4 - Classification
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -129,7 +129,7 @@ Follow this guide:
 | Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week03)|  |  | [Outcomes: The Winning Resume Package](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week04)| |
 
-#### Week 5 - Classification
+#### Week 5 - Web Scraping, APIs and NLP
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -137,7 +137,7 @@ Follow this guide:
 | Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week04)|  |  | [Outcomes: A Day In The Life Studio Tour](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week05)| |
 
-#### Week 6 - Tree Classifiers and Web Scraping / APIs
+#### Week 6 - Tree Classifiers
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -145,7 +145,7 @@ Follow this guide:
 | Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week05)|  |  | [Outcomes: GA Profiles, Blogging + Portfolios](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week08)| |
 
-#### Week 7 - Unsupervised Learning
+#### Week 7 - Neural Networks
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -153,7 +153,7 @@ Follow this guide:
 | Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week08)|  |  | [Outcomes: Catch Your Breath + Regroup](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/catchbreath.md)| |
 
-#### Week 8 - Natural Language Processing and Time Series
+#### Week 8 - Unsupervised Learning
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -161,7 +161,7 @@ Follow this guide:
 | Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/catchbreath.md)|  |  | [Outcomes: Ask The Experts Panel](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week10)| |
 
-#### Week 9 - Bayesian Statistics and Inference
+#### Week 9 - Big Data
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -169,7 +169,7 @@ Follow this guide:
 | Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week10)|  |  | [Outcomes: Interviewing + Negotiating](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week07)| |
 
-#### Week 10 - Neural Networks
+#### Week 10 - Advanced Topics
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -177,7 +177,7 @@ Follow this guide:
 | Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week07)|  |  | [Outcomes: Non-Negotiables + Application Strategy](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week88.md)| |
 
-#### Week 11 - Big Data
+#### Week 11 - Bayesian Statistics and Inference
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
