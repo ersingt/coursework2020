@@ -108,16 +108,16 @@ Follow this guide:
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Plotting (Lab) | EDA: Benford's Law | Discrete + Continuous Distributions (Lab) | Advanced EDA: Titanic | Review  |
-| Afternoon | Pandas: Advanced Transformations (Lab) | EDA: Intro + Imputation (Lab) | Central Limit Theorem (Lab) |  | Project |
+| Morning   | Plotting (Lab) | Stats: Discrete + Continuous Distributions (Lab) | SQL I | SQL II | Titanic EDA Lab  |
+| Afternoon | Pandas: Advanced Transformations (Lab) | EDA: Intro + Imputation (Lab) | Stats: Central Limit Theorem (Lab) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week01)|  |  | [Outcomes: Developing Your Network + The Local Landscape](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week%2022.md)| |
 
 #### Week 3 - Regression and SQL
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) | Review  |
-| Afternoon | Lecture (Lab) | Lecture (Lab) | Lecture (Lab) |  | Project |
+| Morning   | AWS I | AWS II | Regularization (Lab) | Stats: Confidence Intervals (Lab) | Review  |
+| Afternoon | Linear Regression (Lab) | Regression Metrics (Lab) | Train/Test Split + Cross Validation (Lab) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week%2022.md)|  |  | [Outcomes: Finding Your Voice + Defining Your Brand](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week03)| |
 
 
