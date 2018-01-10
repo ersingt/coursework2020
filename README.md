@@ -10,7 +10,7 @@ It's important that you've completed the following before doing anything:
 1. Created a [GitHub Enterprise](http://git.generalassemb.ly) and [Github](http://www.github.com) account. Make sure to set-up an account and add a photo.
 1. Download and install [Slack](http://www.slack.com).  
 _Check your mail for the invite to the ga-students.slack.com team. Update your profile under “Profile & Account” so that it includes your actual name and which General Assembly Campus you are attending (ex: John Smith attending class in LA would put First Name: John Last Name: Smith (LA)._
-1. Opened an account with [Amazon Web Services (AWS)](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/). 
+1. Opened an account with [Amazon Web Services (AWS)](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/).
 1. Completed the [technology survey](https://goo.gl/forms/eAVWUaIigClCYrP52) so we know how to support you.
 
 ## Day 0: Lessons
@@ -25,16 +25,16 @@ Much of what we will be going over on 0 Day will be driven from our [wiki](https
 
 ## Main Wiki
 
-Class information will be located on the [main wiki](https://git.generalassemb.ly/dsi-plus-2/dsi-plus-home/wiki) associated with this _dsi-plus-home_ repo. 
+Class information will be located on the [main wiki](https://git.generalassemb.ly/dsi-plus-2/dsi-plus-home/wiki) associated with this _dsi-plus-home_ repo.
 
-Here you will find: 
+Here you will find:
 - Daily schedules
 - Project guidelines
 - Walkthroughs and cheatsheets
 - Campus information
 - Extra resources
 
-Take the time to bookmark the wiki now. You will be using it everyday. 
+Take the time to bookmark the wiki now. You will be using it everyday.
 
 --------
 
@@ -92,7 +92,7 @@ Follow this guide:
 
 ---
 
-*Lesson recordings:* Link Coming Soon! 
+*Lesson recordings:* Link Coming Soon!
 
 ---
 
@@ -100,8 +100,8 @@ Follow this guide:
 
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
-| Morning | **No Class** | [Python: Enumeration](https://git.generalassemb.ly/DSI-WEST-3/lesson-python-enumeration) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-python-enumeration)) | Lecture (Lab) | Lecture (Lab) | Review  |
-| Afternoon| **No Class** | Lecture (Lab) | Lecture (Lab) | Lecture (Lab)| Project |
+| Morning | **No Class** | [Python: Enumeration](https://git.generalassemb.ly/DSI-WEST-3/lesson-python-enumeration) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-python-enumeration)) | NumPy: Intro (Lab) | Pandas: Feature Engineering (Lab) | Pandas: Combining DataFrames (Lab)  |
+| Afternoon| **No Class** | Python: Functions and Data Types (Lab) | Pandas: Intro (Lab) | | Review |
 | Outcomes |    |    |   | [Outcomes: Intro to Outcomes + Alumni Panel](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week01)| |        
 
 #### Week 2 - Exploratory Data Analysis
