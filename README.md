@@ -108,7 +108,7 @@ Follow this guide:
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Plotting (Lab) | Stats: Discrete + Continuous Distributions (Lab) | SQL I | SQL II | Titanic EDA Lab  |
+| Morning   | [Plotting](https://git.generalassemb.ly/DSI-WEST-3/lesson-matplotlib) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-matplotlib)) | Stats: Discrete + Continuous Distributions (Lab) | SQL I | SQL II | [Titanic EDA Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-pandas-titanic)  |
 | Afternoon | Pandas: Advanced Transformations (Lab) | EDA: Intro + Imputation (Lab) | Stats: Central Limit Theorem (Lab) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week01)|  |  | [Outcomes: Developing Your Network + The Local Landscape](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week%2022.md)| |
 
