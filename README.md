@@ -3,7 +3,7 @@
 ---
 
 *Lesson recordings:* https://www.youtube.com/playlist?list=PLYGvOQTnahYLD-A-NIUpvK-8E2B0GXBE8
-
+*Zoom ID:* 983-396-761
 ---
 
 #### Week 1 - Getting Started: Python for Data Science
