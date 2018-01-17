@@ -6,6 +6,10 @@
 
 *Zoom ID:* 983-396-761
 
+*1 on 1s*:
+Dave: https://dsi-dave.youcanbook.me
+Riley: https://rileyga.youcanbook.me
+
 ---
 
 #### Week 1 - Getting Started: Python for Data Science
