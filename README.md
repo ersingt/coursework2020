@@ -44,7 +44,7 @@ Riley: https://rileyga.youcanbook.me
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Intro to Classification + KNN (Lab) | Grid Search (Lab) | Pipelines (Lab) | Stats: Hypothesis Testing, Intro to HTML | Review  |
-| Afternoon | Classification Metrics I (Lab) | Classification Metrics II (Lab) | Logistic Regression (Lab) |  | Project |
+| Afternoon | Classification Metrics I (Lab) | Classification Metrics II (Lab) **Project 2 Due** | Logistic Regression (Lab) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week03)|  |  | [Outcomes: The Winning Resume Package](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week04)| |
 
 #### Week 5 - Web Scraping, APIs and NLP
@@ -68,7 +68,7 @@ Riley: https://rileyga.youcanbook.me
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Hackathon | Keras: Regression (Lab) | Convolutional Neural Networks (Lab) | Intro to Tensorflow | Review  |
-| Afternoon | Hackathon | Keras: Classification (Lab) | Python: Object Oriented Programming (Lab) |  | Project |
+| Afternoon | Hackathon | Keras: Classification (Lab) | Python: Object Oriented Programming (Lab) **Project 3 Due** |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week08)|  |  | [Outcomes: Catch Your Breath + Regroup](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/catchbreath.md)| |
 
 #### Week 8 - Unsupervised Learning
@@ -92,7 +92,7 @@ Riley: https://rileyga.youcanbook.me
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Timeseries in Pandas | Trump vs Sanders | Django | Recommendation Engine | Review  |
-| Afternoon | Project Time | Project Time | Project Time |  | Project |
+| Afternoon | Project Time | Project Time | **Project 4 Due** |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week07)|  |  | [Outcomes: Non-Negotiables + Application Strategy](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week88.md)| |
 
 #### Week 11 - Bayesian Statistics and Inference
