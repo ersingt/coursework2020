@@ -27,7 +27,7 @@ Riley: https://rileyga.youcanbook.me
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [Plotting](https://git.generalassemb.ly/DSI-WEST-3/lesson-matplotlib) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-matplotlib)) | [SQL I](https://git.generalassemb.ly/DSI-WEST-3/lesson-sql) | [SQL II](https://git.generalassemb.ly/DSI-WEST-3/lesson-sql) | [Stats: Discrete + Continuous Distributions](https://git.generalassemb.ly/DSI-WEST-3/lesson-distributions) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-distributions)) | [Titanic EDA Lab](https://git.generalassemb.ly/DSI-WEST-3/project-pandas-titanic)  |
-| Afternoon | [Pandas: Advanced Transformations](https://git.generalassemb.ly/DSI-WEST-3/1.5-pandas-advanced-transformations) (No lab) | [EDA: Intro + Imputation](https://git.generalassemb.ly/DSI-WEST-3/eda-basic_eda_walkthrough-lesson) (lab TBD) | Stats: Central Limit Theorem (lab TBD) |  | Project |
+| Afternoon | [Pandas: Advanced Transformations](https://git.generalassemb.ly/DSI-WEST-3/1.5-pandas-advanced-transformations) (No lab) | [EDA: Intro + Imputation](https://git.generalassemb.ly/DSI-WEST-3/eda-basic_eda_walkthrough-lesson) ([optional lab](https://git.generalassemb.ly/DSI-WEST-3/eda-data_cleaning_intro-lab)) | Stats: Central Limit Theorem (lab TBD) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week01)|  |  | [Outcomes: Developing Your Network + The Local Landscape](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week%2022.md)| |
 
 #### Week 3 - Regression and SQL
