@@ -36,7 +36,7 @@ Riley: https://rileyga.youcanbook.me
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | AWS I | AWS II | Regularization (Lab) | Stats: Confidence Intervals (Lab) | Review  |
 | Afternoon | Linear Regression (Lab) | Regression Metrics (Lab) | Train/Test Split + Cross Validation (Lab) |  | Project |
-| Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week%2022.md)|  |  | [Outcomes: Finding Your Voice + Defining Your Brand](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week03)| |
+| Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week%2022.md)|  |  |[Outcomes: The Winning Resume Package](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week04) | ||
 
 
 #### Week 4 - Classification
@@ -45,7 +45,7 @@ Riley: https://rileyga.youcanbook.me
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Intro to Classification + KNN (Lab) | Grid Search (Lab) | Pipelines (Lab) | Stats: Hypothesis Testing, Intro to HTML | Review  |
 | Afternoon | Classification Metrics I (Lab) | Classification Metrics II (Lab) **Project 2 Due** | Logistic Regression (Lab) |  | Project |
-| Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week03)|  |  | [Outcomes: The Winning Resume Package](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week04)| |
+| Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week04)|  |  | [Outcomes: Finding Your Voice + Defining Your Brand](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week03)| |
 
 #### Week 5 - Web Scraping, APIs and NLP
 
@@ -53,7 +53,7 @@ Riley: https://rileyga.youcanbook.me
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Web Scraping I (Lab) | APIs: Flask (Lab) | NLP I (Lab) | Regex (Lab) | Review  |
 | Afternoon | Web Scraping II (Lab) | APIs (Lab) | NLP II (Lab) |  | Project |
-| Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week04)|  |  | [Outcomes: A Day In The Life Studio Tour](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week05)| |
+| Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week03)|  |  | [Outcomes: A Day In The Life Studio Tour](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week05)| |
 
 #### Week 6 - Tree Classifiers
 
