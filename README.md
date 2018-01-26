@@ -34,7 +34,7 @@ Riley: https://rileyga.youcanbook.me
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | AWS I | AWS II | Regularization (Lab) | Stats: Confidence Intervals (Lab) | Review  |
+| Morning   | AWS I | AWS II | Regularization (Lab) | [Stats: Confidence Intervals](https://git.generalassemb.ly/DSI-WEST-3/lesson-confidence-intervals) (Lab) | Review  |
 | Afternoon | Linear Regression (Lab) | Regression Metrics (Lab) | Train/Test Split + Cross Validation (Lab) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week%2022.md)|  |  |[Outcomes: The Winning Resume Package](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week04) | ||
 
