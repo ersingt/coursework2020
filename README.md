@@ -35,7 +35,7 @@ Riley: https://rileyga.youcanbook.me
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | AWS I ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-vim-adventures)) | AWS II | [Regularization](https://git.generalassemb.ly/DSI-WEST-3/lesson-regression-regularization) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-regression-regularization_kobe_shots)) | [Stats: Confidence Intervals](https://git.generalassemb.ly/DSI-WEST-3/lesson-confidence-intervals) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-sampling)) | Review  |
-| Afternoon | [Linear Regression I](https://git.generalassemb.ly/DSI-WEST-3/regression-simple_linear_regression-lesson) (None) | Linear [Regression II](https://git.generalassemb.ly/DSI-WEST-3/regression-simple_linear_regression-lesson) (Lab) | Train/Test Split + Cross Validation (Lab) |  | Project |
+| Afternoon | [Linear Regression I](https://git.generalassemb.ly/DSI-WEST-3/regression-simple_linear_regression-lesson) (None) | Linear [Regression II](https://git.generalassemb.ly/DSI-WEST-3/intro-to-sklearn-linear-regression) | [Train/Test Split + Cross Validation](https://git.generalassemb.ly/DSI-WEST-3/evaluation-cross_validation_train_test-lesson) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/evaluation-cross_validation_train_test-lab)) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week%2022.md)|  |  |[Outcomes: The Winning Resume Package](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week04) | ||
 
 
