@@ -43,7 +43,7 @@ Riley: https://rileyga.youcanbook.me
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [Intro to Classification + KNN](https://git.generalassemb.ly/DSI-WEST-3/lesson-classification-knn_intro_to_classification) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-classification-knn_intro_to_classification)) | Grid Search (Lab) | Pipelines (Lab) | Stats: Hypothesis Testing | [Intro to HTML](https://git.generalassemb.ly/DSI-WEST-3/lesson-web-html_css)  |
+| Morning   | [Intro to Classification + KNN](https://git.generalassemb.ly/DSI-WEST-3/lesson-classification-knn_intro_to_classification) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-classification-knn_intro_to_classification)) | [Grid Search](https://git.generalassemb.ly/DSI-WEST-3/lesson-feature-selection-grid-search) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-feature-selection-grid-search)) | Pipelines (Lab) | Stats: Hypothesis Testing | [Intro to HTML](https://git.generalassemb.ly/DSI-WEST-3/lesson-web-html_css)  |
 | Afternoon | Classification Metrics I (Lab) | Classification Metrics II (Lab) | Logistic Regression (Lab) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week04)|  |  | [Outcomes: Finding Your Voice + Defining Your Brand](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week03)| |
 
