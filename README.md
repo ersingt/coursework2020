@@ -51,7 +51,7 @@ Riley: https://rileyga.youcanbook.me
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [Web Scraping I](https://git.generalassemb.ly/DSI-WEST-3/python-intro_to_webscraping-lesson) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-beautiful-soup)) | APIs: Flask (Lab) | NLP I (Lab) | [Regex](https://git.generalassemb.ly/DSI-WEST-3/python-regex-lesson/) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-regex)) | Review  |
+| Morning   | [Web Scraping I](https://git.generalassemb.ly/DSI-WEST-3/python-intro_to_webscraping-lesson) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-beautiful-soup)) | APIs: Flask (Lab) | NLP I ([Lab](https://git.generalassemb.ly/DSI-WEST-3/nlp-intro_to_nlp-lab)) | [Regex](https://git.generalassemb.ly/DSI-WEST-3/python-regex-lesson/) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-regex)) | Review  |
 | Afternoon | Web Scraping II (Lab) | APIs (Lab) | NLP II (Lab) [**Project 2 Due**](https://git.generalassemb.ly/DSI-WEST-3/project-2) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week03)|  |  | [Outcomes: A Day In The Life Studio Tour](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week05)| |
 
