@@ -68,7 +68,7 @@ Riley: https://rileyga.youcanbook.me
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Hackathon | Keras: Regression (Lab) | Convolutional Neural Networks (Lab) | Intro to Tensorflow | Review  |
-| Afternoon | Hackathon | Keras: Classification (Lab) | Python: Object Oriented Programming (Lab) **Project 3 Due** |  | Project |
+| Afternoon | Hackathon | Keras: Classification (Lab) | Python: Object Oriented Programming (Lab) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week08)|  |  | [Outcomes: Catch Your Breath + Regroup](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/catchbreath.md)| |
 
 #### Week 8 - Unsupervised Learning
@@ -84,7 +84,7 @@ Riley: https://rileyga.youcanbook.me
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Intro to Scala + Spark DataFrames | Spark: Classification and Regression | Spark: Pipelines and Grid Search | Spark: NLP | Review  |
-| Afternoon | Project Time | Project Time | [Project 3 Due](https://git.generalassemb.ly/DSI-WEST-3/project-3) |  | Project |
+| Afternoon | Project Time | Project Time | [**Project 3 Due**](https://git.generalassemb.ly/DSI-WEST-3/project-3) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week10)|  |  | [Outcomes: Interviewing + Negotiating](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week07)| |
 
 #### Week 10 - Advanced Topics
