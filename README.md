@@ -59,7 +59,7 @@ Riley: https://rileyga.youcanbook.me
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | **No Class** | Decision Trees I (Lab) | Bagging, Random Forests, Boosting | Capstone: Milestone I | **Capstone: Milestone I Due**  |
+| Morning   | **No Class** | Decision Trees I (Lab) | [Bagging, Random Forests, Boosting](https://git.generalassemb.ly/DSI-WEST-3/lesson-bagging-rf-boosting) | Capstone: Milestone I | **Capstone: Milestone I Due**  |
 | Afternoon | **No Class** | Decision Trees II (Lab) | Ensemble Lab |  | Capstone: Milestone I Presentations |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week05)|  |  | [Outcomes: GA Profiles, Blogging + Portfolios](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week08)| |
 
