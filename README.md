@@ -67,8 +67,8 @@ Riley: https://rileyga.youcanbook.me
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Hackathon | Keras: Regression (Lab) | Convolutional Neural Networks (Lab) | Intro to Tensorflow | Review  |
-| Afternoon | Hackathon | Keras: Classification (Lab) | Python: Object Oriented Programming (Lab) |  | Project |
+| Morning   | Keras: Regression (Lab) | Keras: Classification (Lab) | Convolutional Neural Networks | Intro to Tensorflow | Review  |
+| Afternoon | Recommender Systems | Recommender Systems | CNN Lab |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week08)|  |  | [Outcomes: Catch Your Breath + Regroup](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/catchbreath.md)| |
 
 #### Week 8 - Unsupervised Learning
@@ -91,7 +91,7 @@ Riley: https://rileyga.youcanbook.me
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Timeseries in Pandas | Trump vs Sanders | Django | Recommendation Engine | Review  |
+| Morning   | Timeseries in Pandas | Trump vs Sanders | Django | Hackathon | Review  |
 | Afternoon | Project Time | Project Time | **Project 4 Due** |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week07)|  |  | [Outcomes: Non-Negotiables + Application Strategy](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week88.md)| |
 
