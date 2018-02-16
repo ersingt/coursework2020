@@ -84,7 +84,7 @@ Riley: https://rileyga.youcanbook.me
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Intro to Scala + Spark DataFrames | Spark: Classification and Regression | Spark: Pipelines and Grid Search | Spark: NLP | Review  |
-| Afternoon | Project Time | Project Time | Project Time |  | Project |
+| Afternoon | Project Time | Project Time | [Project 3 Due](https://git.generalassemb.ly/DSI-WEST-3/project-3) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week10)|  |  | [Outcomes: Interviewing + Negotiating](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week07)| |
 
 #### Week 10 - Advanced Topics
