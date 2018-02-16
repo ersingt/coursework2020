@@ -91,8 +91,8 @@ Riley: https://rileyga.youcanbook.me
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Timeseries in Pandas | Trump vs Sanders | Django | Hackathon | Review  |
-| Afternoon | Project Time | Project Time | **Project 4 Due** |  | Project |
+| Morning   | Timeseries in Pandas | Benford's Law | Model Stacking | Hackathon | Review  |
+| Afternoon | Trump vs Sanders | Django | **Project 4 Due** |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week07)|  |  | [Outcomes: Non-Negotiables + Application Strategy](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week88.md)| |
 
 #### Week 11 - Bayesian Statistics and Inference
