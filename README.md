@@ -67,7 +67,7 @@ Riley: https://rileyga.youcanbook.me
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Keras: Regression (Lab) | Keras: Classification (Lab) | Convolutional Neural Networks | Intro to Tensorflow | Review  |
+| Morning   | [Intro to Neural Networks + Keras](https://git.generalassemb.ly/DSI-WEST-3/lesson-intro-to-neural-networks) (Lab) | Keras: Classification ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-keras)) | Convolutional Neural Networks | Intro to Tensorflow | Review  |
 | Afternoon | Recommender Systems | Recommender Systems | CNN Lab |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week08)|  |  | [Outcomes: Catch Your Breath + Regroup](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/catchbreath.md)| |
 
