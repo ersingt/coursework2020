@@ -75,7 +75,7 @@ Riley: https://rileyga.youcanbook.me
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Unsupervised Learning: Intro (Lab) | Hierarchical Clustering (Lab) | DBSCAN (Lab) | PCA (Lab) | Review  |
+| Morning   | [Unsupervised Learning: Intro](https://git.generalassemb.ly/DSI-WEST-3/DSI-SF-6-clustering-intro_to_clustering_kmeans-lesson) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/clustering-intro_to_clustering_kmeans-lab)) | [DBSCAN](https://git.generalassemb.ly/DSI-WEST-3/DSI-SF-6-clustering-dbscan_from_scratch-lesson) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/clustering-dbscan-lab))| [Hierarchical Clustering](https://git.generalassemb.ly/DSI-WEST-3/DSI-SF-6-clustering-hierarchical_clustering-lesson) ([BATTLE of the Clusterers!](https://git.generalassemb.ly/DSI-WEST-3/clustering-battle_of_clusterers-lab))  | PCA (Lab) | Review  |
 | Afternoon | Project Time | Project Time | Project Time |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/catchbreath.md)|  |  | [Outcomes: Ask The Experts Panel](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week10)| |
 
