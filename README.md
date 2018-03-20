@@ -93,7 +93,7 @@ Riley: https://rileyga.youcanbook.me
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [Django with C9.io](https://git.generalassemb.ly/DSI-WEST-3/10.2-webdevelopment_with_django) | [Timeseries with Pandas](https://git.generalassemb.ly/DSI-WEST-3/Timeseries_With_Pandas) | Benford's Law | Model Stacking | Review  |
 | Afternoon | Django Continued | [PCA](https://git.generalassemb.ly/DSI-WEST-3/8.06-pca-intro-lesson) | Case Study Lab TBD |  | Project |
-| Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week07)| | **[Capstone Milestone 2 Due](https://git.generalassemb.ly/DSI-WEST-3/course-info/wiki/Capstone-Part-2:-Findings-and-Technical-Report)** |  | [Outcomes: Non-Negotiables + Application Strategy](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week88.md)| |
+| Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week07)| | **[Capstone Milestone 2 Due](https://git.generalassemb.ly/DSI-WEST-3/course-info/wiki/Capstone-Part-2:-Findings-and-Technical-Report)** |[Outcomes: Non-Negotiables + Application Strategy](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week88.md)| |
 
 #### Week 11 - Bayesian Statistics and Inference
 
