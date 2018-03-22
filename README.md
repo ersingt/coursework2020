@@ -99,8 +99,8 @@ Riley: https://rileyga.youcanbook.me
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Bayes: Intro | Bayesian Inference | Project Time | Bayes Regression/PyMC | Bayesian Networks  |
-| Afternoon | Model-Based Bayes | Maximum Likelihood | MCMC |  | Project |
+| Morning   | Intro to Bayes | Bayesian Inference | Maximum Likelihood | MCMC | PyMC3  |
+| Afternoon | --- | --- | ---  |  --- | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week88.md)|  |  | [Outcomes: Cracking the Technical Interview](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week11)| |
 
 
