@@ -92,16 +92,18 @@ Riley: https://rileyga.youcanbook.me
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [Django with C9.io](https://git.generalassemb.ly/DSI-WEST-3/10.2-webdevelopment_with_django) | [Timeseries with Pandas](https://git.generalassemb.ly/DSI-WEST-3/Timeseries_With_Pandas) | Benford's Law | Model Stacking | Review  |
-| Afternoon | Django Continued | [PCA](https://git.generalassemb.ly/DSI-WEST-3/8.06-pca-intro-lesson) | Case Study Lab TBD |  | Project |
+| Afternoon | Django Continued | [PCA](https://git.generalassemb.ly/DSI-WEST-3/8.06-pca-intro-lesson) | [Insult lab](https://git.generalassemb.ly/DSI-WEST-3/DSI-SF-6-nlp-insult-classification-nsfw) |  | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week07)| | **[Capstone Milestone 2 Due](https://git.generalassemb.ly/DSI-WEST-3/course-info/wiki/Capstone-Part-2:-Findings-and-Technical-Report)** |[Outcomes: Non-Negotiables + Application Strategy](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week88.md)| |
 
 #### Week 11 - Bayesian Statistics and Inference
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Bayes: Intro | Bayesian Inference | Project Time | MCMC | Bayesian Networks  |
-| Afternoon | Model-Based Bayes | Maximum Likelihood | Bayes Regression/PyMC |  | Project |
+| Morning   | [Intro to Bayes](https://git.generalassemb.ly/DSI-WEST-3/lesson-intro_to_bayes-lesson) | Bayesian Inference | [Maximum Likelihood](https://git.generalassemb.ly/DSI-WEST-3/lesson-bayes-conjugacy-mle) | MCMC | PyMC3  |
+| Afternoon | Intro to Bayes Lab | --- | [MLE in the MLB (Lab)](https://git.generalassemb.ly/DSI-WEST-3/lab-bayes-baseball)  |  --- | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week88.md)|  |  | [Outcomes: Cracking the Technical Interview](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week11)| |
+
+
 
 #### Week 12 - Capstone
 
