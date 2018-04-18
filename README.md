@@ -4,12 +4,15 @@
 
 *Lesson recordings:* https://www.youtube.com/playlist?list=PLYGvOQTnahYLD-A-NIUpvK-8E2B0GXBE8
 
-*Zoom ID:* 983-396-761
+#### Zoom
+
+| East Coast | https://generalassembly.zoom.us/s/178107556 |
+|------------|---------------------------------------------|
+| West Coast | https://generalassembly.zoom.us/s/810738740 |
 
 *1 on 1s*:
 
 Dave: https://dsi-dave.youcanbook.me
-
 Riley: https://rileyga.youcanbook.me
 
 ---
