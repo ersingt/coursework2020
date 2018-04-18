@@ -6,8 +6,9 @@
 
 #### Zoom
 
-| East Coast | https://generalassembly.zoom.us/s/178107556 |
+| Coast      | URL                                         |
 |------------|---------------------------------------------|
+| East Coast | https://generalassembly.zoom.us/s/178107556 |
 | West Coast | https://generalassembly.zoom.us/s/810738740 |
 
 *1 on 1s*:
