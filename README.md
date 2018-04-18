@@ -2,7 +2,9 @@
 
 ---
 
-*Lesson recordings:* https://www.youtube.com/playlist?list=PLYGvOQTnahYLD-A-NIUpvK-8E2B0GXBE8
+#### Lesson Recordings
+
+https://www.youtube.com/playlist?list=PLYGvOQTnahYK1o6XyY0aaPLQxd68_tX86
 
 #### Zoom
 
