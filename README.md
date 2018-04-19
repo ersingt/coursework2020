@@ -81,32 +81,29 @@ View the Outcomes Schedule + Materials [here](https://git.generalassemb.ly/DSI-U
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [Unsupervised Learning: Intro](https://git.generalassemb.ly/DSI-WEST-3/DSI-SF-6-clustering-intro_to_clustering_kmeans-lesson) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/clustering-intro_to_clustering_kmeans-lab)) | [DBSCAN](https://git.generalassemb.ly/DSI-WEST-3/DSI-SF-6-clustering-dbscan_from_scratch-lesson) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/clustering-dbscan-lab))| [Hierarchical Clustering](https://git.generalassemb.ly/DSI-WEST-3/DSI-SF-6-clustering-hierarchical_clustering-lesson) ([BATTLE of the Clusterers!](https://git.generalassemb.ly/DSI-WEST-3/clustering-battle_of_clusterers-lab))  | [Trump vs Sanders](https://git.generalassemb.ly/DSI-WEST-3/10.1-nlp-twitter_api_case_study-lab) | Review  |
-| Afternoon | Project Time | Project Time | Project Time |  | Project |
-| Outcomes  | |  |  | [Outcomes: Ask The Experts Panel](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/10-week)| |
+| Afternoon | Project Time | Project Time | Project Time | Outcomes: [Ask The Experts Panel](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/10-week)| Project |
 
 #### Week 9 - Big Data
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Intro to Scala + Spark DataFrames | Spark: Classification and Regression | Spark: Pipelines and Grid Search | Spark: NLP | Review  |
-| Afternoon | Project Time | [Spark Regression Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-spark-model) | [**Project 3 Due**](https://git.generalassemb.ly/DSI-WEST-3/project-3) |  | Project |
-| Outcomes  | |  |  | [Outcomes: Interviewing + Negotiating](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/07-week)| |
+| Afternoon | Project Time | [Spark Regression Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-spark-model) | [**Project 3 Due**](https://git.generalassemb.ly/DSI-WEST-3/project-3) |Outcomes: [Interviewing + Negotiating](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/07-week) | Project |
 
 #### Week 10 - Advanced Topics
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [Django with C9.io](https://git.generalassemb.ly/DSI-WEST-3/10.2-webdevelopment_with_django) | [Timeseries with Pandas](https://git.generalassemb.ly/DSI-WEST-3/Timeseries_With_Pandas) | Benford's Law | Model Stacking | Review  |
-| Afternoon | Django Continued | [PCA](https://git.generalassemb.ly/DSI-WEST-3/8.06-pca-intro-lesson) | [Insult lab](https://git.generalassemb.ly/DSI-WEST-3/DSI-SF-6-nlp-insult-classification-nsfw) |  | Project |
-| Outcomes  | | | **[Capstone Milestone 2 Due](https://git.generalassemb.ly/DSI-WEST-3/course-info/wiki/Capstone-Part-2:-Findings-and-Technical-Report)** |[Outcomes: Application Strategy](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/blob/master/roadmap/week88.md)| |
+| Afternoon | Django Continued | [PCA](https://git.generalassemb.ly/DSI-WEST-3/8.06-pca-intro-lesson) | [Insult lab](https://git.generalassemb.ly/DSI-WEST-3/DSI-SF-6-nlp-insult-classification-nsfw) |Outcomes: [Application Strategy](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/blob/master/roadmap/week88.md)  | Project |
+**[Capstone Milestone 2 Due](https://git.generalassemb.ly/DSI-WEST-3/course-info/wiki/Capstone-Part-2:-Findings-and-Technical-Report)** 
 
 #### Week 11 - Bayesian Statistics and Inference
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [Intro to Bayes](https://git.generalassemb.ly/DSI-WEST-3/lesson-intro_to_bayes-lesson) | [Bayesian Inference](https://git.generalassemb.ly/DSI-WEST-3/lesson-bayesian_inference) | [Maximum Likelihood](https://git.generalassemb.ly/DSI-WEST-3/lesson-bayes-conjugacy-mle) | [PyMC3](https://git.generalassemb.ly/DSI-WEST-3/lesson-pymc3) | MCMC |
-| Afternoon | [Intro to Bayes Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-bayes-intro) | --- | [MLE in the MLB (Lab)](https://git.generalassemb.ly/DSI-WEST-3/lab-bayes-baseball)  |  --- | Project |
-| Outcomes  | |  |  | [Outcomes: Cracking the Technical Interview](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/11-week)| |
+| Afternoon | [Intro to Bayes Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-bayes-intro) | --- | [MLE in the MLB (Lab)](https://git.generalassemb.ly/DSI-WEST-3/lab-bayes-baseball)  | Outcomes: [Cracking the Technical Interview](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/11-week) | Project |
 
 
 
@@ -115,5 +112,4 @@ View the Outcomes Schedule + Materials [here](https://git.generalassemb.ly/DSI-U
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Capstone | Capstone | Capstone | Capstone | Review  |
-| Afternoon | Capstone | [Project 4 Due](https://git.generalassemb.ly/DSI-WEST-3/Start_Global_Terrorism_Project) | Capstone |  | Project |
-| Outcomes  | |  |  | [Outcomes: Qualification Check In + Post-Course Expectations](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/09-week)| |
+| Afternoon | Capstone | [Project 4 Due](https://git.generalassemb.ly/DSI-WEST-3/Start_Global_Terrorism_Project) | Capstone |  | Project |[Outcomes: Qualification Check In + Post-Course Expectations](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/09-week)| |
