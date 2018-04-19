@@ -45,8 +45,7 @@ View the Outcomes Schedule + Materials [here](https://git.generalassemb.ly/DSI-U
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Linear Regression: Intro | Regression Evaluation Metrics | Feature Engineering | Regularization | Object Oriented Programming  |
-| Afternoon | Linear Regression: Multivariate | Bias-Variance Tradeoff | Train/Test Split + Cross Validation | Outcomes | Local Time |
-| Outcomes  | |  |  | Outcomes: Finding Your Voice + Defining Your Brand](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/03-week)| | |
+| Afternoon | Linear Regression: Multivariate | Bias-Variance Tradeoff | Train/Test Split + Cross Validation | Outcomes: [Finding Your Voice + Defining Your Brand](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/03-week)| Local Time |
 
 
 #### Week 4 - Classification
@@ -54,32 +53,28 @@ View the Outcomes Schedule + Materials [here](https://git.generalassemb.ly/DSI-U
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Intro to Classification + KNN | Generalized Linear Models | Project Time | Pipelines + GridSearchCV | Project 2 Due |
-| Afternoon | Logistic Regression | Classification Metrics I | Classification Metrics II | Outcomes | Local Time |
-| Outcomes  | |  |  | [Outcomes: The Winning Resume Package](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/04-week)| |
+| Afternoon | Logistic Regression | Classification Metrics I | Classification Metrics II | Outcomes: [The Winning Resume Package](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/04-week) | Local Time |
 
 #### Week 5 - Web Scraping, APIs and NLP
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Web Scraping I | Flask I | NLP I | Naive Bayes | Midterm Exam  |
-| Afternoon | Web Scraping II | Flask II | NLP II | Outcomes | Local Time |
-| Outcomes  | |  |  | [Outcomes: A Day In The Life](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/05-week)| |
+| Afternoon | Web Scraping II | Flask II | NLP II | Outcomes: [A Day In The Life](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/05-week | Local Time |
 
 #### Week 6 - Advanced Classifiers
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | **No Class** | CART I | Bagging, Random Forests, Boosting | Gradient Descent | Project 3 Due  |
-| Afternoon | **No Class** | CART II | SVMs | Outcomes | Local Time |
-| Outcomes  | |  |  | [Outcomes: GA Profiles, Blogging + Portfolios](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/08-week)| |
+| Afternoon | **No Class** | CART II | SVMs | [Outcomes: GA Profiles, Blogging + Portfolios](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/08-week) | Local Time |
 
 #### Week 7 - Neural Networks
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Flex/Hackathon | Neural Networks: Intro | Keras: Intro | CNNs I | CNNs II  |
-| Afternoon | Flex/Hackathon | Tensorflow: Intro | Methods of Regularization | Outcomes | Local Time |
-| Outcomes  | |  |  | [Outcomes: Guest Speaker, Catch Your Breath + Regroup](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/blob/master/roadmap/catchbreath.md)| |
+| Afternoon | Flex/Hackathon | Tensorflow: Intro | Methods of Regularization | [Outcomes: Guest Speaker, Catch Your Breath + Regroup](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/blob/master/roadmap/catchbreath.md) | Local Time |
 
 #### Week 8 - Unsupervised Learning
 
