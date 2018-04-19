@@ -31,16 +31,14 @@ View the Outcomes Schedule + Materials [here](https://git.generalassemb.ly/DSI-U
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
 | Morning | Datatypes | FUNctions | Discrete Distributions | Central Limit Theorem | Inference  |
-| Afternoon| Control Flow | List Comprehension | Continuous Distributions | Outcomes | Local Time |
-| Outcomes |    |    |   | [Outcomes: Intro to Outcomes](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/01-week)| |        
+| Afternoon| Control Flow | List Comprehension | Continuous Distributions | Outcomes: [Intro to Outcomes](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/01-week) | Local Time |
 
 #### Week 2 - Exploratory Data Analysis
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Pandas: Intro | Exploratory Data Analysis | SQL: Intro | Pandas: Joining DataFrames | Project 1 Due |
-| Afternoon | Pandas: Features and Plotting | Pandas: Advanced Transformations | SQL: Joining Tables | Outcomes | Local Time |
-| Outcomes  | |  |  | [Outcomes: Alumni Panel, Developing Your Network + The Local Landscape](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/blob/master/roadmap/week%2022.md)| |
+| Afternoon | Pandas: Features and Plotting | Pandas: Advanced Transformations | SQL: Joining Tables | Outcomes: [Alumni Panel, Developing Your Network + The Local Landscape](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/blob/master/roadmap/week%2022.md) | Local Time |
 
 #### Week 3 - Regression
 
