@@ -27,15 +27,15 @@ https://www.youtube.com/playlist?list=PLYGvOQTnahYK1o6XyY0aaPLQxd68_tX86
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
 | Morning | Datatypes | FUNctions | Discrete Distributions | Central Limit Theorem | Inference  |
-| Afternoon| Control Flow | List Comprehension | Continuous Distributions | Outcomes | Lab Time + Review |
+| Afternoon| Control Flow | List Comprehension | Continuous Distributions | Outcomes | Local Time |
 | Outcomes |    |    |   | [Outcomes: Intro to Outcomes + Alumni Panel](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week01)| |        
 
 #### Week 2 - Exploratory Data Analysis
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Pandas: Intro | Exploratory Data Analysis | SQL: Intro | Pandas: Joining DataFrames | Project 1 |
-| Afternoon | Pandas: Features and Plotting | Pandas: Advanced Transformations | SQL: Joining Tables | Outcomes | Project |
+| Morning   | Pandas: Intro | Exploratory Data Analysis | SQL: Intro | Pandas: Joining DataFrames | Project 1 Due |
+| Afternoon | Pandas: Features and Plotting | Pandas: Advanced Transformations | SQL: Joining Tables | Outcomes | Local Time |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week01)|  |  | [Outcomes: Developing Your Network + The Local Landscape](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week%2022.md)| |
 
 #### Week 3 - Regression
@@ -43,7 +43,7 @@ https://www.youtube.com/playlist?list=PLYGvOQTnahYK1o6XyY0aaPLQxd68_tX86
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Linear Regression: Intro | Regression Evaluation Metrics | Feature Engineering | Regularization | Object Oriented Programming  |
-| Afternoon | Linear Regression: Multivariate | Bias-Variance Tradeoff | Train/Test Split + Cross Validation | Outcomes | Project |
+| Afternoon | Linear Regression: Multivariate | Bias-Variance Tradeoff | Train/Test Split + Cross Validation | Outcomes | Local Time |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week%2022.md)|  |  |[Outcomes: The Winning Resume Package](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week04) | ||
 
 
@@ -51,8 +51,8 @@ https://www.youtube.com/playlist?list=PLYGvOQTnahYK1o6XyY0aaPLQxd68_tX86
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [Intro to Classification + KNN](https://git.generalassemb.ly/DSI-WEST-3/lesson-classification-knn_intro_to_classification) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-classification-knn_intro_to_classification)) | [Grid Search](https://git.generalassemb.ly/DSI-WEST-3/optimization-gridsearch_hyperparameters-lesson) | Pipelines | Stats: Hypothesis Testing | [Intro to HTML](https://git.generalassemb.ly/DSI-WEST-3/lesson-web-html_css)  |
-| Afternoon | [Classification Metrics I](https://git.generalassemb.ly/dsi-west-3/evaluation-classifiers_confusion_matrix_roc-lesson) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/evaluation-classifiers_confusion_matrix_roc-lab)) | [Classification Metrics II](https://git.generalassemb.ly/dsi-west-3/evaluation-classifiers_confusion_matrix_roc-lesson) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/evaluation-classifiers_confusion_matrix_roc-lab)) | [Logistic Regression](https://git.generalassemb.ly/DSI-WEST-3/classification-logistic_regression-lesson) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/classification-logistic_regression-lab)) |  | Project |
+| Morning   | Intro to Classification + KNN | Generalized Linear Models | Project Time | Pipelines + GridSearchCV | Project 2 Due |
+| Afternoon | Logistic Regression | Classification Metrics I | Classification Metrics II | Outcomes | Local Time |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week04)|  |  | [Outcomes: Finding Your Voice + Defining Your Brand](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week03)| |
 
 #### Week 5 - Web Scraping, APIs and NLP
