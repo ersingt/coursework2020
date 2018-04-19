@@ -63,12 +63,12 @@ https://www.youtube.com/playlist?list=PLYGvOQTnahYK1o6XyY0aaPLQxd68_tX86
 | Afternoon | Web Scraping II | Flask II | NLP II | Outcomes | Local Time |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week03)|  |  | [Outcomes: A Day In The Life Studio Tour](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week05)| |
 
-#### Week 6 - Tree Classifiers
+#### Week 6 - Advanced Classifiers
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | **No Class** | [Intro to CART](https://git.generalassemb.ly/DSI-WEST-3/trees-CARTs-lesson) | [Bagging, Random Forests, Boosting](https://git.generalassemb.ly/DSI-WEST-3/lesson-bagging-rf-boosting) | [Capstone: Milestone I](https://git.generalassemb.ly/DSI-WEST-3/course-info/wiki/Capstone-Guideline:--Problem-Statement,-EDA,-and-Dataset) | **Capstone: Milestone I Due**  |
-| Afternoon | **No Class** | [CART Lab](https://git.generalassemb.ly/DSI-WEST-3/trees-CARTs-lab) | [Ensemble Lab](https://git.generalassemb.ly/DSI-WEST-3/Ensemble-Lab) |  | Capstone: Milestone I Presentations |
+| Morning   | **No Class** | CART I | Bagging, Random Forests, Boosting | Gradient Descent | Project 3 Due  |
+| Afternoon | **No Class** | CART II | SVMs | Outcomes | Local Time |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week05)|  |  | [Outcomes: GA Profiles, Blogging + Portfolios](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week08)| |
 
 #### Week 7 - Neural Networks
