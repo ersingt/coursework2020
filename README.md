@@ -26,8 +26,8 @@ https://www.youtube.com/playlist?list=PLYGvOQTnahYK1o6XyY0aaPLQxd68_tX86
 
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
-| Morning | **No Class** | [Python: Enumeration](https://git.generalassemb.ly/DSI-WEST-3/lesson-python-enumeration) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-python-enumeration)) | [NumPy: Intro](https://git.generalassemb.ly/DSI-WEST-3/lesson-numpy) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-numpy-bingo)) | [Pandas: Feature Engineering](https://git.generalassemb.ly/DSI-WEST-3/lesson-pandas-feature-engineering) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-pandas-feature-engineering)) | [Pandas: Combining DataFrames](https://git.generalassemb.ly/DSI-WEST-3/lesson-pandas-combining) ([Lab 1](https://git.generalassemb.ly/DSI-WEST-3/lab-pandas-concat), [Lab 2](https://git.generalassemb.ly/DSI-WEST-3/lab-pandas-merge))  |
-| Afternoon| **No Class** | [Python: Functions and Data Types](https://git.generalassemb.ly/DSI-WEST-3/1.1-python-101-1) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/intro_to_python_pokemon_ext_lab)) | [Pandas: Intro](https://git.generalassemb.ly/DSI-WEST-3/1.4-eda-pandas_intro-lesson) ([Lab 1](https://git.generalassemb.ly/DSI-WEST-3/pandas-data_in_pandas_intro-lab), [Opt. Lab 2](https://git.generalassemb.ly/DSI-WEST-3/intro_to_python_pokemon_ext_lab)) |  | Lab Time + Review |
+| Morning | Datatypes | FUNctions | Discrete Distributions | Central Limit Theorem | Inference  |
+| Afternoon| Control Flow | List Comprehension | Continuous Distributions |  | Lab Time + Review |
 | Outcomes |    |    |   | [Outcomes: Intro to Outcomes + Alumni Panel](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week01)| |        
 
 #### Week 2 - Exploratory Data Analysis
