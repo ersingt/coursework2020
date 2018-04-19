@@ -75,8 +75,8 @@ https://www.youtube.com/playlist?list=PLYGvOQTnahYK1o6XyY0aaPLQxd68_tX86
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [Intro to Neural Networks + Keras](https://git.generalassemb.ly/DSI-WEST-3/lesson-intro-to-neural-networks) | Keras: Classification | Convolutional Neural Networks | [Intro to Tensorflow](https://git.generalassemb.ly/DSI-WEST-3/nnet-tensorflow_walkthrough-lesson) | Review  |
-| Afternoon | [Recommender Systems](https://git.generalassemb.ly/DSI-WEST-3/recommender-systems) | Recommender Systems | [CNN Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-keras) |  | Project |
+| Morning   | Flex/Hackathon | Neural Networks: Intro | Keras: Intro | CNNs I | CNNs II  |
+| Afternoon | Flex/Hackathon | Tensorflow: Intro | Methods of Regularization | Outcomes | Local Time |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week08)|  |  | [Outcomes: Catch Your Breath + Regroup](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/catchbreath.md)| |
 
 #### Week 8 - Unsupervised Learning
