@@ -60,7 +60,7 @@ View the Outcomes Schedule + Materials [here](https://git.generalassemb.ly/DSI-U
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Web Scraping I | Flask I | NLP I | Naive Bayes | Midterm Exam  |
-| Afternoon | Web Scraping II | Flask II | NLP II | Outcomes: [A Day In The Life](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/05-week | Local Time |
+| Afternoon | Web Scraping II | Flask II | NLP II | Outcomes: [A Day In The Life](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/05-week) | Local Time |
 
 #### Week 6 - Advanced Classifiers
 
