@@ -112,4 +112,4 @@ View the Outcomes Schedule + Materials [here](https://git.generalassemb.ly/DSI-U
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Capstone | Capstone | Capstone | Capstone | Review  |
-| Afternoon | Capstone | [Project 4 Due](https://git.generalassemb.ly/DSI-WEST-3/Start_Global_Terrorism_Project) | Capstone |  | Project |[Outcomes: Qualification Check In + Post-Course Expectations](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/09-week)| |
+| Afternoon | Capstone | [Project 4 Due](https://git.generalassemb.ly/DSI-WEST-3/Start_Global_Terrorism_Project) | Capstone | |Outcomes: [Qualification Check In + Post-Course Expectations](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/09-week)| Project | 
