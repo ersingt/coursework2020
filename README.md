@@ -38,12 +38,12 @@ https://www.youtube.com/playlist?list=PLYGvOQTnahYK1o6XyY0aaPLQxd68_tX86
 | Afternoon | Pandas: Features and Plotting | Pandas: Advanced Transformations | SQL: Joining Tables | Outcomes | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week01)|  |  | [Outcomes: Developing Your Network + The Local Landscape](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week%2022.md)| |
 
-#### Week 3 - Regression and SQL
+#### Week 3 - Regression
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | AWS I ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-vim-adventures)) | AWS II | [Regularization](https://git.generalassemb.ly/DSI-WEST-3/lesson-regression-regularization) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-regression-regularization_kobe_shots)) | [Stats: Confidence Intervals](https://git.generalassemb.ly/DSI-WEST-3/lesson-confidence-intervals) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-sampling)) | Review  |
-| Afternoon | [Linear Regression I](https://git.generalassemb.ly/DSI-WEST-3/regression-simple_linear_regression-lesson) (None) | Linear [Regression II](https://git.generalassemb.ly/DSI-WEST-3/intro-to-sklearn-linear-regression) | [Train/Test Split + Cross Validation](https://git.generalassemb.ly/DSI-WEST-3/evaluation-cross_validation_train_test-lesson) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/evaluation-cross_validation_train_test-lab)) |  | Project |
+| Morning   | Linear Regression: Intro | Regression Evaluation Metrics | Feature Engineering | Regularization | Object Oriented Programming  |
+| Afternoon | Linear Regression: Multivariate | Bias-Variance Tradeoff | Train/Test Split + Cross Validation | Outcomes | Project |
 | Outcomes  |[Outcomes HW Due at 7pm](https://github.com/ga-students/dsiplusoutcomes/blob/master/roadmap/week%2022.md)|  |  |[Outcomes: The Winning Resume Package](https://github.com/ga-students/dsiplusoutcomes/tree/master/roadmap/week04) | ||
 
 
