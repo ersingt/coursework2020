@@ -95,8 +95,7 @@ View the Outcomes Schedule + Materials [here](https://git.generalassemb.ly/DSI-U
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [Django with C9.io](https://git.generalassemb.ly/DSI-WEST-3/10.2-webdevelopment_with_django) | [Timeseries with Pandas](https://git.generalassemb.ly/DSI-WEST-3/Timeseries_With_Pandas) | Benford's Law | Model Stacking | Review  |
-| Afternoon | Django Continued | [PCA](https://git.generalassemb.ly/DSI-WEST-3/8.06-pca-intro-lesson) | [Insult lab](https://git.generalassemb.ly/DSI-WEST-3/DSI-SF-6-nlp-insult-classification-nsfw) |Outcomes: [Application Strategy](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/blob/master/roadmap/week88.md)  | Project |
-**[Capstone Milestone 2 Due](https://git.generalassemb.ly/DSI-WEST-3/course-info/wiki/Capstone-Part-2:-Findings-and-Technical-Report)** 
+| Afternoon | Django Continued | [PCA](https://git.generalassemb.ly/DSI-WEST-3/8.06-pca-intro-lesson) | [Insult lab](https://git.generalassemb.ly/DSI-WEST-3/DSI-SF-6-nlp-insult-classification-nsfw) |Outcomes: [Application Strategy](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/blob/master/roadmap/week88.md)  | Project **[Capstone Milestone 2 Due](https://git.generalassemb.ly/DSI-WEST-3/course-info/wiki/Capstone-Part-2:-Findings-and-Technical-Report)** | 
 
 #### Week 11 - Bayesian Statistics and Inference
 
@@ -112,4 +111,4 @@ View the Outcomes Schedule + Materials [here](https://git.generalassemb.ly/DSI-U
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Capstone | Capstone | Capstone | Capstone | Review  |
-| Afternoon | Capstone | [Project 4 Due](https://git.generalassemb.ly/DSI-WEST-3/Start_Global_Terrorism_Project) | Capstone | |Outcomes: [Qualification Check In + Post-Course Expectations](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/09-week)| | Project | 
+| Afternoon | Capstone | [Project 4 Due](https://git.generalassemb.ly/DSI-WEST-3/Start_Global_Terrorism_Project) | Capstone | Outcomes: [Qualification Check In + Post-Course Expectations](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/09-week)| Project | 
