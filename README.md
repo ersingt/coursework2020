@@ -95,7 +95,7 @@ https://www.youtube.com/playlist?list=PLYGvOQTnahYK1o6XyY0aaPLQxd68_tX86
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Final Exam | DataFrames with Spark | NO CLASS | Spark in the Cloud | Machine Learning with Spark |
-| Afternoon | Flex | Flex | NO CLASS | Flex | Flex |
+| Afternoon | Flex | Flex | NO CLASS | Outcomes | Flex |
 
 
 
