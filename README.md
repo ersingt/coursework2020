@@ -4,14 +4,7 @@
 
 https://www.youtube.com/playlist?list=PLYGvOQTnahYK1o6XyY0aaPLQxd68_tX86
 
-#### Zoom
-
-| Coast      | URL                                         |
-|------------|---------------------------------------------|
-| East Coast | https://generalassembly.zoom.us/s/178107556 |
-| West Coast | https://generalassembly.zoom.us/s/810738740 |
-
-#### 1 on 1's
+#### Instructor 1 on 1's
 
 | Instructor      | URL                                   |
 |-----------------|---------------------------------------|
@@ -80,29 +73,29 @@ https://www.youtube.com/playlist?list=PLYGvOQTnahYK1o6XyY0aaPLQxd68_tX86
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [Unsupervised Learning: Intro](https://git.generalassemb.ly/DSI-WEST-3/DSI-SF-6-clustering-intro_to_clustering_kmeans-lesson) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/clustering-intro_to_clustering_kmeans-lab)) | [DBSCAN](https://git.generalassemb.ly/DSI-WEST-3/DSI-SF-6-clustering-dbscan_from_scratch-lesson) ([Lab](https://git.generalassemb.ly/DSI-WEST-3/clustering-dbscan-lab))| [Hierarchical Clustering](https://git.generalassemb.ly/DSI-WEST-3/DSI-SF-6-clustering-hierarchical_clustering-lesson) ([BATTLE of the Clusterers!](https://git.generalassemb.ly/DSI-WEST-3/clustering-battle_of_clusterers-lab))  | [Trump vs Sanders](https://git.generalassemb.ly/DSI-WEST-3/10.1-nlp-twitter_api_case_study-lab) | Review  |
-| Afternoon | Project Time | Project Time | Project Time | Outcomes: [Ask The Experts Panel](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/10-week)| Project |
+| Morning   | Intro to Unsupervised Learning & Topic Modeling | DBSCAN and HDBSCAN Clustering | Project Time | Recommender Systems | Project 4 Presentations |
+| Afternoon | k-Means Clustering | Hierarchical Clustering | Principal Component Analysis | Outcomes | Local Time |
 
-#### Week 9 - Big Data
+#### Week 9 - Bayesian Statistics and Inference
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Intro to Scala + Spark DataFrames | Spark: Classification and Regression | Spark: Pipelines and Grid Search | Spark: NLP | Review  |
-| Afternoon | Project Time | [Spark Regression Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-spark-model) | [**Project 3 Due**](https://git.generalassemb.ly/DSI-WEST-3/project-3) |Outcomes: [Interviewing + Negotiating](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/07-week) | Project |
+| Morning   | Intro to Bayes | Bayesian Inference | Project Time | MCMC | Missing Data Imputation |
+| Afternoon | Recommender Systems II | Maximum Likelihood Estimation | Bayesian Regression and PyMC3 | Outcomes | Local Time |
 
 #### Week 10 - Advanced Topics
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [Django with C9.io](https://git.generalassemb.ly/DSI-WEST-3/10.2-webdevelopment_with_django) | [Timeseries with Pandas](https://git.generalassemb.ly/DSI-WEST-3/Timeseries_With_Pandas) | Benford's Law | Model Stacking | Review  |
-| Afternoon | Django Continued | [PCA](https://git.generalassemb.ly/DSI-WEST-3/8.06-pca-intro-lesson) | [Insult lab](https://git.generalassemb.ly/DSI-WEST-3/DSI-SF-6-nlp-insult-classification-nsfw) |Outcomes: [Application Strategy](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/blob/master/roadmap/week88.md)  | Project **[Capstone Milestone 2 Due](https://git.generalassemb.ly/DSI-WEST-3/course-info/wiki/Capstone-Part-2:-Findings-and-Technical-Report)** | 
+| Morning   | Intro to Correlated Data | ARMA | Recurrent Neural Networks | Network Data and Analysis | Flex/Hackathon |
+| Afternoon | Time Series Data | ARIMA | Spatial and Spatiotemporal Data | Outcomes | Flex/Hackathon |
 
-#### Week 11 - Bayesian Statistics and Inference
+#### Week 11 - Big Data
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [Intro to Bayes](https://git.generalassemb.ly/DSI-WEST-3/lesson-intro_to_bayes-lesson) | [Bayesian Inference](https://git.generalassemb.ly/DSI-WEST-3/lesson-bayesian_inference) | [Maximum Likelihood](https://git.generalassemb.ly/DSI-WEST-3/lesson-bayes-conjugacy-mle) | [PyMC3](https://git.generalassemb.ly/DSI-WEST-3/lesson-pymc3) | MCMC |
-| Afternoon | [Intro to Bayes Lab](https://git.generalassemb.ly/DSI-WEST-3/lab-bayes-intro) | --- | [MLE in the MLB (Lab)](https://git.generalassemb.ly/DSI-WEST-3/lab-bayes-baseball)  | Outcomes: [Cracking the Technical Interview](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/11-week) | Project |
+| Morning   | Final Exam | DataFrames with Spark | NO CLASS | Spark in the Cloud | Machine Learning with Spark |
+| Afternoon | Flex | Flex | NO CLASS | Flex | Flex |
 
 
 
@@ -111,4 +104,11 @@ https://www.youtube.com/playlist?list=PLYGvOQTnahYK1o6XyY0aaPLQxd68_tX86
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Capstone | Capstone | Capstone | Capstone | Review  |
-| Afternoon | Capstone | [Project 4 Due](https://git.generalassemb.ly/DSI-WEST-3/Start_Global_Terrorism_Project) | Capstone | Outcomes: [Qualification Check In + Post-Course Expectations](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/09-week)| Project | 
+| Afternoon | Capstone | Capstone | Capstone | Outcomes: [Qualification Check In + Post-Course Expectations](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/09-week)| Project | 
+
+#### Zoom
+
+| Coast      | URL                                         |
+|------------|---------------------------------------------|
+| East Coast | https://generalassembly.zoom.us/s/178107556 |
+| West Coast | https://generalassembly.zoom.us/s/810738740 |
