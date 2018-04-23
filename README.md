@@ -30,7 +30,7 @@ https://www.youtube.com/playlist?list=PLYGvOQTnahYK1o6XyY0aaPLQxd68_tX86
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Pandas: Intro | Exploratory Data Analysis | SQL: Intro | Pandas: Joining DataFrames | Project 1 Due |
+| Morning   | Pandas: Intro | Exploratory Data Analysis | SQL: Intro | Pandas: Joining DataFrames | [Project 1 Due](https://git.generalassemb.ly/DSI-US-4/project-1) |
 | Afternoon | Pandas: Features and Plotting | Pandas: Advanced Transformations | SQL: Joining Tables | Outcomes: [Alumni Panel, Developing Your Network + The Local Landscape](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/blob/master/roadmap/week%2022.md) | Local Time |
 
 #### Week 3 - Regression
