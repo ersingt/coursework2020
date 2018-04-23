@@ -24,7 +24,7 @@ https://www.youtube.com/playlist?list=PLYGvOQTnahYK1o6XyY0aaPLQxd68_tX86
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
 | Morning | [Datatypes](https://git.generalassemb.ly/DSI-US-4/1.1-python-101-1) | FUNctions | Discrete Distributions | Central Limit Theorem | Inference  |
-| Afternoon| [Control Flow](https://git.generalassemb.ly/DSI-US-4/python-iteration_control_functions-lesson) | List Comprehension | Continuous Distributions | Outcomes: [Intro to Outcomes](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/01-week) | Local Time |
+| Afternoon| [Control Flow](https://git.generalassemb.ly/DSI-US-4/python-iteration_control_functions-lesson) | [List Comprehension](https://git.generalassemb.ly/DSI-US-4/lesson-python-enumeration) ([Practice](https://git.generalassemb.ly/DSI-US-4/lab-python-enumeration)) | Continuous Distributions | Outcomes: [Intro to Outcomes](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/01-week) | Local Time |
 
 #### Week 2 - Exploratory Data Analysis
 
