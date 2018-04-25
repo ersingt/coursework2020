@@ -23,8 +23,8 @@ https://www.youtube.com/playlist?list=PLYGvOQTnahYK1o6XyY0aaPLQxd68_tX86
 
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
-| Morning | [Datatypes](https://git.generalassemb.ly/DSI-US-4/1.1-python-101-1) <br> [Pokemon Lab](https://git.generalassemb.ly/DSI-US-4/1.1-intro_to_python_pokemon_ext_lab) | [FUNctions](https://git.generalassemb.ly/DSI-US-4/1.02-python-functions-lesson) | Discrete Distributions | Central Limit Theorem | Inference  |
-| Afternoon| [Control Flow](https://git.generalassemb.ly/DSI-US-4/python-iteration_control_functions-lesson) | [List Comprehension](https://git.generalassemb.ly/DSI-US-4/lesson-python-enumeration) ([Practice](https://git.generalassemb.ly/DSI-US-4/lab-python-enumeration)) | Continuous Distributions | Outcomes: [Intro to Outcomes](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/01-week) | Local Time |
+| Morning | [Datatypes](https://git.generalassemb.ly/DSI-US-4/1.1-python-101-1) <br> [Pokemon Lab](https://git.generalassemb.ly/DSI-US-4/1.1-intro_to_python_pokemon_ext_lab) | [FUNctions](https://git.generalassemb.ly/DSI-US-4/1.02-python-functions-lesson) | Discrete Distributions ([Distributions Lab](https://git.generalassemb.ly/DSI-EAST-2/2.03-statistics-distributions-lab)) | Central Limit Theorem ([Distributions Lab](https://git.generalassemb.ly/DSI-EAST-2/2.03-statistics-distributions-lab)) | Inference ([Inference Lab](https://git.generalassemb.ly/DSI-US-4/2.04-statistical-inference-lab)) |
+| Afternoon| [Control Flow](https://git.generalassemb.ly/DSI-US-4/python-iteration_control_functions-lesson) | [List Comprehension](https://git.generalassemb.ly/DSI-US-4/lesson-python-enumeration) ([Practice](https://git.generalassemb.ly/DSI-US-4/lab-python-enumeration)) | Continuous Distributions ([Distributions Lab](https://git.generalassemb.ly/DSI-EAST-2/2.03-statistics-distributions-lab)) | Outcomes: [Intro to Outcomes](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/01-week) | Local Time |
 
 #### Week 2 - Exploratory Data Analysis
 
