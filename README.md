@@ -4,6 +4,10 @@
 
 https://www.youtube.com/playlist?list=PLYGvOQTnahYK1o6XyY0aaPLQxd68_tX86
 
+#### Instructor and TA Appointment Sign-Ups
+
+https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
+
 #### Outcomes Materials
 
 [View the Outcomes Schedule + Materials here](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi)
