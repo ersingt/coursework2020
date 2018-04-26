@@ -4,15 +4,6 @@
 
 https://www.youtube.com/playlist?list=PLYGvOQTnahYK1o6XyY0aaPLQxd68_tX86
 
-#### Instructor 1 on 1's
-
-| Instructor      | URL                                   |
-|-----------------|---------------------------------------|
-| Matt Brems      | https://matt-brems.youcanbook.me/     |
-| Justin Pounders | https://justinpounders.youcanbook.me/ |
-| Dave Yerrington | https://dsi-dave.youcanbook.me/       |
-| Riley Dallas    | https://rileyga.youcanbook.me/        |
-
 #### Outcomes Materials
 
 [View the Outcomes Schedule + Materials here](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi)
