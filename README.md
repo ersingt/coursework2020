@@ -18,8 +18,9 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
-| Morning | • [1.1 Datatypes](https://git.generalassemb.ly/DSI-US-4/1.1-python-101-1) <br> • [1.1 Pokemon Lab](https://git.generalassemb.ly/DSI-US-4/1.1-intro_to_python_pokemon_ext_lab) | [1.02 FUNctions](https://git.generalassemb.ly/DSI-US-4/1.02-python-functions-lesson) | [1.05 Discrete Distributions](https://git.generalassemb.ly/DSI-US-4/1.05-lesson-discrete_distributions-statistics) | [Central Limit Theorem](https://git.generalassemb.ly/DSI-US-4/1.07-lesson-central_limit_theorem-statistics)  | • [Inference](https://git.generalassemb.ly/DSI-US-4/1.08-lessons-inference-statistics) <br> • [Inference Lab] |
-| Afternoon| [Control Flow](https://git.generalassemb.ly/DSI-US-4/python-iteration_control_functions-lesson) | • [List Comprehension](https://git.generalassemb.ly/DSI-US-4/lesson-python-enumeration) <br> • [Practice](https://git.generalassemb.ly/DSI-US-4/lab-python-enumeration) | • [1.06 Continuous Distributions](https://git.generalassemb.ly/DSI-US-4/1.06-lesson-continuous_distributions-statistics) <br> • [1.02 Distributions Lab](https://git.generalassemb.ly/DSI-US-4/1.02-statistics-distributions-lab)  | Outcomes: [Intro to Outcomes](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/01-week) | Local Time |
+| Morning | [1.1 Datatypes](https://git.generalassemb.ly/DSI-US-4/1.1-python-101-1) | [1.02 FUNctions](https://git.generalassemb.ly/DSI-US-4/1.02-python-functions-lesson) | [1.05 Discrete Distributions](https://git.generalassemb.ly/DSI-US-4/1.05-lesson-discrete_distributions-statistics) | [Central Limit Theorem](https://git.generalassemb.ly/DSI-US-4/1.07-lesson-central_limit_theorem-statistics)  | [Inference](https://git.generalassemb.ly/DSI-US-4/1.08-lessons-inference-statistics) |
+| Afternoon| [Control Flow](https://git.generalassemb.ly/DSI-US-4/python-iteration_control_functions-lesson) | [List Comprehension](https://git.generalassemb.ly/DSI-US-4/lesson-python-enumeration) [Practice](https://git.generalassemb.ly/DSI-US-4/lab-python-enumeration) | [1.06 Continuous Distributions](https://git.generalassemb.ly/DSI-US-4/1.06-lesson-continuous_distributions-statistics) | Outcomes: [Intro to Outcomes](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/01-week) | Local Time |
+| Labs | [1.1 Pokemon Lab](https://git.generalassemb.ly/DSI-US-4/1.1-intro_to_python_pokemon_ext_lab) | | [1.02 Distributions Lab](https://git.generalassemb.ly/DSI-US-4/1.02-statistics-distributions-lab) | | Inference Lab |
 
 #### Week 2 - Exploratory Data Analysis
 
@@ -27,6 +28,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Pandas: Intro | Exploratory Data Analysis | SQL: Intro | Pandas: Joining DataFrames | [Project 1 Due](https://git.generalassemb.ly/DSI-US-4/project-1) |
 | Afternoon | Pandas: Features and Plotting | Pandas: Advanced Transformations | SQL: Joining Tables | Outcomes: [Alumni Panel, Developing Your Network + The Local Landscape](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/blob/master/roadmap/week%2022.md) | Local Time |
+| Labs | | | | | |
 
 #### Week 3 - Regression
 
@@ -34,6 +36,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Linear Regression: Intro | Regression Evaluation Metrics | Feature Engineering | Regularization | Object Oriented Programming  |
 | Afternoon | Linear Regression: Multivariate | Bias-Variance Tradeoff | Train/Test Split + Cross Validation | Outcomes: [Finding Your Voice + Defining Your Brand](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/03-week)| Local Time |
+| Labs | | | | | |
 
 
 #### Week 4 - Classification
@@ -42,6 +45,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Intro to Classification + KNN | Generalized Linear Models | Project Time | Pipelines + GridSearchCV | Project 2 Due |
 | Afternoon | Logistic Regression | Classification Metrics I | Classification Metrics II | Outcomes: [The Winning Resume Package](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/04-week) | Local Time |
+| Labs | | | | | |
 
 #### Week 5 - Web Scraping, APIs and NLP
 
@@ -49,6 +53,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Web Scraping I | Flask I | NLP I | Naive Bayes | Midterm Exam  |
 | Afternoon | Web Scraping II | Flask II | NLP II | Outcomes: [A Day In The Life](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/05-week) | Local Time |
+| Labs | | | | | |
 
 #### Week 6 - Advanced Classifiers
 
@@ -56,6 +61,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | **No Class** | CART I | Bagging, Random Forests, Boosting | Gradient Descent | Project 3 Due  |
 | Afternoon | **No Class** | CART II | SVMs | [Outcomes: GA Profiles, Blogging + Portfolios](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/08-week) | Local Time |
+| Labs | | | | | |
 
 #### Week 7 - Neural Networks
 
@@ -63,6 +69,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Flex/Hackathon | Neural Networks: Intro | Keras: Intro | CNNs I | CNNs II  |
 | Afternoon | Flex/Hackathon | Tensorflow: Intro | Methods of Regularization | [Outcomes: Guest Speaker, Catch Your Breath + Regroup](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/blob/master/roadmap/catchbreath.md) | Local Time |
+| Labs | | | | | |
 
 #### Week 8 - Unsupervised Learning
 
@@ -70,6 +77,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Intro to Unsupervised Learning & Topic Modeling | DBSCAN and HDBSCAN Clustering | Project Time | Recommender Systems | Project 4 Presentations |
 | Afternoon | k-Means Clustering | Hierarchical Clustering | Principal Component Analysis | Outcomes | Local Time |
+| Labs | | | | | |
 
 #### Week 9 - Bayesian Statistics and Inference
 
@@ -77,6 +85,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Intro to Bayes | Bayesian Inference | Project Time | MCMC | Missing Data Imputation |
 | Afternoon | Recommender Systems II | Maximum Likelihood Estimation | Bayesian Regression and PyMC3 | Outcomes | Local Time |
+| Labs | | | | | |
 
 #### Week 10 - Advanced Topics
 
@@ -84,6 +93,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Intro to Correlated Data | ARMA | Recurrent Neural Networks | Network Data and Analysis | Flex/Hackathon |
 | Afternoon | Time Series Data | ARIMA | Spatial and Spatiotemporal Data | Outcomes | Flex/Hackathon |
+| Labs | | | | | |
 
 #### Week 11 - Big Data
 
@@ -91,6 +101,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Final Exam | DataFrames with Spark | NO CLASS | Spark in the Cloud | Machine Learning with Spark |
 | Afternoon | Flex | Flex | NO CLASS | Outcomes | Flex |
+| Labs | | | | | |
 
 
 
