@@ -20,7 +20,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 |---------|------------|------------|------------|---------|---------|
 | Morning | [1.1 Datatypes](https://git.generalassemb.ly/DSI-US-4/1.1-python-101-1) | [1.02 FUNctions](https://git.generalassemb.ly/DSI-US-4/1.02-python-functions-lesson) | [1.05 Discrete Distributions](https://git.generalassemb.ly/DSI-US-4/1.05-lesson-discrete_distributions-statistics) | [Central Limit Theorem](https://git.generalassemb.ly/DSI-US-4/1.07-lesson-central_limit_theorem-statistics)  | [Inference](https://git.generalassemb.ly/DSI-US-4/1.08-lessons-inference-statistics) |
 | Afternoon| [Control Flow](https://git.generalassemb.ly/DSI-US-4/python-iteration_control_functions-lesson) | [List Comprehension](https://git.generalassemb.ly/DSI-US-4/lesson-python-enumeration) [Practice](https://git.generalassemb.ly/DSI-US-4/lab-python-enumeration) | [1.06 Continuous Distributions](https://git.generalassemb.ly/DSI-US-4/1.06-lesson-continuous_distributions-statistics) | Outcomes: [Intro to Outcomes](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/01-week) | Local Time |
-| Labs | [1.1 Pokemon Lab](https://git.generalassemb.ly/DSI-US-4/1.1-intro_to_python_pokemon_ext_lab) | | [1.02 Distributions Lab](https://git.generalassemb.ly/DSI-US-4/1.02-statistics-distributions-lab) | | Inference Lab |
+| Labs | [1.1 Pokemon Lab](https://git.generalassemb.ly/DSI-US-4/1.1-intro_to_python_pokemon_ext_lab) | | [1.02 Distributions Lab](https://git.generalassemb.ly/DSI-US-4/1.02-statistics-distributions-lab) | | [Inference Lab](https://git.generalassemb.ly/DSI-US-4/1.09-statistical-inference-lab) |
 
 #### Week 2 - Exploratory Data Analysis
 
