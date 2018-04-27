@@ -28,7 +28,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Pandas: Intro | Exploratory Data Analysis | SQL: Intro | Pandas: Joining DataFrames | [Project 1 Due](https://git.generalassemb.ly/DSI-US-4/project-1) |
 | Afternoon | Pandas: Features and Plotting | Pandas: Advanced Transformations | SQL: Joining Tables | Outcomes: [Alumni Panel, Developing Your Network + The Local Landscape](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/blob/master/roadmap/week%2022.md) | Local Time |
-| Labs | [2.01 Titanic EDA](https://git.generalassemb.ly/DSI-US-4/2.01-lab-pandas-titanic) | [2.02 Feature Engineering](https://git.generalassemb.ly/DSI-US-4/2.02-lab-pandas-feature-engineering) | | | |
+| Labs | [2.01 Titanic EDA](https://git.generalassemb.ly/DSI-US-4/2.01-lab-pandas-titanic) | [2.02 Feature Engineering](https://git.generalassemb.ly/DSI-US-4/2.02-lab-pandas-feature-engineering) | | [2.03 Concatenating DataFrames](https://git.generalassemb.ly/DSI-US-4/2.03-lab-pandas-concat) | |
 
 #### Week 3 - Regression
 
