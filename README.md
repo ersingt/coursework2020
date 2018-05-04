@@ -36,7 +36,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Linear Regression: Intro | Regression Evaluation Metrics | Feature Engineering | Regularization | Object Oriented Programming  |
 | Afternoon | Linear Regression: Multivariate | Bias-Variance Tradeoff | Train/Test Split + Cross Validation | Outcomes: [Finding Your Voice + Defining Your Brand](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/03-week)| Local Time |
-| Labs | [3.01 Linear Regression Lab](https://git.generalassemb.ly/DSI-US-4/3.01-lab-simple_linear_regression-regression) | | 3.02 Regularization and Validation Lab | | |
+| Labs | [3.01 Linear Regression Lab](https://git.generalassemb.ly/DSI-US-4/3.01-lab-linear_regression-regression) | | 3.02 Regularization and Validation Lab | | |
 
 
 #### Week 4 - Classification
