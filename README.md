@@ -43,7 +43,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Intro to Classification + KNN | Classification Metrics I | Project Time | Pipelines + GridSearchCV | [Project 2 Due](https://git.generalassemb.ly/DSI-US-4/project-2/) |
+| Morning   | [Intro to Classification + KNN](https://git.generalassemb.ly/DSI-US-4/4.01-intro-to-classification-with-knn) | Classification Metrics I | Project Time | Pipelines + GridSearchCV | [Project 2 Due](https://git.generalassemb.ly/DSI-US-4/project-2/) |
 | Afternoon | Logistic Regression | Classification Metrics II | Generalized Linear Models | Outcomes: [The Winning Resume Package](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/04-week) | Local Time |
 | Labs | | | | | |
 
