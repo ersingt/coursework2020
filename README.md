@@ -43,7 +43,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [4.01 Intro to Classification + KNN](https://git.generalassemb.ly/DSI-US-4/4.01-intro-to-classification-with-knn) | Classification Metrics I | Project Time | Pipelines + GridSearchCV | [Project 2 Due](https://git.generalassemb.ly/DSI-US-4/project-2/) |
+| Morning   | [4.01 Intro to Classification + KNN](https://git.generalassemb.ly/DSI-US-4/4.01-intro-to-classification-with-knn) | Classification Metrics I | Flex Time | Pipelines + GridSearchCV | [Project 2 Due](https://git.generalassemb.ly/DSI-US-4/project-2/) |
 | Afternoon | [4.02 Logistic Regression](https://git.generalassemb.ly/DSI-US-4/4.02-classification-logistic_regression-lesson) | Classification Metrics II | Generalized Linear Models | Outcomes: [The Winning Resume Package](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/04-week) | Local Time |
 | Labs | 4.01 Classification Model Comparison (https://git.generalassemb.ly/DSI-US-4/4.01-lab-classification_model_comparison)| | | | |
 
@@ -75,7 +75,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Intro to Unsupervised Learning & Topic Modeling | DBSCAN and HDBSCAN Clustering | Project Time | Recommender Systems | Project 4 Presentations |
+| Morning   | Intro to Unsupervised Learning & Topic Modeling | DBSCAN and HDBSCAN Clustering | Flex Time | Recommender Systems | Project 4 Presentations |
 | Afternoon | k-Means Clustering | Hierarchical Clustering | Principal Component Analysis | Outcomes | Local Time |
 | Labs | | | | | |
 
@@ -83,7 +83,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Intro to Bayes | Bayesian Inference | Project Time | MCMC | Missing Data Imputation |
+| Morning   | Intro to Bayes | Bayesian Inference | Flex Time | MCMC | Missing Data Imputation |
 | Afternoon | Recommender Systems II | Maximum Likelihood Estimation | Bayesian Regression and PyMC3 | Outcomes | Local Time |
 | Labs | | | | | |
 
