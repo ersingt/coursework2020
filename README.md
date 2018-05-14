@@ -45,7 +45,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [4.01 Intro to Classification + KNN](https://git.generalassemb.ly/DSI-US-4/4.01-intro-to-classification-with-knn) | Classification Metrics I | Flex Time | Pipelines + GridSearchCV | [Project 2 Due](https://git.generalassemb.ly/DSI-US-4/project-2/) |
 | Afternoon | [4.02 Logistic Regression](https://git.generalassemb.ly/DSI-US-4/4.02-classification-logistic_regression-lesson) | Classification Metrics II | [4.05 Generalized Linear Models](https://git.generalassemb.ly/DSI-US-4/4.05-generalized-linear-models) | Outcomes: [The Winning Resume Package](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/04-week) | Local Time |
-| Labs | 4.01 Classification Model Comparison (https://git.generalassemb.ly/DSI-US-4/4.01-lab-classification_model_comparison)| | | | |
+| Labs | [4.01 Classification Model Comparison](https://git.generalassemb.ly/DSI-US-4/4.01-lab-classification_model_comparison)| | | | |
 
 #### Week 5 - Web Scraping, APIs and NLP
 
