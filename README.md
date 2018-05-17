@@ -118,3 +118,5 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 |------------|---------------------------------------------|
 | East Coast | https://generalassembly.zoom.us/s/178107556 |
 | West Coast | https://generalassembly.zoom.us/s/810738740 |
+
+> After Thurs, May 17th, we will be switching the West Coast to this conference: https://generalassembly.zoom.us/s/983396761
