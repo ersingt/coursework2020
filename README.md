@@ -52,7 +52,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [5.01 Intro to HTML](https://git.generalassemb.ly/DSI-US-4/5.01-lesson-web-html_css) | Flask I | NLP I | Naive Bayes | Midterm Exam  |
-| Afternoon | Web Scraping II | Flask II | NLP II | Outcomes: [A Day In The Life](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/05-week) | Local Time |
+| Afternoon | [5.02 Web Scraping](https://git.generalassemb.ly/DSI-US-4/5.02-python-intro_to_webscraping-lesson) | Flask II | NLP II | Outcomes: [A Day In The Life](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/05-week) | Local Time |
 | Labs | | | | | |
 
 #### Week 6 - Advanced Classifiers
