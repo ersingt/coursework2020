@@ -99,7 +99,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Final Exam | DataFrames with Spark | NO CLASS | Spark in the Cloud | Machine Learning with Spark |
+| Morning   | Flex | DataFrames with Spark | NO CLASS | Spark in the Cloud | Machine Learning with Spark |
 | Afternoon | Flex | Flex | NO CLASS | Outcomes | Flex |
 | Labs | | | | | |
 
