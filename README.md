@@ -51,9 +51,9 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [5.01 Intro to HTML](https://git.generalassemb.ly/DSI-US-4/5.01-lesson-html-css) | [5.03 Flask I](https://git.generalassemb.ly/DSI-US-4/5.03-intro-to-apis-and-flask) | NLP I | Naive Bayes | [5.08 Regex](https://git.generalassemb.ly/DSI-US-4/5.08-lesson-regex)  |
+| Morning   | [5.01 Intro to HTML](https://git.generalassemb.ly/DSI-US-4/5.01-lesson-html-css) | [5.03 Flask I](https://git.generalassemb.ly/DSI-US-4/5.03-intro-to-apis-and-flask) | [5.04 NLP I](https://git.generalassemb.ly/DSI-US-4/5.04-lesson-intro_to_nlp-nlp) | Naive Bayes | [5.08 Regex](https://git.generalassemb.ly/DSI-US-4/5.08-lesson-regex)  |
 | Afternoon | [5.02 Web Scraping](https://git.generalassemb.ly/DSI-US-4/5.02-lesson-webscraping) | [5.03 (continued) Flask II](https://git.generalassemb.ly/DSI-US-4/5.03-intro-to-apis-and-flask) | NLP II | Outcomes: [A Day In The Life](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/05-week) | Local Time |
-| Labs | [5.02 Scraping Lab](https://git.generalassemb.ly/DSI-US-4/5.01-lab-beautiful_soup-webscraping) | | | | |
+| Labs | [5.01 Scraping Lab](https://git.generalassemb.ly/DSI-US-4/5.01-lab-beautiful_soup-webscraping) | | [5.02 NLP Lab](https://git.generalassemb.ly/DSI-US-4/5.02-lab-intro_to_nlp-nlp) | | |
 
 #### Week 6 - Advanced Classifiers
 
