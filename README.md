@@ -59,15 +59,15 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | **No Class** | [6.01 CART I](https://git.generalassemb.ly/DSI-US-4/6.01-trees-CARTs-lesson) | Bagging, Random Forests, Boosting | Gradient Descent | [Project 3 Due](https://git.generalassemb.ly/DSI-US-4/project-3)  |
-| Afternoon | **No Class** | [6.01 CART II](https://git.generalassemb.ly/DSI-US-4/6.01-trees-CARTs-lesson) | [SVMs](https://git.generalassemb.ly/DSI-US-4/6.04-lesson-support_vector_machines-svm) | [Outcomes: GA Profiles, Blogging + Portfolios](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/08-week) | Local Time |
+| Morning   | **No Class** | [6.01 CART I](https://git.generalassemb.ly/DSI-US-4/6.01-trees-CARTs-lesson) | [6.02 Bagging, Random Forests, ExtraTrees](https://git.generalassemb.ly/DSI-US-4/6.02-lesson-bagging-rfs) | Gradient Descent | [SVMs](https://git.generalassemb.ly/DSI-US-4/6.04-lesson-support_vector_machines-svm)  |
+| Afternoon | **No Class** | [6.01 CART II](https://git.generalassemb.ly/DSI-US-4/6.01-trees-CARTs-lesson) | [6.03 Boosting](https://git.generalassemb.ly/DSI-US-4/6.03-lesson-boosting) | [Outcomes: GA Profiles, Blogging + Portfolios](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/08-week) | Local Time |
 | Labs | [6.01 Supervised Model Comparison](https://git.generalassemb.ly/DSI-US-4/6.01-lab-supervised_learning_models) | | | | |
 
 #### Week 7 - Neural Networks
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Flex/Hackathon | Neural Networks: Intro | Keras: Intro | CNNs I | CNNs II  |
+| Morning   | [Project 3 Due](https://git.generalassemb.ly/DSI-US-4/project-3) | Neural Networks: Intro | Keras: Intro | CNNs I | CNNs II  |
 | Afternoon | Flex/Hackathon | Tensorflow: Intro | Methods of Regularization | [Outcomes: Guest Speaker, Catch Your Breath + Regroup](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/blob/master/roadmap/catchbreath.md) | Local Time |
 | Labs | | | | | |
 
