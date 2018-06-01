@@ -61,7 +61,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | **No Class** | [6.01 CART I](https://git.generalassemb.ly/DSI-US-4/6.01-trees-CARTs-lesson) | [6.02 Bagging, Random Forests, ExtraTrees](https://git.generalassemb.ly/DSI-US-4/6.02-lesson-bagging-rfs) | [SVMs](https://git.generalassemb.ly/DSI-US-4/6.04-lesson-support_vector_machines-svm) |  [Gradient Descent](https://git.generalassemb.ly/DSI-US-4/6.05-lesson-gradient_descent) |
 | Afternoon | **No Class** | [6.01 CART II](https://git.generalassemb.ly/DSI-US-4/6.01-trees-CARTs-lesson) | [6.03 Boosting](https://git.generalassemb.ly/DSI-US-4/6.03-lesson-boosting) | [Outcomes: GA Profiles, Blogging + Portfolios](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/08-week) | Local Time |
-| Labs | [6.01 Supervised Model Comparison](https://git.generalassemb.ly/DSI-US-4/6.01-lab-supervised_learning_models) | | | | |
+| Labs | [6.01 Supervised Model Comparison](https://git.generalassemb.ly/DSI-US-4/6.01-lab-supervised_learning_models) | | | | [6.02 Gradient Descent Lab](https://git.generalassemb.ly/DSI-US-4/6.02-lab-gradient_descent)|
 
 #### Week 7 - Neural Networks
 
