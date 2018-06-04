@@ -67,7 +67,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [Project 3 Due](https://git.generalassemb.ly/DSI-US-4/project-3) | [7.01 Neural Networks: Intro](https://git.generalassemb.ly/DSI-US-4/7.01-lesson-intro_to_neural_networks-nn) | [7.04 Methods of Regularization](https://git.generalassemb.ly/DSI-US-4/7.03-lesson-regularizing-optimizing-nn) | CNNs II | Tensorflow: Intro  |
+| Morning   | [Project 3 Due](https://git.generalassemb.ly/DSI-US-4/project-3) | [7.01 Neural Networks: Intro](https://git.generalassemb.ly/DSI-US-4/7.01-lesson-intro_to_neural_networks-nn) | [7.03 Methods of Regularization](https://git.generalassemb.ly/DSI-US-4/7.03-lesson-regularizing-optimizing-nn) | CNNs II | Tensorflow: Intro  |
 | Afternoon | Flex/Hackathon | [7.02 Intro to Keras](https://git.generalassemb.ly/DSI-US-4/7.01-lesson-keras) | CNNs I | [Outcomes: Guest Speaker, Catch Your Breath + Regroup](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/blob/master/roadmap/catchbreath.md) | Local Time |
 | Labs | | | | | |
 
