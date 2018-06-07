@@ -67,7 +67,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [Project 3 Due](https://git.generalassemb.ly/DSI-US-4/project-3) | [7.01 Neural Networks: Intro](https://git.generalassemb.ly/DSI-US-4/7.01-lesson-intro_to_neural_networks-nn) | [7.03 Methods of Regularization](https://git.generalassemb.ly/DSI-US-4/7.03-lesson-regularizing-optimizing-nn) | 7.05 CNNs II | Tensorflow: Intro  |
+| Morning   | [Project 3 Due](https://git.generalassemb.ly/DSI-US-4/project-3) | [7.01 Neural Networks: Intro](https://git.generalassemb.ly/DSI-US-4/7.01-lesson-intro_to_neural_networks-nn) | [7.03 Methods of Regularization](https://git.generalassemb.ly/DSI-US-4/7.03-lesson-regularizing-optimizing-nn) | [7.05 CNNs II](https://git.generalassemb.ly/DSI-US-4/7.05-lesson-cnns_ii) | Tensorflow: Intro  |
 | Afternoon | Flex/Hackathon | [7.02 Intro to Keras](https://git.generalassemb.ly/DSI-US-4/7.01-lesson-keras) | [7.04 CNNs I](https://git.generalassemb.ly/DSI-US-4/7.04-lesson-cnn-i) | [Outcomes: Guest Speaker, Catch Your Breath + Regroup](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/blob/master/roadmap/catchbreath.md) | Local Time |
 | Labs | [7.01 Conceptual Neural Network Lab](https://git.generalassemb.ly/DSI-US-4/7.01-lab-neural_network_conceptual) | [7.02 Applied Neural Network Lab](https://git.generalassemb.ly/DSI-US-4/7.02-lab-neural_network_applied) | | | |
 
