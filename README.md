@@ -109,8 +109,15 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Capstone | Capstone | Capstone | Capstone | Review  |
-| Afternoon | Capstone | Capstone | Capstone | Outcomes: [Qualification Check In + Post-Course Expectations](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/09-week)| Project | 
+| Morning   | Capstone | Capstone | Capstone | Capstone | Capstone  |
+| Afternoon | Capstone | Capstone | Capstone | Outcomes: [Qualification Check In + Post-Course Expectations](https://git.generalassemb.ly/DSI-US-4/outcomes-dsi/tree/master/roadmap/09-week)| Local Flex | 
+
+#### Week 13 - Capstone
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | Capstone | Capstone Presentations! | NO CLASS | NO CLASS | NO CLASS |
+| Afternoon | Capstone | Capstone Presentations/End of Course! | NO CLASS | NO CLASS | NO CLASS | 
 
 #### Zoom
 
