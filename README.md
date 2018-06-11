@@ -75,7 +75,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [8.01 Intro to Unsupervised Learning & Topic Modeling](https://git.generalassemb.ly/DSI-US-4/8.01-lesson-intro_to_unsupervised_learning_lda) | 8.03 DBSCAN and HDBSCAN Clustering | Flex Time | Recommender Systems | [Project 4 Presentations](https://git.generalassemb.ly/DSI-US-4/project-4) |
+| Morning   | [8.01 Intro to Unsupervised Learning & Topic Modeling](https://git.generalassemb.ly/DSI-US-4/8.01-lesson-intro_to_unsupervised_learning_lda) | 8.03 DBSCAN and HDBSCAN Clustering | Flex Time | [8.06 Recommender Systems](https://git.generalassemb.ly/DSI-US-4/8.06-lesson-recommender-systems) | [Project 4 Presentations](https://git.generalassemb.ly/DSI-US-4/project-4) |
 | Afternoon | [8.02 K-Means Clustering](https://git.generalassemb.ly/DSI-US-4/8.02-clustering-intro_to_clustering_kmeans-lesson) | 8.04 Hierarchical Clustering | [8.05 Principal Component Analysis](https://git.generalassemb.ly/DSI-US-4/8.05-lesson-pca-intro-pca) | Outcomes | Local Time |
 | Labs | [(Optional) 8.02 Plutonium K-Means](https://git.generalassemb.ly/DSI-US-4/8.02-clustering-intro_to_clustering_kmeans-lesson/blob/master/lab-kmeans-isotopes.ipynb) | | | | |
 
