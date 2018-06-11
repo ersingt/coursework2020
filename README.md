@@ -76,8 +76,8 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [Intro to Unsupervised Learning & Topic Modeling](https://git.generalassemb.ly/DSI-US-4/8.01-lesson-intro_to_unsupervised_learning_lda) | DBSCAN and HDBSCAN Clustering | Flex Time | Recommender Systems | [Project 4 Presentations](https://git.generalassemb.ly/DSI-US-4/project-4) |
-| Afternoon | k-Means Clustering | Hierarchical Clustering | Principal Component Analysis | Outcomes | Local Time |
-| Labs | | | | | |
+| Afternoon | [k-Means Clustering](https://git.generalassemb.ly/DSI-US-4/8.02-clustering-intro_to_clustering_kmeans-lesson) | Hierarchical Clustering | Principal Component Analysis | Outcomes | Local Time |
+| Labs | [(Optional) 8.02 Plutonium K-Means](https://git.generalassemb.ly/DSI-US-4/8.02-clustering-intro_to_clustering_kmeans-lesson/blob/master/lab-kmeans-isotopes.ipynb) | | | | |
 
 #### Week 9 - Bayesian Statistics and Inference
 
