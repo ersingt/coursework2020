@@ -87,7 +87,7 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Recommender Systems II| Bayesian Inference | Missing Data | MCMC | PyMC & Bayesian Regression |
+| Morning   | [9.01 Recommender Systems II: Collaborative Filtering](https://git.generalassemb.ly/DSI-US-4/9.01-recommender-systems-ii)| Bayesian Inference | Missing Data | MCMC | PyMC & Bayesian Regression |
 | Afternoon | Intro to Bayes | Maximum Likelihood Estimation | Project Worktime | Outcomes | Local Time |
 | Labs | | | | | |
 
