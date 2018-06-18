@@ -87,8 +87,8 @@ https://git.generalassemb.ly/DSI-US-4/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Intro to Bayes | Bayesian Inference | Flex Time | MCMC | Missing Data Imputation |
-| Afternoon | Recommender Systems II | Maximum Likelihood Estimation | Bayesian Regression and PyMC3 | Outcomes | Local Time |
+| Morning   | Recommender Systems II| Bayesian Inference | Missing Data | MCMC | PyMC & Bayesian Regression |
+| Afternoon | Intro to Bayes | Maximum Likelihood Estimation | Project Worktime | Outcomes | Local Time |
 | Labs | | | | | |
 
 #### Week 10 - Advanced Topics
