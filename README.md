@@ -93,7 +93,7 @@ https://1drv.ms/u/s!AhFKW80cknnIgSUDnk3qDFrs6JzR
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [9.01 Recommender Systems II: Collaborative Filtering](https://git.generalassemb.ly/DSI-US-4/9.01-recommender-systems-ii)| Bayesian Inference | Missing Data | MCMC | PyMC & Bayesian Regression |
 | Afternoon | [9.02 Intro to Bayes](https://git.generalassemb.ly/DSI-US-4/9.02-intro_to_bayes-lesson) | Maximum Likelihood Estimation | Project Worktime | Outcomes | Local Time |
-| Labs | [9.01 Bayes Practice](https://git.generalassemb.ly/DSI-US-4/9.01-lab-bayes_practice) | | | | |
+| Labs | [9.01 Bayes Practice](https://git.generalassemb.ly/DSI-US-4/9.01-lab-bayes_practice) | [9.02 Prior Posterior Simulation](https://git.generalassemb.ly/DSI-US-4/9.02-lab-prior_posterior_simulations) | | | |
 
 #### Week 10 - Advanced Topics
 
