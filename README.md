@@ -100,7 +100,7 @@ https://1drv.ms/u/s!AhFKW80cknnIgSUDnk3qDFrs6JzR
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Intro to Correlated Data | ARMA | Recurrent Neural Networks | Network Data and Analysis | Flex/Hackathon |
-| Afternoon | Time Series Data | ARIMA | Spatial and Spatiotemporal Data | Outcomes | Flex/Hackathon |
+| Afternoon | [10.02 Time Series Data](https://git.generalassemb.ly/DSI-US-4/10.02-lesson-timeseries) | ARIMA | Spatial and Spatiotemporal Data | Outcomes | Flex/Hackathon |
 | Labs | | | | | |
 
 #### Week 11 - Big Data
