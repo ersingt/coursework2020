@@ -91,7 +91,7 @@ https://1drv.ms/u/s!AhFKW80cknnIgSUDnk3qDFrs6JzR
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [9.01 Recommender Systems II: Collaborative Filtering](https://git.generalassemb.ly/DSI-US-4/9.01-recommender-systems-ii)| [9.03 Bayesian Inference](https://git.generalassemb.ly/DSI-US-4/9.03-lesson-bayesian_inference) | [9.05 Missing Data](https://git.generalassemb.ly/DSI-US-4/9.05-analysis-with-missing-data) | [9.06 MCMC](https://git.generalassemb.ly/DSI-US-4/9.06-lesson-mcmc) | PyMC & Bayesian Regression |
+| Morning   | [9.01 Recommender Systems II: Collaborative Filtering](https://git.generalassemb.ly/DSI-US-4/9.01-recommender-systems-ii)| [9.03 Bayesian Inference](https://git.generalassemb.ly/DSI-US-4/9.03-lesson-bayesian_inference) | [9.05 Missing Data](https://git.generalassemb.ly/DSI-US-4/9.05-analysis-with-missing-data) | [9.06 MCMC](https://git.generalassemb.ly/DSI-US-4/9.06-lesson-mcmc) | [9.07 PyMC & Bayesian Regression](https://git.generalassemb.ly/DSI-US-4/9.07-lesson-pymc3-bayes) |
 | Afternoon | [9.02 Intro to Bayes](https://git.generalassemb.ly/DSI-US-4/9.02-intro_to_bayes-lesson) | [9.04 Maximum Likelihood Estimation](https://git.generalassemb.ly/DSI-US-4/9.04-bayes-conjugacy-mle) | Project Worktime | Outcomes | Local Time |
 | Labs | [9.01 Bayes Practice](https://git.generalassemb.ly/DSI-US-4/9.01-lab-bayes_practice) | [9.02 Prior Posterior Simulation](https://git.generalassemb.ly/DSI-US-4/9.02-lab-prior_posterior_simulations) | [9.03 Bayes Data](https://git.generalassemb.ly/DSI-US-4/9.03-lab-bayes_data)| | |
 
