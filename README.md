@@ -99,7 +99,7 @@ https://1drv.ms/u/s!AhFKW80cknnIgSUDnk3qDFrs6JzR
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Intro to Correlated Data | ARMA | Recurrent Neural Networks | Spatial and Spatiotemporal Data | Flex/Hackathon |
+| Morning   | [10.01 Intro to Correlated Data](https://git.generalassemb.ly/DSI-US-4/10.01-lesson-intro_to_correlated_data) | ARMA | Recurrent Neural Networks | Spatial Data | Flex/Hackathon |
 | Afternoon | [10.02 Time Series Data](https://git.generalassemb.ly/DSI-US-4/10.02-lesson-timeseries) | ARIMA | Benford's Law | Outcomes | Flex/Hackathon |
 | Labs | | | | | |
 
