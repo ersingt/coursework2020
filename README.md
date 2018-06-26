@@ -101,7 +101,7 @@ https://1drv.ms/u/s!AhFKW80cknnIgSUDnk3qDFrs6JzR
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [10.01 Intro to Correlated Data](https://git.generalassemb.ly/DSI-US-4/10.01-lesson-intro_to_correlated_data) | [10.03 ARMA](https://git.generalassemb.ly/DSI-US-4/10.03-lesson-arma-timeseries) | Recurrent Neural Networks | Spatial Data | Flex/Hackathon |
 | Afternoon | [10.02 Time Series Data](https://git.generalassemb.ly/DSI-US-4/10.02-lesson-timeseries) | [10.04 ARIMA](https://git.generalassemb.ly/DSI-US-4/10.04-lesson-arima_aic_forecasting-timeseries) | Benford's Law | Outcomes | Flex/Hackathon |
-| Labs | | | | | |
+| Labs | |[10.04 Timeseries: ARIMA lab ](https://git.generalassemb.ly/DSI-US-4/10.04-timeseries-arima-lab) | | | |
 
 #### Week 11 - Big Data
 
