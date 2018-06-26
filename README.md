@@ -107,8 +107,8 @@ https://1drv.ms/u/s!AhFKW80cknnIgSUDnk3qDFrs6JzR
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Flex | DataFrames with Spark | NO CLASS | Spark in the Cloud | Machine Learning with Spark |
-| Afternoon | Flex | Flex | NO CLASS | Outcomes | Flex |
+| Morning   | 11.01 Intro to Scala | DataFrames with Spark | NO CLASS | Spark in the Cloud | Machine Learning with Spark |
+| Afternoon | 11.02 AWS + Docker | Flex | NO CLASS | Outcomes | Flex |
 | Labs | | | | | |
 
 
