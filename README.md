@@ -99,7 +99,7 @@ https://1drv.ms/u/s!AhFKW80cknnIgSUDnk3qDFrs6JzR
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [10.01 Intro to Correlated Data](https://git.generalassemb.ly/DSI-US-4/10.01-lesson-intro_to_correlated_data) | [10.03 ARMA](https://git.generalassemb.ly/DSI-US-4/10.03-lesson-arma-timeseries) | [10.05 LSTMs](https://git.generalassemb.ly/DSI-US-4/10.05-lesson-timeseries_forecasting_lstms) | Spatial Data | Flex/Hackathon |
+| Morning   | [10.01 Intro to Correlated Data](https://git.generalassemb.ly/DSI-US-4/10.01-lesson-intro_to_correlated_data) | [10.03 ARMA](https://git.generalassemb.ly/DSI-US-4/10.03-lesson-arma-timeseries) | [10.05 LSTMs](https://git.generalassemb.ly/DSI-US-4/10.05-lesson-timeseries_forecasting_lstms) | [10.07 Spatial Data](https://git.generalassemb.ly/DSI-US-4/10.07-lesson-spatial_data_analysis) | Flex/Hackathon |
 | Afternoon | [10.02 Time Series Data](https://git.generalassemb.ly/DSI-US-4/10.02-lesson-timeseries) | [10.04 ARIMA](https://git.generalassemb.ly/DSI-US-4/10.04-lesson-arima_aic_forecasting-timeseries) | [10.06 Benford's Law](https://git.generalassemb.ly/DSI-US-4/10.06-lesson-benfords-law) | Outcomes | Flex/Hackathon |
 | Labs | |[10.04 Timeseries: ARIMA lab ](https://git.generalassemb.ly/DSI-US-4/10.04-timeseries-arima-lab) | | | |
 
