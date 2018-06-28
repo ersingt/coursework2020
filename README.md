@@ -109,7 +109,7 @@ https://1drv.ms/u/s!AhFKW80cknnIgSUDnk3qDFrs6JzR
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 11.01 Intro to Scala | DataFrames with Spark | NO CLASS | Spark in the Cloud | Machine Learning with Spark |
 | Afternoon | 11.02 AWS + Docker | Flex | NO CLASS | Outcomes | Flex |
-| Labs | | | | | |
+| Labs | | | | [11.01 Spark Model](https://git.generalassemb.ly/DSI-US-4/11.01-lab-spark-model) | |
 
 
 
