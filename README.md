@@ -107,8 +107,8 @@ https://1drv.ms/u/s!AhFKW80cknnIgSUDnk3qDFrs6JzR
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 11.01 Intro to Scala | DataFrames with Spark | NO CLASS | Spark in the Cloud | Machine Learning with Spark |
-| Afternoon | 11.02 AWS + Docker | Flex | NO CLASS | Outcomes | Flex |
+| Morning   | 11.01 AWS + Docker | DataFrames with Spark | NO CLASS | Spark in the Cloud | Machine Learning with Spark |
+| Afternoon | [11.02 Intro to Scala](https://git.generalassemb.ly/DSI-US-4/11.02-lesson-scala) | Flex | NO CLASS | Outcomes | Flex |
 | Labs | | | | [11.01 Spark Model](https://git.generalassemb.ly/DSI-US-4/11.01-lab-spark-model) | |
 
 
