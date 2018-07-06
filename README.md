@@ -108,7 +108,7 @@ https://1drv.ms/u/s!AhFKW80cknnIgSUDnk3qDFrs6JzR
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [11.01 AWS + Docker](https://git.generalassemb.ly/DSI-US-4/11.01-docker-on-aws) | [11.03 Spark DataFrames](https://git.generalassemb.ly/DSI-US-4/11.03-lesson-dataframes) | NO CLASS | [11.05 Machine Learning with Spark](https://git.generalassemb.ly/DSI-US-4/11.05-lesson-spark-ml) | [11.06 Pipelines and Cross Validation](https://git.generalassemb.ly/DSI-US-4/11.06-lesson-spark-pipelines) |
-| Afternoon | [11.02 Intro to Scala](https://git.generalassemb.ly/DSI-US-4/11.02-lesson-scala) | [Ethics and Model Explainability](https://git.generalassemb.ly/DSI-US-4/11.04-lesson-explainable_models-ethics) | NO CLASS | Outcomes | Flex |
+| Afternoon | [11.02 Intro to Scala](https://git.generalassemb.ly/DSI-US-4/11.02-lesson-scala) | [Ethics and Model Explainability](https://git.generalassemb.ly/DSI-US-4/11.04-lesson-explainable_models-ethics) | NO CLASS | Outcomes: [Technical Interview Prep](https://git.generalassemb.ly/DSI-US-4/11.07-outcomes-interview_prep) | Flex |
 | Labs | | | | [11.01 Spark Model](https://git.generalassemb.ly/DSI-US-4/11.01-lab-spark-model) | |
 
 
