@@ -22,8 +22,8 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
-| Morning | 1.1 Datatypes | 1.02 FUNctions | 1.05 Discrete Distributions | Central Limit Theorem  | Inference |
-| Afternoon| Control Flow | List Comprehension Practice | 1.06 Continuous Distributions | Outcomes: Intro to Outcomes | Local Time |
+| Morning | 1.01 Datatypes | 1.03 FUNctions | 1.05 Probability | 1.07 Distributions + NumPy 1 - Continuous  | 1.08 Intro to Ethics |
+| Afternoon| 1.02 Control Flow | 1.04 List Comprehension Practice | 1.06 Distributions + NumPy 1 - Discrete | Outcomes: Intro to Outcomes | Local Time |
 | Labs | 1.1 Pokemon Lab | | 1.02 Distributions Lab | | Inference Lab |
 
 #### Week 2 - Exploratory Data Analysis
