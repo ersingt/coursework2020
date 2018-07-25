@@ -30,8 +30,8 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 2.01 Pandas: Intro 1 (Basics) | 2.03 Exploratory Data Analysis | 2.05 SQL: Intro | 2.07 Pandas: Joining DataFrames | Project 1 Due |
-| Afternoon | 2.02 Pandas: Intro 2 (Features and Plotting) | 2.04 Pandas: Advanced Transformations | 2.06 SQL: Joining Tables | Outcomes: Alumni Panel, Developing Your Network + The Local Landscape | Local Time |
+| Morning   | 2.01 Pandas: Intro 1 (Basics) | 2.03 Visualization 1 | 2.05 Exploratory Data Analysis (EDA) | 2.07 Hypothesis Testing | Project 1 Due |
+| Afternoon | 2.02 Pandas: Intro 2 (Features and Plotting) | 2.04 Visualization 2 | 2.06 Central Limit Theorem and Confidence Intervals | Outcomes: Alumni Panel, Developing Your Network + The Local Landscape | Local Time |
 | Labs | 2.01 Titanic EDA | 2.02 Feature Engineering | | 2.03 Concatenating DataFrames | |
 
 #### Week 3 - Regression
