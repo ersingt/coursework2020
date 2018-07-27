@@ -6,7 +6,7 @@ https://git.generalassemb.ly/DSI-US-5/capstone
 
 #### Lesson Recordings
 
-TBD
+https://www.youtube.com/playlist?list=PLYGvOQTnahYKAvQT7-AD3c9sF58gZRlzC
 
 #### Instructor and TA Appointment Sign-Ups
 
