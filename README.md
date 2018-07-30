@@ -23,7 +23,7 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
 | Morning | [1.01 Datatypes](https://git.generalassemb.ly/DSI-US-5/1.01-lesson-python-intro) | 1.03 FUNctions | 1.05 Probability | 1.07 Distributions + NumPy 1 - Continuous  | 1.08 Intro to Ethics |
-| Afternoon| [1.02 Control Flow](https://git.generalassemb.ly/DSI-US-5/1.02-lesson-python-control-flow) | 1.04 List Comprehension Practice | 1.06 Distributions + NumPy 1 - Discrete | Outcomes Programming | Local Time |
+| Afternoon| [1.02 Control Flow](https://git.generalassemb.ly/DSI-US-5/1.02-lesson-python-control-flow) | [1.04 List Comprehension Practice](https://git.generalassemb.ly/DSI-US-5/1.04-lesson-list-comprehension) | 1.06 Distributions + NumPy 1 - Discrete | Outcomes Programming | Local Time |
 | Labs | [1.01 Pokemon Lab](https://git.generalassemb.ly/DSI-US-5/1.01-lab-pokemon) | | [1.02 Distributions Lab](https://git.generalassemb.ly/DSI-US-5/1.02-lab-distributions) | | |
 
 #### Week 2 - Exploratory Data Analysis
