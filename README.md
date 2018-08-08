@@ -47,7 +47,7 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 4.01 Intro to Classification + KNN | 4.03 Classification Metrics I | Flex Time | 4.06 Pipelines + GridSearchCV | Project 2 Due |
+| Morning   | 4.01 Intro to Classification + KNN | 4.03 Classification Metrics I | Flex Time | 4.06 Pipelines + GridSearchCV | [Project 2](https://git.generalassemb.ly/DSI-US-5/project-2) Due |
 | Afternoon | 4.02 Logistic Regression | 4.04 Classification Metrics II | 4.05 Generalized Linear Models | Outcomes Programming | Local Time |
 | Labs | 4.01 Classification Model Comparison| 4.02 Classification Model Evaluation | | | |
 
