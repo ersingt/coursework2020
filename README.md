@@ -30,7 +30,7 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [2.01 Pandas: Intro 1 (Basics)](https://git.generalassemb.ly/DSI-US-5/2.01-2.02-intro-to-pandas) | 2.03 Visualization 1 | [2.05 Exploratory Data Analysis (EDA)](https://git.generalassemb.ly/DSI-US-5/2.05-lesson-eda) | 2.07 Hypothesis Testing | [Project 1 Due](https://git.generalassemb.ly/DSI-US-5/project-1) |
+| Morning   | [2.01 Pandas: Intro 1 (Basics)](https://git.generalassemb.ly/DSI-US-5/2.01-2.02-intro-to-pandas) | 2.03 Visualization 1 | [2.05 Exploratory Data Analysis (EDA)](https://git.generalassemb.ly/DSI-US-5/2.05-lesson-eda) | [2.07 Hypothesis Testing](https://git.generalassemb.ly/DSI-US-5/2.07-lesson-hypothesis-tests) | [Project 1 Due](https://git.generalassemb.ly/DSI-US-5/project-1) |
 | Afternoon | [2.02 Pandas: Intro 2 (Features and Plotting)](https://git.generalassemb.ly/DSI-US-5/2.01-2.02-intro-to-pandas) | 2.04 Visualization 2 | [2.06 Central Limit Theorem and Confidence Intervals](https://git.generalassemb.ly/DSI-US-5/2.06-lesson-central_limit_theorem-ci-statistics) | Outcomes Programming | Local Time |
 | Labs | [2.01 Titanic EDA](https://git.generalassemb.ly/DSI-US-5/2.01-lab-pandas-titanic) |  | | 2.02 Feature Engineering | |
 
