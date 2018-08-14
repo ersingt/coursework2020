@@ -38,8 +38,8 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [3.01 Linear Regression: Intro](https://git.generalassemb.ly/DSI-US-5/lesson-linear_regression) | 3.03 Regression Evaluation Metrics | 3.05 Train/Test Split + Cross Validation | 3.07 Regularization | 3.08 Object Oriented Programming  |
-| Afternoon | 3.02 Linear Regression: Multivariate | 3.04 Bias-Variance Tradeoff | 3.06 Feature Engineering | Outcomes Proramming | Local Time |
+| Morning   | [3.01 Linear Regression: Intro](https://git.generalassemb.ly/DSI-US-5/lesson-linear_regression) | [3.03 Regression Evaluation Metrics](https://git.generalassemb.ly/DSI-US-5/3.03-regression-metrics-lesson) | 3.05 Train/Test Split + Cross Validation | 3.07 Regularization | 3.08 Object Oriented Programming  |
+| Afternoon | 3.02 Linear Regression: Multivariate | [3.04 Bias-Variance Tradeoff](https://git.generalassemb.ly/DSI-US-5/3.04-bias-variance-tradeoff) | 3.06 Feature Engineering | Outcomes Proramming | Local Time |
 | Labs | [3.01 Linear Regression Lab](https://git.generalassemb.ly/DSI-US-5/3.01-lab-linear_regression-regression) | | [3.02 Regularization and Validation Lab](https://git.generalassemb.ly/DSI-US-5/3.02-lab-cross_validation_regularization-regression) | | |
 
 
