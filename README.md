@@ -1,4 +1,4 @@
-# ![GA Logo](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67) Handy Links:
+# ![GA Logo](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67) Handy Links
 
 #### Capstone Guidelines & Schedule
 
@@ -38,7 +38,7 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [3.01 Linear Regression: Intro](https://git.generalassemb.ly/DSI-US-5/lesson-linear_regression) | [3.03 Regression Evaluation Metrics](https://git.generalassemb.ly/DSI-US-5/3.03-regression-metrics-lesson) | [3.05 Train/Test Split + Cross Validation](https://git.generalassemb.ly/DSI-US-5/3.05-lesson-cross-validation-train-test-split) | [3.07 Regularization](https://git.generalassemb.ly/DSI-US-5/3.07-lesson-regularization) | [3.08 Object Oriented Programming](https://git.generalassemb.ly/DSI-US-5/3.08-lesson-object_oriented_programming-regression)  |
+| Morning   | [3.01 Linear Regression: Intro](https://git.generalassemb.ly/DSI-US-5/lesson-linear_regression) | [3.03 Regression Evaluation Metrics](https://git.generalassemb.ly/DSI-US-5/3.03-regression-metrics-lesson) | [3.05 Train/Test Split + Cross Validation](https://git.generalassemb.ly/DSI-US-5/3.05-lesson-cross-validation-train-test-split) | [3.07 Regularization](https://git.generalassemb.ly/DSI-US-5/3.07-lesson-regularization) | 3.08 Object Oriented Programming  |
 | Afternoon | [3.01 Linear Regression: Intro (cont'd)](https://git.generalassemb.ly/DSI-US-5/lesson-linear_regression) | [3.04 Bias-Variance Tradeoff](https://git.generalassemb.ly/DSI-US-5/3.04-bias-variance-tradeoff) | [3.06 Feature Engineering](https://git.generalassemb.ly/DSI-US-5/3.06-lesson-feature-engineering) | Outcomes Proramming | Local Time |
 | Labs | [3.01 Linear Regression Lab](https://git.generalassemb.ly/DSI-US-5/3.01-lab-linear_regression-regression) | | [3.02 Regularization and Validation Lab](https://git.generalassemb.ly/DSI-US-5/3.02-lab-cross_validation_regularization-regression) | | |
 
@@ -47,8 +47,8 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [4.01 Intro to Classification + Logistic Regression](https://git.generalassemb.ly/DSI-US-5/4.01-classification-logistic_regression-lesson) | 4.03 Classification Metrics I | Flex Time | 4.06 Pipelines + GridSearchCV | [Project 2](https://git.generalassemb.ly/DSI-US-5/project-2) Due |
-| Afternoon | 4.02 Logistic Regression | 4.04 Classification Metrics II | 4.05 Generalized Linear Models | Outcomes Programming | Local Time |
+| Morning   | [4.01 Intro to Classification + Logistic Regression](https://git.generalassemb.ly/DSI-US-5/4.01-classification-logistic_regression-lesson) | 4.03 k-Nearest Neighbors | 4.05 Classification Metrics II | Local Time | Outcomes Programming  |
+| Afternoon | 4.02 Generalized Linear Models | 4.04 Classification Metrics I | 4.06 Hyperparameter Tuning and Pipelines | [Project 2](https://git.generalassemb.ly/DSI-US-5/project-2) Due | Local Time |
 | Labs | 4.01 Classification Model Comparison| 4.02 Classification Model Evaluation | | | |
 
 #### Week 5 - Web Scraping, APIs and NLP
