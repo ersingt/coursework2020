@@ -47,8 +47,8 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [4.01 Intro to Classification + Logistic Regression](https://git.generalassemb.ly/DSI-US-5/4.01-classification-logistic_regression-lesson) | [4.03 k-Nearest Neighbors](https://git.generalassemb.ly/DSI-US-5/4.03-lesson-knn) | 4.05 Classification Metrics II | Local Time | Outcomes Programming  |
-| Afternoon | [4.02 Generalized Linear Models](https://git.generalassemb.ly/DSI-US-5/4.02-lesson-generalized_linear_models) | [4.04 Classification Metrics I](https://git.generalassemb.ly/DSI-US-5/4.04-lesson-classification_metrics_i) | 4.06 Hyperparameter Tuning and Pipelines | [Project 2](https://git.generalassemb.ly/DSI-US-5/project-2) Due | Local Time |
+| Morning   | [4.01 Intro to Classification + Logistic Regression](https://git.generalassemb.ly/DSI-US-5/4.01-classification-logistic_regression-lesson) | [4.03 k-Nearest Neighbors](https://git.generalassemb.ly/DSI-US-5/4.03-lesson-knn) | [4.05 Classification Metrics II](https://git.generalassemb.ly/DSI-US-5/4.05-lesson-classification_metrics_ii) | Local Time | Outcomes Programming  |
+| Afternoon | [4.02 Generalized Linear Models](https://git.generalassemb.ly/DSI-US-5/4.02-lesson-generalized_linear_models) | [4.04 Classification Metrics I](https://git.generalassemb.ly/DSI-US-5/4.04-lesson-classification_metrics_i) | [4.06 Hyperparameter Tuning and Pipelines](https://git.generalassemb.ly/DSI-US-5/4.06-optimization-gridsearch_hyperparameters-lesson) | [Project 2](https://git.generalassemb.ly/DSI-US-5/project-2) Due | Local Time |
 | Labs | [4.01 Classification Model Comparison](https://git.generalassemb.ly/DSI-US-5/4.01-lab-classification_model_comparison) | [4.02 Classification Model Evaluation](https://git.generalassemb.ly/DSI-US-5/4.02-lab-classification_model_evaluation) | | | |
 
 #### Week 5 - Web Scraping, APIs and NLP
