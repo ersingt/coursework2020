@@ -55,9 +55,9 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 5.01 Intro to HTML | 5.03 Flask I | 5.04 NLP I | Naive Bayes | 5.08 Regex  |
-| Afternoon | 5.02 Web Scraping | 5.03 (continued) Flask II | NLP II | Outcomes Programming | Local Time |
-| Labs | 5.01 Scraping Lab | | 5.02 NLP Lab | | |
+| Morning   | 5.01 Naive Bayes | 5.03 NLP II | 5.04 Flask I | 5.06 Intro to HTML | 5.07 Web Scraping  |
+| Afternoon | 5.02 NLP I | 5.04 Regex | 5.05 Flask II | Outcomes Programming | Local Time |
+| Labs | 5.01 NLP Lab | | 5.02 Scraping Lab | | |
 
 #### Week 6 - Advanced Classifiers
 
