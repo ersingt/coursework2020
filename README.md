@@ -57,7 +57,7 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [5.01 Naive Bayes](https://git.generalassemb.ly/DSI-US-5/5.01-lesson-naive_bayes) | 5.03 NLP II | 5.04 Flask I | 5.06 Intro to HTML | 5.07 Web Scraping  |
 | Afternoon | 5.02 NLP I | 5.04 Regex | 5.05 Flask II | Outcomes Programming | Local Time |
-| Labs | | 5.01 NLP Lab | | | 5.02 Scraping Lab |
+| Labs | | [5.01 NLP Lab](https://git.generalassemb.ly/DSI-US-5/5.02-lab-intro_to_nlp-nlp) | | | 5.02 Scraping Lab |
 
 #### Week 6 - Advanced Classifiers
 
