@@ -71,7 +71,7 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Project 3 Due | 7.01 Neural Networks: Intro | 7.03 Methods of Regularization | 7.05 CNNs II | 7.06 Intro to Tensorflow  |
+| Morning   | [Project 3 Due](https://git.generalassemb.ly/DSI-US-5/project-3) | 7.01 Neural Networks: Intro | 7.03 Methods of Regularization | 7.05 CNNs II | 7.06 Intro to Tensorflow  |
 | Afternoon | Flex/Hackathon | 7.02 Intro to Keras | 7.04 CNNs I | Outcomes Programming | Local Time |
 | Labs | 7.01 Conceptual Neural Network Lab | 7.02 Applied Neural Network Lab | | | |
 
