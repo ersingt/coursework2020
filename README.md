@@ -55,7 +55,7 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [5.01 Naive Bayes](https://git.generalassemb.ly/DSI-US-5/5.01-lesson-naive_bayes) | [5.03 NLP II](https://git.generalassemb.ly/DSI-US-5/5.03-lesson-nlp-ii) | [5.05 Web APIs I](https://git.generalassemb.ly/DSI-US-5/5.05-5.06-web_services_apis-i-ii) | [5.06 Intro to HTML](https://git.generalassemb.ly/DSI-US-5/5.06-lesson-html-css) | 5.07 Web Scraping  |
+| Morning   | [5.01 Naive Bayes](https://git.generalassemb.ly/DSI-US-5/5.01-lesson-naive_bayes) | [5.03 NLP II](https://git.generalassemb.ly/DSI-US-5/5.03-lesson-nlp-ii) | [5.05 Web APIs I](https://git.generalassemb.ly/DSI-US-5/5.05-5.06-web_services_apis-i-ii) | [5.06 Intro to HTML](https://git.generalassemb.ly/DSI-US-5/5.06-lesson-html-css) | [5.07 Web Scraping](https://git.generalassemb.ly/DSI-US-5/5.07-lesson-webscraping)  |
 | Afternoon | [5.02 NLP I](https://git.generalassemb.ly/DSI-US-5/5.02-lesson-nlp_i) | [5.04 Regex](https://git.generalassemb.ly/DSI-US-5/5.04-lesson-regex) | [5.06 Web API's II](https://git.generalassemb.ly/DSI-US-5/5.05-5.06-web_services_apis-i-ii) | Outcomes Programming | Local Time |
 | Labs | | [5.01 NLP Lab](https://git.generalassemb.ly/DSI-US-5/5.02-lab-intro_to_nlp-nlp) | | | 5.02 Scraping Lab |
 
