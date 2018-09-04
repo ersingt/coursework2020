@@ -63,8 +63,8 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | **No Class** | [6.01 CART I](https://git.generalassemb.ly/Data-science-immersive/6.01-trees-CARTs-lesson) | 6.02 Bagging, Random Forests, ExtraTrees | SVMs |  Gradient Descent |
-| Afternoon | **No Class** | [6.01 CART II](https://git.generalassemb.ly/Data-science-immersive/6.01-trees-CARTs-lesson) | 6.03 Boosting | Outcomes Programming | Local Time |
+| Morning   | **No Class** | [6.01 CART I](https://git.generalassemb.ly/DSI-US-5/6.01-trees-CARTs-lesson) | 6.02 Bagging, Random Forests, ExtraTrees | SVMs |  Gradient Descent |
+| Afternoon | **No Class** | [6.01 CART II](https://git.generalassemb.ly/DSI-US-5/6.01-trees-CARTs-lesson) | 6.03 Boosting | Outcomes Programming | Local Time |
 | Labs | 6.01 Supervised Model Comparison | | | | 6.02 Gradient Descent Lab|
 
 #### Week 7 - Neural Networks
