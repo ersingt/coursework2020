@@ -63,7 +63,7 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | **No Class** | [6.01 CART I](https://git.generalassemb.ly/DSI-US-5/6.01-trees-CARTs-lesson) | 6.02 Bagging, Random Forests, ExtraTrees | SVMs |  Gradient Descent |
+| Morning   | **No Class** | [6.01 CART I](https://git.generalassemb.ly/DSI-US-5/6.01-trees-CARTs-lesson) | [6.02 Bagging, Random Forests, ExtraTrees](https://git.generalassemb.ly/DSI-US-5/6.02-lesson-bagging-rfs) | SVMs |  Gradient Descent |
 | Afternoon | **No Class** | [6.01 CART II](https://git.generalassemb.ly/DSI-US-5/6.01-trees-CARTs-lesson) | 6.03 Boosting | Outcomes Programming | Local Time |
 | Labs | [6.01 Supervised Model Comparison](https://git.generalassemb.ly/DSI-US-5/6.01-lab-supervised_learning_models) | | | | 6.02 Gradient Descent Lab|
 
