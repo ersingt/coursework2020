@@ -71,7 +71,7 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Project 3 (Reddit) | 10.02 Time Series Data| 10.04 Spatial Data| 10.07 Network Analysis | Flex |
+| Morning   | [Project 3 (Reddit) Due](https://git.generalassemb.ly/DSI-US-5/project-3) | 10.02 Time Series Data| 10.04 Spatial Data| 10.07 Network Analysis | Flex |
 | Afternoon | 10.01 Intro to Correlated Data | 10.03 ARMAA + ARIMA | 10.05 Benford's Law | Outcomes Programming | Flex |
 | Labs | |10.01 Timeseries: ARIMA lab  | | 10.02 Spatial Lab | |
 
@@ -87,7 +87,7 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | TBD | 9.03 Bayesian Inference | 9.05 Missing Data | 9.06 MCMC | 9.07 PyMC & Bayesian Regression |
+| Morning   | TBD / Flex | 9.03 Bayesian Inference | 9.05 Missing Data | 9.06 MCMC | 9.07 PyMC & Bayesian Regression |
 | Afternoon | 9.02 Intro to Bayes | 9.04 Maximum Likelihood Estimation | Project Worktime | Outcomes Programming | Local Time |
 | Labs | 9.01 Bayes Practice | 9.02 Prior Posterior Simulation | 9.03 Bayes Data| | |
 
@@ -95,7 +95,7 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [Project 3 Due](https://git.generalassemb.ly/DSI-US-5/project-3) | 7.01 Neural Networks: Intro | 7.03 Methods of Regularization | 7.05 CNNs II | 7.06 Intro to Tensorflow  |
+| Morning   | TBD / Flex | 7.01 Neural Networks: Intro | 7.03 Methods of Regularization | 7.05 CNNs II | 7.06 Intro to Tensorflow  |
 | Afternoon | Flex/Hackathon | 7.02 Intro to Keras | 7.04 CNNs I | Outcomes Programming | Local Time |
 | Labs | 7.01 Conceptual Neural Network Lab | 7.02 Applied Neural Network Lab | | | |
 
