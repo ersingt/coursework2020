@@ -63,66 +63,24 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | **No Class** | [6.01 CART I](https://git.generalassemb.ly/DSI-US-5/6.01-trees-CARTs-lesson) | [6.02 Bagging, Random Forests, ExtraTrees](https://git.generalassemb.ly/DSI-US-5/6.02-lesson-bagging-rfs) | SVMs |  Gradient Descent |
+| Morning   | **No Class** | [6.01 CART I](https://git.generalassemb.ly/DSI-US-5/6.01-trees-CARTs-lesson) | [6.02 Bagging, Random Forests, ExtraTrees](https://git.generalassemb.ly/DSI-US-5/6.02-lesson-bagging-rfs) | SVMs | [Project 3 (Reddit) / Local Time](https://git.generalassemb.ly/DSI-US-5/project-3) |
 | Afternoon | **No Class** | [6.01 CART II](https://git.generalassemb.ly/DSI-US-5/6.01-trees-CARTs-lesson) | [6.03 Boosting](https://git.generalassemb.ly/DSI-US-5/6.03-lesson-boosting) | Outcomes Programming | Local Time |
 | Labs | [6.01 Supervised Model Comparison](https://git.generalassemb.ly/DSI-US-5/6.01-lab-supervised_learning_models) | | | | 6.02 Gradient Descent Lab|
 
-#### Week 7 - Correlated Data / Advanced Topics
+#### Week 7 - Correlated Data
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [Project 3 (Reddit) Due](https://git.generalassemb.ly/DSI-US-5/project-3) | 10.02 Time Series Data| 10.04 Spatial Data| 10.07 Network Analysis | Flex |
-| Afternoon | 10.01 Intro to Correlated Data | 10.03 ARMAA + ARIMA | 10.05 Benford's Law | Outcomes Programming | Flex |
-| Labs | |10.01 Timeseries: ARIMA lab  | | 10.02 Spatial Lab | |
+| Morning   | [Project 3 (Reddit) / Local Time](https://git.generalassemb.ly/DSI-US-5/project-3) | 7.02 Time Series Data | 7.04 Spatial Data Analysis | 7.06 Network Analysis | 7.07 Gradient Descent |
+| Afternoon | 7.01 Intro to Correlated Data Analysis | 7.03 ARMA + ARIMA | 7.05 Benford's Law | Outcomes Programming | Local Time |
+| Labs | 7.01 Intro to Correlated Data Lab | 7.02 Time Series: ARIMA lab  | | 7.03 Spatial Lab | |
 
-#### Week 8 - Unsupervised Learning
-
-|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 8.01 Intro to Unsupervised Learning & Topic Modeling | 8.03 DBSCAN and HDBSCAN Clustering  | 8.05 Recommender Systems I | 8.07 Principal Component Analysis | Project 4 Presentations |
-| Afternoon | 8.02 K-Means Clustering | 8.04 Hierarchical Clustering | 8.06 Recommender Systems II | Outcomes Programming | Local Time |
-| Labs | (Optional) 8.02 Plutonium K-Means | 8.04 Battle Of The Clusterers Lab | 8.05 PCA Lab | | |
-
-#### Week 9 - Bayesian Statistics and Inference
-
-|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | TBD / Flex | 9.03 Bayesian Inference | 9.05 Missing Data | 9.06 MCMC | 9.07 PyMC & Bayesian Regression |
-| Afternoon | 9.02 Intro to Bayes | 9.04 Maximum Likelihood Estimation | Project Worktime | Outcomes Programming | Local Time |
-| Labs | 9.01 Bayes Practice | 9.02 Prior Posterior Simulation | 9.03 Bayes Data| | |
-
-#### Week 10 - Neural Networks
-
-|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | TBD / Flex | 7.01 Neural Networks: Intro | 7.03 Methods of Regularization | 7.05 CNNs II | 7.06 Intro to Tensorflow  |
-| Afternoon | Flex/Hackathon | 7.02 Intro to Keras | 7.04 CNNs I | Outcomes Programming | Local Time |
-| Labs | 7.01 Conceptual Neural Network Lab | 7.02 Applied Neural Network Lab | | | |
-
-
-#### Week 11 - Big Data
-
-|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 11.01 AWS + Docker | 11.03 Spark DataFrames | NO CLASS | 11.05 Machine Learning with Spark | 11.06 Pipelines and Cross Validation |
-| Afternoon | 11.02 Intro to Scala | Ethics and Model Explainability | NO CLASS | Outcomes Programming | Flex |
-| Labs | | | | 11.01 Spark Model | |
-
-
-
-#### Week 12 - Capstone
-
-|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Capstone | Capstone | Capstone | Capstone | Capstone  |
-| Afternoon | Capstone | Capstone | Capstone | Outcomes Programming | Local Flex | 
-
-#### Week 13 - Capstone
-
-|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Capstone | Capstone Presentations! | NO CLASS | NO CLASS | NO CLASS |
-| Afternoon | Capstone | Capstone Presentations/End of Course! | NO CLASS | NO CLASS | NO CLASS | 
+#### Topics to Come
+- Deep Learning & Neural Networks
+- Unsupervised Learning
+- Bayesian Statistics
+- Big Data
+- SQL
 
 #### Zoom
 
