@@ -59,13 +59,13 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 | Afternoon | [5.02 NLP I](https://git.generalassemb.ly/DSI-US-5/5.02-lesson-nlp_i) | [5.04 Regex](https://git.generalassemb.ly/DSI-US-5/5.04-lesson-regex) | [5.06 Web API's II](https://git.generalassemb.ly/DSI-US-5/5.05-5.06-web_services_apis-i-ii) | Outcomes Programming | Local Time |
 | Labs | | [5.01 NLP Lab](https://git.generalassemb.ly/DSI-US-5/5.02-lab-intro_to_nlp-nlp) | | | [5.02 Scraping Lab](https://git.generalassemb.ly/DSI-US-5/5.02-lab-beautiful_soup-webscraping) |
 
-#### Week 6 - Advanced Classifiers
+#### Week 6 - Advanced Supervised Learning
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | **No Class** | [6.01 CART I](https://git.generalassemb.ly/DSI-US-5/6.01-trees-CARTs-lesson) | [6.02 Bagging, Random Forests, ExtraTrees](https://git.generalassemb.ly/DSI-US-5/6.02-lesson-bagging-rfs) | 6.04 SVMs | [Project 3 (Reddit) / Local Time](https://git.generalassemb.ly/DSI-US-5/project-3) |
 | Afternoon | **No Class** | [6.01 CART II](https://git.generalassemb.ly/DSI-US-5/6.01-trees-CARTs-lesson) | [6.03 Boosting](https://git.generalassemb.ly/DSI-US-5/6.03-lesson-boosting) | Outcomes Programming | Local Time |
-| Labs | [6.01 Supervised Model Comparison](https://git.generalassemb.ly/DSI-US-5/6.01-lab-supervised_learning_models) | | | | 6.02 Gradient Descent Lab|
+| Labs | [6.01 Supervised Model Comparison](https://git.generalassemb.ly/DSI-US-5/6.01-lab-supervised_learning_models) | | | |
 
 #### Week 7 - Correlated Data
 
