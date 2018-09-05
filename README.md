@@ -67,7 +67,31 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 | Afternoon | **No Class** | [6.01 CART II](https://git.generalassemb.ly/DSI-US-5/6.01-trees-CARTs-lesson) | [6.03 Boosting](https://git.generalassemb.ly/DSI-US-5/6.03-lesson-boosting) | Outcomes Programming | Local Time |
 | Labs | [6.01 Supervised Model Comparison](https://git.generalassemb.ly/DSI-US-5/6.01-lab-supervised_learning_models) | | | | 6.02 Gradient Descent Lab|
 
-#### Week 7 - Neural Networks
+#### Week 7 - Correlated Data / Advanced Topics
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | Project 3 (Reddit) | 10.02 Time Series Data| 10.04 Spatial Data| 10.07 Network Analysis | Flex |
+| Afternoon | 10.01 Intro to Correlated Data | 10.03 ARMAA + ARIMA | 10.05 Benford's Law | Outcomes Programming | Flex |
+| Labs | |10.01 Timeseries: ARIMA lab  | | 10.02 Spatial Lab | |
+
+#### Week 8 - Unsupervised Learning
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | 8.01 Intro to Unsupervised Learning & Topic Modeling | 8.03 DBSCAN and HDBSCAN Clustering  | 8.05 Recommender Systems I | 8.07 Principal Component Analysis | Project 4 Presentations |
+| Afternoon | 8.02 K-Means Clustering | 8.04 Hierarchical Clustering | 8.06 Recommender Systems II | Outcomes Programming | Local Time |
+| Labs | (Optional) 8.02 Plutonium K-Means | 8.04 Battle Of The Clusterers Lab | 8.05 PCA Lab | | |
+
+#### Week 9 - Bayesian Statistics and Inference
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | TBD | 9.03 Bayesian Inference | 9.05 Missing Data | 9.06 MCMC | 9.07 PyMC & Bayesian Regression |
+| Afternoon | 9.02 Intro to Bayes | 9.04 Maximum Likelihood Estimation | Project Worktime | Outcomes Programming | Local Time |
+| Labs | 9.01 Bayes Practice | 9.02 Prior Posterior Simulation | 9.03 Bayes Data| | |
+
+#### Week 10 - Neural Networks
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -75,29 +99,6 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 | Afternoon | Flex/Hackathon | 7.02 Intro to Keras | 7.04 CNNs I | Outcomes Programming | Local Time |
 | Labs | 7.01 Conceptual Neural Network Lab | 7.02 Applied Neural Network Lab | | | |
 
-#### Week 8 - Unsupervised Learning
-
-|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 8.01 Intro to Unsupervised Learning & Topic Modeling | 8.03 Hierarchical Clustering | Flex Time | 8.06 Recommender Systems | Project 4 Presentations |
-| Afternoon | 8.02 K-Means Clustering | 8.04 DBSCAN and HDBSCAN Clustering | 8.05 Principal Component Analysis | Outcomes Programming | Local Time |
-| Labs | (Optional) 8.02 Plutonium K-Means | 8.04 Battle Of The Clusterers Lab | 8.05 PCA Lab | | |
-
-#### Week 9 - Bayesian Statistics and Inference
-
-|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 9.01 Recommender Systems II: Collaborative Filtering| 9.03 Bayesian Inference | 9.05 Missing Data | 9.06 MCMC | 9.07 PyMC & Bayesian Regression |
-| Afternoon | 9.02 Intro to Bayes | 9.04 Maximum Likelihood Estimation | Project Worktime | Outcomes Programming | Local Time |
-| Labs | 9.01 Bayes Practice | 9.02 Prior Posterior Simulation | 9.03 Bayes Data| | |
-
-#### Week 10 - Advanced Topics
-
-|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 10.01 Intro to Correlated Data | 10.03 ARMA | 10.05 LSTMs | 10.07 Spatial Data | Flex/Hackathon |
-| Afternoon | 10.02 Time Series Data | 10.04 ARIMA | 10.06 Benford's Law | Outcomes Programming | Flex/Hackathon |
-| Labs | |10.04 Timeseries: ARIMA lab  | | 10.07 Spatial Lab | |
 
 #### Week 11 - Big Data
 
