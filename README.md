@@ -73,10 +73,17 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [Project 3 (Reddit) / Local Time](https://git.generalassemb.ly/DSI-US-5/project-3) | [7.02 Time Series Data](https://git.generalassemb.ly/DSI-US-5/7.02-lesson-timeseries) | [7.04 Benford's Law](https://git.generalassemb.ly/DSI-US-5/7.04-lesson-benfords-law) | 7.06 Network Analysis | 7.07 Gradient Descent |
 | Afternoon | [7.01 Intro to Correlated Data Analysis](https://git.generalassemb.ly/DSI-US-5/7.01-lesson-intro_to_correlated_data/) | 7.03 ARMA + ARIMA | 7.05 Spatial Data Analysis | Outcomes Programming | Local Time |
-| Labs | [7.01 Intro to Correlated Data Lab](https://git.generalassemb.ly/DSI-US-5/lab-7.01-correlated_data_lab) | 7.02 Time Series: ARIMA lab  | | 7.03 Spatial Lab | |
+| Labs | [7.01 Intro to Correlated Data Lab](https://git.generalassemb.ly/DSI-US-5/lab-7.01-correlated_data_lab) | [7.02 Time Series: ARIMA lab](https://git.generalassemb.ly/DSI-US-5/7.02-lab-time_series_arima)  | | | |
+
+#### Week 8 - Unsupervised Learning
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | 8.01 Intro to Unsupervised Learning | 8.03 DBSCAN & HDBSCAN Clustering | 8.05 PCA | 8.07 Recommender Systems II | Friday |
+| Afternoon | 8.02 k-Means Clustering | 8.04 Clustering Walkthrough | 8.06 Recommender Systems I | Outcomes Programming | Local Time |
+| Labs   | 8.01 Clustering Lab | | 8.02 PCA Lab |  |  |
 
 #### Topics to Come
-- Unsupervised Learning
 - Bayesian Statistics
 - Deep Learning & Neural Networks
 - Big Data
