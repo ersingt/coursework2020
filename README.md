@@ -79,7 +79,7 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 8.01 Intro to Unsupervised Learning | 8.03 DBSCAN & HDBSCAN Clustering | 8.05 PCA | 8.07 Recommender Systems II | Friday |
+| Morning   | 8.01 Intro to Unsupervised Learning | 8.03 DBSCAN & HDBSCAN Clustering | 8.05 PCA | 8.07 Recommender Systems II | [Project 4 (WNV)](https://git.generalassemb.ly/DSI-US-5/project-4) |
 | Afternoon | 8.02 k-Means Clustering | 8.04 Clustering Walkthrough | 8.06 Recommender Systems I | Outcomes Programming | Local Time |
 | Labs   | 8.01 Clustering Lab | | 8.02 PCA Lab |  |  |
 
