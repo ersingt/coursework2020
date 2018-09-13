@@ -71,7 +71,7 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [Project 3 (Reddit) / Local Time](https://git.generalassemb.ly/DSI-US-5/project-3) | [7.02 Time Series Data](https://git.generalassemb.ly/DSI-US-5/7.02-lesson-timeseries) | [7.04 Benford's Law](https://git.generalassemb.ly/DSI-US-5/7.04-lesson-benfords-law) | 7.06 Network Analysis | 7.07 Gradient Descent |
+| Morning   | [Project 3 (Reddit) / Local Time](https://git.generalassemb.ly/DSI-US-5/project-3) | [7.02 Time Series Data](https://git.generalassemb.ly/DSI-US-5/7.02-lesson-timeseries) | [7.04 Benford's Law](https://git.generalassemb.ly/DSI-US-5/7.04-lesson-benfords-law) | [7.06 Network Analysis](https://git.generalassemb.ly/DSI-US-5/7.06-lesson-network_analysis) | 7.07 Gradient Descent |
 | Afternoon | [7.01 Intro to Correlated Data Analysis](https://git.generalassemb.ly/DSI-US-5/7.01-lesson-intro_to_correlated_data/) | 7.03 ARMA + ARIMA | [7.05 Spatial Data Analysis](https://git.generalassemb.ly/DSI-US-5/7.05-lesson-spatial_data_analysis) | Outcomes Programming | Local Time |
 | Labs | [7.01 Intro to Correlated Data Lab](https://git.generalassemb.ly/DSI-US-5/lab-7.01-correlated_data_lab) | [7.02 Time Series: ARIMA lab](https://git.generalassemb.ly/DSI-US-5/7.02-lab-time_series_arima)  | | | |
 
