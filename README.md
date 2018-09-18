@@ -83,11 +83,19 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 | Afternoon | [8.02 k-Means Clustering](https://git.generalassemb.ly/DSI-US-5/8.02-clustering-intro_to_clustering_kmeans-lesson) | 8.04 Clustering Walkthrough | 8.06 Recommender Systems I | Outcomes Programming | Local Time |
 | Labs   | [8.01 Clustering Lab](https://git.generalassemb.ly/DSI-US-5/8.02-clustering-intro_to_clustering_kmeans-lesson/blob/master/lab-kmeans-isotopes.ipynb) | | 8.02 PCA Lab |  |  |
 
+#### Week 9 - Bayesian Statistics
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | 9.01 Intro to Probability & Bayesian Statistics | 9.03 PyMC & Bayesian Regression | 9.04 MCMC | Project Worktime | Missing Data Imputation |
+| Afternoon | 9.02 Bayesian Inference | Project Worktime | 9.05 Maximum Likelihood | Outcome Programming | Local Time |
+| Labs   | 9.01 Bayes Practice| | 9.02 Bayes Data |  |  |
+
 #### Topics to Come
-- Bayesian Statistics
 - Deep Learning & Neural Networks
 - Big Data
 - SQL
+- A/B Testing
 
 #### Zoom
 
