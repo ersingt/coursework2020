@@ -88,7 +88,7 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 9.01 Intro to Probability & Bayesian Statistics | 9.03 PyMC & Bayesian Regression | 9.04 MCMC | Project Worktime | Missing Data Imputation |
-| Afternoon | 9.02 Bayesian Inference | Project Worktime | 9.05 Maximum Likelihood | Outcome Programming | Local Time |
+| Afternoon | 9.02 Bayesian Inference | Project Worktime | 9.05 Maximum Likelihood | Outcomes Programming | Local Time |
 | Labs   | 9.01 Bayes Practice| | 9.02 Bayes Data |  |  |
 
 #### Topics to Come
