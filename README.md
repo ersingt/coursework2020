@@ -89,7 +89,7 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [9.01 Intro to Probability & Bayesian Statistics](https://git.generalassemb.ly/DSI-US-5/9.01-lesson-intro-to-bayes) | 9.03 PyMC & Bayesian Regression | 9.04 MCMC | Project Worktime | Missing Data Imputation |
 | Afternoon | 9.02 Bayesian Inference | Project Worktime | 9.05 Maximum Likelihood | Outcomes Programming | Local Time |
-| Labs   | 9.01 Bayes Practice| | 9.02 Bayes Data |  |  |
+| Labs   | [9.01 Bayes Practice](https://git.generalassemb.ly/DSI-US-5/9.01-lab-bayes_practice) | | 9.02 Bayes Data |  |  |
 
 #### Week 10 - Deep Learning
 
