@@ -91,11 +91,21 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 | Afternoon | 9.02 Bayesian Inference | Project Worktime | 9.05 Maximum Likelihood | Outcomes Programming | Local Time |
 | Labs   | 9.01 Bayes Practice| | 9.02 Bayes Data |  |  |
 
-#### Topics to Come
-- Deep Learning & Neural Networks
-- Big Data
-- SQL
-- A/B Testing
+#### Week 10 - Deep Learning
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | 10.01 Introduction to Neural Networks | 10.03 Deep Learning Regularization Methods | 10.05 Convolutional Neural Networks II | 10.07 Introduction to TensorFlow | Local Time |
+| Afternoon | 10.02 Introduction to Keras | 10.04 Convolutional Neural Networks I | 10.06 Recurrent Neural Networks | Outcomes Programming | Local Time |
+| Labs   | 10.01 Conceptual Neural Networks Lab | 10.02 Applied Neural Networks Lab | |  |  |
+
+#### Week 11 - Big Data & Data Engineering
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | 11.01 SQL I | 11.03 Introduction to Scala | 11.05 Classification & Regression in Spark | 11.07 AWS & Docker | 11.09 A/B Testing |
+| Afternoon | 11.02 SQL II | 11.04 DataFrames with Spark | 11.06 Pipelines & GridSearch in Spark | Outcomes Programming | Local Time |
+| Labs   | | 11.01 Spark Model | |  |  |
 
 #### Zoom
 
