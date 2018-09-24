@@ -107,6 +107,13 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 | Afternoon | 11.02 SQL II | 11.04 DataFrames with Spark | 11.06 Pipelines & GridSearch in Spark | Outcomes Programming | Local Time |
 | Labs   | | 11.01 Spark Model | |  |  |
 
+#### Week 12 - Flex Time
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time |
+| Afternoon | Local Flex Time | Ethics | Local Flex Time | Local Flex Time | Local Flex Time |
+
 #### Zoom
 
 | Coast      | URL                                         |
