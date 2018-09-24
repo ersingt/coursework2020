@@ -114,6 +114,13 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 | Morning   | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time |
 | Afternoon | Local Flex Time | Ethics | Local Flex Time | Local Flex Time | Local Flex Time |
 
+#### Week 13 - Capstones & Graduation
+
+|           | Monday        |
+|-----------|---------------|
+| Morning   | Capstone Presentations |
+| Afternoon | Graduation! |
+
 #### Zoom
 
 | Coast      | URL                                         |
