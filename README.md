@@ -95,7 +95,7 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 10.01 Introduction to Neural Networks | 10.03 Deep Learning Regularization Methods | 10.05 Convolutional Neural Networks II | 10.07 Introduction to TensorFlow | Local Time |
+| Morning   | [10.01 Introduction to Neural Networks](https://git.generalassemb.ly/DSI-US-5/10.01-lesson-intro_to_neural_networks-nn) | 10.03 Deep Learning Regularization Methods | 10.05 Convolutional Neural Networks II | 10.07 Introduction to TensorFlow | Local Time |
 | Afternoon | [10.02 Introduction to Keras](https://git.generalassemb.ly/DSI-US-5/10.02-lesson-keras) | 10.04 Convolutional Neural Networks I | 10.06 Recurrent Neural Networks | Outcomes Programming | Local Time |
 | Labs   | 10.01 Conceptual Neural Networks Lab | 10.02 Applied Neural Networks Lab | |  |  |
 
