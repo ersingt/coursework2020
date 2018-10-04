@@ -95,7 +95,7 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [10.01 Introduction to Neural Networks](https://git.generalassemb.ly/DSI-US-5/10.01-lesson-intro_to_neural_networks-nn) | [10.03 Deep Learning Regularization Methods](https://git.generalassemb.ly/DSI-US-5/10.03-lesson-regularizing-optimizing-nn) | 10.05 Convolutional Neural Networks II | 10.07 Introduction to TensorFlow | Local Time |
+| Morning   | [10.01 Introduction to Neural Networks](https://git.generalassemb.ly/DSI-US-5/10.01-lesson-intro_to_neural_networks-nn) | [10.03 Deep Learning Regularization Methods](https://git.generalassemb.ly/DSI-US-5/10.03-lesson-regularizing-optimizing-nn) | 10.05 Convolutional Neural Networks II | [10.07 Introduction to TensorFlow](https://git.generalassemb.ly/DSI-US-5/10.07-lesson-tensorflow) | Local Time |
 | Afternoon | [10.02 Introduction to Keras](https://git.generalassemb.ly/DSI-US-5/10.02-lesson-keras) | 10.04 Convolutional Neural Networks I | [10.06 Recurrent Neural Networks](https://git.generalassemb.ly/DSI-US-5/10.06-lesson-rnns_and_lstms) | Outcomes Programming | Local Time |
 | Labs   | [10.01 Conceptual Neural Networks Lab](https://git.generalassemb.ly/DSI-US-5/10.01-lab-neural_network_conceptual) | [10.02 Applied Neural Networks Lab](https://git.generalassemb.ly/DSI-US-5/10.02-lab-neural_network_applied) | |  |  |
 
