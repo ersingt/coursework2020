@@ -105,14 +105,14 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 11.01 SQL I | 11.03 Introduction to Scala | 11.05 Classification & Regression in Spark | 11.07 AWS & Docker | 11.08 A/B Testing |
 | Afternoon | 11.02 SQL II | 11.04 DataFrames with Spark | 11.06 Pipelines & GridSearch in Spark | Outcomes Programming | Local Time |
-| Labs   | | 11.01 Spark Model | |  |  |
+| Labs   | [Capstone Milestone #3 Due](https://git.generalassemb.ly/DSI-US-5/capstone/tree/master/part_03) | 11.01 Spark Model | |  |  |
 
 #### Week 12 - Flex Time
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Local Flex Time | Ethics | Local Flex Time | Local Flex Time | Local Flex Time |
-| Afternoon | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time |
+| Afternoon | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time | [Capstone Milestone #4 Due](https://git.generalassemb.ly/DSI-US-5/capstone/tree/master/part_04) |
 
 #### Week 13 - Capstones & Graduation
 
