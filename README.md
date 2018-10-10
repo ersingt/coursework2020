@@ -103,9 +103,9 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [11.01 SQL I](https://git.generalassemb.ly/DSI-US-5/11.01-lesson-sql) | [11.03 Introduction to Scala](https://git.generalassemb.ly/DSI-US-5/11.03-lesson-scala) | 11.05 Classification & Regression in Spark | 11.07 AWS & Docker | 11.08 A/B Testing |
-| Afternoon | [11.02 SQL II](https://git.generalassemb.ly/DSI-US-5/11.01-lesson-sql) | [11.04 DataFrames with Spark](https://git.generalassemb.ly/DSI-US-5/11.04-lesson-dataframes) | 11.06 Pipelines & GridSearch in Spark | Outcomes Programming | Local Time |
-| Labs   | [Capstone Milestone #3 Due](https://git.generalassemb.ly/DSI-US-5/capstone/tree/master/part_03) | | 11.01 Spark Model |  |  |
+| Morning   | [11.01 SQL I](https://git.generalassemb.ly/DSI-US-5/11.01-lesson-sql) | [11.03 Introduction to Scala](https://git.generalassemb.ly/DSI-US-5/11.03-lesson-scala) | [11.05 Classification & Regression in Spark](https://git.generalassemb.ly/DSI-US-5/11.05-lesson-spark-ml) | 11.07 AWS & Docker | 11.08 A/B Testing |
+| Afternoon | [11.02 SQL II](https://git.generalassemb.ly/DSI-US-5/11.01-lesson-sql) | [11.04 DataFrames with Spark](https://git.generalassemb.ly/DSI-US-5/11.04-lesson-dataframes) | [11.06 Pipelines & GridSearch in Spark](https://git.generalassemb.ly/DSI-US-5/11.06-lesson-spark-pipelines) | Outcomes Programming | Local Time |
+| Labs   | [Capstone Milestone #3 Due](https://git.generalassemb.ly/DSI-US-5/capstone/tree/master/part_03) | | [11.01 Spark Model](https://git.generalassemb.ly/DSI-US-5/11.01-lab-spark-model) |  |  |
 
 #### Week 12 - Flex Time
 
