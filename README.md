@@ -112,7 +112,7 @@ https://git.generalassemb.ly/DSI-US-5/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Local Flex Time | Ethics | Local Flex Time | Local Flex Time | Local Flex Time |
-| Afternoon | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time | [Capstone Milestone #4 Due](https://git.generalassemb.ly/DSI-US-5/capstone/tree/master/part_04) |
+| Afternoon | Local Flex Time | Local Flex Time | Local Flex Time | [Capstone Milestone #4 Due](https://git.generalassemb.ly/DSI-US-5/capstone/tree/master/part_04) | Local Flex Time |
 
 #### Week 13 - Capstones & Graduation
 
