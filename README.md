@@ -6,7 +6,7 @@ https://git.generalassemb.ly/DSI-US-6/capstone
 
 #### Lesson Recordings
 
-https://www.youtube.com/playlist?list=PLYGvOQTnahYKAvQT7-AD3c9sF58gZRlzC
+https://www.youtube.com/playlist?list=PLYGvOQTnahYJjmdJCt5uk2Sz2sTnlSqpZ
 
 #### Instructor and TA Appointment Sign-Ups
 
