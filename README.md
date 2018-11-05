@@ -18,7 +18,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 
 # ![GA Logo](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67) Schedule
 
-#### Week 1 - Getting Started: Python for Data Science
+#### Week 1 - Getting Started: Python for Data Science (5-9 November)
 
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
@@ -26,7 +26,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Afternoon| [1.02 Control Flow](https://git.generalassemb.ly/DSI-US-6/1.02-lesson-python-control-flow) | Elections | 1.05 Probability | Outcomes Programming | Local Time |
 | Labs | [1.01 Pokemon Lab](https://git.generalassemb.ly/DSI-US-6/1.01-lab-pokemon) | | | 1.02 Distributions Lab | |
 
-#### Week 2 - Exploratory Data Analysis
+#### Week 2 - Exploratory Data Analysis (12-16 November)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -34,7 +34,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Afternoon | NO CLASS | 2.02 Pandas: Intro 2 (Features and Plotting) | 2.04 Visualization 2 | Outcomes Programming | Local Time |
 | Labs | 2.01 Titanic EDA |  | | 2.02 Pandas Concatenation | |
 
-#### Week 2-plus - Exploratory Data Analysis (continued)
+#### Week 2-plus - Exploratory Data Analysis (continued) (19-23 November)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -42,7 +42,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Afternoon | 2.08 Hypothesis Testing | 2.09 Introduction to Ethics | NO CLASS | NO CLASS | NO CLASS |
 | Labs | 2.03 Inference Lab |  | NO CLASS | NO CLASS | NO CLASS |
 
-#### Week 3 - Regression
+#### Week 3 - Regression (26-30 November)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -51,7 +51,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Labs | 3.01 Linear Regression Lab | | 3.02 Regularization and Validation Lab | | |
 
 
-#### Week 4 - Classification
+#### Week 4 - Classification (3-7 December)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -59,7 +59,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Afternoon | 4.02 k-Nearest Neighbors | 4.04 Classification Metrics II | Project Worktime | Project 2 Due | Local Time |
 | Labs | 4.01 Classification Model Comparison | 4.02 Classification Model Evaluation | | | |
 
-#### Week 5 - Web Scraping, APIs and NLP
+#### Week 5 - Web Scraping, APIs and NLP (10-14 December)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -67,7 +67,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Afternoon | 5.02 BeautifulSoup | 5.04 Introduction to AWS | 5.06 NLP II | Outcomes Programming | Local Time |
 | Labs | | 5.01 NLP Lab | | | 5.02 Scraping Lab |
 
-#### Week 6 - Advanced Supervised Learning
+#### Week 6 - Advanced Supervised Learning (17-21 December)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -77,7 +77,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 
 --- 
 
-#### Week X - Holiday Break
+#### Week X - Holiday Break (24-28 December)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -86,7 +86,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Labs      | NO CLASS | NO CLASS | NO CLASS | NO CLASS | NO CLASS |
 
 
-#### Week 7 - Correlated Data
+#### Week 7 - Correlated Data (31 December 2018 - 4 January 2019)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -94,7 +94,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Afternoon | NO CLASS | NO CLASS | TBD | TBD | TBD |
 | Labs      | NO CLASS | NO CLASS | TBD | TBD | TBD |
 
-#### Week 8 - Unsupervised Learning
+#### Week 8 - Unsupervised Learning (7-11 January)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -102,7 +102,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Afternoon | TBD | TBD | TBD | TBD | TBD |
 | Labs      | TBD | TBD | TBD | TBD | TBD |
 
-#### Week 9 - Bayesian Statistics
+#### Week 9 - Bayesian Statistics (14-18 January)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -110,7 +110,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Afternoon | TBD | TBD | TBD | TBD | TBD |
 | Labs      | TBD | TBD | TBD | TBD | TBD |
 
-#### Week 10 - Deep Learning
+#### Week 10 - Deep Learning (21-25 January)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -118,7 +118,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Afternoon | NO CLASS | TBD | TBD | TBD | TBD |
 | Labs      | NO CLASS | TBD | TBD | TBD | TBD |
 
-#### Week 11 - Big Data & Data Engineering
+#### Week 11 - Big Data & Data Engineering (28 January - 1 February)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -126,14 +126,14 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Afternoon | TBD | TBD | TBD | TBD | TBD |
 | Labs      | TBD | TBD | TBD | TBD | TBD |
 
-#### Week 12 - Flex Time
+#### Week 12 - Flex Time (4-8 February)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time |
 | Afternoon | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time |
 
-#### Week 13 - Capstones & Graduation
+#### Week 13 - Capstones & Graduation (11-12 February)
 
 |           | Monday        | Tuesday        |
 |-----------|---------------|----------------|
