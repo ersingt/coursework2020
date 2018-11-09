@@ -22,7 +22,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
-| Morning | [1.01 Datatypes](https://git.generalassemb.ly/DSI-US-6/1.01-lesson-python-intro) | [1.03 FUNctions](https://git.generalassemb.ly/DSI-US-6/1.03-lesson-python-functions) | [1.04 List Comprehension Practice](https://git.generalassemb.ly/DSI-US-6/1.04-lesson-list-comprehension) | [1.06 Distributions - Discrete](https://git.generalassemb.ly/DSI-US-6/1.06-lesson-discrete-distributions) | 1.07 Distributions + NumPy 2 - Continuous |
+| Morning | [1.01 Datatypes](https://git.generalassemb.ly/DSI-US-6/1.01-lesson-python-intro) | [1.03 FUNctions](https://git.generalassemb.ly/DSI-US-6/1.03-lesson-python-functions) | [1.04 List Comprehension Practice](https://git.generalassemb.ly/DSI-US-6/1.04-lesson-list-comprehension) | [1.06 Distributions - Discrete](https://git.generalassemb.ly/DSI-US-6/1.06-lesson-discrete-distributions) | [1.07 Distributions + NumPy 2 - Continuous](https://git.generalassemb.ly/DSI-US-6/1.07-lesson-continuous-distributions) |
 | Afternoon| [1.02 Control Flow](https://git.generalassemb.ly/DSI-US-6/1.02-lesson-python-control-flow) | Elections | [1.05 Probability](https://git.generalassemb.ly/DSI-US-6/1.05-lesson-intro_to_probability) | Outcomes Programming | Local Time |
 | Labs | [1.01 Pokemon Lab](https://git.generalassemb.ly/DSI-US-6/1.01-lab-pokemon) | | | [1.02 Distributions Lab](https://git.generalassemb.ly/DSI-US-6/1.02-lab-distributions) | |
 
