@@ -89,7 +89,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Afternoon | NO CLASS | NO CLASS | NO CLASS | NO CLASS | NO CLASS |
 | Labs      | NO CLASS | NO CLASS | NO CLASS | NO CLASS | NO CLASS |
 
-**Everything below this point is subject to change.**
+##### Everything below this point is subject to change.
 
 --- 
 
