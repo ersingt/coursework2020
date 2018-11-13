@@ -25,6 +25,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Morning | [1.01 Datatypes](https://git.generalassemb.ly/DSI-US-6/1.01-lesson-python-intro) | [1.03 FUNctions](https://git.generalassemb.ly/DSI-US-6/1.03-lesson-python-functions) | [1.04 List Comprehension Practice](https://git.generalassemb.ly/DSI-US-6/1.04-lesson-list-comprehension) | [1.06 Distributions - Discrete](https://git.generalassemb.ly/DSI-US-6/1.06-lesson-discrete-distributions) | [1.07 Distributions + NumPy 2 - Continuous](https://git.generalassemb.ly/DSI-US-6/1.07-lesson-continuous-distributions) |
 | Afternoon| [1.02 Control Flow](https://git.generalassemb.ly/DSI-US-6/1.02-lesson-python-control-flow) | Elections | [1.05 Probability](https://git.generalassemb.ly/DSI-US-6/1.05-lesson-intro_to_probability) | Outcomes Programming | Local Time |
 | Labs | [1.01 Pokemon Lab](https://git.generalassemb.ly/DSI-US-6/1.01-lab-pokemon) | | | [1.02 Distributions Lab](https://git.generalassemb.ly/DSI-US-6/1.02-lab-distributions) | |
+| Deadlines |  |  |  |  | Quiz 1 |
 
 #### Week 2 - Exploratory Data Analysis (12-16 November)
 
@@ -33,6 +34,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Morning   | NO CLASS | [2.01 Pandas: Intro 1 (Basics)](https://git.generalassemb.ly/DSI-US-6/2.01-2.02-intro-to-pandas) | 2.03 Visualization 1 | 2.05 Exploratory Data Analysis (EDA) | 2.06 Benford's Law |
 | Afternoon | NO CLASS | [2.02 Pandas: Intro 2 (Features and Plotting)](https://git.generalassemb.ly/DSI-US-6/2.01-2.02-intro-to-pandas) | 2.04 Visualization 2 | Outcomes Programming | Local Time |
 | Labs | [2.01 Titanic EDA](https://git.generalassemb.ly/DSI-US-6/2.01-lab-pandas-titanic) |  | | 2.02 Pandas Concatenation | |
+| Deadlines |  |  |  |  | Blog Post 1 |
 
 #### Week 2-plus - Exploratory Data Analysis (continued) (19-23 November)
 
@@ -41,6 +43,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Morning   | 2.07 Central Limit Theorem and Confidence Intervals | [Project 1 Due](https://git.generalassemb.ly/DSI-US-6/project-1) | NO CLASS | NO CLASS | NO CLASS |
 | Afternoon | 2.08 Hypothesis Testing | 2.09 Introduction to Ethics | NO CLASS | NO CLASS | NO CLASS |
 | Labs | 2.03 Inference Lab |  | NO CLASS | NO CLASS | NO CLASS |
+| Deadlines |  | Project 1 |  |  |  |
 
 #### Week 3 - Regression (26-30 November)
 
@@ -49,7 +52,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Morning   | 3.01 Simple Linear Regression | 3.03 Regression Evaluation Metrics | 3.05 Train/Test Split + Cross Validation | 3.07 Regularization | 3.08 Model Workflow |
 | Afternoon | 3.02 Multiple Linear Regression | 3.04 Bias-Variance Tradeoff | 3.06 Feature Engineering | Outcomes Proramming | Local Time |
 | Labs | 3.01 Linear Regression Lab | | 3.02 Regularization and Validation Lab | | |
-
+| Deadlines |  |  |  |  | Quiz 2 |
 
 #### Week 4 - Classification (3-7 December)
 
@@ -58,6 +61,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Morning   | 4.01 Intro to Classification + Logistic Regression | 4.03 Classification Metrics I | 4.05 Hyperparameter Tuning and Pipelines | Local Time | Outcomes Programming  |
 | Afternoon | 4.02 k-Nearest Neighbors | 4.04 Classification Metrics II | Project Worktime | Project 2 Due | Local Time |
 | Labs | 4.01 Classification Model Comparison | 4.02 Classification Model Evaluation | | | |
+| Deadlines |  |  | Blog Post 2 |  | Project 2 |
 
 #### Week 5 - Web Scraping, APIs and NLP (10-14 December)
 
@@ -66,14 +70,16 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Morning   | 5.01 Intro to HTML | 5.03 API Integration & Consumption | 5.05 NLP I | 5.07 Naive Bayes | 5.08 Regex | 
 | Afternoon | 5.02 BeautifulSoup | 5.04 Introduction to AWS | 5.06 NLP II | Outcomes Programming | Local Time |
 | Labs | | 5.01 NLP Lab | | | 5.02 Scraping Lab |
+| Deadlines |  |  |  |  | Quiz 3 |
 
 #### Week 6 - Advanced Supervised Learning (17-21 December)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | **No Class** | 6.01 CART I | 6.02 Bagging, Random Forests, ExtraTrees | 6.04 SVMs | Project 3 (Reddit) / Local Time |
-| Afternoon | **No Class** | 6.01 CART II | 6.03 Boosting | Outcomes Programming | Local Time |
+| Morning   | 6.01 CART | 6.03 Bagging, Random Forests | 6.05 SVMs | 6.07 Gradient Descent | Project 3 (Reddit) |
+| Afternoon | 6.02 Bootstrapping | 6.04 Boosting | 6.06 GLMs | Outcomes Programming | Local Time |
 | Labs | 6.01 Supervised Model Comparison | | | |
+| Deadlines |  |  | Blog Post 3 |  | Project 3 |
 
 --- 
 
@@ -93,6 +99,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Morning   | NO CLASS | NO CLASS | TBD | TBD | TBD |
 | Afternoon | NO CLASS | NO CLASS | TBD | TBD | TBD |
 | Labs      | NO CLASS | NO CLASS | TBD | TBD | TBD |
+| Deadlines |  |  | Capstone Check-In 1 |  | Quiz 4 |
 
 #### Week 8 - Unsupervised Learning (7-11 January)
 
@@ -101,6 +108,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Morning   | TBD | TBD | TBD | TBD | TBD |
 | Afternoon | TBD | TBD | TBD | TBD | TBD |
 | Labs      | TBD | TBD | TBD | TBD | TBD |
+| Deadlines |  |  | Blog Post 4 |  | Project 4 |
 
 #### Week 9 - Bayesian Statistics (14-18 January)
 
@@ -109,6 +117,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Morning   | TBD | TBD | TBD | TBD | TBD |
 | Afternoon | TBD | TBD | TBD | TBD | TBD |
 | Labs      | TBD | TBD | TBD | TBD | TBD |
+| Deadlines |  |  | Capstone Check-In 2 |  | Quiz 5 |
 
 #### Week 10 - Deep Learning (21-25 January)
 
@@ -117,6 +126,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Morning   | NO CLASS | TBD | TBD | TBD | TBD |
 | Afternoon | NO CLASS | TBD | TBD | TBD | TBD |
 | Labs      | NO CLASS | TBD | TBD | TBD | TBD |
+| Deadlines |  |  |  |  | Project 5 |
 
 #### Week 11 - Big Data & Data Engineering (28 January - 1 February)
 
@@ -125,6 +135,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Morning   | TBD | TBD | TBD | TBD | TBD |
 | Afternoon | TBD | TBD | TBD | TBD | TBD |
 | Labs      | TBD | TBD | TBD | TBD | TBD |
+| Deadlines | Capstone Check-In 3 |  | Blog Post 5 |  | Quiz 6 |
 
 #### Week 12 - Flex Time (4-8 February)
 
@@ -132,6 +143,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time |
 | Afternoon | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time |
+| Deadlines |  |  |  | Capstone Check-In 4 | Blog Post 6 |
 
 #### Week 13 - Capstones & Graduation (11-12 February)
 
@@ -139,6 +151,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 |-----------|---------------|----------------|
 | Morning   | Local Flex Time | Capstone Presentations |
 | Afternoon | Local Flex Time | Graduation! |
+| Deadlines |  | Capstone Check-In 5 |
 
 #### Zoom
 
