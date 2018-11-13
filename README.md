@@ -31,7 +31,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | NO CLASS | [2.01 Pandas: Intro 1 (Basics)](https://git.generalassemb.ly/DSI-US-6/2.01-2.02-intro-to-pandas) | 2.03 Visualization 1 | 2.05 Exploratory Data Analysis (EDA) | 2.06 Benford's Law |
+| Morning   | NO CLASS | [2.01 Pandas: Intro 1 (Basics)](https://git.generalassemb.ly/DSI-US-6/2.01-2.02-intro-to-pandas) | 2.03 Visualization 1 | [2.05 Exploratory Data Analysis (EDA)](https://git.generalassemb.ly/DSI-US-6/2.05-lesson-eda) | 2.06 Benford's Law |
 | Afternoon | NO CLASS | [2.02 Pandas: Intro 2 (Features and Plotting)](https://git.generalassemb.ly/DSI-US-6/2.01-2.02-intro-to-pandas) | 2.04 Visualization 2 | Outcomes Programming | Local Time |
 | Labs |  | [2.01 Titanic EDA](https://git.generalassemb.ly/DSI-US-6/2.01-lab-pandas-titanic) |  | 2.02 Pandas Concatenation | |
 | Deadlines |  |  |  |  | Blog Post 1 |
