@@ -81,8 +81,6 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Labs | 6.01 Supervised Model Comparison | | | |
 | Deadlines |  |  | Blog Post 3 |  | Project 3 |
 
---- 
-
 #### Week X - Holiday Break (24-28 December)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
@@ -91,6 +89,9 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Afternoon | NO CLASS | NO CLASS | NO CLASS | NO CLASS | NO CLASS |
 | Labs      | NO CLASS | NO CLASS | NO CLASS | NO CLASS | NO CLASS |
 
+**Everything below this point is subject to change.**
+
+--- 
 
 #### Week 7 - Correlated Data (31 December 2018 - 4 January 2019)
 
