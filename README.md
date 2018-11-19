@@ -40,7 +40,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 2.07 Central Limit Theorem and Confidence Intervals | [Project 1 Due](https://git.generalassemb.ly/DSI-US-6/project-1) | NO CLASS | NO CLASS | NO CLASS |
+| Morning   | [2.07 Central Limit Theorem and Confidence Intervals](https://git.generalassemb.ly/DSI-US-6/lesson-statistical_inference_confidence_intervals) | [Project 1 Due](https://git.generalassemb.ly/DSI-US-6/project-1) | NO CLASS | NO CLASS | NO CLASS |
 | Afternoon | 2.08 Hypothesis Testing | 2.09 Introduction to Ethics | NO CLASS | NO CLASS | NO CLASS |
 | Labs | 2.03 Inference Lab |  | NO CLASS | NO CLASS | NO CLASS |
 | Deadlines |  | Project 1 |  |  |  |
