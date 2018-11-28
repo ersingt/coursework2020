@@ -51,7 +51,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [3.01 Simple Linear Regression](https://git.generalassemb.ly/DSI-US-6/lesson-linear_regression) | [3.03 Regression Evaluation Metrics](https://git.generalassemb.ly/DSI-US-6/3.03-regression-metrics-lesson) | [3.05 Train/Test Split + Cross Validation](https://git.generalassemb.ly/DSI-US-6/3.05-lesson-cross-validation-train-test-split) | 3.07 Regularization | 3.08 Model Workflow |
 | Afternoon | [3.02 Multiple Linear Regression](https://git.generalassemb.ly/DSI-US-6/lesson-linear_regression) | [3.04 Bias-Variance Tradeoff](https://git.generalassemb.ly/DSI-US-6/3.04-bias-variance-tradeoff) | [3.06 Feature Engineering](https://git.generalassemb.ly/DSI-US-6/3.06-lesson-feature-engineering) | Outcomes Proramming | Local Time |
-| Labs | [3.01 Linear Regression Lab](https://git.generalassemb.ly/DSI-US-6/3.01-lab-linear_regression-regression) | | 3.02 Regularization and Validation Lab | | |
+| Labs | [3.01 Linear Regression Lab](https://git.generalassemb.ly/DSI-US-6/3.01-lab-linear_regression-regression) | | | 3.02 Regularization and Validation Lab | |
 | Deadlines |  |  |  |  | Quiz 2 |
 
 #### Week 4 - Classification (3-7 December)
