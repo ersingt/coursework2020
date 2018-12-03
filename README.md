@@ -58,7 +58,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 4.01 Intro to Classification + Logistic Regression | 4.03 Classification Metrics I | 4.05 Hyperparameter Tuning and Pipelines | 4.06 Object-Oriented Programming | [Project 2 Due](https://git.generalassemb.ly/DSI-US-6/project-2) |
+| Morning   | [4.01 Intro to Classification + Logistic Regression](https://git.generalassemb.ly/DSI-US-6/classification-logistic_regression-lesson) | 4.03 Classification Metrics I | 4.05 Hyperparameter Tuning and Pipelines | 4.06 Object-Oriented Programming | [Project 2 Due](https://git.generalassemb.ly/DSI-US-6/project-2) |
 | Afternoon | [4.02 k-Nearest Neighbors](https://git.generalassemb.ly/DSI-US-6/4.02-lesson-knn) | 4.04 Classification Metrics II | Project Worktime | Local Time | Outcomes Programming |
 | Labs | [4.01 Classification Model Comparison](https://git.generalassemb.ly/DSI-US-6/4.01-lab-classification_model_comparison) | 4.02 Classification Model Evaluation | | | |
 | Deadlines |  |  | Blog Post 2 |  | [Project 2](https://git.generalassemb.ly/DSI-US-6/project-2) |
