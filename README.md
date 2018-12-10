@@ -67,7 +67,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [5.01 Intro to HTML](https://git.generalassemb.ly/DSI-US-6/5.01-lesson-html-css) | 5.03 Object-Oriented Programming | 5.05 NLP I | 5.07 Naive Bayes | 5.08 Regex | 
+| Morning   | [5.01 Intro to HTML](https://git.generalassemb.ly/DSI-US-6/5.01-lesson-html-css) | 5.03 Object-Oriented Programming | 5.05 NLP I | [5.07 Naive Bayes](https://git.generalassemb.ly/DSI-US-6/5.07-lesson-naive_bayes) | 5.08 Regex | 
 | Afternoon | [5.02 BeautifulSoup](https://git.generalassemb.ly/DSI-US-6/5.02-lesson-webscraping) | 5.04 Introduction to AWS | 5.06 NLP II | Outcomes Programming | Local Time |
 | Labs | | 5.01 NLP Lab | | | 5.02 Scraping Lab |
 | Deadlines |  |  |  |  | Quiz 3 |
