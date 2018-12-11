@@ -67,8 +67,8 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [5.01 Intro to HTML](https://git.generalassemb.ly/DSI-US-6/5.01-lesson-html-css) | 5.03 Object-Oriented Programming | 5.05 NLP I | [5.07 Naive Bayes](https://git.generalassemb.ly/DSI-US-6/5.07-lesson-naive_bayes) | 5.08 Regex | 
-| Afternoon | [5.02 BeautifulSoup](https://git.generalassemb.ly/DSI-US-6/5.02-lesson-webscraping) | 5.04 Introduction to AWS | 5.06 NLP II | Outcomes Programming | Local Time |
+| Morning   | [5.01 Intro to HTML](https://git.generalassemb.ly/DSI-US-6/5.01-lesson-html-css) | [5.03 Object-Oriented Programming](https://git.generalassemb.ly/DSI-US-6/5.03-lesson-object_oriented_programming-regression) | 5.05 NLP I | [5.07 Naive Bayes](https://git.generalassemb.ly/DSI-US-6/5.07-lesson-naive_bayes) | 5.08 Regex | 
+| Afternoon | [5.02 BeautifulSoup](https://git.generalassemb.ly/DSI-US-6/5.02-lesson-webscraping) | [5.04 Introduction to AWS](https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Creating-an-EC2-Instance) | 5.06 NLP II | Outcomes Programming | Local Time |
 | Labs | | 5.01 NLP Lab | | | 5.02 Scraping Lab |
 | Deadlines |  |  |  |  | Quiz 3 |
 
