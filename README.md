@@ -99,8 +99,8 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | NO CLASS | NO CLASS | TBD | TBD | TBD |
-| Afternoon | NO CLASS | NO CLASS | TBD | TBD | TBD |
+| Morning   | NO CLASS | NO CLASS | Time Series Data | Advanced Time Series Models | Correlated Data |
+| Afternoon | NO CLASS | NO CLASS | AR/MA/ARMA/ARIMA | Outcomes | Local Time |
 | Labs      | NO CLASS | NO CLASS | TBD | TBD | TBD |
 | Deadlines |  |  | Capstone Check-In 1 |  | Quiz 4 |
 
@@ -108,43 +108,43 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | TBD | TBD | TBD | TBD | TBD |
-| Afternoon | TBD | TBD | TBD | TBD | TBD |
+| Morning   | k-Means Clustering | Clustering Walkthrough | PCA | Recommender Systems II | Missing Data Imputation |
+| Afternoon | DBSCAN/HDBSCAN Clustering | Topic Modeling | Recommender Systems I | Outcomes | Local Time |
 | Labs      | TBD | TBD | TBD | TBD | TBD |
-| Deadlines |  |  | Blog Post 4 |  | Project 4 |
+| Deadlines |  |  | Blog Post 4 |  |  |
 
 #### Week 9 - Bayesian Statistics (14-18 January)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | TBD | TBD | TBD | TBD | TBD |
-| Afternoon | TBD | TBD | TBD | TBD | TBD |
+| Morning   | Intro to Bayes | PyMC & Bayesian Regression | MCMC | Bayesian Estimation & A/B Testing | Project 4 Due |
+| Afternoon | Bayesian Inference | Maximum Likelihood | Project Worktime | Outcomes | Local Time |
 | Labs      | TBD | TBD | TBD | TBD | TBD |
-| Deadlines |  |  | Capstone Check-In 2 |  | Quiz 5 |
+| Deadlines |  |  | Capstone Check-In 2 |  | Project 4 |
 
 #### Week 10 - Deep Learning (21-25 January)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | NO CLASS | TBD | TBD | TBD | TBD |
-| Afternoon | NO CLASS | TBD | TBD | TBD | TBD |
-| Labs      | NO CLASS | TBD | TBD | TBD | TBD |
-| Deadlines |  |  |  |  | Project 5 |
+| Morning   | NO CLASS | Introduction to Neural Networks | Deep Learning Regularization | Recurrent Neural Networks | Introduction to TensorFlow |
+| Afternoon | NO CLASS | Introduction to Keras | Convolutional Neural Networks | Outcomes | Local Time |
+| Labs      | NO CLASS | TBD | TBD | TBD | TBD | 
+| Deadlines |  |  | Blog Post 5 |  | Quiz 5 |
 
 #### Week 11 - Big Data & Data Engineering (28 January - 1 February)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | TBD | TBD | TBD | TBD | TBD |
-| Afternoon | TBD | TBD | TBD | TBD | TBD |
+| Morning   | Project 5 | SQL II | DataFrames in Spark | Pipelines & GridSearch in Spark | Docker |
+| Afternoon | SQL I | Introduction to Scala | Classification & Regression in Spark | Outcomes | Local Time | 
 | Labs      | TBD | TBD | TBD | TBD | TBD |
-| Deadlines | Capstone Check-In 3 |  | Blog Post 5 |  | Quiz 6 |
+| Deadlines | Project 5 |  | Capstone Check-In 3 |  | Quiz 6 |
 
 #### Week 12 - Flex Time (4-8 February)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time |
+| Morning   | Docker | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time |
 | Afternoon | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time |
 | Deadlines |  |  |  | Capstone Check-In 4 | Blog Post 6 |
 
