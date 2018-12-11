@@ -117,7 +117,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Intro to Bayes | PyMC & Bayesian Regression | MCMC | Bayesian Estimation & A/B Testing | Project 4 Due |
+| Morning   | Intro to Bayes | PyMC & Bayesian Regression | MCMC | Bayesian Estimation & A/B Testing | Project 4 |
 | Afternoon | Bayesian Inference | Maximum Likelihood | Project Worktime | Outcomes | Local Time |
 | Labs      | TBD | TBD | TBD | TBD | TBD |
 | Deadlines |  |  | Capstone Check-In 2 |  | Project 4 |
@@ -138,7 +138,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Morning   | Project 5 | SQL II | DataFrames in Spark | Pipelines & GridSearch in Spark | Docker |
 | Afternoon | SQL I | Introduction to Scala | Classification & Regression in Spark | Outcomes | Local Time | 
 | Labs      | TBD | TBD | TBD | TBD | TBD |
-| Deadlines | Project 5 |  | Capstone Check-In 3 |  | Quiz 6 |
+| Deadlines | Project 5 (Local) |  | Capstone Check-In 3 |  | Quiz 6 |
 
 #### Week 12 - Flex Time (4-8 February)
 
