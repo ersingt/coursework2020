@@ -76,8 +76,8 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 6.01 CART | 6.03 Bagging, Random Forests | 6.05 SVMs | 6.07 Gradient Descent | [Project 3](https://git.generalassemb.ly/DSI-US-6/project-3) |
-| Afternoon | 6.02 Bootstrapping | 6.04 Boosting | 6.06 GLMs | Outcomes Programming | Local Time |
+| Morning   | 6.01 CART | [6.03 Bagging, Random Forests](https://git.generalassemb.ly/DSI-US-6/6.02-lesson-bagging-rfs) | 6.05 SVMs | 6.07 Gradient Descent | [Project 3](https://git.generalassemb.ly/DSI-US-6/project-3) |
+| Afternoon | [6.02 Bootstrapping](https://git.generalassemb.ly/DSI-US-6/6.02-lesson-bagging-rfs) | 6.04 Boosting | 6.06 GLMs | Outcomes Programming | Local Time |
 | Labs | 6.01 Supervised Model Comparison | | | |
 | Deadlines |  |  | Blog Post 3 |  | [Project 3](https://git.generalassemb.ly/DSI-US-6/project-3) |
 
