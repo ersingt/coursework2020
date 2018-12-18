@@ -109,7 +109,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | k-Means Clustering | Clustering Walkthrough | PCA | Recommender Systems II | Missing Data Imputation |
-| Afternoon | DBSCAN/HDBSCAN Clustering | Topic Modeling | Recommender Systems I | Outcomes | Local Time |
+| Afternoon | DBSCAN/HDBSCAN Clustering | Word Vectors | Recommender Systems I | Outcomes | Local Time |
 | Labs      | TBD | TBD | TBD | TBD | TBD |
 | Deadlines |  |  | Blog Post 4 |  |  |
 
