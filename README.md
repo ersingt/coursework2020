@@ -89,12 +89,6 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Afternoon | NO CLASS | NO CLASS | NO CLASS | NO CLASS | NO CLASS |
 | Labs      | NO CLASS | NO CLASS | NO CLASS | NO CLASS | NO CLASS |
 
----
-
-### Everything below this point is subject to change.
-
---- 
-
 #### Week 7 - Correlated Data (31 December 2018 - 4 January 2019)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
@@ -121,6 +115,12 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Afternoon | Bayesian Inference | Maximum Likelihood | Project Worktime | Outcomes | Local Time |
 | Labs      | TBD | TBD | TBD | TBD | TBD |
 | Deadlines |  |  | Capstone Check-In 2 |  | Project 4 |
+
+---
+
+### Everything below this point is subject to change.
+
+--- 
 
 #### Week 10 - Deep Learning (21-25 January)
 
