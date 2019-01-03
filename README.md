@@ -95,7 +95,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | NO CLASS | NO CLASS | [7.01 Time Series Data](https://git.generalassemb.ly/DSI-US-6/7.01-lesson-timeseries) | [7.03 Advanced Time Series Models](https://git.generalassemb.ly/DSI-US-6/7.03-lesson-advanced-time-series) | 7.04 Correlated Data |
 | Afternoon | NO CLASS | NO CLASS | [7.02 AR/MA/ARMA/ARIMA](https://git.generalassemb.ly/DSI-US-6/7.02-lesson-ARMA_ARIMA) | Outcomes | Local Time |
-| Labs      | NO CLASS | NO CLASS | TBD | [7.04 Timeseries ARIMA Lab](https://git.generalassemb.ly/DSI-US-6/7.04-timeseries-arima-lab) | TBD |
+| Labs      | NO CLASS | NO CLASS |  | [7.04 Timeseries ARIMA Lab](https://git.generalassemb.ly/DSI-US-6/7.04-timeseries-arima-lab) |  |
 | Deadlines |  |  | Capstone Check-In 1 |  | Quiz 4 |
 
 #### Week 8 - Unsupervised Learning (7-11 January)
