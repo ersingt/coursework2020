@@ -102,9 +102,9 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | k-Means Clustering | Clustering Walkthrough | PCA | Recommender Systems II | Missing Data Imputation |
-| Afternoon | DBSCAN/HDBSCAN Clustering | Word Vectors | Recommender Systems I | Outcomes | Local Time |
-| Labs      | TBD | TBD | TBD | TBD | TBD |
+| Morning   | [8.01 Intro to Clustering: K-Means](https://git.generalassemb.ly/DSI-US-6/8.01-clustering-intro_to_clustering_kmeans-lesson) | Clustering Walkthrough | PCA | Recommender Systems II | Missing Data Imputation |
+| Afternoon | [8.02 DBSCAN Clustering](https://git.generalassemb.ly/DSI-US-6/8.02-clustering-dbscan-lesson) | Word Vectors | Recommender Systems I | Outcomes | Local Time |
+| Labs      | [8.01 Clustering Lab](https://git.generalassemb.ly/DSI-US-6/8.01-clustering-intro_to_clustering_kmeans-lesson/blob/master/lab-kmeans-isotopes.ipynb) | TBD | TBD | TBD | TBD |
 | Deadlines |  |  | Blog Post 4 |  |  |
 
 #### Week 9 - Bayesian Statistics (14-18 January)
