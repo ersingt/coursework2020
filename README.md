@@ -116,12 +116,6 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Labs      | TBD | TBD | TBD | TBD | TBD |
 | Deadlines |  |  | Capstone Check-In 2 |  | Project 4 |
 
----
-
-### Everything below this point is subject to change.
-
---- 
-
 #### Week 10 - Deep Learning (21-25 January)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
@@ -130,6 +124,12 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Afternoon | NO CLASS | Introduction to Keras | Convolutional Neural Networks | Outcomes | Local Time |
 | Labs      | NO CLASS | TBD | TBD | TBD | TBD | 
 | Deadlines |  |  | Blog Post 5 |  | Quiz 5 |
+
+---
+
+### Everything below this point is subject to change.
+
+--- 
 
 #### Week 11 - Big Data & Data Engineering (28 January - 1 February)
 
