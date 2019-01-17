@@ -104,7 +104,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [8.01 Intro to Clustering: K-Means](https://git.generalassemb.ly/DSI-US-6/8.01-clustering-intro_to_clustering_kmeans-lesson) | [8.03 Clustering Walkthrough](https://git.generalassemb.ly/DSI-US-6/8.04-clustering-battle_of_clusterers-casestudy) | [8.05 PCA](https://git.generalassemb.ly/DSI-US-6/8.05-lesson-principal_component_analysis) | [8.07 Recommender Systems Walkthrough](https://git.generalassemb.ly/DSI-US-6/8.07-lesson-recommender-walkthrough) | [8.08 Missing Data Imputation](https://git.generalassemb.ly/DSI-US-6/8.08-lesson-missing_data_jupytercon) |
 | Afternoon | [8.02 DBSCAN Clustering](https://git.generalassemb.ly/DSI-US-6/8.02-clustering-dbscan-lesson) | [8.04 Word Vectors](https://git.generalassemb.ly/DSI-US-6/lesson-word_vectors) | [8.06 Recommender Systems](https://git.generalassemb.ly/DSI-US-6/8.06-recommender-systems_i_and_ii) | Outcomes | Local Time |
-| Labs      | [8.01 Clustering Lab](https://git.generalassemb.ly/DSI-US-6/8.01-clustering-intro_to_clustering_kmeans-lesson/blob/master/lab-kmeans-isotopes.ipynb) | TBD | [8.02 PCA Lab](https://git.generalassemb.ly/DSI-US-6/8.02-pca-intro-lab) | TBD | TBD |
+| Labs      | [8.01 Clustering Lab](https://git.generalassemb.ly/DSI-US-6/8.01-clustering-intro_to_clustering_kmeans-lesson/blob/master/lab-kmeans-isotopes.ipynb) |  | [8.02 PCA Lab](https://git.generalassemb.ly/DSI-US-6/8.02-pca-intro-lab) |  |  |
 | Deadlines |  |  | Blog Post 4 |  |  |
 
 #### Week 9 - Bayesian Statistics (14-18 January)
@@ -113,7 +113,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [9.01 Intro to Bayes](https://git.generalassemb.ly/DSI-US-6/9.01-lesson-intro-to-bayes) | [9.03 PyMC & Bayesian Regression](https://git.generalassemb.ly/DSI-US-6/9.03-lesson-pymc_bayesian_regression) | [9.05 MCMC](https://git.generalassemb.ly/DSI-US-6/9.05-lesson-mcmc) | Bayesian Estimation & A/B Testing | [Project 4](https://git.generalassemb.ly/DSI-US-6/project-client_project) |
 | Afternoon | [9.02 Bayesian Inference](https://git.generalassemb.ly/DSI-US-6/9.02-lesson-bayesian_inference) | [9.04 Maximum Likelihood](https://git.generalassemb.ly/DSI-US-6/9.04-lesson-bayes-conjugacy-mle) | Project Worktime | Outcomes: Technical Interview | Local Time |
-| Labs      | [Bayes Practice](https://git.generalassemb.ly/DSI-US-6/9.01-lab-bayes_practice) | TBD | TBD | TBD | TBD |
+| Labs      | [Bayes Practice](https://git.generalassemb.ly/DSI-US-6/9.01-lab-bayes_practice) |  | [9.02 Bayes Data](https://git.generalassemb.ly/DSI-US-6/9.02-lab-bayes_data) |  |  |
 | Deadlines |  |  | Capstone Check-In 2 |  | Project 4 |
 
 #### Week 10 - Deep Learning (21-25 January)
@@ -122,7 +122,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | NO CLASS | Introduction to Neural Networks | Deep Learning Regularization | Recurrent Neural Networks | Introduction to TensorFlow |
 | Afternoon | NO CLASS | Introduction to Keras | Convolutional Neural Networks | Outcomes | Local Time |
-| Labs      | NO CLASS | TBD | TBD | TBD | TBD | 
+| Labs      | NO CLASS | 10.01 Conceptual Neural Networks Lab | 10.02 Applied Neural Networks Lab |  |  | 
 | Deadlines |  |  | Blog Post 5 |  | Quiz 5 |
 
 ---
@@ -137,7 +137,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Project 5 | SQL II | DataFrames in Spark | Pipelines & GridSearch in Spark | Docker |
 | Afternoon | SQL I | Introduction to Scala | Classification & Regression in Spark | Outcomes | Local Time | 
-| Labs      | TBD | TBD | TBD | TBD | TBD |
+| Labs      |  |  | 11.01 Spark Model |  |  |
 | Deadlines | Project 5 (Local) |  | Capstone Check-In 3 |  | Quiz 6 |
 
 #### Week 12 - Flex Time (4-8 February)
