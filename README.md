@@ -120,7 +120,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | NO CLASS | [10.01 Introduction to Neural Networks](https://git.generalassemb.ly/DSI-US-6/10.01-lesson-intro_to_neural_networks-nn) | Deep Learning Regularization | Recurrent Neural Networks | Introduction to TensorFlow |
+| Morning   | NO CLASS | [10.01 Introduction to Neural Networks](https://git.generalassemb.ly/DSI-US-6/10.01-lesson-intro_to_neural_networks-nn) | [10.03 Deep Learning Regularization](https://git.generalassemb.ly/DSI-US-6/10.03-lesson-regularizing-optimizing-nn) | Recurrent Neural Networks | Introduction to TensorFlow |
 | Afternoon | NO CLASS | [10.02 Introduction to Keras](https://git.generalassemb.ly/DSI-US-6/10.02-lesson-keras) | Convolutional Neural Networks | Outcomes | Local Time |
 | Labs      | NO CLASS | [10.01 Conceptual Neural Networks Lab](https://git.generalassemb.ly/DSI-US-6/10.01-lab-neural_network_conceptual) | 10.02 Applied Neural Networks Lab |  |  | 
 | Deadlines |  |  | Blog Post 5 |  | Quiz 5 |
