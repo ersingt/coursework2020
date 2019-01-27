@@ -135,8 +135,8 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Project 5 | SQL II | DataFrames in Spark | Pipelines & GridSearch in Spark | Docker |
-| Afternoon | SQL I | Introduction to Scala | Classification & Regression in Spark | Outcomes | Local Time | 
+| Morning   | Project 5 | [11.02 SQL II](https://git.generalassemb.ly/DSI-US-6/11.01-lesson-sql) | DataFrames in Spark | Pipelines & GridSearch in Spark | Docker |
+| Afternoon | [11.01 SQL I](https://git.generalassemb.ly/DSI-US-6/11.01-lesson-sql) | Introduction to Scala | Classification & Regression in Spark | Outcomes | Local Time | 
 | Labs      |  |  | 11.01 Spark Model |  |  |
 | Deadlines | Project 5 (Local) |  | Capstone Check-In 3 |  | Quiz 6 |
 
