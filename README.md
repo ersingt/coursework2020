@@ -125,15 +125,13 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Labs      | NO CLASS | [10.01 Conceptual Neural Networks Lab](https://git.generalassemb.ly/DSI-US-6/10.01-lab-neural_network_conceptual) | [10.02 Applied Neural Networks Lab](https://git.generalassemb.ly/DSI-US-6/10.02-lab-neural_network_applied) |  |  | 
 | Deadlines |  |  | Blog Post 5 |  | Quiz 5 |
 
---- 
-
 #### Week 11 - Big Data & Data Engineering (28 January - 1 February)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Project 5 | [11.02 SQL II](https://git.generalassemb.ly/DSI-US-6/11.01-lesson-sql) | [11.04 DataFrames in Spark](https://git.generalassemb.ly/DSI-US-6/11.04-lesson-dataframes) | [11.06 Pipelines & GridSearch in Spark](https://git.generalassemb.ly/DSI-US-6/11.06-lesson-spark-pipelines) | Docker |
 | Afternoon | [11.01 SQL I](https://git.generalassemb.ly/DSI-US-6/11.01-lesson-sql) | [11.03 Introduction to Scala](https://git.generalassemb.ly/DSI-US-6/11.03-lesson-scala) | [11.05 Classification & Regression in Spark](https://git.generalassemb.ly/DSI-US-6/11.05-lesson-spark-ml) | Outcomes | Local Time | 
-| Labs      |  |  | 11.01 Spark Model |  |  |
+| Labs      |  |  | [11.01 Spark Model](https://git.generalassemb.ly/DSI-US-6/11.01-lab-spark-model) |  |  |
 | Deadlines | Project 5 (Local) |  | Capstone Check-In 3 |  | Quiz 6 |
 
 #### Week 12 - Flex Time (4-8 February)
