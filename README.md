@@ -129,7 +129,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Project 5 | [11.02 SQL II](https://git.generalassemb.ly/DSI-US-6/11.01-lesson-sql) | [11.04 DataFrames in Spark](https://git.generalassemb.ly/DSI-US-6/11.04-lesson-dataframes) | [11.06 Pipelines & GridSearch in Spark](https://git.generalassemb.ly/DSI-US-6/11.06-lesson-spark-pipelines) | Docker |
+| Morning   | Project 5 | [11.02 SQL II](https://git.generalassemb.ly/DSI-US-6/11.01-lesson-sql) | [11.04 DataFrames in Spark](https://git.generalassemb.ly/DSI-US-6/11.04-lesson-dataframes) | [11.06 Pipelines & GridSearch in Spark](https://git.generalassemb.ly/DSI-US-6/11.06-lesson-spark-pipelines) | [11.07 Docker on AWS](https://git.generalassemb.ly/DSI-US-6/11.07-docker-on-aws) |
 | Afternoon | [11.01 SQL I](https://git.generalassemb.ly/DSI-US-6/11.01-lesson-sql) | [11.03 Introduction to Scala](https://git.generalassemb.ly/DSI-US-6/11.03-lesson-scala) | [11.05 Classification & Regression in Spark](https://git.generalassemb.ly/DSI-US-6/11.05-lesson-spark-ml) | Outcomes | Local Time | 
 | Labs      |  |  | [11.01 Spark Model](https://git.generalassemb.ly/DSI-US-6/11.01-lab-spark-model) |  |  |
 | Deadlines | Project 5 (Local) |  | Capstone Check-In 3 |  | Quiz 6 |
