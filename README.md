@@ -18,70 +18,70 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 
 # ![GA Logo](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67) Schedule
 
-#### Week 1 - Getting Started: Python for Data Science (5-9 November)
+#### Week 1 - Getting Started: Python for Data Science
 
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
-| Morning | [1.01 Datatypes](https://git.generalassemb.ly/DSI-US-6/1.01-lesson-python-intro) | [1.03 FUNctions](https://git.generalassemb.ly/DSI-US-6/1.03-lesson-python-functions) | [1.04 List Comprehension Practice](https://git.generalassemb.ly/DSI-US-6/1.04-lesson-list-comprehension) | [1.06 Distributions - Discrete](https://git.generalassemb.ly/DSI-US-6/1.06-lesson-discrete-distributions) | [1.07 Distributions + NumPy 2 - Continuous](https://git.generalassemb.ly/DSI-US-6/1.07-lesson-continuous-distributions) |
-| Afternoon| [1.02 Control Flow](https://git.generalassemb.ly/DSI-US-6/1.02-lesson-python-control-flow) | Elections | [1.05 Probability](https://git.generalassemb.ly/DSI-US-6/1.05-lesson-intro_to_probability) | Outcomes Programming | Local Time |
-| Labs | [1.01 Pokemon Lab](https://git.generalassemb.ly/DSI-US-6/1.01-lab-pokemon) | | | [1.02 Distributions Lab](https://git.generalassemb.ly/DSI-US-6/1.02-lab-distributions) | |
+| Morning | 1.01 Datatypes | 1.03 FUNctions | 1.04 List Comprehension Practice | 1.06 Distributions - Discrete | 1.07 Distributions + NumPy 2 - Continuous |
+| Afternoon| 1.02 Control Flow | Elections | 1.05 Probability | Outcomes Programming | Local Time |
+| Labs | 1.01 Pokemon Lab | | | 1.02 Distributions Lab | |
 | Deadlines |  |  |  |  | Quiz 1 |
 
-#### Week 2 - Exploratory Data Analysis (12-16 November)
+#### Week 2 - Exploratory Data Analysis
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | NO CLASS | [2.01 Pandas: Intro 1 (Basics)](https://git.generalassemb.ly/DSI-US-6/2.01-2.02-intro-to-pandas) | [2.03 Principles of Data Visualization](https://git.generalassemb.ly/DSI-US-6/2.03-lesson-principles_of_data_visualization) | [2.05 Exploratory Data Analysis (EDA)](https://git.generalassemb.ly/DSI-US-6/2.05-lesson-eda) | [2.06 Benford's Law](https://git.generalassemb.ly/DSI-US-6/2.06-lesson-benfords-law) |
-| Afternoon | NO CLASS | [2.02 Pandas: Intro 2 (Features and Plotting)](https://git.generalassemb.ly/DSI-US-6/2.01-2.02-intro-to-pandas) | [2.03 Principles of Data Visualization](https://git.generalassemb.ly/DSI-US-6/2.03-lesson-principles_of_data_visualization) | Outcomes Programming | Local Time |
-| Labs |  | [2.01 Titanic EDA](https://git.generalassemb.ly/DSI-US-6/2.01-lab-pandas-titanic) |  | [2.02 Pandas Concatenation](https://git.generalassemb.ly/DSI-US-6/2.02-lab-pandas-concat) | |
+| Morning   | NO CLASS | 2.01 Pandas: Intro 1 (Basics) | 2.03 Principles of Data Visualization | 2.05 Exploratory Data Analysis (EDA) | 2.06 Benford's Law |
+| Afternoon | NO CLASS | 2.02 Pandas: Intro 2 (Features and Plotting) | 2.03 Principles of Data Visualization | Outcomes Programming | Local Time |
+| Labs |  | 2.01 Titanic EDA |  | 2.02 Pandas Concatenation | |
 | Deadlines |  |  |  |  | Blog Post 1 |
 
-#### Week 2-plus - Exploratory Data Analysis (continued) (19-23 November)
+#### Week 2-plus - Exploratory Data Analysis
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [2.07 Central Limit Theorem and Confidence Intervals](https://git.generalassemb.ly/DSI-US-6/lesson-statistical_inference_confidence_intervals) | [Project 1 Due](https://git.generalassemb.ly/DSI-US-6/project-1) | NO CLASS | NO CLASS | NO CLASS |
-| Afternoon | [2.08 Hypothesis Testing](https://git.generalassemb.ly/DSI-US-6/2.08-lesson-statistical_inference_hypothesis_testing) | [2.09 Introduction to Ethics](https://git.generalassemb.ly/DSI-US-6/2.09-lesson-intro_to_ethics) | NO CLASS | NO CLASS | NO CLASS |
-| Labs | [2.03 Inference Lab](https://git.generalassemb.ly/DSI-US-6/2.03-lab-statistical_inference) |  | NO CLASS | NO CLASS | NO CLASS |
+| Morning   | 2.07 Central Limit Theorem and Confidence Intervals | Project 1 Due | NO CLASS | NO CLASS | NO CLASS |
+| Afternoon | 2.08 Hypothesis Testing | 2.09 Introduction to Ethics | NO CLASS | NO CLASS | NO CLASS |
+| Labs | 2.03 Inference Lab |  | NO CLASS | NO CLASS | NO CLASS |
 | Deadlines |  | Project 1 |  |  |  |
 
-#### Week 3 - Regression (26-30 November)
+#### Week 3 - Regression
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [3.01 Simple Linear Regression](https://git.generalassemb.ly/DSI-US-6/lesson-linear_regression) | [3.03 Regression Evaluation Metrics](https://git.generalassemb.ly/DSI-US-6/3.03-regression-metrics-lesson) | [3.05 Train/Test Split + Cross Validation](https://git.generalassemb.ly/DSI-US-6/3.05-lesson-cross-validation-train-test-split) | [3.07 Regularization](https://git.generalassemb.ly/DSI-US-6/3.07-lesson-regularization) | [3.08 Model Workflow](https://git.generalassemb.ly/DSI-US-6/3.08-lesson-model-workflow) |
-| Afternoon | [3.02 Multiple Linear Regression](https://git.generalassemb.ly/DSI-US-6/lesson-linear_regression) | [3.04 Bias-Variance Tradeoff](https://git.generalassemb.ly/DSI-US-6/3.04-bias-variance-tradeoff) | [3.06 Feature Engineering](https://git.generalassemb.ly/DSI-US-6/3.06-lesson-feature-engineering) | Outcomes Proramming | Local Time |
-| Labs | [3.01 Linear Regression Lab](https://git.generalassemb.ly/DSI-US-6/3.01-lab-linear_regression-regression) | | | [3.02 Regularization and Validation Lab](https://git.generalassemb.ly/DSI-US-6/3.02-lab-cross_validation_regularization-regression) | |
+| Morning   | 3.01 Simple Linear Regression | 3.03 Regression Evaluation Metrics | 3.05 Train/Test Split + Cross Validation | 3.07 Regularization | 3.08 Model Workflow |
+| Afternoon | 3.02 Multiple Linear Regression | 3.04 Bias-Variance Tradeoff | 3.06 Feature Engineering | Outcomes Proramming | Local Time |
+| Labs | 3.01 Linear Regression Lab | | | 3.02 Regularization and Validation Lab | |
 | Deadlines |  |  |  |  | Quiz 2 |
 
-#### Week 4 - Classification (3-7 December)
+#### Week 4 - Classification
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [4.01 Intro to Classification + Logistic Regression](https://git.generalassemb.ly/DSI-US-6/classification-logistic_regression-lesson) | [4.03 Classification Metrics I](https://git.generalassemb.ly/DSI-US-6/4.03-lesson-classification_metrics_i) | [4.05 Hyperparameter Tuning and Pipelines](https://git.generalassemb.ly/DSI-US-6/4.05-optimization-gridsearch_hyperparameters-lesson) | [4.06 API Integration & Consumption](https://git.generalassemb.ly/DSI-US-6/4.06-API-Integration-Consumption) | [Project 2 Due](https://git.generalassemb.ly/DSI-US-6/project-2) |
-| Afternoon | [4.02 k-Nearest Neighbors](https://git.generalassemb.ly/DSI-US-6/4.02-lesson-knn) | [4.04 Classification Metrics II](https://git.generalassemb.ly/DSI-US-6/4.04-lesson-classification_metrics_ii) | Project Worktime  | Outcomes Programming | Local Time |
-| Labs | [4.01 Classification Model Comparison](https://git.generalassemb.ly/DSI-US-6/4.01-lab-classification_model_comparison) | [4.02 Classification Model Evaluation](https://git.generalassemb.ly/DSI-US-6/4.02-lab-classification_model_evaluation) | | | |
-| Deadlines |  |  | Blog Post 2 |  | [Project 2](https://git.generalassemb.ly/DSI-US-6/project-2) |
+| Morning   | 4.01 Intro to Classification + Logistic Regression | 4.03 Classification Metrics I | 4.05 Hyperparameter Tuning and Pipelines | 4.06 API Integration & Consumption | Project 2 Due |
+| Afternoon | 4.02 k-Nearest Neighbors | 4.04 Classification Metrics II | Project Worktime  | Outcomes Programming | Local Time |
+| Labs | 4.01 Classification Model Comparison | 4.02 Classification Model Evaluation | | | |
+| Deadlines |  |  | Blog Post 2 |  | Project 2 |
 
-#### Week 5 - Web Scraping, APIs and NLP (10-14 December)
+#### Week 5 - Web Scraping, APIs and NLP
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [5.01 Intro to HTML](https://git.generalassemb.ly/DSI-US-6/5.01-lesson-html-css) | [5.03 Object-Oriented Programming](https://git.generalassemb.ly/DSI-US-6/5.03-lesson-object_oriented_programming-regression) | [5.05 NLP I](https://git.generalassemb.ly/DSI-US-6/5.05-lesson-nlp_i) | [5.07 Naive Bayes](https://git.generalassemb.ly/DSI-US-6/5.07-lesson-naive_bayes) | [5.08 Regex](https://git.generalassemb.ly/DSI-US-6/5.08-lesson-regex) | 
-| Afternoon | [5.02 BeautifulSoup](https://git.generalassemb.ly/DSI-US-6/5.02-lesson-webscraping) | [5.04 Introduction to AWS](https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Creating-an-EC2-Instance) | [5.06 NLP II](https://git.generalassemb.ly/DSI-US-6/5.03-lesson-nlp-ii) | Outcomes Programming | Local Time |
-| Labs | [5.01 Scraping Lab](https://git.generalassemb.ly/DSI-US-6/5.01-lab-beautiful_soup-webscraping) | [5.02 NLP Lab](https://git.generalassemb.ly/DSI-US-6/5.02-lab-intro_to_nlp-nlp) | | | |
+| Morning   | 5.01 Intro to HTML | 5.03 Object-Oriented Programming | 5.05 NLP I | 5.07 Naive Bayes | 5.08 Regex | 
+| Afternoon | 5.02 BeautifulSoup | 5.04 Introduction to AWS | 5.06 NLP II | Outcomes Programming | Local Time |
+| Labs | 5.01 Scraping Lab | 5.02 NLP Lab | | | |
 | Deadlines |  |  |  |  | Quiz 3 |
 
-#### Week 6 - Advanced Supervised Learning (17-21 December)
+#### Week 6 - Advanced Supervised Learning
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [6.01 CART](https://git.generalassemb.ly/DSI-US-6/6.01-trees-CARTs-lesson) | [6.03 Random Forests and Extra Trees](https://git.generalassemb.ly/DSI-US-6/6.03-lesson-random-forests) | [6.05 SVMs](https://git.generalassemb.ly/DSI-US-6/6.05-lesson-support_vector_machines) | [6.07 Gradient Descent](https://git.generalassemb.ly/DSI-US-6/6.07-lesson-gradient_descent) | [Project 3](https://git.generalassemb.ly/DSI-US-6/project-3) |
-| Afternoon | [6.02 Bootstrapping and Bagging](https://git.generalassemb.ly/DSI-US-6/6.02-lesson-bagging) | [6.04 Boosting](https://git.generalassemb.ly/DSI-US-6/6.04-lesson-boosting) | [6.06 GLMs](https://git.generalassemb.ly/DSI-US-6/6.06-lesson-generalized_linear_models) | Outcomes Programming | Local Time |
-| Labs | [6.01 Supervised Model Comparison](https://git.generalassemb.ly/DSI-US-6/6.01-lab-supervised_learning_models) | | | |
-| Deadlines |  |  | Blog Post 3 |  | [Project 3](https://git.generalassemb.ly/DSI-US-6/project-3) |
+| Morning   | 6.01 CART | 6.03 Random Forests and Extra Trees | 6.05 SVMs | 6.07 Gradient Descent | Project 3 |
+| Afternoon | 6.02 Bootstrapping and Bagging | 6.04 Boosting | 6.06 GLMs | Outcomes Programming | Local Time |
+| Labs | 6.01 Supervised Model Comparison | | | |
+| Deadlines |  |  | Blog Post 3 |  | Project 3 |
 
-#### Week X - Holiday Break (24-28 December)
+#### Week X - Holiday Break
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -89,52 +89,52 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Afternoon | NO CLASS | NO CLASS | NO CLASS | NO CLASS | NO CLASS |
 | Labs      | NO CLASS | NO CLASS | NO CLASS | NO CLASS | NO CLASS |
 
-#### Week 7 - Correlated Data (31 December 2018 - 4 January 2019)
+#### Week 7 - Correlated Data
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | NO CLASS | NO CLASS | [7.01 Time Series Data](https://git.generalassemb.ly/DSI-US-6/7.01-lesson-timeseries) | [7.03 Advanced Time Series Models](https://git.generalassemb.ly/DSI-US-6/7.03-lesson-advanced-time-series) | [7.04 Correlated Data](https://git.generalassemb.ly/DSI-US-6/7.04-lesson-correlated_data) |
-| Afternoon | NO CLASS | NO CLASS | [7.02 AR/MA/ARMA/ARIMA](https://git.generalassemb.ly/DSI-US-6/7.02-lesson-ARMA_ARIMA) | Outcomes | Local Time |
-| Labs      | NO CLASS | NO CLASS |  | [7.04 Timeseries ARIMA Lab](https://git.generalassemb.ly/DSI-US-6/7.04-timeseries-arima-lab) |  |
+| Morning   | NO CLASS | NO CLASS | 7.01 Time Series Data | 7.03 Advanced Time Series Models | 7.04 Correlated Data |
+| Afternoon | NO CLASS | NO CLASS | 7.02 AR/MA/ARMA/ARIMA | Outcomes | Local Time |
+| Labs      | NO CLASS | NO CLASS |  | 7.04 Timeseries ARIMA Lab |  |
 | Deadlines |  |  | Capstone Check-In 1 |  | Quiz 4 |
 
-#### Week 8 - Unsupervised Learning (7-11 January)
+#### Week 8 - Unsupervised Learning
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [8.01 Intro to Clustering: K-Means](https://git.generalassemb.ly/DSI-US-6/8.01-clustering-intro_to_clustering_kmeans-lesson) | [8.03 Clustering Walkthrough](https://git.generalassemb.ly/DSI-US-6/8.04-clustering-battle_of_clusterers-casestudy) | [8.05 PCA](https://git.generalassemb.ly/DSI-US-6/8.05-lesson-principal_component_analysis) | [8.07 Recommender Systems Walkthrough](https://git.generalassemb.ly/DSI-US-6/8.07-lesson-recommender-walkthrough) | [8.08 Missing Data Imputation](https://git.generalassemb.ly/DSI-US-6/8.08-lesson-missing_data_jupytercon) |
-| Afternoon | [8.02 DBSCAN Clustering](https://git.generalassemb.ly/DSI-US-6/8.02-clustering-dbscan-lesson) | [8.04 Word Vectors](https://git.generalassemb.ly/DSI-US-6/lesson-word_vectors) | [8.06 Recommender Systems](https://git.generalassemb.ly/DSI-US-6/8.06-recommender-systems_i_and_ii) | Outcomes | Local Time |
-| Labs      | [8.01 Clustering Lab](https://git.generalassemb.ly/DSI-US-6/8.01-clustering-intro_to_clustering_kmeans-lesson/blob/master/lab-kmeans-isotopes.ipynb) |  | [8.02 PCA Lab](https://git.generalassemb.ly/DSI-US-6/8.02-pca-intro-lab) |  |  |
+| Morning   | 8.01 Intro to Clustering: K-Means | 8.03 Clustering Walkthrough | 8.05 PCA | 8.07 Recommender Systems Walkthrough | 8.08 Missing Data Imputation |
+| Afternoon | 8.02 DBSCAN Clustering | 8.04 Word Vectors | 8.06 Recommender Systems | Outcomes | Local Time |
+| Labs      | 8.01 Clustering Lab |  | 8.02 PCA Lab |  |  |
 | Deadlines |  |  | Blog Post 4 |  |  |
 
-#### Week 9 - Bayesian Statistics (14-18 January)
+#### Week 9 - Bayesian Statistics
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [9.01 Intro to Bayes](https://git.generalassemb.ly/DSI-US-6/9.01-lesson-intro-to-bayes) | [9.03 PyMC & Bayesian Regression](https://git.generalassemb.ly/DSI-US-6/9.03-lesson-pymc_bayesian_regression) | [9.05 MCMC](https://git.generalassemb.ly/DSI-US-6/9.05-lesson-mcmc) | [Bayesian Estimation & A/B Testing](https://git.generalassemb.ly/DSI-US-6/9.06-lesson-ab-testing) | [Project 4](https://git.generalassemb.ly/DSI-US-6/project-client_project) |
-| Afternoon | [9.02 Bayesian Inference](https://git.generalassemb.ly/DSI-US-6/9.02-lesson-bayesian_inference) | [9.04 Maximum Likelihood](https://git.generalassemb.ly/DSI-US-6/9.04-lesson-bayes-conjugacy-mle) | Project Worktime | [Outcomes: Technical Interview](https://git.generalassemb.ly/DSI-US-6/outcomes-tech-interview-prep) | Local Time |
-| Labs      | [9.01 Bayes Practice](https://git.generalassemb.ly/DSI-US-6/9.01-lab-bayes_practice) |  | [9.02 Bayes Data](https://git.generalassemb.ly/DSI-US-6/9.02-lab-bayes_data) |  |  |
+| Morning   | 9.01 Intro to Bayes | 9.03 PyMC & Bayesian Regression | 9.05 MCMC | Bayesian Estimation & A/B Testing | Project 4 |
+| Afternoon | 9.02 Bayesian Inference | 9.04 Maximum Likelihood | Project Worktime | Outcomes: Technical Interview | Local Time |
+| Labs      | 9.01 Bayes Practice |  | 9.02 Bayes Data |  |  |
 | Deadlines |  |  | Capstone Check-In 2 |  | Project 4 |
 
-#### Week 10 - Deep Learning (21-25 January)
+#### Week 10 - Deep Learning
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | NO CLASS | [10.01 Introduction to Neural Networks](https://git.generalassemb.ly/DSI-US-6/10.01-lesson-intro_to_neural_networks-nn) | [10.03 Deep Learning Regularization](https://git.generalassemb.ly/DSI-US-6/10.03-lesson-regularizing-optimizing-nn) | [10.05 Recurrent Neural Networks](https://git.generalassemb.ly/DSI-US-6/10.06-lesson-rnns_and_lstms) | [10.06 Introduction to TensorFlow](https://git.generalassemb.ly/DSI-US-6/10.06-lesson-tensorflow) |
-| Afternoon | NO CLASS | [10.02 Introduction to Keras](https://git.generalassemb.ly/DSI-US-6/10.02-lesson-keras) | [10.04 Convolutional Neural Networks](https://git.generalassemb.ly/DSI-US-6/10.04-lesson-cnn) | Outcomes | Local Time |
-| Labs      | NO CLASS | [10.01 Conceptual Neural Networks Lab](https://git.generalassemb.ly/DSI-US-6/10.01-lab-neural_network_conceptual) | [10.02 Applied Neural Networks Lab](https://git.generalassemb.ly/DSI-US-6/10.02-lab-neural_network_applied) |  |  | 
+| Morning   | NO CLASS | 10.01 Introduction to Neural Networks | 10.03 Deep Learning Regularization | 10.05 Recurrent Neural Networks | 10.06 Introduction to TensorFlow |
+| Afternoon | NO CLASS | 10.02 Introduction to Keras | 10.04 Convolutional Neural Networks | Outcomes | Local Time |
+| Labs      | NO CLASS | 10.01 Conceptual Neural Networks Lab | 10.02 Applied Neural Networks Lab |  |  | 
 | Deadlines |  |  | Blog Post 5 |  | Quiz 5 |
 
-#### Week 11 - Big Data & Data Engineering (28 January - 1 February)
+#### Week 11 - Big Data & Data Engineering
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Project 5 | [11.02 SQL II](https://git.generalassemb.ly/DSI-US-6/11.01-lesson-sql) | [11.04 DataFrames in Spark](https://git.generalassemb.ly/DSI-US-6/11.04-lesson-dataframes) | [11.06 Pipelines & GridSearch in Spark](https://git.generalassemb.ly/DSI-US-6/11.06-lesson-spark-pipelines) | [11.07 Docker on AWS](https://git.generalassemb.ly/DSI-US-6/11.07-docker-on-aws) |
-| Afternoon | [11.01 SQL I](https://git.generalassemb.ly/DSI-US-6/11.01-lesson-sql) | [11.03 Introduction to Scala](https://git.generalassemb.ly/DSI-US-6/11.03-lesson-scala) | [11.05 Classification & Regression in Spark](https://git.generalassemb.ly/DSI-US-6/11.05-lesson-spark-ml) | Outcomes | Local Time | 
-| Labs      |  |  | [11.01 Spark Model](https://git.generalassemb.ly/DSI-US-6/11.01-lab-spark-model) |  |  |
+| Morning   | Project 5 | 11.02 SQL II | 11.04 DataFrames in Spark | 11.06 Pipelines & GridSearch in Spark | 11.07 Docker on AWS |
+| Afternoon | 11.01 SQL I | 11.03 Introduction to Scala | 11.05 Classification & Regression in Spark | Outcomes | Local Time | 
+| Labs      |  |  | 11.01 Spark Model |  |  |
 | Deadlines | Project 5 (Local) |  | Capstone Check-In 3 |  | Quiz 6 |
 
-#### Week 12 - Flex Time (4-8 February)
+#### Week 12 - Flex Time
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -142,7 +142,7 @@ https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
 | Afternoon | Local Flex Time | Local Flex Time | Local Flex Time | Outcomes | Local Flex Time |
 | Deadlines |  |  |  | Capstone Check-In 4 | Blog Post 6 |
 
-#### Week 13 - Capstones & Graduation (11-12 February)
+#### Week 13 - Capstones & Graduation
 
 |           | Monday        | Tuesday        |
 |-----------|---------------|----------------|
