@@ -2,7 +2,7 @@
 
 #### Capstone Guidelines & Schedule
 
-https://git.generalassemb.ly/DSI-US-6/capstone
+https://git.generalassemb.ly/DSI-US-7/capstone
 
 #### Lesson Recordings
 
@@ -10,7 +10,7 @@ https://www.youtube.com/playlist?list=PLYGvOQTnahYJjmdJCt5uk2Sz2sTnlSqpZ
 
 #### Instructor and TA Appointment Sign-Ups
 
-https://git.generalassemb.ly/DSI-US-6/course-info/wiki/Office-Hours
+https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 
 #### Outcomes Materials
 
