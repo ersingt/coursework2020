@@ -31,17 +31,17 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | NO CLASS | 2.01 Pandas: Intro 1 (Basics) | 2.03 Principles of Data Visualization | 2.05 Exploratory Data Analysis (EDA) | 2.06 Benford's Law |
-| Afternoon | NO CLASS | 2.02 Pandas: Intro 2 (Features and Plotting) | 2.03 Principles of Data Visualization | Outcomes Programming | Local Time |
-| Labs |  | 2.01 Titanic EDA |  | 2.02 Pandas Concatenation | |
-| Deadlines |  |  |  |  | Blog Post 1 |
+| Morning   | 2.01 Pandas: Intro 1 (Basics) | 2.03 Principles of Data Visualization | 2.04 Exploratory Data Analysis (EDA) | 2.08 Hypothesis Testing | Project 1 Due |
+| Afternoon | 2.02 Pandas: Intro 2 (Features and Plotting) | 2.03 Principles of Data Visualization | 2.05 Central Limit Theorem and Confidence Intervals | Outcomes Programming | Local Time |
+| Labs | 2.01 Titanic EDA |  | 2.02 Pandas Concatenation |  | |
+| Deadlines |  | Blog Post 1 |  |  |  |
 
 #### Week 2-plus - Exploratory Data Analysis
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 2.07 Central Limit Theorem and Confidence Intervals | Project 1 Due | NO CLASS | NO CLASS | NO CLASS |
-| Afternoon | 2.08 Hypothesis Testing | 2.09 Introduction to Ethics | NO CLASS | NO CLASS | NO CLASS |
+| Morning   |  |  | NO CLASS | NO CLASS | NO CLASS |
+| Afternoon |  | 2.09 Introduction to Ethics | NO CLASS | NO CLASS | NO CLASS |
 | Labs | 2.03 Inference Lab |  | NO CLASS | NO CLASS | NO CLASS |
 | Deadlines |  | Project 1 |  |  |  |
 
