@@ -36,15 +36,6 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 | Labs | 2.01 Titanic EDA |  | 2.02 Pandas Concatenation |  | |
 | Deadlines |  | Blog Post 1 |  |  |  |
 
-#### Week 2-plus - Exploratory Data Analysis
-
-|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   |  |  | NO CLASS | NO CLASS | NO CLASS |
-| Afternoon |  | 2.09 Introduction to Ethics | NO CLASS | NO CLASS | NO CLASS |
-| Labs | 2.03 Inference Lab |  | NO CLASS | NO CLASS | NO CLASS |
-| Deadlines |  | Project 1 |  |  |  |
-
 #### Week 3 - Regression
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
