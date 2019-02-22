@@ -4,6 +4,10 @@
 
 https://git.generalassemb.ly/DSI-US-7/capstone
 
+#### Graduation Requirements
+
+https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Graduation-Requirements
+
 #### Lesson Recordings
 
 TBD
