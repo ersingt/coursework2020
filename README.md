@@ -23,7 +23,7 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
 | Morning | 1.01 Datatypes | 1.03 FUNctions | 1.05 Probability | 1.07 Distributions - Continuous | Local Time |
-| Afternoon| 1.02 Control Flow | 1.04 List Comprehension | 1.06 Distributions - Discrete | Outcomes Programming | Local Time |
+| Afternoon| 1.02 Control Flow | 1.04 List Comprehension | 1.06 Distributions - Discrete | Outcomes Programming | 1.08 Ethics |
 | Labs | 1.01 Pokemon Lab | | 1.02 Distributions Lab | | |
 | Deadlines |  |  |  |  | Quiz 1 |
 
@@ -35,6 +35,12 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 | Afternoon | 2.02 Pandas: Intro 2 (Features and Plotting) | 2.03 Principles of Data Visualization | 2.05 Central Limit Theorem and Confidence Intervals | Outcomes Programming | Local Time |
 | Labs | 2.01 Titanic EDA |  | 2.02 Pandas Concatenation |  | |
 | Deadlines | Week 1 Labs | Blog Post 1 |  |  | [Project 1](https://git.generalassemb.ly/DSI-US-7/project_1) |
+
+---
+
+### Everything below this point is subject to change.
+
+--- 
 
 #### Week 3 - Regression
 
