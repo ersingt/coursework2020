@@ -34,7 +34,7 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 | Morning   | 2.01 Pandas: Intro 1 (Basics) | 2.03 Principles of Data Visualization | 2.04 Exploratory Data Analysis (EDA) | 2.08 Hypothesis Testing | [Project 1 Due](https://git.generalassemb.ly/DSI-US-7/project_1) |
 | Afternoon | 2.02 Pandas: Intro 2 (Features and Plotting) | 2.03 Principles of Data Visualization | 2.05 Central Limit Theorem and Confidence Intervals | Outcomes Programming | Local Time |
 | Labs | 2.01 Titanic EDA |  | 2.02 Pandas Concatenation |  | |
-| Deadlines | Week 1 Labs | Blog Post 1 |  |  | [Project 1](https://git.generalassemb.ly/DSI-US-7/project_1) |
+| Deadlines | Week 1 Labs |  | Blog Post 1 |  | [Project 1](https://git.generalassemb.ly/DSI-US-7/project_1) |
 
 ---
 
