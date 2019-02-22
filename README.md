@@ -82,14 +82,6 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 | Labs | 6.01 Supervised Model Comparison | | | |
 | Deadlines | Week 5 Labs |  | Blog Post 3 |  | Project 3 |
 
-#### Week X - Holiday Break
-
-|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | NO CLASS | NO CLASS | NO CLASS | NO CLASS | NO CLASS |
-| Afternoon | NO CLASS | NO CLASS | NO CLASS | NO CLASS | NO CLASS |
-| Labs      | NO CLASS | NO CLASS | NO CLASS | NO CLASS | NO CLASS |
-
 #### Week 7 - Correlated Data
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
