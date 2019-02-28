@@ -26,7 +26,7 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
-| Morning | [1.01 Datatypes](https://git.generalassemb.ly/DSI-US-7/1.01-lesson-python-intro) | [1.03 FUNctions](https://git.generalassemb.ly/DSI-US-7/1.03-lesson-python-functions) | [1.05 Probability](https://git.generalassemb.ly/DSI-US-7/1.05-lesson-intro_to_probability) | 1.07 Distributions - Continuous | 1.08 Ethics |
+| Morning | [1.01 Datatypes](https://git.generalassemb.ly/DSI-US-7/1.01-lesson-python-intro) | [1.03 FUNctions](https://git.generalassemb.ly/DSI-US-7/1.03-lesson-python-functions) | [1.05 Probability](https://git.generalassemb.ly/DSI-US-7/1.05-lesson-intro_to_probability) | [1.07 Distributions - Continuous](https://git.generalassemb.ly/DSI-US-7/1.07-lesson-continuous-distributions) | 1.08 Ethics |
 | Afternoon| [1.02 Control Flow](https://git.generalassemb.ly/DSI-US-7/1.02-lesson-python-control-flow) | [1.04 List Comprehension](https://git.generalassemb.ly/DSI-US-7/1.04-lesson-list-comprehension) | [1.06 Distributions - Discrete](https://git.generalassemb.ly/DSI-US-7/1.06-lesson-discrete-distributions) | Outcomes Programming | Local Time |
 | Labs | [1.01 Pokemon Lab](https://git.generalassemb.ly/DSI-US-7/1.01-lab-pokemon) | | [1.02 Distributions Lab](https://git.generalassemb.ly/DSI-US-7/1.02-lab-distributions) | | |
 | Deadlines |  |  |  |  | Quiz 1 |
