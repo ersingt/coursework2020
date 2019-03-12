@@ -44,8 +44,8 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [3.01 Linear Regression](https://git.generalassemb.ly/DSI-US-7/3.01-lesson-linear_regression) | 3.02 Regression Evaluation Metrics | [3.04 Train/Test Split + Cross Validation](https://git.generalassemb.ly/DSI-US-7/3.04-lesson-cross-validation-train-test-split) | 3.06 Regularization | 3.07 Model Workflow |
-| Afternoon | [3.01 Linear Regression](https://git.generalassemb.ly/DSI-US-7/3.01-lesson-linear_regression) | 3.03 Bias-Variance Tradeoff | 3.05 Feature Engineering | Outcomes Proramming | Local Time |
+| Morning   | [3.01 Linear Regression](https://git.generalassemb.ly/DSI-US-7/3.01-lesson-linear_regression) | [3.02 Regression Evaluation Metrics](https://git.generalassemb.ly/DSI-US-7/3.03-regression-metrics-lesson) | [3.04 Train/Test Split + Cross Validation](https://git.generalassemb.ly/DSI-US-7/3.04-lesson-cross-validation-train-test-split) | 3.06 Regularization | 3.07 Model Workflow |
+| Afternoon | [3.01 Linear Regression](https://git.generalassemb.ly/DSI-US-7/3.01-lesson-linear_regression) | [3.03 Bias-Variance Tradeoff](https://git.generalassemb.ly/DSI-US-7/3.04-bias-variance-tradeoff) | 3.05 Feature Engineering | Outcomes Proramming | Local Time |
 | Labs | [3.01 Linear Regression Lab](https://git.generalassemb.ly/DSI-US-7/3.01-lab-linear_regression-regression-1) | | | 3.02 Regularization and Validation Lab | |
 | Deadlines | Week 2 Labs |  |  |  | Quiz 2 |
 
