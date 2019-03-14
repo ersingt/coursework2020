@@ -58,12 +58,6 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 | Labs | 4.01 Classification Model Comparison | 4.02 Classification Model Evaluation | | | |
 | Deadlines | Week 3 Labs |  | Blog Post 2 |  | [Project 2](https://git.generalassemb.ly/DSI-US-7/project_2) |
 
----
-
-### Everything below this point is subject to change.
-
---- 
-
 #### Week 5 - Web Scraping, APIs and NLP (March 25 - March 29)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
@@ -81,6 +75,12 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 | Afternoon | 6.02 Bootstrapping and Bagging | 6.04 Boosting | 6.06 GLMs | Outcomes Programming | Local Time |
 | Labs | 6.01 Supervised Model Comparison | | | |
 | Deadlines | Week 5 Labs |  | Blog Post 3 |  | Project 3 |
+
+---
+
+### Everything below this point is subject to change.
+
+--- 
 
 #### Week 7 - Correlated Data (April 8 - April 12)
 
