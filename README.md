@@ -46,7 +46,7 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [3.01 Linear Regression](https://git.generalassemb.ly/DSI-US-7/3.01-lesson-linear_regression) | [3.02 Regression Evaluation Metrics](https://git.generalassemb.ly/DSI-US-7/3.03-regression-metrics-lesson) | [3.04 Train/Test Split + Cross Validation](https://git.generalassemb.ly/DSI-US-7/3.04-lesson-cross-validation-train-test-split) | [3.06 Regularization](https://git.generalassemb.ly/DSI-US-7/lesson-regularization) | [3.07 Model Workflow](https://git.generalassemb.ly/DSI-US-7/3.07-lesson-model-workflow) |
 | Afternoon | [3.01 Linear Regression](https://git.generalassemb.ly/DSI-US-7/3.01-lesson-linear_regression) | [3.03 Bias-Variance Tradeoff](https://git.generalassemb.ly/DSI-US-7/3.04-bias-variance-tradeoff) | [3.05 Feature Engineering](https://git.generalassemb.ly/DSI-US-7/3.05-lesson-feature-engineering) | Outcomes Proramming | Local Time |
-| Labs | [3.01 Linear Regression Lab](https://git.generalassemb.ly/DSI-US-7/3.01-lab-linear_regression-regression-1) | | | 3.02 Regularization and Validation Lab | |
+| Labs | [3.01 Linear Regression Lab](https://git.generalassemb.ly/DSI-US-7/3.01-lab-linear_regression-regression-1) | | | [3.02 Regularization and Validation Lab](https://git.generalassemb.ly/DSI-US-7/3.02-lab-cross_validation_regularization-regression) | |
 | Deadlines | Week 2 Labs |  |  |  | Quiz 2 |
 
 #### Week 4 - Classification (March 18 - March 22)
