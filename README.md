@@ -55,7 +55,7 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 4.01 Intro to Classification + Logistic Regression | 4.03 Classification Metrics I | 4.05 Hyperparameter Tuning and Pipelines | Project Worktime | [Project 2 Due](https://git.generalassemb.ly/DSI-US-7/project_2) |
 | Afternoon | 4.02 k-Nearest Neighbors | 4.04 Classification Metrics II | 4.06 API Integration & Consumption | Outcomes Programming | Local Time |
-| Labs | 4.01 Classification Model Comparison |  | 4.02 Classification Model Evaluation | | |
+| Labs | 4.01 Classification Model Comparison | 4.02 Classification Model Evaluation | | | |
 | Deadlines | Week 3 Labs |  | Blog Post 2 |  | [Project 2](https://git.generalassemb.ly/DSI-US-7/project_2) |
 
 ---
@@ -70,7 +70,7 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 5.01 Intro to HTML | 5.03 Object-Oriented Programming | 5.05 NLP I | 5.07 Naive Bayes | 5.08 Regex | 
 | Afternoon | 5.02 BeautifulSoup | 5.04 Introduction to AWS | 5.06 NLP II | Outcomes Programming | Local Time |
-| Labs | 5.01 Scraping Lab | 5.02 NLP Lab | | | |
+| Labs | 5.01 Scraping Lab |  | 5.02 NLP Lab | | |
 | Deadlines | Week 4 Labs |  |  |  | Quiz 3 |
 
 #### Week 6 - Advanced Supervised Learning (April 1 - April 5)
