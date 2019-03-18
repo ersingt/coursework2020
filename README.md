@@ -55,7 +55,7 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [4.01 Intro to Classification + Logistic Regression](https://git.generalassemb.ly/DSI-US-7/4.01-lesson-logistic_regression) | [4.03 Classification Metrics I](https://git.generalassemb.ly/DSI-US-7/4.03-lesson-classification_metrics_i) | 4.05 Hyperparameter Tuning and Pipelines | Project Worktime | [Project 2 Due](https://git.generalassemb.ly/DSI-US-7/project_2) |
 | Afternoon | [4.02 k-Nearest Neighbors](https://git.generalassemb.ly/DSI-US-7/4.02-lesson-knn) | 4.04 Classification Metrics II | 4.06 API Integration & Consumption | Outcomes Programming | Local Time |
-| Labs | 4.01 Classification Model Comparison | 4.02 Classification Model Evaluation | | | |
+| Labs | [4.01 Classification Model Comparison](https://git.generalassemb.ly/DSI-US-7/4.01-lab-classification_model_comparison) | 4.02 Classification Model Evaluation | | | |
 | Deadlines | Week 3 Labs |  | Blog Post 2 |  | [Project 2](https://git.generalassemb.ly/DSI-US-7/project_2) |
 
 #### Week 5 - Web Scraping, APIs and NLP (March 25 - March 29)
