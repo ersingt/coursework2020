@@ -63,7 +63,7 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [5.01 Intro to HTML](https://git.generalassemb.ly/DSI-US-7/5.01-lesson-html-css) | [5.03 Object-Oriented Programming](https://git.generalassemb.ly/DSI-US-7/5.03-lesson-object_oriented_programming-regression) | 5.05 NLP I | 5.07 Naive Bayes | 5.08 Regex | 
-| Afternoon | [5.02 BeautifulSoup](https://git.generalassemb.ly/DSI-US-7/5.02-lesson-webscraping) | [5.04 Introduction to AWS](https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Creating-an-EC2-Instance) | 5.06 NLP II | Outcomes Programming | Local Time |
+| Afternoon | [5.02 BeautifulSoup](https://git.generalassemb.ly/DSI-US-7/5.02-lesson-webscraping) | [5.04 Introduction to AWS](https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Installing-Anaconda-on-EC2) | 5.06 NLP II | Outcomes Programming | Local Time |
 | Labs | [5.01 Scraping Lab](https://git.generalassemb.ly/DSI-US-7/5.01-lab-beautiful_soup-webscraping) |  | 5.02 NLP Lab | | |
 | Deadlines | Week 4 Labs |  |  |  | Quiz 3 |
 
