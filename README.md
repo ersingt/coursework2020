@@ -76,12 +76,6 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 | Labs | [6.01 Supervised Model Comparison](https://git.generalassemb.ly/DSI-US-7/6.01-lab-supervised_learning_models) | | | |
 | Deadlines | Week 5 Labs |  | Blog Post 3 |  | [Project 3 Presentation](https://git.generalassemb.ly/DSI-US-7/project_3) |
 
----
-
-### Everything below this point is subject to change.
-
---- 
-
 #### Week 7 - Correlated Data (April 8 - April 12)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
@@ -108,6 +102,12 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 | Afternoon | 9.02 Bayesian Inference | 9.04 Maximum Likelihood | Project Worktime | Outcomes: Technical Interview | Local Time |
 | Labs      | 9.01 Bayes Practice | 9.02 Bayes Data |  |  |  |
 | Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | Project 4 |
+
+---
+
+### Everything below this point is subject to change.
+
+---
 
 #### Week 10 - Deep Learning (April 29 - May 3)
 
