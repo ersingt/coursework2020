@@ -89,7 +89,7 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 8.01 Intro to Clustering: K-Means | 8.03 Clustering Walkthrough | 8.05 Recommender Systems I | Project Worktime | 8.07 Word Vectors |
+| Morning   | 8.01 Intro to Clustering: K-Means | 8.03 Clustering Walkthrough | 8.05 Recommender Systems | Project Worktime | 8.07 Word Vectors |
 | Afternoon | 8.02 DBSCAN Clustering | 8.04 PCA | 8.06 Missing Data | Outcomes | Local Time |
 | Labs      | 8.01 Clustering Lab | 8.02 PCA Lab |  |  |  |
 | Deadlines | Week 7 Labs |  | Blog Post 4 |  | Quiz 5 |
