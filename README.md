@@ -82,7 +82,7 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 7.01 Intro to Correlated Data | 7.03 AR/MA/ARMA | 7.05 Spatial Data Analysis | 7.06 Network Analysis | 7.07 Benford's Law |
 | Afternoon | 7.02 Intro to Time Series/Autocorrelation | 7.04 Advanced Time Series Analysis | Project Worktime | Outcomes | Local Time |
-| Labs      | 7.01 Correlated Data Lab | 7.02 Time Series Lab |  |  |  |
+| Labs      | [7.01 Correlated Data Lab](https://git.generalassemb.ly/DSI-US-7/7.01-lab-correlated_data) | 7.02 Time Series Lab |  |  |  |
 | Deadlines | Week 6 Labs |  | Capstone Check-In 1 |  | Quiz 4 |
 
 #### Week 8 - Unsupervised Learning (April 15 - April 19)
