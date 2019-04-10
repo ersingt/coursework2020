@@ -81,7 +81,7 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [7.01 Intro to Correlated Data](https://git.generalassemb.ly/DSI-US-7/7.01-lesson-intro_to_correlated_data) | [7.03 ARIMA Modeling](https://git.generalassemb.ly/DSI-US-7/7.03-lesson-ARIMA) | 7.05 Spatial Data Analysis | 7.06 Network Analysis | 7.07 Benford's Law |
-| Afternoon | [7.02 Intro to Time Series/Autocorrelation](https://git.generalassemb.ly/DSI-US-7/7.02-lesson-timeseries) | 7.04 Advanced Time Series Analysis | Project Worktime | Outcomes | Local Time |
+| Afternoon | [7.02 Intro to Time Series/Autocorrelation](https://git.generalassemb.ly/DSI-US-7/7.02-lesson-timeseries) | [7.04 Advanced Time Series Analysis](https://git.generalassemb.ly/DSI-US-7/7.04-lesson-ARIMA_2) | Project Worktime | Outcomes | Local Time |
 | Labs      | [7.01 Correlated Data Lab](https://git.generalassemb.ly/DSI-US-7/7.01-lab-correlated_data) | 7.02 Time Series Lab |  |  |  |
 | Deadlines | Week 6 Labs |  | Capstone Check-In 1 |  | Quiz 4 |
 
