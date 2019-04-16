@@ -89,7 +89,7 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [8.01 Intro to Clustering: K-Means](https://git.generalassemb.ly/DSI-US-7/8.01-lesson-intro-to-kmeans) | [8.03 Clustering Walkthrough](https://git.generalassemb.ly/DSI-US-7/8.03-battle-of-clusters-lab) | 8.05 Recommender Systems | Project Worktime | [8.07 Word Vectors](https://git.generalassemb.ly/DSI-US-7/8.07-lesson-word_vectors) |
+| Morning   | [8.01 Intro to Clustering: K-Means](https://git.generalassemb.ly/DSI-US-7/8.01-lesson-intro-to-kmeans) | [8.03 Clustering Walkthrough](https://git.generalassemb.ly/DSI-US-7/8.03-battle-of-clusters-lab) | [8.05 Recommender Systems](https://git.generalassemb.ly/DSI-US-7/8.05-lesson-recommender-systems) | Project Worktime | [8.07 Word Vectors](https://git.generalassemb.ly/DSI-US-7/8.07-lesson-word_vectors) |
 | Afternoon | [8.02 DBSCAN Clustering](https://git.generalassemb.ly/DSI-US-7/8.02-lesson-dbscan) | 8.04 PCA | 8.06 Missing Data | Outcomes | Local Time |
 | Labs      | [8.01 Clustering Lab](https://git.generalassemb.ly/DSI-US-7/8.01-lab-kmeans-isotopes) | 8.02 PCA Lab |  |  |  |
 | Deadlines | Week 7 Labs |  | Blog Post 4 |  | Quiz 5 |
