@@ -103,12 +103,6 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 | Labs      | [9.01 Bayes Practice](https://git.generalassemb.ly/DSI-US-7/9.01-lab-bayes_practice) | 9.02 Bayes Data |  |  |  |
 | Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | [Project 4](https://git.generalassemb.ly/DSI-US-7/project-client_project) |
 
----
-
-### Everything below this point is subject to change.
-
----
-
 #### Week 10 - Deep Learning (April 29 - May 3)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
