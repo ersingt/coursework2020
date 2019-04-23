@@ -98,7 +98,7 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [9.01 Intro to Bayes](https://git.generalassemb.ly/DSI-US-7/9.01-lesson-intro-to-bayes) | [9.03 PyMC & Bayesian Regression](9.03-lesson-pymc-bayesian-regression) | [9.05 MCMC](https://git.generalassemb.ly/DSI-US-7/9.05-lesson-mcmc) | 9.06 Bayesian Estimation & A/B Testing | [Project 4](https://git.generalassemb.ly/DSI-US-7/project-client_project) |
+| Morning   | [9.01 Intro to Bayes](https://git.generalassemb.ly/DSI-US-7/9.01-lesson-intro-to-bayes) | [9.03 PyMC & Bayesian Regression](https://git.generalassemb.ly/DSI-US-7/9.03-lesson-pymc-bayesian-regression) | [9.05 MCMC](https://git.generalassemb.ly/DSI-US-7/9.05-lesson-mcmc) | 9.06 Bayesian Estimation & A/B Testing | [Project 4](https://git.generalassemb.ly/DSI-US-7/project-client_project) |
 | Afternoon | [9.02 Bayesian Inference](https://git.generalassemb.ly/DSI-US-7/9.02-lesson-bayesian_inference) | 9.04 Maximum Likelihood | Project Worktime | Outcomes | Local Time |
 | Labs      | [9.01 Bayes Practice](https://git.generalassemb.ly/DSI-US-7/9.01-lab-bayes_practice) | 9.02 Bayes Data |  |  |  |
 | Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | [Project 4](https://git.generalassemb.ly/DSI-US-7/project-client_project) |
