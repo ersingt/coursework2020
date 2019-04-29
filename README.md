@@ -107,8 +107,8 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Project 5 | 10.01 Introduction to Neural Networks | 10.03 Deep Learning Regularization | 10.05 Recurrent Neural Networks | 10.06 Introduction to TensorFlow |
-| Afternoon | Project 5 | 10.02 Introduction to Keras | 10.04 Convolutional Neural Networks | Outcomes | Local Time |
+| Morning   | [Project 5](https://git.generalassemb.ly/DSI-US-7/Hackathon-Good-Fast-Cheap) | 10.01 Introduction to Neural Networks | 10.03 Deep Learning Regularization | 10.05 Recurrent Neural Networks | 10.06 Introduction to TensorFlow |
+| Afternoon | [Project 5](https://git.generalassemb.ly/DSI-US-7/Hackathon-Good-Fast-Cheap) | 10.02 Introduction to Keras | 10.04 Convolutional Neural Networks | Outcomes | Local Time |
 | Labs      |  | 10.01 Conceptual Neural Networks Lab | 10.02 Applied Neural Networks Lab |  |  | 
 | Deadlines | Week 9 Labs & Project 5 |  | Blog Post 5 |  |  |
 
