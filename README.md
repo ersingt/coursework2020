@@ -109,7 +109,7 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [Project 5 (hackathon)](https://git.generalassemb.ly/DSI-US-7/Hackathon-Good-Fast-Cheap) | [10.01 Introduction to Neural Networks](https://git.generalassemb.ly/DSI-US-7/10.01-lesson-intro-to-neural-networks) | [10.03 Deep Learning Regularization](https://git.generalassemb.ly/DSI-US-7/10.03-lesson-regularizing-optimizing-nn) | [10.05 Recurrent Neural Networks](https://git.generalassemb.ly/DSI-US-7/10.05-lesson-rnn) | 10.06 Introduction to TensorFlow |
 | Afternoon | [Project 5 (hackathon)](https://git.generalassemb.ly/DSI-US-7/Hackathon-Good-Fast-Cheap) | [10.02 Introduction to Keras](https://git.generalassemb.ly/DSI-US-7/10.02-lesson-keras) | [10.04 Convolutional Neural Networks](https://git.generalassemb.ly/DSI-US-7/10.04-lesson-cnn) | Outcomes | Local Time |
-| Labs      |  | [10.01 Conceptual Neural Networks Lab](https://git.generalassemb.ly/DSI-US-7/lab-neural_network_conceptual) | 10.02 Applied Neural Networks Lab |  |  | 
+| Labs      |  | [10.01 Conceptual Neural Networks Lab](https://git.generalassemb.ly/DSI-US-7/lab-neural_network_conceptual) | [10.02 Applied Neural Networks Lab](https://git.generalassemb.ly/DSI-US-7/7.02-lab-neural_network_applied) |  |  | 
 | Deadlines | Week 9 Labs & Project 5 |  | Blog Post 5 |  |  |
 
 #### Week 11 - Big Data & Data Engineering (May 6 - May 10)
