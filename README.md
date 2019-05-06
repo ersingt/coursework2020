@@ -116,7 +116,7 @@ https://git.generalassemb.ly/DSI-US-7/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [11.01 SQL I](https://git.generalassemb.ly/DSI-US-7/11.01-lesson-sql) | 11.03 Introduction to Scala | 11.05 Classification & Regression in Spark | 11.07 The Linux Environment and Shell Scripting | Project Worktime |
+| Morning   | [11.01 SQL I](https://git.generalassemb.ly/DSI-US-7/11.01-lesson-sql) | [11.03 Introduction to Scala](https://git.generalassemb.ly/DSI-US-7/11.03-lesson-scala) | 11.05 Classification & Regression in Spark | 11.07 The Linux Environment and Shell Scripting | Project Worktime |
 | Afternoon | [11.02 SQL II](https://git.generalassemb.ly/DSI-US-7/11.01-lesson-sql) | 11.04 DataFrames in Spark | 11.06 Pipelines & GridSearch in Spark | Outcomes: Technical Interview | Local Time | 
 | Labs      | 11.01 SQL Lab |  | 11.02 Spark Model |  |  |
 | Deadlines | Week 10 Labs & Capstone Check-In 3 |  | Blog Post 5 |  | Quiz 6 |
