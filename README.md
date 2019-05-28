@@ -31,6 +31,12 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 | Labs | 1.01 Pokemon Lab | | 1.02 Distributions Lab | | |
 | Deadlines |  |  |  |  | Quiz 1 |
 
+---
+
+### Everything below this point is subject to change.
+
+---
+
 #### Week 2 - Exploratory Data Analysis (June 10 - June 14)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
