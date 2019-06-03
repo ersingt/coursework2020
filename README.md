@@ -26,8 +26,8 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
-| Morning | 1.01 Datatypes | 1.03 FUNctions | 1.05 Probability | 1.07 Distributions - Continuous | 1.08 Ethics & Plagiarism |
-| Afternoon| 1.02 Control Flow | 1.04 List Comprehension | 1.06 Distributions - Discrete | Outcomes Programming | Local Time |
+| Morning | [1.01 Datatypes](https://git.generalassemb.ly/DSI-US-8/1.01-lesson-python-intro) | 1.03 FUNctions | 1.05 Probability | 1.07 Distributions - Continuous | 1.08 Ethics & Plagiarism |
+| Afternoon| [1.02 Control Flow](https://git.generalassemb.ly/DSI-US-8/1.02-lesson-python-control-flow) | 1.04 List Comprehension | 1.06 Distributions - Discrete | Outcomes Programming | Local Time |
 | Labs | 1.01 Pokemon Lab | | 1.02 Distributions Lab | | |
 | Deadlines |  |  |  |  | Quiz 1 |
 
