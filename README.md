@@ -28,21 +28,15 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 |---------|------------|------------|------------|---------|---------|
 | Morning | [1.01 Datatypes](https://git.generalassemb.ly/DSI-US-8/1.01-lesson-python-intro) | [1.03 FUNctions](https://git.generalassemb.ly/DSI-US-8/1.03-lesson-python-functions) | [1.05 Probability](https://git.generalassemb.ly/DSI-US-8/1.05-lesson-intro_to_probability) | 1.07 Distributions - Continuous | 1.08 Ethics & Plagiarism |
 | Afternoon| [1.02 Control Flow](https://git.generalassemb.ly/DSI-US-8/1.02-lesson-python-control-flow) | [1.04 List Comprehension](https://git.generalassemb.ly/DSI-US-8/1.04-lesson-list-comprehension) | [1.06 Distributions - Discrete](https://git.generalassemb.ly/DSI-US-8/1.06-lesson-discrete-distributions) | Outcomes Programming | Local Time |
-| Labs | [1.01 Pokemon Lab](https://git.generalassemb.ly/DSI-US-8/1.01-lab-pokemon) | | 1.02 Distributions Lab | | |
+| Labs | [1.01 Pokemon Lab](https://git.generalassemb.ly/DSI-US-8/1.01-lab-pokemon) | | [1.02 Loot Boxes Lab](https://git.generalassemb.ly/DSI-US-8/1.02-loot-boxes-lab) | | |
 | Deadlines |  |  |  |  | Quiz 1 |
-
----
-
-### Everything below this point is subject to change.
-
----
 
 #### Week 2 - Exploratory Data Analysis (June 10 - June 14)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 2.01 Pandas: Intro 1 (Basics) | 2.03 Principles of Data Visualization | 2.04 Exploratory Data Analysis (EDA) | 2.06 Hypothesis Testing | Project 1 Due |
-| Afternoon | 2.02 Pandas: Intro 2 (Features and Plotting) | 2.03 Principles of Data Visualization | 2.05 Central Limit Theorem and Confidence Intervals | Outcomes Programming | Local Time |
+| Afternoon | 2.02 Pandas: Intro 2 (Features) | 2.03 Principles of Data Visualization | 2.05 Central Limit Theorem and Confidence Intervals | Outcomes Programming | Local Time |
 | Labs | 2.01 Titanic EDA |  | 2.02 Pandas Concatenation |  | |
 | Deadlines | Week 1 Labs |  | Blog Post 1 |  | Project 1 |
 
@@ -63,6 +57,12 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 | Afternoon | 4.02 k-Nearest Neighbors | 4.04 Classification Metrics II | 4.06 API Integration & Consumption | Outcomes Programming | Local Time |
 | Labs | 4.01 Classification Model Comparison | 4.02 Classification Model Evaluation | | | |
 | Deadlines | Week 3 Labs |  | Blog Post 2 |  | Project 2 |
+
+---
+
+### Everything below this point is subject to change.
+
+---
 
 #### Week 5 - Web Scraping, APIs and NLP (July 1 - July 5)
 
