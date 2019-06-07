@@ -38,7 +38,7 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 | Morning   | 2.01 Pandas: Intro 1 (Basics) | 2.03 Principles of Data Visualization | 2.04 Exploratory Data Analysis (EDA) | 2.06 Hypothesis Testing | [Project 1 Due](https://git.generalassemb.ly/DSI-US-8/project_1) |
 | Afternoon | 2.02 Pandas: Intro 2 (Features) | 2.03 Principles of Data Visualization | 2.05 Central Limit Theorem and Confidence Intervals | Outcomes Programming | Local Time |
 | Labs | 2.01 Titanic EDA |  | 2.02 Pandas Concatenation |  | |
-| Deadlines | 1.01 Pokemon Lab |  | Blog Post 1; 1.02 Loot Boxes Lab |  | [Project 1](https://git.generalassemb.ly/DSI-US-8/project_1) |
+| Deadlines | 1.01 Pokemon Lab |  | Blog Post 1; <br> 1.02 Loot Boxes Lab |  | [Project 1](https://git.generalassemb.ly/DSI-US-8/project_1) |
 
 #### Week 3 - Regression (June 17 - June 21)
 
