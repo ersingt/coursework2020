@@ -35,8 +35,8 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [2.01 Pandas: Intro 1 (Basics)](https://git.generalassemb.ly/DSI-US-8/2.01-2.02-intro-to-pandas) | 2.03 Principles of Data Visualization | 2.04 Exploratory Data Analysis (EDA) | 2.06 Hypothesis Testing | [Project 1 Due](https://git.generalassemb.ly/DSI-US-8/project_1) |
-| Afternoon | [2.02 Pandas: Intro 2 (Features)](https://git.generalassemb.ly/DSI-US-8/2.01-2.02-intro-to-pandas) | 2.03 Principles of Data Visualization | 2.05 Central Limit Theorem and Confidence Intervals | Outcomes Programming | Local Time |
+| Morning   | [2.01 Pandas: Intro 1 (Basics)](https://git.generalassemb.ly/DSI-US-8/2.01-2.02-intro-to-pandas) | [2.03 Principles of Data Visualization](https://git.generalassemb.ly/DSI-US-8/2.03-lesson-principles_of_data_visualization) | 2.04 Exploratory Data Analysis (EDA) | 2.06 Hypothesis Testing | [Project 1 Due](https://git.generalassemb.ly/DSI-US-8/project_1) |
+| Afternoon | [2.02 Pandas: Intro 2 (Features)](https://git.generalassemb.ly/DSI-US-8/2.01-2.02-intro-to-pandas) | [2.03 Principles of Data Visualization](https://git.generalassemb.ly/DSI-US-8/2.03-lesson-principles_of_data_visualization) | 2.05 Central Limit Theorem and Confidence Intervals | Outcomes Programming | Local Time |
 | Labs | [2.01 Titanic EDA](https://git.generalassemb.ly/DSI-US-8/2.01-lab-pandas-titanic) |  | [2.02 Pandas Concatenation](https://git.generalassemb.ly/DSI-US-8/2.02-lab-pandas-concat) |  | |
 | Deadlines | 1.01 Pokemon Lab |  | Blog Post 1; <br> 1.02 Loot Boxes Lab |  | [Project 1](https://git.generalassemb.ly/DSI-US-8/project_1) |
 
@@ -47,7 +47,7 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 | Morning   | 3.01 Linear Regression | 3.02 Regression Evaluation Metrics | 3.04 Train/Test Split + Cross Validation | 3.06 Regularization | 3.07 Model Workflow |
 | Afternoon | 3.01 Linear Regression | 3.03 Bias-Variance Tradeoff | 3.05 Feature Engineering | Outcomes Proramming | Local Time |
 | Labs | 3.01 Linear Regression Lab | | | 3.02 Regularization and Validation Lab | |
-| Deadlines | 2.01 Titanic EDA |  | 2.02 Pandas Concatenation |  | Quiz 2 |
+| Deadlines | Week 2 Labs |  |  |  | Quiz 2 |
 
 #### Week 4 - Classification (June 24 - June 28)
 
@@ -56,7 +56,7 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 | Morning   | 4.01 Intro to Classification + Logistic Regression | 4.03 Classification Metrics I | 4.05 Hyperparameter Tuning and Pipelines | Project Work Time | Project 2 Due |
 | Afternoon | 4.02 k-Nearest Neighbors | 4.04 Classification Metrics II | 4.06 API Integration & Consumption | Outcomes Programming | Local Time |
 | Labs | 4.01 Classification Model Comparison | 4.02 Classification Model Evaluation | | | |
-| Deadlines | 3.01 Linear Regression Lab |  | Blog Post 2 | 3.02 Regularization and Validation Lab | Project 2 |
+| Deadlines | Week 3 Labs |  | Blog Post 2 |  | Project 2 |
 
 ---
 
@@ -71,7 +71,7 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 | Morning   | 5.01 Intro to HTML | 5.03 Object-Oriented Programming | 5.05 NLP I | 5.07 Naive Bayes | 5.08 Regex |
 | Afternoon | 5.02 BeautifulSoup | 5.04 Introduction to AWS | 5.06 NLP II | Outcomes Programming | Local Time |
 | Labs | 5.01 Scraping Lab |  | 5.02 NLP Lab | | |
-| Deadlines | 4.01 Classification Model Comparison | 4.02 Classification Model Evaluation |  |  | Quiz 3 |
+| Deadlines | Week 4 Labs |  |  |  | Quiz 3 |
 
 #### Week 6 - Advanced Supervised Learning (July 8 - July 12)
 
