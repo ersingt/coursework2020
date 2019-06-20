@@ -131,9 +131,16 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time | Capstone Presentations |
-| Afternoon | Local Flex Time | Local Flex Time | Local Flex Time | Outcomes | Graduation! |
-| Deadlines | Week 11 Labs | Capstone Check-In 4 | Blog Post 6 |  | Capstone Check-In 5 |
+| Morning   | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time |
+| Afternoon | Local Flex Time | Local Flex Time | Local Flex Time | Outcomes | Local Flex Time |
+| Deadlines | Week 11 Labs |  | Capstone Check-In 4 |  | Blog Post 6 |
+
+#### Week 13 - Flex Time & Capstones (August 26-27)
+|           | Monday        | Tuesday       | 
+|-----------|---------------|---------------|
+| Morning   | Local Flex Time | Capstone Presentations |
+| Afternoon | Local Flex Time | Graduation! |
+| Deadlines | | | Capstone Check-In 5 |
 
 #### Zoom
 
