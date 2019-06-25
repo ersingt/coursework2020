@@ -53,8 +53,8 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [4.01 Intro to Classification + Logistic Regression](https://git.generalassemb.ly/DSI-US-8/4.01-lesson-logistic_regression) | [4.03 Classification Metrics I](https://git.generalassemb.ly/DSI-US-8/4.03-lesson-classification_metrics_i) | [4.05 Hyperparameter Tuning and Pipelines](https://git.generalassemb.ly/DSI-US-8/4.05-lesson-gridsearch-and-pipelines) | Project Work Time | Project 2 Due |
-| Afternoon | [4.02 k-Nearest Neighbors](https://git.generalassemb.ly/DSI-US-8/4.02-lesson-knn) | 4.04 Classification Metrics II | 4.06 API Integration & Consumption | Outcomes Programming | Local Time |
+| Morning   | [4.01 Intro to Classification + Logistic Regression](https://git.generalassemb.ly/DSI-US-8/4.01-lesson-logistic_regression) | [4.03 Classification Metrics I](https://git.generalassemb.ly/DSI-US-8/4.03-lesson-classification_metrics_i) | [4.05 Hyperparameter Tuning and Pipelines](https://git.generalassemb.ly/DSI-US-8/4.05-lesson-gridsearch-and-pipelines) | 4.06 API Integration & Consumption | Project 2 Due |
+| Afternoon | [4.02 k-Nearest Neighbors](https://git.generalassemb.ly/DSI-US-8/4.02-lesson-knn) | 4.04 Classification Metrics II | Project Worktime | Outcomes Programming | Local Time |
 | Labs | [4.01 Classification Model Comparison](https://git.generalassemb.ly/DSI-US-8/4.01-lab-classification_model_comparison) | 4.02 Classification Model Evaluation | | | |
 | Deadlines | Week 3 Labs |  | Blog Post 2 |  | [Project 2](https://git.generalassemb.ly/DSI-US-8/project_2) |
 
