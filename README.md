@@ -68,7 +68,7 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 5.01 Intro to HTML | 5.03 NLP I | 5.05 Object-Oriented Programming | No Class | No Class |
+| Morning   | [5.01 Intro to HTML](https://git.generalassemb.ly/DSI-US-8/5.01-lesson-html-css) | 5.03 NLP I | 5.05 Object-Oriented Programming | No Class | No Class |
 | Afternoon | 5.02 BeautifulSoup | 5.04 NLP II | 5.06 Introduction to AWS | No Class | No Class |
 | Labs | 5.01 Scraping Lab | 5.02 NLP Lab |  | | |
 | Deadlines | Week 4 Labs |  | Quiz 3 |  | |
