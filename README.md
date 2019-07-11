@@ -82,14 +82,9 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Project 4 (hackathon) | 7.01 SQL I | 7.03 Introduction to Scala | 7.05 Classification & Regression in Spark | 7.06 Pipelines & GridSearch in Spark |
 | Afternoon | Project 4 (hackathon) | 7.02 SQL II | 7.04 DataFrames in Spark | Outcomes | Local Time |
-| Labs      | 7.01 SQL Lab |  |  | 7.02 Spark Model |  |
+| Labs      |  | 7.01 SQL Lab |  | 7.02 Spark Model |  |
 | Deadlines | Week 6 Labs |  | Capstone Check-In 1 |  | Quiz 4 |
 
----
-
-### Everything below this point is subject to change.
-
----
 
 #### Week 8 - Unsupervised Learning (July 22 - July 26)
 
