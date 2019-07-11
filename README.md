@@ -83,7 +83,7 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 | Morning   | Project 4 (hackathon) | 7.01 SQL I | 7.03 Introduction to Scala | 7.05 Classification & Regression in Spark | 7.06 Pipelines & GridSearch in Spark |
 | Afternoon | Project 4 (hackathon) | 7.02 SQL II | 7.04 DataFrames in Spark | Outcomes | Local Time |
 | Labs      |  | 7.01 SQL Lab |  | 7.02 Spark Model |  |
-| Deadlines | Week 6 Labs |  | Capstone Check-In 1 |  | Quiz 4 |
+| Deadlines | Week 6 Labs |  | [Capstone Check-In 1](https://git.generalassemb.ly/DSI-US-8/capstone/) |  | Quiz 4 |
 
 
 #### Week 8 - Unsupervised Learning (July 22 - July 26)
@@ -102,7 +102,7 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 | Morning   | 9.01 Intro to Correlated Data | 9.03 ARIMA Modeling | 9.05 Spatial Data Analysis | 9.06 Benford's Law | Project 5 |
 | Afternoon | 9.02 Intro to Time Series/Autocorrelation | 9.04 Advanced Time Series Analysis | Project Work Time | Outcomes | Local Time |
 | Labs      | 9.01 Correlated Data Lab | 9.02 Time Series Lab |  |  |  |
-| Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | Project 5 |
+| Deadlines | Week 8 Labs |  | [Capstone Check-In 2](https://git.generalassemb.ly/DSI-US-8/capstone/) |  | Project 5 |
 
 #### Week 10 - Bayesian Statistics (August 5 - August 9)
 
@@ -111,7 +111,7 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 | Morning   | 10.01 Intro to Bayes | 10.03 PyMC & Bayesian Regression | 10.05 MCMC | 10.06 Bayesian Estimation & A/B Testing |  |
 | Afternoon | 10.02 Bayesian Inference | 10.04 Conjugacy, Maximum Likelihood | Project Work Time | Outcomes | Local Time |
 | Labs      | 10.01 Bayes Practice | 10.02 Bayes Data |  |  |  |
-| Deadlines | Week 9 Labs |  | Capstone Check-In 2 |  |  |
+| Deadlines | Week 9 Labs |  |  |  |  |
 
 #### Week 11 - Deep Learning (August 12 - August 16)
 
@@ -120,7 +120,7 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 | Morning   | 11.01 Introduction to Neural Networks | 11.03 Deep Learning Regularization | 11.05 Recurrent Neural Networks |  | 11.07 Flask |
 | Afternoon | 11.02 Introduction to Keras | 11.04 Convolutional Neural Networks | 11.06 Introduction to TensorFlow | Outcomes | Local Time |
 | Labs      | 11.01 Conceptual Neural Networks Lab | 11.02 Applied Neural Networks Lab |  |  |  |
-| Deadlines | Week 10 Labs & Capstone Check-In 3 |  | Blog Post 5 |  | Quiz 6 |
+| Deadlines | Week 10 Labs & [Capstone Check-In 3](https://git.generalassemb.ly/DSI-US-8/capstone/) |  | Blog Post 5 |  | Quiz 6 |
 
 #### Week 12 - Flex Time & Capstones (August 19 - August 23)
 
@@ -128,14 +128,14 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time |
 | Afternoon | Local Flex Time | Local Flex Time | Local Flex Time | Outcomes | Local Flex Time |
-| Deadlines | Week 11 Labs | Capstone Check-In 4 | Blog Post 6 |  |  |
+| Deadlines | Week 11 Labs | [Capstone Check-In 4](https://git.generalassemb.ly/DSI-US-8/capstone/) | Blog Post 6 |  |  |
 
 #### Week 13 - Flex Time & Capstones (August 26-27)
 |           | Monday        | Tuesday       | 
 |-----------|---------------|---------------|
 | Morning   | Local Flex Time | Capstone Presentations |
 | Afternoon | Local Flex Time | Graduation! |
-| Deadlines | | | Capstone Check-In 5 |
+| Deadlines | | | [Capstone Check-In 5](https://git.generalassemb.ly/DSI-US-8/capstone/) |
 
 #### Zoom
 
