@@ -71,7 +71,7 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [6.01 CART](https://git.generalassemb.ly/DSI-US-8/6.01-lesson-decision_trees) | [6.03 Random Forests and Extra Trees](https://git.generalassemb.ly/DSI-US-8/6.03-lesson-random-forests) | [6.05 SVMs](https://git.generalassemb.ly/DSI-US-8/6.05-lesson-support_vector_machines) | 6.07 Gradient Descent | [Project 3](https://git.generalassemb.ly/DSI-US-8/project_3) |
+| Morning   | [6.01 CART](https://git.generalassemb.ly/DSI-US-8/6.01-lesson-decision_trees) | [6.03 Random Forests and Extra Trees](https://git.generalassemb.ly/DSI-US-8/6.03-lesson-random-forests) | [6.05 SVMs](https://git.generalassemb.ly/DSI-US-8/6.05-lesson-support_vector_machines) | [6.07 Gradient Descent](https://git.generalassemb.ly/DSI-US-8/6.07-lesson-gradient-descent) | [Project 3](https://git.generalassemb.ly/DSI-US-8/project_3) |
 | Afternoon | [6.02 Bootstrapping and Bagging](https://git.generalassemb.ly/DSI-US-8/6.02-lesson-bagging) | [6.04 Boosting](https://git.generalassemb.ly/DSI-US-8/6.04-lesson-boosting) | [6.06 GLMs](https://git.generalassemb.ly/DSI-US-8/6.06-lesson-generalized_linear_models) | Outcomes Programming | Local Time |
 | Labs | [6.01 Supervised Model Comparison](https://git.generalassemb.ly/DSI-US-8/6.01-lab-supervised_learning_models) | | | |
 | Deadlines | Week 5 Labs |  | Blog Post 3 |  | [Project 3 Presentation](https://git.generalassemb.ly/DSI-US-8/project_3) |
