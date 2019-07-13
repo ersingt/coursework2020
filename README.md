@@ -99,10 +99,10 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 9.01 Intro to Correlated Data | 9.03 ARIMA Modeling | 9.05 Spatial Data Analysis | 9.06 Benford's Law | Project 5 |
+| Morning   | 9.01 Intro to Correlated Data | 9.03 ARIMA Modeling | 9.05 Spatial Data Analysis | 9.06 Benford's Law | [Project 5](https://git.generalassemb.ly/DSI-US-8/project-client_project) |
 | Afternoon | 9.02 Intro to Time Series/Autocorrelation | 9.04 Advanced Time Series Analysis | Project Work Time | Outcomes | Local Time |
 | Labs      | 9.01 Correlated Data Lab | 9.02 Time Series Lab |  |  |  |
-| Deadlines | Week 8 Labs |  | [Capstone Check-In 2](https://git.generalassemb.ly/DSI-US-8/capstone/) |  | Project 5 |
+| Deadlines | Week 8 Labs |  | [Capstone Check-In 2](https://git.generalassemb.ly/DSI-US-8/capstone/) |  | [Project 5](https://git.generalassemb.ly/DSI-US-8/project-client_project) |
 
 #### Week 10 - Bayesian Statistics (August 5 - August 9)
 
