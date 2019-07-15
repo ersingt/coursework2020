@@ -82,7 +82,7 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [Local Project/Hackathon](https://git.generalassemb.ly/DSI-US-8/Hackathon-Good-Fast-Cheap) | [7.01 SQL I](https://git.generalassemb.ly/DSI-US-8/7.01-lesson-sql) | 7.03 Introduction to Scala | 7.05 Classification & Regression in Spark | 7.06 Pipelines & GridSearch in Spark |
 | Afternoon | [Local Project/Hackathon](https://git.generalassemb.ly/DSI-US-8/Hackathon-Good-Fast-Cheap) | [7.02 SQL II](https://git.generalassemb.ly/DSI-US-8/7.01-lesson-sql) | 7.04 DataFrames in Spark | Outcomes | Local Time |
-| Labs      |  | [7.01 SQL Lab](https://git.generalassemb.ly/DSI-US-8/11.01-lab-sql) |  | 7.02 Spark Model |  |
+| Labs      |  | [7.01 SQL Lab](https://git.generalassemb.ly/DSI-US-8/7.01-lab-sql) |  | 7.02 Spark Model |  |
 | Deadlines | Week 6 Labs |  | [Capstone Check-In 1](https://git.generalassemb.ly/DSI-US-8/capstone/) |  | Quiz 4 |
 
 
