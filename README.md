@@ -80,7 +80,7 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [Local Project/Hackathon](https://git.generalassemb.ly/DSI-US-8/Hackathon-Good-Fast-Cheap) | [7.01 SQL I](https://git.generalassemb.ly/DSI-US-8/7.01-lesson-sql) | [7.03 Introduction to Scala](https://git.generalassemb.ly/DSI-US-8/7.03-lesson-scala) | [7.05 Classification & Regression in Spark](https://git.generalassemb.ly/DSI-US-8/7.05-lesson-spark-ml) | 7.06 Pipelines & GridSearch in Spark |
+| Morning   | [Local Project/Hackathon](https://git.generalassemb.ly/DSI-US-8/Hackathon-Good-Fast-Cheap) | [7.01 SQL I](https://git.generalassemb.ly/DSI-US-8/7.01-lesson-sql) | [7.03 Introduction to Scala](https://git.generalassemb.ly/DSI-US-8/7.03-lesson-scala) | [7.05 Classification & Regression in Spark](https://git.generalassemb.ly/DSI-US-8/7.05-lesson-spark-ml) | [7.06 Pipelines & Cross Validation in Spark](https://git.generalassemb.ly/DSI-US-8/7.06-lesson-spark-pipelines) |
 | Afternoon | [Local Project/Hackathon](https://git.generalassemb.ly/DSI-US-8/Hackathon-Good-Fast-Cheap) | [7.02 SQL II](https://git.generalassemb.ly/DSI-US-8/7.01-lesson-sql) | [7.04 DataFrames in Spark](https://git.generalassemb.ly/DSI-US-8/7.04-lesson-dataframes) | Outcomes | Local Time |
 | Labs      |  | [7.01 SQL Lab](https://git.generalassemb.ly/DSI-US-8/7.01-lab-sql) |  | [7.02 Spark Model](https://git.generalassemb.ly/DSI-US-8/7.02-lab-spark-model) |  |
 | Deadlines | Week 6 Labs |  | [Capstone Check-In 1](https://git.generalassemb.ly/DSI-US-8/capstone/) |  | Quiz 4 |
