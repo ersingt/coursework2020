@@ -99,8 +99,8 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 9.01 Intro to Correlated Data | 9.03 ARIMA Modeling | 9.05 Spatial Data Analysis | 9.06 Benford's Law | [Project 5](https://git.generalassemb.ly/DSI-US-8/project-client_project) |
-| Afternoon | 9.02 Intro to Time Series/Autocorrelation | 9.04 Advanced Time Series Analysis | Project Work Time | Outcomes | Local Time |
+| Morning   | 9.01 Intro to Time Series | 9.03 ARIMA Models I | 9.05 VAR Models | 9.06 Benford's Law | [Project 5](https://git.generalassemb.ly/DSI-US-8/project-client_project) |
+| Afternoon | 9.02 Principles of Time Series Analysis | 9.04 ARIMA Models II | Project Work Time | Outcomes | Local Time |
 | Labs      | 9.01 Correlated Data Lab | 9.02 Time Series Lab |  |  |  |
 | Deadlines | Week 8 Labs |  | [Capstone Check-In 2](https://git.generalassemb.ly/DSI-US-8/capstone/) |  | [Project 5](https://git.generalassemb.ly/DSI-US-8/project-client_project) |
 
@@ -108,17 +108,23 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 10.01 Intro to Bayes | 10.03 PyMC & Bayesian Regression | 10.05 MCMC | 10.06 Bayesian Estimation & A/B Testing |  |
+| Morning   | 10.01 Intro to Bayes | 10.03 PyMC & Bayesian Regression | 10.05 MCMC | 10.06 Experimental Design | 10.07 A/B Testing |
 | Afternoon | 10.02 Bayesian Inference | 10.04 Conjugacy, Maximum Likelihood | Project Work Time | Outcomes | Local Time |
 | Labs      | 10.01 Bayes Practice | 10.02 Bayes Data |  |  |  |
 | Deadlines | Week 9 Labs |  |  |  |  |
+
+---
+
+### Everything below this point is subject to change.
+
+---
 
 #### Week 11 - Deep Learning (August 12 - August 16)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 11.01 Introduction to Neural Networks | 11.03 Deep Learning Regularization | 11.05 Recurrent Neural Networks |  | 11.07 Flask |
-| Afternoon | 11.02 Introduction to Keras | 11.04 Convolutional Neural Networks | 11.06 Introduction to TensorFlow | Outcomes | Local Time |
+| Morning   | 11.01 Introduction to Neural Networks | 11.03 Deep Learning Regularization | 11.05 Recurrent Neural Networks | 11.06 Introduction to TensorFlow | 11.07 Flask |
+| Afternoon | 11.02 Introduction to Keras | 11.04 Convolutional Neural Networks |  | Outcomes | Local Time |
 | Labs      | 11.01 Conceptual Neural Networks Lab | 11.02 Applied Neural Networks Lab |  |  |  |
 | Deadlines | Week 10 Labs & [Capstone Check-In 3](https://git.generalassemb.ly/DSI-US-8/capstone/) |  | Blog Post 5 |  | Quiz 6 |
 
@@ -126,7 +132,7 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time |
+| Morning   | 12.01 The Linux Environment & Shell Scripting | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time |
 | Afternoon | Local Flex Time | Local Flex Time | Local Flex Time | Outcomes | Local Flex Time |
 | Deadlines | Week 11 Labs | [Capstone Check-In 4](https://git.generalassemb.ly/DSI-US-8/capstone/) | Blog Post 6 |  |  |
 
