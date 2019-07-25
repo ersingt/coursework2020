@@ -90,7 +90,7 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [8.01 Intro to Clustering: K-Means](https://git.generalassemb.ly/DSI-US-8/8.01-lesson-intro-to-kmeans) | [8.03 PCA](https://git.generalassemb.ly/DSI-US-8/8.03-lesson-principal_component_analysis) | [8.05 Recommender Systems](https://git.generalassemb.ly/DSI-US-8/8.05-lesson-recommender-systems) | [8.06 Missing Data](https://git.generalassemb.ly/DSI-US-8/8.06-lesson-data_science_with_missing_data) | 8.07 Word Vectors |
+| Morning   | [8.01 Intro to Clustering: K-Means](https://git.generalassemb.ly/DSI-US-8/8.01-lesson-intro-to-kmeans) | [8.03 PCA](https://git.generalassemb.ly/DSI-US-8/8.03-lesson-principal_component_analysis) | [8.05 Recommender Systems](https://git.generalassemb.ly/DSI-US-8/8.05-lesson-recommender-systems) | [8.06 Missing Data](https://git.generalassemb.ly/DSI-US-8/8.06-lesson-data_science_with_missing_data) | [8.07 Word Vectors](https://git.generalassemb.ly/DSI-US-8/8.07-lesson-word_vectors) |
 | Afternoon | [8.02 DBSCAN Clustering](https://git.generalassemb.ly/DSI-US-8/8.02-lesson-dbscan) | [8.04 Transfer Learning](https://git.generalassemb.ly/DSI-US-8/8.04-lesson-transfer-learning) | Project Worktime | Outcomes | Local Time |
 | Labs      | [8.01 Clustering Lab](https://git.generalassemb.ly/DSI-US-8/8.01-lab-kmeans-isotopes) | [8.02 PCA Lab](https://git.generalassemb.ly/DSI-US-8/8.02-lab-principal_component_analysis) |  |  |  |
 | Deadlines | Week 7 Labs |  | Blog Post 4 |  | Quiz 5 |
