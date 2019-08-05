@@ -110,7 +110,7 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [10.01 Intro to Bayes](https://git.generalassemb.ly/DSI-US-8/10.01-lesson-intro-to-bayes) | 10.03 PyMC & Bayesian Regression | 10.05 MCMC | 10.06 Experimental Design | 10.07 A/B Testing |
 | Afternoon | 10.02 Bayesian Inference | 10.04 Conjugacy, Maximum Likelihood | Project Work Time | Outcomes | Local Time |
-| Labs      | 10.01 Bayes Practice | 10.02 Bayes Data |  |  |  |
+| Labs      | [10.01 Bayes Practice](https://git.generalassemb.ly/DSI-US-8/10.01-lab-bayes_practice) | 10.02 Bayes Data |  |  |  |
 | Deadlines | Week 9 Labs |  |  |  |  |
 
 ---
