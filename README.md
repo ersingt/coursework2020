@@ -109,7 +109,7 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [10.01 Intro to Bayes](https://git.generalassemb.ly/DSI-US-8/10.01-lesson-intro-to-bayes) | [10.03 PyMC & Bayesian Regression](https://git.generalassemb.ly/DSI-US-8/10.03-lesson-pymc-bayesian-regression) | [10.05 MCMC](https://git.generalassemb.ly/DSI-US-8/10.05-lesson-mcmc) | 10.06 Experimental Design | 10.07 A/B Testing |
-| Afternoon | [10.02 Bayesian Inference](https://git.generalassemb.ly/DSI-US-8/10.02-lesson-bayesian_inference) | 10.04 Conjugacy, Maximum Likelihood | Project Work Time | Outcomes | Local Time |
+| Afternoon | [10.02 Bayesian Inference](https://git.generalassemb.ly/DSI-US-8/10.02-lesson-bayesian_inference) | [10.04 Conjugacy, Maximum Likelihood](https://git.generalassemb.ly/DSI-US-8/10.04-lesson-bayes-conjugacy-mle) | Project Work Time | Outcomes | Local Time |
 | Labs      | [10.01 Bayes Practice](https://git.generalassemb.ly/DSI-US-8/10.01-lab-bayes_practice) | [10.02 Bayes Data](https://git.generalassemb.ly/DSI-US-8/10.02-lab-bayes-data) |  |  |  |
 | Deadlines | Week 9 Labs |  |  |  |  |
 
