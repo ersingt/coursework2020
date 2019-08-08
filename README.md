@@ -113,26 +113,26 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 | Labs      | [10.01 Bayes Practice](https://git.generalassemb.ly/DSI-US-8/10.01-lab-bayes_practice) | [10.02 Bayes Data](https://git.generalassemb.ly/DSI-US-8/10.02-lab-bayes-data) |  |  |  |
 | Deadlines | Week 9 Labs |  |  |  |  |
 
+#### Week 11 - Deep Learning (August 12 - August 16)
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | 11.01 Introduction to Neural Networks | 11.03 Deep Learning Regularization | 11.05 Recurrent Neural Networks | 11.06 Introduction to TensorFlow | Local Time |
+| Afternoon | [11.02 Introduction to Keras](https://git.generalassemb.ly/DSI-US-8/11.02-lesson-keras) | 11.04 Convolutional Neural Networks |  | Outcomes | Local Time |
+| Labs      | 11.01 Conceptual Neural Networks Lab | 11.02 Applied Neural Networks Lab |  |  |  |
+| Deadlines | Week 10 Labs & [Capstone Check-In 3](https://git.generalassemb.ly/DSI-US-8/capstone/) |  | Blog Post 5 |  | Quiz 6 |
+
 ---
 
 ### Everything below this point is subject to change.
 
 ---
 
-#### Week 11 - Deep Learning (August 12 - August 16)
-
-|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 11.01 Introduction to Neural Networks | 11.03 Deep Learning Regularization | 11.05 Recurrent Neural Networks | 11.06 Introduction to TensorFlow | 11.07 Flask |
-| Afternoon | [11.02 Introduction to Keras](https://git.generalassemb.ly/DSI-US-8/11.02-lesson-keras) | 11.04 Convolutional Neural Networks |  | Outcomes | Local Time |
-| Labs      | 11.01 Conceptual Neural Networks Lab | 11.02 Applied Neural Networks Lab |  |  |  |
-| Deadlines | Week 10 Labs & [Capstone Check-In 3](https://git.generalassemb.ly/DSI-US-8/capstone/) |  | Blog Post 5 |  | Quiz 6 |
-
 #### Week 12 - Flex Time & Capstones (August 19 - August 23)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 12.01 The Linux Environment & Shell Scripting | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time |
+| Morning   | 12.01 The Linux Environment & Shell Scripting | 12.02 Flask | Local Flex Time | Local Flex Time | Local Flex Time |
 | Afternoon | Local Flex Time | Local Flex Time | Local Flex Time | Outcomes | Local Flex Time |
 | Deadlines | Week 11 Labs | [Capstone Check-In 4](https://git.generalassemb.ly/DSI-US-8/capstone/) | Blog Post 6 |  |  |
 
