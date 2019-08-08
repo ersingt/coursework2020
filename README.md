@@ -124,7 +124,7 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 11.01 Introduction to Neural Networks | 11.03 Deep Learning Regularization | 11.05 Recurrent Neural Networks | 11.06 Introduction to TensorFlow | 11.07 Flask |
-| Afternoon | 11.02 Introduction to Keras | 11.04 Convolutional Neural Networks |  | Outcomes | Local Time |
+| Afternoon | [11.02 Introduction to Keras](https://git.generalassemb.ly/DSI-US-8/11.02-lesson-keras) | 11.04 Convolutional Neural Networks |  | Outcomes | Local Time |
 | Labs      | 11.01 Conceptual Neural Networks Lab | 11.02 Applied Neural Networks Lab |  |  |  |
 | Deadlines | Week 10 Labs & [Capstone Check-In 3](https://git.generalassemb.ly/DSI-US-8/capstone/) |  | Blog Post 5 |  | Quiz 6 |
 
