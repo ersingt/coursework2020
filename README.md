@@ -118,7 +118,7 @@ https://git.generalassemb.ly/DSI-US-8/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [11.01 Introduction to Neural Networks](https://git.generalassemb.ly/DSI-US-8/11.01-lesson-intro-to-neural-networks) | [11.03 Deep Learning Regularization](https://git.generalassemb.ly/DSI-US-8/11.03-lesson-regularizing-optimizing-nn) | [11.05 Recurrent Neural Networks](https://git.generalassemb.ly/DSI-US-8/11.05-lesson-rnn) | [11.06 Introduction to TensorFlow](https://git.generalassemb.ly/DSI-US-8/11.06-lesson-tensorflow) | Local Time |
-| Afternoon | [11.02 Introduction to Keras](https://git.generalassemb.ly/DSI-US-8/11.02-lesson-keras) | [11.04 Convolutional Neural Networks](https://git.generalassemb.ly/DSI-US-8/11.04-lesson-cnn) |  | Outcomes | Local Time |
+| Afternoon | [11.02 Introduction to Keras](https://git.generalassemb.ly/DSI-US-8/11.02-lesson-keras) | [11.04 Convolutional Neural Networks](https://git.generalassemb.ly/DSI-US-8/11.04-lesson-cnn) |  | [Outcomes: Technical Interview Prep](https://git.generalassemb.ly/DSI-US-8/outcomes-tech-interview-prep) | Local Time |
 | Labs      | [11.01 Conceptual Neural Networks Lab](https://git.generalassemb.ly/DSI-US-8/lab-neural_network_conceptual) | [11.02 Applied Neural Networks Lab](https://git.generalassemb.ly/DSI-US-8/11.02-lab-neural_network_applied) |  |  |  |
 | Deadlines | Week 10 Labs & [Capstone Check-In 3](https://git.generalassemb.ly/DSI-US-8/capstone/) |  | Blog Post 5 |  | Quiz 6 |
 
