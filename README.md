@@ -28,7 +28,7 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 |---------|------------|------------|------------|---------|---------|
 | Morning | 1.01 Datatypes | 1.03 FUNctions | 1.05 Probability | 1.07 Distributions - Continuous | 1.08 Ethics & Plagiarism |
 | Afternoon| 1.02 Control Flow | 1.04 List Comprehension | 1.06 Distributions - Discrete | Outcomes Programming | Local Time |
-| Labs | 1.01 Pokemon Lab | | 1.02 Distributions Lab | | |
+| Labs | 1.01 Pokemon Lab | | 1.02 Loot Boxes Lab | | |
 | Deadlines |  |  |  |  | Quiz 1 |
 
 #### Week 2 - Exploratory Data Analysis (September 16 - September 20)
@@ -62,8 +62,8 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 5.01 Intro to HTML | 5.03 Object-Oriented Programming | 5.05 NLP I | 5.07 Naive Bayes | 5.08 Regex |
-| Afternoon | 5.02 BeautifulSoup | 5.04 Introduction to AWS | 5.06 NLP II | Outcomes Programming | Local Time |
+| Morning   | 5.01 Intro to HTML | 5.03 NLP I | 5.05 Object-Oriented Programming | 5.07 Experimental Design | 5.08 A/B Testing |
+| Afternoon | 5.02 BeautifulSoup | 5.04 NLP II | 5.06 Introduction to AWS | Outcomes Programming | Local Time |
 | Labs | 5.01 Scraping Lab |  | 5.02 NLP Lab | | |
 | Deadlines | Week 4 Labs |  |  |  | Quiz 3 |
 
@@ -76,58 +76,68 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 | Labs | 6.01 Supervised Model Comparison | | | |
 | Deadlines | Week 5 Labs |  | Blog Post 3 |  | Project 3 Presentation |
 
-#### Week 7 - Correlated Data (October 21 - October 25)
+#### Week 7 - Big Data & Data Engineering (October 21 - October 25)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 7.01 Intro to Correlated Data | 7.03 ARIMA Modeling | 7.05 Spatial Data Analysis | 7.06 Network Analysis | 7.07 Benford's Law |
-| Afternoon | 7.02 Intro to Time Series/Autocorrelation | 7.04 Advanced Time Series Analysis | Project Work Time | Outcomes | Local Time |
-| Labs      | 7.01 Correlated Data Lab | 7.02 Time Series Lab |  |  |  |
+| Morning   | Project 4 (Hackathon) | 7.01 SQL I | 7.03 Introduction to Scala | 7.05 Classification & Regression in Spark | 7.06 Pipelines & GridSearch in Spark |
+| Afternoon | Project 4 (Hackathon) | 7.02 SQL II | 7.04 DataFrames in Spark | Outcomes | Local Time |
+| Labs      | | 7.01 SQL Lab |  | 7.02 Spark Model |  | 
 | Deadlines | Week 6 Labs |  | Capstone Check-In 1 |  | Quiz 4 |
+
 
 #### Week 8 - Unsupervised Learning (October 28 - November 1)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 8.01 Intro to Clustering: K-Means | 8.03 Clustering Walkthrough | 8.05 Recommender Systems | Project Work Time | 8.07 Word Vectors |
-| Afternoon | 8.02 DBSCAN Clustering | 8.04 PCA | 8.06 Missing Data | Outcomes | Local Time |
+| Morning   | 8.01 Intro to Clustering: K-Means | 8.03 PCA | 8.05 Recommender Systems | 8.06 Missing Data | 8.07 Word Vectors |
+| Afternoon | 8.02 DBSCAN Clustering | 8.04 Transfer Learning | Project Worktime | Outcomes | Local Time |
 | Labs      | 8.01 Clustering Lab | 8.02 PCA Lab |  |  |  |
 | Deadlines | Week 7 Labs |  | Blog Post 4 |  | Quiz 5 |
 
-#### Week 9 - Bayesian Statistics (November 4 - November 8)
+#### Week 9 - Time Series Analysis (November 4 - November 8)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 9.01 Intro to Bayes | 9.03 PyMC & Bayesian Regression | 9.05 MCMC | 9.06 Bayesian Estimation & A/B Testing | Project 4 |
-| Afternoon | 9.02 Bayesian Inference | 9.04 Conjugacy, Maximum Likelihood | Project Work Time | Outcomes | Local Time |
-| Labs      | 9.01 Bayes Practice | 9.02 Bayes Data |  |  |  |
-| Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | Project 4 |
+| Morning   | 9.01 Intro to Time Series | 9.03 ARIMA Models I | 9.05 VAR Models | 9.06 Benford's Law | Project 5 (Client) |
+| Afternoon | 9.02 Principles of Time Series Analysis | 9.04 ARIMA Models II | Project Work Time | Outcomes | Local Time |
+| Labs      | 9.01 Correlated Data Lab | 9.02 Time Series Data Lab |  |  |  |
+| Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | Project 5 (Client) |
 
-#### Week 10 - Deep Learning (November 11 - November 15)
-
-|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Project 5 (hackathon) | 10.01 Introduction to Neural Networks | 10.03 Deep Learning Regularization | 10.05 Recurrent Neural Networks | 10.06 Introduction to TensorFlow |
-| Afternoon | Project 5 (hackathon) | 10.02 Introduction to Keras | 10.04 Convolutional Neural Networks | Outcomes | Local Time |
-| Labs      |  | 10.01 Conceptual Neural Networks Lab | 10.02 Applied Neural Networks Lab |  |  |
-| Deadlines | Week 9 Labs & Project 5 |  |  |  |  |
-
-#### Week 11 - Big Data & Data Engineering (November 18 - November 22)
+#### Week 10 - Bayesian Statistics (November 11 - November 15)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 11.01 SQL I | 11.03 Introduction to Scala | 11.05 Classification & Regression in Spark | 11.07 The Linux Environment and Shell Scripting | Project Work Time |
-| Afternoon | 11.02 SQL II | 11.04 DataFrames in Spark | 11.06 Pipelines & GridSearch in Spark | Outcomes: Technical Interview | Local Time |
-| Labs      | 11.01 SQL Lab |  | 11.02 Spark Model |  |  |
-| Deadlines | Week 10 Labs & Capstone Check-In 3 |  | Blog Post 5 |  | Quiz 6 |
+| Morning   | No Class | 10.01 Intro to Bayes | 10.03 PyMC & Bayesian Regression | 10.04 Conjugacy & Maximum Likelihood | 10.05 MCMC |
+| Afternoon | No Class | 10.02 Bayesian Inference | Project Work Time | Outcomes | Local Time |
+| Labs      |  | 10.01 Bayes Practice | 10.02 Bayes Data |  |  | 
+| Deadlines |  | Week 9 Labs | Capstone Check-In 2 |  |  |
+
+#### Week 11 - Deep Learning (November 18 - November 22)
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | 11.01 Introduction to Neural Networks | 11.03 Deep Learning Regularization | 11.05 Recurrent Neural Networks | 11.06 Introduction to TensorFlow | Local Time |
+| Afternoon | 11.02 Introduction to Keras | 11.04 Convolutional Neural Networks | Project Work Time | Outcomes | Local Time |
+| Labs      |  | 11.01 Conceptual Neural Networks Lab | 11.02 Applied Neural Networks Lab |  |  |
+| Deadlines | Week 10 Labs |  | Blog Post 5 & Capstone Check-In 3 |  | Quiz 6 |
 
 #### Week 12 - Flex Time & Capstones (November 25 - November 29)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time | Capstone Presentations |
-| Afternoon | Local Flex Time | Local Flex Time | Local Flex Time | Outcomes | Graduation! |
-| Deadlines | Week 11 Labs | Capstone Check-In 4 | Blog Post 6 |  | Capstone Check-In 5 |
+| Morning   | The Linux Environment & Shell Scripting | Flask | No Class (Thanksgiving) | No Class (Thanksgiving) | No Class (Thanksgiving) |
+| Afternoon | Local Flex Time | Local Flex Time | No Class (Thanksgiving) | No Class (Thanksgiving) | No Class (Thanksgiving) |
+| Deadlines | Week 11 Labs | Capstone Check-In 4 |  |  |  |
+
+#### Week 13 - Flex Time & Capstones (November 25 - November 29)
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | Local Flex Time | Local Flex Time | Local Flex Time | Capstone Presentations | |
+| Afternoon | Local Flex Time | Local Flex Time | Local Flex Time | Graduation! | |
+| Deadlines | Blog Post 6 |  |  | Capstone Check-In 5 |  |
+
 
 #### Zoom
 
