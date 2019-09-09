@@ -58,6 +58,12 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 | Labs | 4.01 Classification Model Comparison | 4.02 Classification Model Evaluation | | | |
 | Deadlines | Week 3 Labs |  | Blog Post 2 |  | Project 2 |
 
+---
+
+### Everything below this point is subject to change.
+
+---
+
 #### Week 5 - Web Scraping, APIs and NLP (October 7 - October 11)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
