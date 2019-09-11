@@ -136,7 +136,7 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 | Afternoon | Local Flex Time | Local Flex Time | No Class (Thanksgiving) | No Class (Thanksgiving) | No Class (Thanksgiving) |
 | Deadlines | Week 11 Labs | Capstone Check-In 4 |  |  |  |
 
-#### Week 13 - Flex Time & Capstones (November 25 - November 29)
+#### Week 13 - Flex Time & Capstones (December 2 - December 5)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
