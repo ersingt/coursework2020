@@ -35,28 +35,10 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [2.01 Pandas: Intro 1 (Basics)](https://git.generalassemb.ly/DSI-US-9/2.01-2.02-intro-to-pandas) | 2.03 Principles of Data Visualization | 2.04 Exploratory Data Analysis (EDA) | 2.06 Hypothesis Testing | [Project 1 Due](https://git.generalassemb.ly/DSI-US-9/project_1) |
-| Afternoon | [2.02 Pandas: Intro 2 (Features and Plotting)](https://git.generalassemb.ly/DSI-US-9/2.01-2.02-intro-to-pandas) | 2.03 Principles of Data Visualization | 2.05 Central Limit Theorem and Confidence Intervals | Outcomes Programming | Local Time |
+| Morning   | [2.01 Pandas: Intro 1 (Basics)](https://git.generalassemb.ly/DSI-US-9/2.01-2.02-intro-to-pandas) | [2.03 Principles of Data Visualization](https://git.generalassemb.ly/DSI-US-9/2.03-lesson-principles_of_data_visualization) | 2.04 Exploratory Data Analysis (EDA) | 2.06 OOP | [Project 1 Due](https://git.generalassemb.ly/DSI-US-9/project_1) |
+| Afternoon | [2.02 Pandas: Intro 2 (Features and Plotting)](https://git.generalassemb.ly/DSI-US-9/2.01-2.02-intro-to-pandas) | [2.03 Principles of Data Visualization](https://git.generalassemb.ly/DSI-US-9/2.03-lesson-principles_of_data_visualization) | 2.05 Central Limit Theorem and Confidence Intervals | Outcomes Programming | Local Time |
 | Labs | [2.01 Titanic EDA](https://git.generalassemb.ly/DSI-US-9/2.01-lab-pandas-titanic) |  | 2.02 Pandas Concatenation |  | |
 | Deadlines | Week 1 Labs |  | Blog Post 1 |  | [Project 1](https://git.generalassemb.ly/DSI-US-9/project_1) |
-
-#### Week 3 - Regression (September 23 - September 27)
-
-|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 3.01 Linear Regression | 3.02 Regression Evaluation Metrics | 3.04 Train/Test Split + Cross Validation | 3.06 Regularization | 3.07 Model Workflow |
-| Afternoon | 3.01 Linear Regression | 3.03 Bias-Variance Tradeoff | 3.05 Feature Engineering | Outcomes Proramming | Local Time |
-| Labs | 3.01 Linear Regression Lab | | | 3.02 Regularization and Validation Lab | |
-| Deadlines | Week 2 Labs |  |  |  | Quiz 2 |
-
-#### Week 4 - Classification (September 30 - October 4)
-
-|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 4.01 Intro to Classification + Logistic Regression | 4.03 Classification Metrics I | 4.05 Hyperparameter Tuning and Pipelines | Project Work Time | Project 2 Due |
-| Afternoon | 4.02 k-Nearest Neighbors | 4.04 Classification Metrics II | 4.06 API Integration & Consumption | Outcomes Programming | Local Time |
-| Labs | 4.01 Classification Model Comparison | 4.02 Classification Model Evaluation | | | |
-| Deadlines | Week 3 Labs |  | Blog Post 2 |  | Project 2 |
 
 ---
 
@@ -64,11 +46,29 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 
 ---
 
+#### Week 3 - Regression (September 23 - September 27)
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | 3.01 Linear Regression | 3.02 Regression Evaluation Metrics | 3.04 Train/Test Split + Cross Validation | 3.06 Hypothesis Testing | 3.07 Model Workflow |
+| Afternoon | 3.01 Linear Regression | 3.03 Bias-Variance Tradeoff | 3.05 Feature Engineering | Outcomes Proramming | Local Time |
+| Labs | 3.01 Linear Regression Lab | | | 3.02 Validation Lab | |
+| Deadlines | Week 2 Labs |  |  |  | Quiz 2 |
+
+#### Week 4 - Classification (September 30 - October 4)
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | 4.01 Intro to Classification + Logistic Regression | 4.03 Classification Metrics I | 4.05 Regularization | Project Work Time | Project 2 Due |
+| Afternoon | 4.02 k-Nearest Neighbors | 4.04 Classification Metrics II | 4.06 Hyperparameter Tuning and Pipelines | Outcomes Programming | Local Time |
+| Labs | 4.01 Classification Model Comparison | 4.02 Classification Model Evaluation | | | |
+| Deadlines | Week 3 Labs |  | Blog Post 2 |  | Project 2 |
+
 #### Week 5 - Web Scraping, APIs and NLP (October 7 - October 11)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 5.01 Intro to HTML | 5.03 NLP I | 5.05 Object-Oriented Programming | 5.07 Experimental Design | 5.08 A/B Testing |
+| Morning   | 5.01 Intro to HTML | 5.03 NLP I | 5.05 API Integration & Consumption | 5.07 Experimental Design | 5.08 A/B Testing |
 | Afternoon | 5.02 BeautifulSoup | 5.04 NLP II | 5.06 Introduction to AWS | Outcomes Programming | Local Time |
 | Labs | 5.01 Scraping Lab |  | 5.02 NLP Lab | | |
 | Deadlines | Week 4 Labs |  |  |  | Quiz 3 |
