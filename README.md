@@ -36,7 +36,7 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [2.01 Pandas: Intro 1 (Basics)](https://git.generalassemb.ly/DSI-US-9/2.01-2.02-intro-to-pandas) | [2.03 Principles of Data Visualization](https://git.generalassemb.ly/DSI-US-9/2.03-lesson-principles_of_data_visualization) | [2.04 Exploratory Data Analysis (EDA)](https://git.generalassemb.ly/DSI-US-9/2.04-lesson-eda) | 2.06 OOP | [Project 1 Due](https://git.generalassemb.ly/DSI-US-9/project_1) |
-| Afternoon | [2.02 Pandas: Intro 2 (Features and Plotting)](https://git.generalassemb.ly/DSI-US-9/2.01-2.02-intro-to-pandas) | [2.03 Principles of Data Visualization](https://git.generalassemb.ly/DSI-US-9/2.03-lesson-principles_of_data_visualization) | 2.05 Central Limit Theorem and Confidence Intervals | Outcomes Programming | Local Time |
+| Afternoon | [2.02 Pandas: Intro 2 (Features and Plotting)](https://git.generalassemb.ly/DSI-US-9/2.01-2.02-intro-to-pandas) | [2.03 Principles of Data Visualization](https://git.generalassemb.ly/DSI-US-9/2.03-lesson-principles_of_data_visualization) | [2.05 Central Limit Theorem and Confidence Intervals](https://git.generalassemb.ly/DSI-US-9/2.05-lesson-statistical_inference_confidence_intervals) | Outcomes Programming | Local Time |
 | Labs | [2.01 Titanic EDA](https://git.generalassemb.ly/DSI-US-9/2.01-lab-pandas-titanic) |  | [2.02 Pandas Concatenation](https://git.generalassemb.ly/DSI-US-9/2.02-lab-pandas-concat) |  | |
 | Deadlines | Week 1 Labs |  | Blog Post 1 |  | [Project 1](https://git.generalassemb.ly/DSI-US-9/project_1) |
 
