@@ -59,10 +59,10 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 4.01 Intro to Classification + Logistic Regression | 4.03 Classification Metrics I | 4.05 Regularization | Project Work Time | Project 2 Due |
+| Morning   | 4.01 Intro to Classification + Logistic Regression | 4.03 Classification Metrics I | 4.05 Regularization | Project Work Time | [Project 2 Due](https://git.generalassemb.ly/DSI-US-9/project_2) |
 | Afternoon | 4.02 k-Nearest Neighbors | 4.04 Classification Metrics II | 4.06 Hyperparameter Tuning and Pipelines | Outcomes Programming | Local Time |
 | Labs | 4.01 Classification Model Comparison | 4.02 Classification Model Evaluation | | | |
-| Deadlines | Week 3 Labs |  | Blog Post 2 |  | Project 2 |
+| Deadlines | Week 3 Labs |  | Blog Post 2 |  | [Project 2](https://git.generalassemb.ly/DSI-US-9/project_2) |
 
 #### Week 5 - Web Scraping, APIs and NLP (October 7 - October 11)
 
