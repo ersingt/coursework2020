@@ -40,12 +40,6 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 | Labs | [2.01 Titanic EDA](https://git.generalassemb.ly/DSI-US-9/2.01-lab-pandas-titanic) |  | [2.02 Pandas Concatenation](https://git.generalassemb.ly/DSI-US-9/2.02-lab-pandas-concat) |  | |
 | Deadlines | Week 1 Labs |  | Blog Post 1 |  | [Project 1](https://git.generalassemb.ly/DSI-US-9/project_1) |
 
----
-
-### Everything below this point is subject to change.
-
----
-
 #### Week 3 - Regression (September 23 - September 27)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
@@ -63,6 +57,12 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 | Afternoon | 4.02 k-Nearest Neighbors | 4.04 Classification Metrics II | 4.06 Hyperparameter Tuning and Pipelines | Outcomes Programming | Local Time |
 | Labs | 4.01 Classification Model Comparison | 4.02 Classification Model Evaluation | | | |
 | Deadlines | Week 3 Labs |  | Blog Post 2 |  | [Project 2](https://git.generalassemb.ly/DSI-US-9/project_2) |
+
+---
+
+### Everything below this point is subject to change.
+
+---
 
 #### Week 5 - Web Scraping, APIs and NLP (October 7 - October 11)
 
