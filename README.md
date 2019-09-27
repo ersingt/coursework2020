@@ -58,20 +58,20 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 | Labs | 4.01 Classification Model Comparison | 4.02 Classification Model Evaluation | | | |
 | Deadlines | Week 3 Labs |  | Blog Post 2 |  | [Project 2](https://git.generalassemb.ly/DSI-US-9/project_2) |
 
+#### Week 5 - Web Scraping, APIs and NLP (October 7 - October 11)
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | 5.01 Intro to HTML | 5.03 API Integration & Consumption | 5.05 NLP I | 5.07 Experimental Design | 5.08 A/B Testing |
+| Afternoon | 5.02 BeautifulSoup | 5.04 Introduction to AWS | 5.06 NLP II | Outcomes Programming | Local Time |
+| Labs | 5.01 Scraping Lab |  | 5.02 NLP Lab | | |
+| Deadlines | Week 4 Labs |  |  |  | Quiz 3 |
+
 ---
 
 ### Everything below this point is subject to change.
 
 ---
-
-#### Week 5 - Web Scraping, APIs and NLP (October 7 - October 11)
-
-|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 5.01 Intro to HTML | 5.03 NLP I | 5.05 API Integration & Consumption | 5.07 Experimental Design | 5.08 A/B Testing |
-| Afternoon | 5.02 BeautifulSoup | 5.04 NLP II | 5.06 Introduction to AWS | Outcomes Programming | Local Time |
-| Labs | 5.01 Scraping Lab |  | 5.02 NLP Lab | | |
-| Deadlines | Week 4 Labs |  |  |  | Quiz 3 |
 
 #### Week 6 - Advanced Supervised Learning (October 14 - October 18)
 
