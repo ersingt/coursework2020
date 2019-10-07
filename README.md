@@ -64,7 +64,7 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [5.01 Intro to HTML](https://git.generalassemb.ly/DSI-US-9/5.01-lesson-html-css) | 5.03 API Integration & Consumption | 5.05 NLP I | 5.07 Experimental Design | 5.08 A/B Testing |
 | Afternoon | [5.02 BeautifulSoup](https://git.generalassemb.ly/DSI-US-9/5.02-lesson-webscraping) | 5.04 Introduction to AWS | 5.06 NLP II | Outcomes Programming | Local Time |
-| Labs | 5.01 Scraping Lab |  | 5.02 NLP Lab | | |
+| Labs | [5.01 Scraping Lab](https://git.generalassemb.ly/DSI-US-9/5.01-lab-webscraping) |  | [5.02 NLP Lab](https://git.generalassemb.ly/DSI-US-9/5.02-lab-nlp-naive-bayes) | | |
 | Deadlines | Week 4 Labs |  |  |  | Quiz 3 |
 
 ---
