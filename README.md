@@ -63,7 +63,7 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [5.01 Intro to HTML](https://git.generalassemb.ly/DSI-US-9/5.01-lesson-html-css) | [5.03 API Integration & Consumption](https://git.generalassemb.ly/DSI-US-9/5.03-lesson-apis) | [5.05 NLP I](https://git.generalassemb.ly/DSI-US-9/5.05-lesson-nlp_i) | [5.07 Experimental Design](https://git.generalassemb.ly/DSI-US-9/5.07-5.08-lesson-experimental-design-ab-testing) | [5.08 A/B Testing](https://git.generalassemb.ly/DSI-US-9/5.07-5.08-lesson-experimental-design-ab-testing) |
-| Afternoon | [5.02 BeautifulSoup](https://git.generalassemb.ly/DSI-US-9/5.02-lesson-webscraping) | [5.04 Introduction to AWS](https://git.generalassemb.ly/DSI-US-9/5.04-lesson-intro-to-aws) | [5.06 NLP II](https://git.generalassemb.ly/DSI-US-9/5.06-lesson-nlp_ii) | Outcomes Programming | [Local Time: Zach Morris Guest Speaker] |
+| Afternoon | [5.02 BeautifulSoup](https://git.generalassemb.ly/DSI-US-9/5.02-lesson-webscraping) | [5.04 Introduction to AWS](https://git.generalassemb.ly/DSI-US-9/5.04-lesson-intro-to-aws) | [5.06 NLP II](https://git.generalassemb.ly/DSI-US-9/5.06-lesson-nlp_ii) | Outcomes Programming | [Local Time: Zach Morris Guest Speaker](https://git.generalassemb.ly/DSI-US-9/guest-speaker-zmorris-tableau) |
 | Labs | [5.01 Scraping Lab](https://git.generalassemb.ly/DSI-US-9/5.01-lab-webscraping) |  | [5.02 NLP Lab](https://git.generalassemb.ly/DSI-US-9/5.02-lab-nlp-naive-bayes) | | |
 | Deadlines | Week 4 Labs |  |  |  | Quiz 3 |
 
