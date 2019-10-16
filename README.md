@@ -76,29 +76,28 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 | Labs | [6.01 Supervised Model Comparison](https://git.generalassemb.ly/DSI-US-9/6.01-lab-supervised-learning-models) | | | |
 | Deadlines | Week 5 Labs |  | Blog Post 3 |  | [Project 3 Presentation](https://git.generalassemb.ly/DSI-US-9/project_3) |
 
+#### Week 7 - Unsupervised Learning (October 21 - October 25)
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | Project 4 (Hackathon) | 7.01 Intro to Clustering: K-Means | 7.03 PCA | 7.05 Missing Data | 7.06 Word Vectors |
+| Afternoon | Project 4 (Hackathon) | 7.02 DBSCAN Clustering | 7.04 Transfer Learning | Outcomes | Local Time |
+| Labs      | | 7.01 Clustering Lab | 7.02 PCA Lab |  |  | 
+| Deadlines |  | Week 6 Labs | Capstone Check-In 1 |  | Quiz 4 |
+
 ---
 
 ### Everything below this point is subject to change.
 
 ---
 
-#### Week 7 - Big Data & Data Engineering (October 21 - October 25)
+#### Week 8 - Big Data & Data Engineering (October 28 - November 1)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Project 4 (Hackathon) | 7.01 SQL I | 7.03 Introduction to Scala | 7.05 Classification & Regression in Spark | 7.06 Pipelines & GridSearch in Spark |
-| Afternoon | Project 4 (Hackathon) | 7.02 SQL II | 7.04 DataFrames in Spark | Outcomes | Local Time |
-| Labs      | | 7.01 SQL Lab |  | 7.02 Spark Model |  | 
-| Deadlines | Week 6 Labs |  | Capstone Check-In 1 |  | Quiz 4 |
-
-
-#### Week 8 - Unsupervised Learning (October 28 - November 1)
-
-|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 8.01 Intro to Clustering: K-Means | 8.03 PCA | 8.05 Recommender Systems | 8.06 Missing Data | 8.07 Word Vectors |
-| Afternoon | 8.02 DBSCAN Clustering | 8.04 Transfer Learning | Project Worktime | Outcomes | Local Time |
-| Labs      | 8.01 Clustering Lab | 8.02 PCA Lab |  |  |  |
+| Morning   | 8.01 SQL I | 8.03 Introduction to Scala | 8.05 Classification & Regression in Spark | 8.07 Recomender Systems | Project Worktime |
+| Afternoon | 8.02 SQL II | 8.04 DataFrames in Spark | 8.06 Pipelines & GridSearch in Spark | Outcomes | Local Time |
+| Labs      | 8.01 SQL Lab | 8.02 Spark Model |  |  |
 | Deadlines | Week 7 Labs |  | Blog Post 4 |  | Quiz 5 |
 
 #### Week 9 - Time Series Analysis (November 4 - November 8)
