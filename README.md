@@ -82,7 +82,7 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [Project 4 (Hackathon)](https://git.generalassemb.ly/DSI-US-9/Hackathon-Good-Fast-Cheap) | 7.01 Intro to Clustering: K-Means | 7.03 PCA | 7.05 Missing Data | 7.06 Word Vectors |
 | Afternoon | [Project 4 (Hackathon)](https://git.generalassemb.ly/DSI-US-9/Hackathon-Good-Fast-Cheap) | 7.02 DBSCAN Clustering | 7.04 Transfer Learning | Outcomes | Local Time |
-| Labs      | | 7.01 Clustering Lab | 7.02 PCA Lab |  |  | 
+| Labs      | | [7.01 Clustering Lab](https://git.generalassemb.ly/DSI-US-9/7.01-lab-kmeans-isotopes) | [7.02 PCA Lab](https://git.generalassemb.ly/DSI-US-9/7.02-lab-principal-component-analysis) |  |  | 
 | Deadlines |  | Week 6 Labs | Capstone Check-In 1 |  | Quiz 4 |
 
 ---
