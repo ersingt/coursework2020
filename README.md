@@ -80,7 +80,7 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [Project 4 (Hackathon)](https://git.generalassemb.ly/DSI-US-9/Hackathon-Good-Fast-Cheap) | [7.01 Intro to Clustering: K-Means](https://git.generalassemb.ly/DSI-US-9/7.01-lesson-intro-to-kmeans) | [7.03 PCA](https://git.generalassemb.ly/DSI-US-9/7.03-lesson-principal_component_analysis) | 7.05 Missing Data | [7.06 Word Vectors](https://git.generalassemb.ly/DSI-US-9/7.06-lesson-word_vectors) |
+| Morning   | [Project 4 (Hackathon)](https://git.generalassemb.ly/DSI-US-9/Hackathon-Good-Fast-Cheap) | [7.01 Intro to Clustering: K-Means](https://git.generalassemb.ly/DSI-US-9/7.01-lesson-intro-to-kmeans) | [7.03 PCA](https://git.generalassemb.ly/DSI-US-9/7.03-lesson-principal_component_analysis) | [7.05 Missing Data](https://git.generalassemb.ly/DSI-US-9/7.05-lesson-data_science_with_missing_data) | [7.06 Word Vectors](https://git.generalassemb.ly/DSI-US-9/7.06-lesson-word_vectors) |
 | Afternoon | [Project 4 (Hackathon)](https://git.generalassemb.ly/DSI-US-9/Hackathon-Good-Fast-Cheap) | [7.02 DBSCAN Clustering](https://git.generalassemb.ly/DSI-US-9/7.02-lesson-dbscan) | [7.04 Transfer Learning](https://git.generalassemb.ly/DSI-US-9/7.04-lesson-transfer-learning) | Outcomes | Local Time |
 | Labs      | | [7.01 Clustering Lab](https://git.generalassemb.ly/DSI-US-9/7.01-lab-kmeans-isotopes) | [7.02 PCA Lab](https://git.generalassemb.ly/DSI-US-9/7.02-lab-principal-component-analysis) |  |  | 
 | Deadlines |  | Week 6 Labs | Capstone Check-In 1 |  | Quiz 4 |
