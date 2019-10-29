@@ -89,7 +89,7 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [8.01 SQL I](https://git.generalassemb.ly/DSI-US-9/8.01-lesson-sql) | [8.03 Introduction to Scala](https://git.generalassemb.ly/DSI-US-9/8.03-lesson-scala) | 8.05 Classification & Regression in Spark | 8.07 Recomender Systems | Project Worktime |
+| Morning   | [8.01 SQL I](https://git.generalassemb.ly/DSI-US-9/8.01-lesson-sql) | [8.03 Introduction to Scala](https://git.generalassemb.ly/DSI-US-9/8.03-lesson-scala) | [8.05 Classification & Regression in Spark](https://git.generalassemb.ly/DSI-US-9/8.05-lesson-spark-ml) | 8.07 Recomender Systems | Project Worktime |
 | Afternoon | [8.02 SQL II](https://git.generalassemb.ly/DSI-US-9/8.01-lesson-sql) | [8.04 DataFrames in Spark](https://git.generalassemb.ly/DSI-US-9/8.04-lesson-dataframes) | 8.06 Pipelines & GridSearch in Spark | Outcomes | Local Time |
 | Labs      | [8.01 SQL Lab](https://git.generalassemb.ly/DSI-US-9/8.01-lab-sql) | 8.02 Spark Model |  |  |
 | Deadlines | Week 7 Labs |  | Blog Post 4 |  | Quiz 5 |
