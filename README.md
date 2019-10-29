@@ -85,12 +85,6 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 | Labs      | | [7.01 Clustering Lab](https://git.generalassemb.ly/DSI-US-9/7.01-lab-kmeans-isotopes) | [7.02 PCA Lab](https://git.generalassemb.ly/DSI-US-9/7.02-lab-principal-component-analysis) |  |  | 
 | Deadlines |  | Week 6 Labs | Capstone Check-In 1 |  | Quiz 4 |
 
----
-
-### Everything below this point is subject to change.
-
----
-
 #### Week 8 - Big Data & Data Engineering (October 28 - November 1)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
@@ -99,6 +93,13 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 | Afternoon | [8.02 SQL II](https://git.generalassemb.ly/DSI-US-9/8.01-lesson-sql) | [8.04 DataFrames in Spark](https://git.generalassemb.ly/DSI-US-9/8.04-lesson-dataframes) | 8.06 Pipelines & GridSearch in Spark | Outcomes | Local Time |
 | Labs      | [8.01 SQL Lab](https://git.generalassemb.ly/DSI-US-9/8.01-lab-sql) | 8.02 Spark Model |  |  |
 | Deadlines | Week 7 Labs |  | Blog Post 4 |  | Quiz 5 |
+
+---
+
+### Everything below this point is subject to change.
+
+---
+
 
 #### Week 9 - Time Series Analysis (November 4 - November 8)
 
