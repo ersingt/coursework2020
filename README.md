@@ -94,13 +94,6 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 | Labs      | [8.01 SQL Lab](https://git.generalassemb.ly/DSI-US-9/8.01-lab-sql) |  | [8.02 Spark Model](https://git.generalassemb.ly/DSI-US-9/8.02-lab-spark-model) |  |
 | Deadlines | Week 7 Labs |  | Blog Post 4 |  | Quiz 5 |
 
----
-
-### Everything below this point is subject to change.
-
----
-
-
 #### Week 9 - Time Series Analysis (November 4 - November 8)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
@@ -108,7 +101,14 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 | Morning   | 9.01 Intro to Time Series | 9.03 ARIMA Models I | 9.05 VAR Models | 9.06 Benford's Law | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-9/project-client_project) |
 | Afternoon | 9.02 Principles of Time Series Analysis | 9.04 ARIMA Models II | Project Work Time | Outcomes | Local Time |
 | Labs      | 9.01 Correlated Data Lab | 9.02 Time Series Data Lab |  |  |  |
-| Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-9/project-client_project) |
+| Deadlines | Week 8 Labs |  | [Capstone Check-In 2](https://git.generalassemb.ly/DSI-US-9/capstone/tree/master/part_02) |  | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-9/project-client_project) |
+
+---
+
+### Everything below this point is subject to change.
+
+---
+
 
 #### Week 10 - Bayesian Statistics (November 11 - November 15)
 
@@ -117,7 +117,7 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 | Morning   | No Class | 10.01 Intro to Bayes | 10.03 PyMC & Bayesian Regression | 10.04 Conjugacy & Maximum Likelihood | 10.05 MCMC |
 | Afternoon | No Class | 10.02 Bayesian Inference | Project Work Time | Outcomes | Local Time |
 | Labs      |  | 10.01 Bayes Practice | 10.02 Bayes Data |  |  | 
-| Deadlines |  | Week 9 Labs | Capstone Check-In 2 |  |  |
+| Deadlines |  | Week 9 Labs |  |  |  |
 
 #### Week 11 - Deep Learning (November 18 - November 22)
 
