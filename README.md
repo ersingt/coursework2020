@@ -98,8 +98,8 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [9.01 Intro to Time Series](https://git.generalassemb.ly/DSI-US-9/9.01-lesson-timeseries) | 9.03 ARIMA Models I | 9.05 VAR Models | 9.06 Benford's Law | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-9/project-client_project) |
-| Afternoon | [9.02 Principles of Time Series Analysis](https://git.generalassemb.ly/DSI-US-9/9.02-lesson-principles_of_time_series) | 9.04 ARIMA Models II | Project Work Time | Outcomes | Local Time |
+| Morning   | [9.01 Intro to Time Series](https://git.generalassemb.ly/DSI-US-9/9.01-lesson-timeseries) | [9.03 ARIMA Models I](https://git.generalassemb.ly/DSI-US-9/9.03-9.04-lesson-ARIMA) | 9.05 VAR Models | 9.06 Benford's Law | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-9/project-client_project) |
+| Afternoon | [9.02 Principles of Time Series Analysis](https://git.generalassemb.ly/DSI-US-9/9.02-lesson-principles_of_time_series) | [9.04 ARIMA Models II](https://git.generalassemb.ly/DSI-US-9/9.03-9.04-lesson-ARIMA) | Project Work Time | Outcomes | Local Time |
 | Labs      | [9.01 Correlated Data Lab](https://git.generalassemb.ly/DSI-US-9/9.01-lab-correlated-data) | [9.02 Time Series Data Lab](https://git.generalassemb.ly/DSI-US-9/9.02-lab-time-series-arima) |  |  |  |
 | Deadlines | Week 8 Labs |  | [Capstone Check-In 2](https://git.generalassemb.ly/DSI-US-9/capstone/tree/master/part_02) |  | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-9/project-client_project) |
 
