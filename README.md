@@ -103,18 +103,11 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 | Labs      | [9.01 Correlated Data Lab](https://git.generalassemb.ly/DSI-US-9/9.01-lab-correlated-data) | [9.02 Time Series Data Lab](https://git.generalassemb.ly/DSI-US-9/9.02-lab-time-series-arima) |  |  |  |
 | Deadlines | Week 8 Labs |  | [Capstone Check-In 2](https://git.generalassemb.ly/DSI-US-9/capstone/tree/master/part_02) |  | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-9/project-client_project) |
 
----
-
-### Everything below this point is subject to change.
-
----
-
-
 #### Week 10 - Bayesian Statistics (November 11 - November 15)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | No Class | 10.01 Intro to Bayes | 10.03 PyMC & Bayesian Regression | 10.04 Conjugacy & Maximum Likelihood | 10.05 MCMC |
+| Morning   | No Class | 10.01 Intro to Bayes | 10.03 MCMC | 10.04 PyMC & Bayesian Regression | 10.05 Conjugacy & Maximum Likelihood |
 | Afternoon | No Class | 10.02 Bayesian Inference | Project Work Time | Outcomes | Local Time |
 | Labs      |  | 10.01 Bayes Practice | 10.02 Bayes Data |  |  | 
 | Deadlines |  | Week 9 Labs |  |  |  |
@@ -127,6 +120,12 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 | Afternoon | 11.02 Introduction to Keras | 11.04 Convolutional Neural Networks | Project Work Time | Outcomes | Local Time |
 | Labs     | 11.01 Conceptual Neural Networks Lab | 11.02 Applied Neural Networks Lab |  |  |  |
 | Deadlines | Week 10 Labs |  | Blog Post 5 & Capstone Check-In 3 |  | Quiz 6 |
+
+---
+
+### Everything below this point is subject to change.
+
+---
 
 #### Week 12 - Flex Time & Capstones (November 25 - November 29)
 
