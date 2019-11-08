@@ -92,7 +92,7 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 | Morning   | [8.01 SQL I](https://git.generalassemb.ly/DSI-US-9/8.01-lesson-sql) | [8.03 Introduction to Scala](https://git.generalassemb.ly/DSI-US-9/8.03-lesson-scala) | [8.05 Classification & Regression in Spark](https://git.generalassemb.ly/DSI-US-9/8.05-lesson-spark-ml) | [8.07 Recomender Systems](https://git.generalassemb.ly/DSI-US-9/8.07-lesson-recommender-systems) | Project Worktime |
 | Afternoon | [8.02 SQL II](https://git.generalassemb.ly/DSI-US-9/8.01-lesson-sql) | [8.04 DataFrames in Spark](https://git.generalassemb.ly/DSI-US-9/8.04-lesson-dataframes) | [8.06 Pipelines & GridSearch in Spark](https://git.generalassemb.ly/DSI-US-9/8.06-lesson-spark-pipelines) | Outcomes | Local Time |
 | Labs      | [8.01 SQL Lab](https://git.generalassemb.ly/DSI-US-9/8.01-lab-sql) |  | [8.02 Spark Model](https://git.generalassemb.ly/DSI-US-9/8.02-lab-spark-model) |  |
-| Deadlines | Week 7 Labs |  | Blog Post 4 |  | Quiz 5 |
+| Deadlines | Week 7 Labs |  | Blog Post 4 |  |  |
 
 #### Week 9 - Time Series Analysis (November 4 - November 8)
 
@@ -110,7 +110,7 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 | Morning   | No Class | 10.01 Intro to Bayes | 10.03 MCMC | 10.04 PyMC & Bayesian Regression | 10.05 Conjugacy & Maximum Likelihood |
 | Afternoon | No Class | 10.02 Bayesian Inference | Project Work Time | Outcomes | Local Time |
 | Labs      |  | 10.01 Bayes Practice | 10.02 Bayes Data |  |  | 
-| Deadlines |  | Week 9 Labs |  |  |  |
+| Deadlines |  | Week 9 Labs |  |  | Quiz 5 |
 
 #### Week 11 - Deep Learning (November 18 - November 22)
 
