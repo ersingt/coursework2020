@@ -108,7 +108,7 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | No Class | [10.01 Intro to Bayes](https://git.generalassemb.ly/DSI-US-9/10.01-lesson-intro-to-bayes) | 10.03 MCMC | 10.04 PyMC & Bayesian Regression | 10.05 Conjugacy & Maximum Likelihood |
-| Afternoon | No Class | 10.02 Bayesian Inference | Project Work Time | Outcomes | Local Time |
+| Afternoon | No Class | [10.02 Bayesian Inference](https://git.generalassemb.ly/DSI-US-9/10.02-lesson-bayesian_inference) | Project Work Time | Outcomes | Local Time |
 | Labs      |  | [10.01 Bayes Practice](https://git.generalassemb.ly/DSI-US-9/10.01-lab-bayes-practice) | [10.02 Bayes Data](https://git.generalassemb.ly/DSI-US-9/10.02-lab-bayes-data) |  |  | 
 | Deadlines |  | Week 9 Labs |  |  | Quiz 5 |
 
