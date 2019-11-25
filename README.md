@@ -125,7 +125,7 @@ https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | The Linux Environment & Shell Scripting | Flask | No Class (Thanksgiving) | No Class (Thanksgiving) | No Class (Thanksgiving) |
+| Morning   | [The Linux Environment & Shell Scripting](https://git.generalassemb.ly/DSI-US-9/12.01-linux-and-automation) | Flask | No Class (Thanksgiving) | No Class (Thanksgiving) | No Class (Thanksgiving) |
 | Afternoon | Local Flex Time | Local Flex Time | No Class (Thanksgiving) | No Class (Thanksgiving) | No Class (Thanksgiving) |
 | Deadlines | Week 11 Labs | Capstone Check-In 4 |  |  |  |
 
