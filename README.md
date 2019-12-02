@@ -2,11 +2,11 @@
 
 #### Capstone Guidelines & Schedule
 
-https://git.generalassemb.ly/DSI-US-9/capstone
+https://git.generalassemb.ly/DSI-US-10/capstone
 
 #### Graduation Requirements
 
-https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Graduation-Requirements
+https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Graduation-Requirements
 
 #### Lesson Recordings
 
@@ -14,7 +14,7 @@ https://www.youtube.com/playlist?list=PLYGvOQTnahYKg8E0u1vg_n30Jxo379mRv
 
 #### Instructor and TA Appointment Sign-Ups
 
-https://git.generalassemb.ly/DSI-US-9/course-info/wiki/Office-Hours
+https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 
 #### Outcomes Materials
 
