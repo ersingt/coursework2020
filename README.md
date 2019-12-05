@@ -22,25 +22,42 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 
 # ![GA Logo](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67) Schedule
 
-#### Week 1 - Getting Started: Python for Data Science (September 9 - September 13)
+#### Week 1 - Getting Started: Python for Data Science (December 9 - December 13)
 
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
-| Morning | 1.01 Datatypes | 1.03 FUNctions | 1.05 Probability | 1.07 Distributions - Continuous | 1.08 Ethics & Plagiarism |
-| Afternoon| 1.02 Control Flow | 1.04 List Comprehension | 1.06 Distributions - Discrete | Outcomes Programming | Local Time |
-| Labs | 1.01 Pokemon Lab | | 1.02 Loot Boxes Lab | | |
+| Morning | 1.01 Git | 1.03 Datatypes | 1.05 FUNctions | 1.07 Distributions - Discrete | 1.08 Distributions - Continuous |
+| Afternoon | 1.02 Command Line | 1.04 Control Flow | 1.06 Probability | Outcomes Programming | Local Time |
+| Labs |  | 1.01 Pokemon Lab |  | 1.02 Loot Boxes Lab |  |
 | Deadlines |  |  |  |  | Quiz 1 |
 
-#### Week 2 - Exploratory Data Analysis (September 16 - September 20)
+#### Week 2 - Exploratory Data Analysis (December 16 - December 20)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 2.01 Pandas: Intro 1 (Basics) | 2.03 Principles of Data Visualization | 2.04 Exploratory Data Analysis (EDA) | 2.06 Object-Oriented Programming (OOP) | Project 1 Due |
-| Afternoon | 2.02 Pandas: Intro 2 (Features and Plotting) | 2.03 Principles of Data Visualization | 2.05 Central Limit Theorem and Confidence Intervals | Outcomes Programming | Local Time |
-| Labs | 2.01 Titanic EDA |  | 2.02 Pandas Concatenation |  | |
+| Morning   | 2.01 Pandas: Intro 1 (Basics) | 2.03 Principles of Data Visualization | 2.04 Exploratory Data Analysis (EDA) | 2.05 List Comprehensions | Project 1 Due |
+| Afternoon | 2.02 Pandas: Intro 2 (Features and Plotting) | 2.03 Principles of Data Visualization | Project Worktime | Outcomes Programming | Local Time |
+| Labs | 2.01 Titanic EDA |  | 2.02 Pandas Concatenation |  |  |
 | Deadlines | Week 1 Labs |  | Blog Post 1 |  | Project 1 |
 
-#### Week 3 - Regression (September 23 - September 27)
+#### HOLIDAY BREAK WEEK - (December 23 - December 27)
+
+#### Week 2+ (December 30 - January 3)
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | NO CLASS | NO CLASS | NO CLASS | 2.06 Central Limit Theorem and Confidence Intervals | 2.08 Ethics & Plagiarism |
+| Afternoon   | NO CLASS | NO CLASS | NO CLASS | 2.07 Object-Oriented Programming (OOP) | Local Time |
+| Labs |  |  |  |  |  |
+| Deadlines |  |  |  |  |  |
+
+---
+
+### Everything below this point is subject to change.
+
+---
+
+#### Week 3 - Regression (January 6 - January 10)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -49,7 +66,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 | Labs | 3.01 Linear Regression Lab | | | 3.02 Validation Lab | |
 | Deadlines | Week 2 Labs |  |  |  | Quiz 2 |
 
-#### Week 4 - Classification (September 30 - October 4)
+#### Week 4 - Classification (January 13 - January 17)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -58,7 +75,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 | Labs | 4.01 Classification Model Comparison | 4.02 Classification Model Evaluation | | | |
 | Deadlines | Week 3 Labs |  | Blog Post 2 |  | Project 2 |
 
-#### Week 5 - Web Scraping, APIs and NLP (October 7 - October 11)
+#### Week 5 - Web Scraping, APIs and NLP (January 20 - January 24)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -67,7 +84,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 | Labs | 5.01 Scraping Lab |  | 5.02 NLP Lab | | |
 | Deadlines | Week 4 Labs |  |  |  | Quiz 3 |
 
-#### Week 6 - Advanced Supervised Learning (October 14 - October 18)
+#### Week 6 - Advanced Supervised Learning (January 27 - January 31)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -76,7 +93,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 | Labs | 6.01 Supervised Model Comparison | | | |
 | Deadlines | Week 5 Labs |  | Blog Post 3 |  | Project 3 Presentation |
 
-#### Week 7 - Unsupervised Learning (October 21 - October 25)
+#### Week 7 - Unsupervised Learning (February 3 - February 7)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -85,7 +102,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 | Labs      | | 7.01 Clustering Lab | 7.02 PCA Lab |  |  | 
 | Deadlines |  | Week 6 Labs | Capstone Check-In 1 |  | Quiz 4 |
 
-#### Week 8 - Big Data & Data Engineering (October 28 - November 1)
+#### Week 8 - Big Data & Data Engineering (February 10 - February 14)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -94,7 +111,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 | Labs      | 8.01 SQL Lab |  | 8.02 Spark Model |  |
 | Deadlines | Week 7 Labs |  | Blog Post 4 |  |  |
 
-#### Week 9 - Time Series Analysis (November 4 - November 8)
+#### Week 9 - Time Series Analysis (February 17 - February 21)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -103,7 +120,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 | Labs      | 9.01 Correlated Data Lab | 9.02 Time Series Data Lab |  |  |  |
 | Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | Project 5 (Client) |
 
-#### Week 10 - Bayesian Statistics (November 11 - November 15)
+#### Week 10 - Bayesian Statistics (February 24 - February 28)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -112,7 +129,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 | Labs      |  | 10.01 Bayes Practice | 10.02 Bayes Data |  |  | 
 | Deadlines |  | Week 9 Labs |  |  | Quiz 5 |
 
-#### Week 11 - Deep Learning (November 18 - November 22)
+#### Week 11 - Deep Learning (March 2 - March 6)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -121,22 +138,13 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 | Labs     | 11.01 Conceptual Neural Networks Lab | 11.02 Applied Neural Networks Lab |  |  |  |
 | Deadlines | Week 10 Labs |  | Blog Post 5 & Capstone Check-In 3 |  | Quiz 6 |
 
-#### Week 12 - Flex Time & Capstones (November 25 - November 29)
+#### Week 12 - Flex Time & Capstones (March 9 - March 13)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | The Linux Environment & Shell Scripting | Flask | No Class (Thanksgiving) | No Class (Thanksgiving) | No Class (Thanksgiving) |
-| Afternoon | Local Flex Time | Local Flex Time | No Class (Thanksgiving) | No Class (Thanksgiving) | No Class (Thanksgiving) |
-| Deadlines | Week 11 Labs | Capstone Check-In 4 |  |  |  |
-
-#### Week 13 - Flex Time & Capstones (December 2 - December 5)
-
-|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Local Flex Time | Local Flex Time | Local Flex Time | Capstone Presentations | |
-| Afternoon | Local Flex Time | Local Flex Time | Local Flex Time | Graduation! | |
-| Deadlines | Blog Post 6 |  |  | Capstone Check-In 5 |  |
-
+| Morning   | The Linux Environment & Shell Scripting | Flask | Local Flex Time | Local Flex Time | Capstone Presentations |
+| Afternoon | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time | Graduation! |
+| Deadlines | Week 11 Labs | Capstone Check-In 4 | Blog Post 6 |  | Capstone Check-In 5 |
 
 #### Zoom
 
