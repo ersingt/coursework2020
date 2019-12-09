@@ -28,7 +28,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 |---------|------------|------------|------------|---------|---------|
 | Morning | [1.01 Git](https://git.generalassemb.ly/DSI-US-10/0.00-zero-day) | 1.03 Datatypes | 1.05 FUNctions | 1.07 Distributions - Discrete | 1.08 Distributions - Continuous |
 | Afternoon | [1.02 Command Line](https://git.generalassemb.ly/DSI-US-10/0.00-zero-day) | 1.04 Control Flow | 1.06 Probability | Outcomes Programming | Local Time |
-| Labs |  | 1.01 Pokemon Lab |  | 1.02 Loot Boxes Lab |  |
+| Labs |  | [1.01 Pokemon Lab](https://git.generalassemb.ly/DSI-US-10/1.01-lab-pokemon) |  | [1.02 Loot Boxes Lab](https://git.generalassemb.ly/DSI-US-10/1.02-lab-loot-boxes) |  |
 | Deadlines |  |  |  |  | Quiz 1 |
 
 #### Week 2 - Exploratory Data Analysis (December 16 - December 20)
