@@ -10,7 +10,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Graduation-Requirements
 
 #### Lesson Recordings
 
-https://www.youtube.com/playlist?list=PLYGvOQTnahYKg8E0u1vg_n30Jxo379mRv
+TBD
 
 #### Instructor and TA Appointment Sign-Ups
 
