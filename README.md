@@ -26,7 +26,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
-| Morning | [1.01 Git](https://git.generalassemb.ly/DSI-US-10/0.00-zero-day) | [1.03 Datatypes](https://git.generalassemb.ly/DSI-US-10/1.03-lesson-python-intro) | [1.05 FUNctions](https://git.generalassemb.ly/DSI-US-10/1.03-lesson-python-functions) | 1.07 Distributions - Discrete | 1.08 Distributions - Continuous |
+| Morning | [1.01 Git](https://git.generalassemb.ly/DSI-US-10/0.00-zero-day) | [1.03 Datatypes](https://git.generalassemb.ly/DSI-US-10/1.03-lesson-python-intro) | [1.05 FUNctions](https://git.generalassemb.ly/DSI-US-10/1.03-lesson-python-functions) | 1.07 Distributions - Discrete | 1.08 List Comprehension |
 | Afternoon | [1.02 Command Line](https://git.generalassemb.ly/DSI-US-10/0.00-zero-day) | [1.04 Control Flow](https://git.generalassemb.ly/DSI-US-10/1.04-lesson-python-control-flow) | 1.06 Probability | Outcomes Programming | Local Time |
 | Labs |  | [1.01 Pokemon Lab](https://git.generalassemb.ly/DSI-US-10/1.01-lab-pokemon) |  | [1.02 Loot Boxes Lab](https://git.generalassemb.ly/DSI-US-10/1.02-lab-loot-boxes) |  |
 | Deadlines |  |  |  |  | Quiz 1 |
@@ -35,7 +35,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 2.01 Pandas: Intro 1 (Basics) | 2.03 Principles of Data Visualization | 2.04 Exploratory Data Analysis (EDA) | 2.05 List Comprehensions | Project 1 Due |
+| Morning   | 2.01 Pandas: Intro 1 (Basics) | 2.03 Principles of Data Visualization | 2.04 Exploratory Data Analysis (EDA) | 2.05 Distributions - Continuous | Project 1 Due |
 | Afternoon | 2.02 Pandas: Intro 2 (Features and Plotting) | 2.03 Principles of Data Visualization | Project Worktime | Outcomes Programming | Local Time |
 | Labs | 2.01 Titanic EDA |  | 2.02 Pandas Concatenation |  |  |
 | Deadlines | Week 1 Labs |  | Blog Post 1 |  | Project 1 |
