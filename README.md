@@ -39,10 +39,10 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 2.01 Pandas: Intro 1 (Basics) | 2.03 Principles of Data Visualization | 2.04 Exploratory Data Analysis (EDA) | 2.05 Distributions - Continuous | Project 1 Due |
+| Morning   | 2.01 Pandas: Intro 1 (Basics) | 2.03 Principles of Data Visualization | 2.04 Exploratory Data Analysis (EDA) | 2.05 Distributions - Continuous | [Project 1 Due](https://git.generalassemb.ly/DSI-US-10/project_1) |
 | Afternoon | 2.02 Pandas: Intro 2 (Features and Plotting) | 2.03 Principles of Data Visualization | Project Worktime | Outcomes Programming | Local Time |
 | Labs | 2.01 Titanic EDA |  | 2.02 Pandas Concatenation |  |  |
-| Deadlines | Week 1 Labs |  | Blog Post 1 |  | Project 1 |
+| Deadlines | Week 1 Labs |  | Blog Post 1 |  | [Project 1](https://git.generalassemb.ly/DSI-US-10/project_1) |
 
 #### HOLIDAY BREAK WEEK - (December 23 - December 27)
 
