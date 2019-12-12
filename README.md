@@ -39,8 +39,8 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 2.01 Pandas: Intro 1 (Basics) | 2.03 Principles of Data Visualization | 2.04 Exploratory Data Analysis (EDA) | 2.05 Distributions - Continuous | [Project 1 Due](https://git.generalassemb.ly/DSI-US-10/project_1) |
-| Afternoon | 2.02 Pandas: Intro 2 (Features and Plotting) | 2.03 Principles of Data Visualization | Project Worktime | Outcomes Programming | Local Time |
+| Morning   | 2.01 Pandas: Intro 1 (Basics) | 2.02 Principles of Data Visualization | 2.03 Exploratory Data Analysis (EDA) |  2.05 Central Limit Theorem and Confidence Intervals | [Project 1 Due](https://git.generalassemb.ly/DSI-US-10/project_1) |
+| Afternoon | 2.01 Pandas: Intro 2 (Features and Plotting) | 2.02 Principles of Data Visualization | 2.04 Distributions - Continuous | Outcomes Programming | Local Time |
 | Labs | 2.01 Titanic EDA |  | 2.02 Pandas Concatenation |  |  |
 | Deadlines | Week 1 Labs |  | Blog Post 1 |  | [Project 1](https://git.generalassemb.ly/DSI-US-10/project_1) |
 
@@ -50,25 +50,25 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | NO CLASS | NO CLASS | NO CLASS | 2.06 Central Limit Theorem and Confidence Intervals | 2.08 Ethics & Plagiarism |
-| Afternoon   | NO CLASS | NO CLASS | NO CLASS | 2.07 Object-Oriented Programming (OOP) | Local Time |
+| Morning   | NO CLASS | NO CLASS | NO CLASS | 2.06 Object-Oriented Programming (OOP) | 2.07 Ethics & Plagiarism |
+| Afternoon   | NO CLASS | NO CLASS | NO CLASS | Outcomes Programming | Local Time |
 | Labs |  |  |  |  |  |
 | Deadlines |  |  |  |  |  |
-
----
-
-### Everything below this point is subject to change.
-
----
 
 #### Week 3 - Regression (January 6 - January 10)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 3.01 Linear Regression | 3.02 Regression Evaluation Metrics | 3.04 Train/Test Split + Cross Validation | 3.06 Hypothesis Testing | 3.07 Model Workflow |
-| Afternoon | 3.01 Linear Regression | 3.03 Bias-Variance Tradeoff | 3.05 Feature Engineering | Outcomes Proramming | Local Time |
+| Afternoon | 3.01 Linear Regression | 3.03 Bias-Variance Tradeoff | 3.05 Feature Engineering | Outcomes Programming | Local Time |
 | Labs | 3.01 Linear Regression Lab | | | 3.02 Validation Lab | |
 | Deadlines | Week 2 Labs |  |  |  | Quiz 2 |
+
+---
+
+### Everything below this point is subject to change.
+
+---
 
 #### Week 4 - Classification (January 13 - January 17)
 
