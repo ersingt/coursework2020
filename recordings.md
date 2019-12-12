@@ -4,7 +4,7 @@
 
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
-| Morning | 1.01 Git | 1.03 Datatypes ([EC](https://youtu.be/TpjVF5Kogx0) \| [WC](https://youtu.be/3p6MasSjixs)) | 1.05 FUNctions | 1.07 Distributions - Discrete | 1.08 List Comprehensions |
+| Morning | 1.01 Git | 1.03 Datatypes ([EC](https://youtu.be/TpjVF5Kogx0) \| [WC](https://youtu.be/3p6MasSjixs)) | 1.05 FUNctions | 1.07 Distributions - Discrete ([EC](https://youtu.be/_chxbQ0zHfg)) | 1.08 List Comprehensions |
 | Afternoon | 1.02 Command Line | 1.04 Control Flow ([WC](https://youtu.be/LDoY47GAANQ)) | 1.06 Probability | | |
 
 #### Week 2 - Exploratory Data Analysis (December 16 - December 20)
