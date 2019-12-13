@@ -12,6 +12,10 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Graduation-Requirements
 
 [Click here](./recordings.md)
 
+#### Weekly Prep
+
+[View the materials to prep for next week here](https://git.generalassemb.ly/DSI-US-10/dsi-weekly)
+
 #### Instructor and TA Appointment Sign-Ups
 
 https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
