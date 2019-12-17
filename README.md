@@ -43,7 +43,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [2.01 Pandas: Part 1](https://git.generalassemb.ly/DSI-US-10/2.01-intro-to-pandas) | [2.02 Principles of Data Visualization](https://git.generalassemb.ly/DSI-US-10/2.02-lesson-principles_of_data_visualization) | 2.03 Exploratory Data Analysis (EDA) |  2.05 Central Limit Theorem and Confidence Intervals | [Project 1 Due](https://git.generalassemb.ly/DSI-US-10/project_1) |
+| Morning   | [2.01 Pandas: Part 1](https://git.generalassemb.ly/DSI-US-10/2.01-intro-to-pandas) | [2.02 Principles of Data Visualization](https://git.generalassemb.ly/DSI-US-10/2.02-lesson-principles_of_data_visualization) | [2.03 Exploratory Data Analysis (EDA)](https://git.generalassemb.ly/DSI-US-10/2.03-lesson-eda) |  2.05 Central Limit Theorem and Confidence Intervals | [Project 1 Due](https://git.generalassemb.ly/DSI-US-10/project_1) |
 | Afternoon | [2.01 Pandas: Part 2](https://git.generalassemb.ly/DSI-US-10/2.01-intro-to-pandas) | [2.02 Principles of Data Visualization](https://git.generalassemb.ly/DSI-US-10/2.02-lesson-principles_of_data_visualization) | 2.04 Distributions - Continuous | Outcomes Programming | Local Time |
 | Labs | [2.01 Titanic EDA](https://git.generalassemb.ly/DSI-US-10/2.01-lab-pandas-titanic) |  | [2.02 Excel Madness!](https://git.generalassemb.ly/DSI-US-10/2.02-lab-excel-madness) |  |  |
 | Deadlines | Week 1 Labs |  | Blog Post 1 |  | [Project 1](https://git.generalassemb.ly/DSI-US-10/project_1) |
