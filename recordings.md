@@ -13,5 +13,5 @@
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 2.01 Pandas: Intro 1 (Basics) | 2.03 Principles of Data Visualization | 2.04 Exploratory Data Analysis (EDA) | 2.05 Distributions - Continuous | |
-| Afternoon | 2.02 Pandas: Intro 2 (Features and Plotting) | 2.03 Principles of Data Visualization | | | |
+| Morning   | [2.01 Pandas: Intro 1](https://youtu.be/QS9jdTLmcAk) | 2.03 Principles of Data Visualization | 2.04 Exploratory Data Analysis (EDA) | 2.05 Distributions - Continuous | |
+| Afternoon | [2.02 Pandas: Intro 2](https://youtu.be/9QCF4UK8FT8) | 2.03 Principles of Data Visualization | | | |
