@@ -57,7 +57,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 | Morning   | NO CLASS | NO CLASS | NO CLASS | 2.06 Object-Oriented Programming (OOP) | 2.07 Ethics & Plagiarism |
 | Afternoon   | NO CLASS | NO CLASS | NO CLASS | Outcomes Programming | Local Time |
 | Labs |  |  |  |  |  |
-| Deadlines |  |  |  |  |  |
+| Deadlines |  |  |  | Week 2 Labs |  |
 
 #### Week 3 - Regression (January 6 - January 10)
 
@@ -66,7 +66,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 | Morning   | 3.01 Linear Regression | 3.02 Regression Evaluation Metrics | 3.04 Train/Test Split + Cross Validation | 3.06 Hypothesis Testing | 3.07 Model Workflow |
 | Afternoon | 3.01 Linear Regression | 3.03 Bias-Variance Tradeoff | 3.05 Feature Engineering | Outcomes Programming | Local Time |
 | Labs | 3.01 Linear Regression Lab | | | 3.02 Validation Lab | |
-| Deadlines | Week 2 Labs |  |  |  | Quiz 2 |
+| Deadlines |  |  |  |  | Quiz 2 |
 
 ---
 
