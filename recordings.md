@@ -15,3 +15,17 @@
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 2.01 Pandas: Intro 1 ([EC](https://youtu.be/QS9jdTLmcAk)) | 2.02 Principles of Data Visualization ([EC](https://generalassembly.zoom.us/recording/share/jtJp1nWOPDhxrVXQR3tfyM0lP0eR49jJE4Di3XT2KVWwIumekTziMw)) | 2.03 Exploratory Data Analysis (EDA) | 2.05 Confidence Intervals ([EC](https://youtu.be/zzTuqVbxqyw) \| [WC](https://youtu.be/s5ZrIZus6OI)) | |
 | Afternoon | 2.01 Pandas: Intro 2 ([EC](https://youtu.be/9QCF4UK8FT8)) | 2.04 Principles of Data Visualization ([EC](https://generalassembly.zoom.us/recording/share/qpsCluS0AwMV8ZwDU0xHPF8Phs7LfU74YZi9Q4jQIKmwIumekTziMw)) | 2.05 Distributions - Continuous ([EC](https://generalassembly.zoom.us/recording/share/ERSfEHrgSql0Bj5fS3sTGJarNNhSuPZzCHBEd2-tj2-wIumekTziMw) \| [WC](https://youtu.be/MuFG4lYzImM)) | | |
+
+#### Week 2+ (December 30 - January 3)
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | NO CLASS | NO CLASS | NO CLASS | 2.06 Object-Oriented Programming (OOP) | 2.07 Ethics & Plagiarism |
+| Afternoon   | NO CLASS | NO CLASS | NO CLASS | | |
+
+#### Week 3 - Regression (January 6 - January 10)
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | 3.01 Linear Regression | 3.02 Regression Evaluation Metrics | 3.04 Train/Test Split + Cross Validation | 3.06 Hypothesis Testing | 3.07 Model Workflow |
+| Afternoon | 3.01 Linear Regression | 3.03 Bias-Variance Tradeoff | 3.05 Feature Engineering | | |
