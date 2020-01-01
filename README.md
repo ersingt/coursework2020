@@ -54,7 +54,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | NO CLASS | NO CLASS | NO CLASS | 2.06 Object-Oriented Programming (OOP) | 2.07 Ethics & Plagiarism |
+| Morning   | NO CLASS | NO CLASS | NO CLASS | [2.06 Object-Oriented Programming (OOP)](https://git.generalassemb.ly/DSI-US-10/2.06-lesson-object-oriented-programming) | 2.07 Ethics & Plagiarism |
 | Afternoon   | NO CLASS | NO CLASS | NO CLASS | Outcomes Programming | Local Time |
 | Labs |  |  |  |  |  |
 | Deadlines |  |  |  | Week 2 Labs |  |
