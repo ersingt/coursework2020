@@ -23,6 +23,8 @@
 | Morning   | NO CLASS | NO CLASS | NO CLASS | 2.06 Object-Oriented Programming (OOP) | 2.07 Ethics & Plagiarism |
 | Afternoon   | NO CLASS | NO CLASS | NO CLASS | | |
 
+Advent of Code Day 2 challenge solutions: [Part 1](https://youtu.be/wHFaniciGbQ) \| [Part 2](https://youtu.be/DkUuogWTkL8) \| [Part 3](https://youtu.be/LV7bE4xuMZs)
+
 #### Week 3 - Regression (January 6 - January 10)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
