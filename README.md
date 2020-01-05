@@ -68,12 +68,6 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 | Labs | 3.01 Linear Regression Lab | | | 3.02 Validation Lab | |
 | Deadlines |  |  |  |  | Quiz 2 |
 
----
-
-### Everything below this point is subject to change.
-
----
-
 #### Week 4 - Classification (January 13 - January 17)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
@@ -82,6 +76,12 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 | Afternoon | 4.02 k-Nearest Neighbors | 4.04 Classification Metrics II | Project Work Time | Outcomes Programming | Local Time |
 | Labs | 4.01 Classification Model Comparison | 4.02 Classification Model Evaluation | | | |
 | Deadlines | Week 3 Labs |  | Blog Post 2 |  | [Project 2](https://git.generalassemb.ly/DSI-US-10/project_2) |
+
+---
+
+### Everything below this point is subject to change.
+
+---
 
 #### Week 5 - Web Scraping, APIs and NLP (January 20 - January 24)
 
