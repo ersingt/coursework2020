@@ -87,9 +87,9 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 5.01 Intro to HTML | 5.03 API Integration & Consumption | 5.05 NLP I | 5.07 Experimental Design | 5.08 A/B Testing |
-| Afternoon | 5.02 BeautifulSoup | 5.04 Introduction to AWS | 5.06 NLP II | Outcomes Programming | Local Time: Zach Morris Guest Speaker |
-| Labs | 5.01 Scraping Lab |  | 5.02 NLP Lab | | |
+| Morning   | NO CLASS | 5.01 Intro to HTML | 5.03 API Integration & Consumption | 5.05 NLP I | 5.06 NLP II |
+| Afternoon | NO CLASS | 5.02 BeautifulSoup | 5.04 Introduction to AWS | Outcomes Programming | Local Time |
+| Labs | | 5.01 Scraping Lab |  | 5.02 NLP Lab | |
 | Deadlines | Week 4 Labs |  |  |  | Quiz 3 |
 
 #### Week 6 - Advanced Supervised Learning (January 27 - January 31)
@@ -114,7 +114,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 8.01 SQL I | 8.03 Introduction to Scala | 8.05 Classification & Regression in Spark | 8.07 Recomender Systems | Project Worktime |
+| Morning   | 8.01 SQL I | 8.03 Introduction to Scala | 8.05 Classification & Regression in Spark | 8.07 Recomender Systems | 8.08 Benford's Law |
 | Afternoon | 8.02 SQL II | 8.04 DataFrames in Spark | 8.06 Pipelines & GridSearch in Spark | Outcomes | Local Time |
 | Labs      | 8.01 SQL Lab |  | 8.02 Spark Model |  |
 | Deadlines | Week 7 Labs |  | Blog Post 4 |  |  |
@@ -123,17 +123,17 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 9.01 Intro to Time Series | 9.03 ARIMA Models I | 9.05 VAR Models | 9.06 Benford's Law | Project 5 (Client) |
-| Afternoon | 9.02 Principles of Time Series Analysis | 9.04 ARIMA Models II | Project Work Time | Outcomes | Local Time |
-| Labs      | 9.01 Correlated Data Lab | 9.02 Time Series Data Lab |  |  |  |
+| Morning   | NO CLASS | 9.01 Intro to Time Series | 9.03 ARIMA Models I | 9.05 VAR Models | Project 5 (Client) |
+| Afternoon | NO CLASS | 9.02 Principles of Time Series Analysis | 9.04 ARIMA Models II | Outcomes | Local Time |
+| Labs      | | 9.01 Correlated Data Lab | 9.02 Time Series Data Lab |  |  |
 | Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | Project 5 (Client) |
 
 #### Week 10 - Bayesian Statistics (February 24 - February 28)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | No Class | 10.01 Intro to Bayes | 10.03 MCMC | 10.04 PyMC & Bayesian Regression | 10.05 Conjugacy & Maximum Likelihood |
-| Afternoon | No Class | 10.02 Bayesian Inference | Project Work Time | Outcomes: Technical Interview Prep | Local Time |
+| Morning   | 10.01 Intro to Bayes | 10.03 MCMC | 10.05 PyMC & Bayesian Regression | 10.06 Experimental Design | 10.07 A/B Testing |
+| Afternoon | 10.02 Bayesian Inference | 10.04 Conjugacy & Maximum Likelihood | Project Work Time | Outcomes: Technical Interview Prep | Local Time |
 | Labs      |  | 10.01 Bayes Practice | 10.02 Bayes Data |  |  | 
 | Deadlines |  | Week 9 Labs |  |  | Quiz 5 |
 
@@ -150,7 +150,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | The Linux Environment & Shell Scripting | Flask | Local Flex Time | Local Flex Time | Capstone Presentations |
+| Morning   | 12.01 The Linux Environment & Shell Scripting | 12.02 Flask | Local Flex Time | Local Flex Time | Capstone Presentations |
 | Afternoon | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time | Graduation! |
 | Deadlines | Week 11 Labs | Capstone Check-In 4 | Blog Post 6 |  | Capstone Check-In 5 |
 
