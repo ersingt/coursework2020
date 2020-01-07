@@ -64,7 +64,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [3.01 Linear Regression](https://git.generalassemb.ly/DSI-US-10/3.01-lesson-linear_regression) | [3.02 Regression Evaluation Metrics](https://git.generalassemb.ly/DSI-US-10/3.02-regression-metrics-lesson) | 3.04 Train/Test Split + Cross Validation | 3.06 Hypothesis Testing | 3.07 Model Workflow |
-| Afternoon | [3.01 Linear Regression](https://git.generalassemb.ly/DSI-US-10/3.01-lesson-linear_regression) | [3.03 Bias-Variance Tradeoff](https://git.generalassemb.ly/DSI-US-10/3.03-bias-variance-tradeoff) | 3.05 Feature Engineering | Outcomes Programming | Local Time |
+| Afternoon | [3.01 Linear Regression](https://git.generalassemb.ly/DSI-US-10/3.01-lesson-linear_regression) | [3.03 Bias-Variance Tradeoff](https://git.generalassemb.ly/DSI-US-10/3.03-bias-variance-tradeoff) | [3.05 Feature Engineering](https://git.generalassemb.ly/DSI-US-10/3.05-lesson-feature-engineering) | Outcomes Programming | Local Time |
 | Labs | [3.01 Linear Regression Lab](https://git.generalassemb.ly/DSI-US-10/3.01-lab-linear-regression) | | | [3.02 Validation Lab](https://git.generalassemb.ly/DSI-US-10/3.02-lab-regression-and-model-validation) | |
 | Deadlines |  |  |  |  | Quiz 2 |
 
