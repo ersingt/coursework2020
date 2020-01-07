@@ -29,5 +29,5 @@ Advent of Code Day 2 challenge solutions: [Part 1](https://youtu.be/wHFaniciGbQ)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 3.01 Linear Regression | 3.02 Regression Evaluation Metrics | 3.04 Train/Test Split + Cross Validation | 3.06 Hypothesis Testing | 3.07 Model Workflow |
-| Afternoon | 3.01 Linear Regression | 3.03 Bias-Variance Tradeoff | 3.05 Feature Engineering | | |
+| Morning   | 3.01 Linear Regression ([EC](https://generalassembly.zoom.us/rec/play/vMd4d-Cv-z03E9OdswSDAPIvW9XoLK-s2ycX-PEJzE7nVCELOgelNbtGZ-q4Ok_gEyLPJPwE8CoxRbG_?continueMode=true))| 3.02 Regression Evaluation Metrics | 3.04 Train/Test Split + Cross Validation | 3.06 Hypothesis Testing | 3.07 Model Workflow |
+| Afternoon | 3.01 Linear Regression ([EC](https://youtu.be/0oWKOQ0Zguc)) | 3.03 Bias-Variance Tradeoff | 3.05 Feature Engineering | | |
