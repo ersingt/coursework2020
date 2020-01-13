@@ -37,4 +37,4 @@ Advent of Code Day 2 challenge solutions: [Part 1](https://youtu.be/wHFaniciGbQ)
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 4.01 Intro to Classification + Logistic Regression | 4.03 Classification Metrics I | 4.05 Regularization | 4.06 Hyperparameter Tuning and Pipelines |  |
-| Afternoon | 4.02 k-Nearest Neighbors | 4.04 Classification Metrics II |  |  |  |
+| Afternoon | 4.02 k-Nearest Neighbors ([EC](https://youtu.be/3cLMUFKvcag) \| WC) | 4.04 Classification Metrics II |  |  |  |
