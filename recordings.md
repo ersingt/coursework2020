@@ -31,3 +31,10 @@ Advent of Code Day 2 challenge solutions: [Part 1](https://youtu.be/wHFaniciGbQ)
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 3.01 Linear Regression ([EC](https://generalassembly.zoom.us/rec/play/vMd4d-Cv-z03E9OdswSDAPIvW9XoLK-s2ycX-PEJzE7nVCELOgelNbtGZ-q4Ok_gEyLPJPwE8CoxRbG_?continueMode=true))| 3.02 Regression Evaluation Metrics ([EC](https://www.youtube.com/watch?v=gMld2dFYKTc&feature=youtu.be) \| [WC](https://www.youtube.com/watch?v=VIndd-ic82A&feature=youtu.be)) | 3.04 Train/Test Split + Cross Validation ([EC](https://youtu.be/l9AfTny4NlU) \| [WC](https://youtu.be/2avkuLo6ElA)) | 3.06 Hypothesis Testing ([EC](https://youtu.be/64-qofXp-Oc) \| [WC](https://youtu.be/d4zByz468aA)) | 3.07 Model Workflow ([EC 1](https://youtu.be/pM8i0bdJoWY) [EC 2](https://youtu.be/hvZdtJ4T99w) \| [WC](https://youtu.be/SX8jmd_ZlLc)) |
 | Afternoon | 3.01 Linear Regression ([EC](https://youtu.be/0oWKOQ0Zguc)) | 3.03 Bias-Variance Tradeoff ([EC](https://www.youtube.com/watch?v=tR6Tf8MrhGY&feature=youtu.be) \| [WC](https://www.youtube.com/watch?v=a-IzDxffOok&feature=youtu.be))| 3.05 Feature Engineering ([EC](https://youtu.be/5T7uaMkZp8Q) \| [WC](https://youtu.be/Gq_j38ZQdrk)) | | |
+
+#### Week 4 - Classification (January 13 - January 17)
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | 4.01 Intro to Classification + Logistic Regression | 4.03 Classification Metrics I | 4.05 Regularization | 4.06 Hyperparameter Tuning and Pipelines |  |
+| Afternoon | 4.02 k-Nearest Neighbors | 4.04 Classification Metrics II |  |  |  |
