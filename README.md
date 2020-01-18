@@ -135,7 +135,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 | Morning   | 10.01 Intro to Bayes | 10.03 MCMC | 10.05 PyMC & Bayesian Regression | 10.06 Experimental Design | 10.07 A/B Testing |
 | Afternoon | 10.02 Bayesian Inference | 10.04 Conjugacy & Maximum Likelihood | Project Work Time | Outcomes: Technical Interview Prep | Local Time |
 | Labs      |  | 10.01 Bayes Practice | 10.02 Bayes Data |  |  | 
-| Deadlines |  | Week 9 Labs |  |  | Quiz 5 |
+| Deadlines | Week 9 Labs |  |  |  | Quiz 5 |
 
 #### Week 11 - Deep Learning (March 2 - March 6)
 
