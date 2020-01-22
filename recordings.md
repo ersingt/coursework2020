@@ -38,3 +38,11 @@ Advent of Code Day 2 challenge solutions: [Part 1](https://youtu.be/wHFaniciGbQ)
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 4.01 Intro to Classification + Logistic Regression ([EC](https://generalassembly.zoom.us/rec/share/2tQuFbXV9W9JbLeV73PUffEtA7njaaa813cW_fRfxR6jt6h6tEWFeFRCkZsWJE9u)) | 4.03 Classification Metrics I ([EC](https://youtu.be/cHXeBAw8tVs) \| [WC](https://youtu.be/_T891ir51_E)) | 4.05 Regularization ([EC](https://youtu.be/2YKToDIOeBo ) \| [WC](https://youtu.be/fesL_nuZy3Q))| 4.06 Hyperparameter Tuning and Pipelines [EC](https://generalassembly.zoom.us/rec/share/6MMkdeDyx1tLHpHhyxn2AfcjDoXAT6a81SkWrPEPzxuPOVpXkRMmWS8mw1Tt54sP) |  |
 | Afternoon | 4.02 k-Nearest Neighbors ([EC](https://youtu.be/3cLMUFKvcag) \| [WC](https://youtu.be/Kjq1q-jr-9s)) | 4.04 Classification Metrics II [EC](https://youtu.be/I1YW4LgkLO8) |  |  |  |
+
+#### Week 5 - Web Scraping, APIs and NLP (January 20 - January 24)
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | NO CLASS | 5.01 Intro to HTML (EC \| WC) | 5.03 NLP I (EC \| WC) | 5.05 API Integration & Consumption (EC \| WC) | 5.06 Introduction to AWS (EC \| WC) |
+| Afternoon | NO CLASS | 5.02 BeautifulSoup (EC \| WC) | 5.04 NLP II (EC \| WC) |  |  |
+
