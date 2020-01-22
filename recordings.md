@@ -43,6 +43,6 @@ Advent of Code Day 2 challenge solutions: [Part 1](https://youtu.be/wHFaniciGbQ)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | NO CLASS | 5.01 Intro to HTML (EC \| WC) | 5.03 NLP I (EC \| WC) | 5.05 API Integration & Consumption (EC \| WC) | 5.06 Introduction to AWS (EC \| WC) |
-| Afternoon | NO CLASS | 5.02 BeautifulSoup (EC \| WC) | 5.04 NLP II (EC \| WC) |  |  |
+| Morning   | NO CLASS | 5.01 Intro to HTML ([EC](https://youtu.be/UcdPnFICyjo) \| [WC](https://youtu.be/SFpit5M2DAM)) | 5.03 NLP I (EC \| WC) | 5.05 API Integration & Consumption (EC \| WC) | 5.06 Introduction to AWS (EC \| WC) |
+| Afternoon | NO CLASS | 5.02 BeautifulSoup ([EC](https://youtu.be/orSFsr0wl28) \| [WC](https://youtu.be/P7OuAIUBSpM)) | 5.04 NLP II (EC \| WC) |  |  |
 
