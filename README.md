@@ -83,7 +83,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | NO CLASS | [5.01 Intro to HTML](https://git.generalassemb.ly/DSI-US-10/5.01-lesson-html-css) | [5.03 NLP I](https://git.generalassemb.ly/DSI-US-10/5.03-lesson-nlp-i) | 5.05 API Integration & Consumption | 5.06 Introduction to AWS |
 | Afternoon | NO CLASS | [5.02 BeautifulSoup](https://git.generalassemb.ly/DSI-US-10/5.02-lesson-webscraping) | [5.04 NLP II](https://git.generalassemb.ly/DSI-US-10/5.04-lesson-nlp-ii) | Outcomes Programming | Local Time |
-| Labs | | [5.01 Scraping Lab](https://git.generalassemb.ly/DSI-US-10/5.01-lab-webscraping) | 5.02 NLP Lab |  | |
+| Labs | | [5.01 Scraping Lab](https://git.generalassemb.ly/DSI-US-10/5.01-lab-webscraping) | [5.02 NLP Lab](https://git.generalassemb.ly/DSI-US-10/5.02-lab-nlp-naive-bayes) |  | |
 | Deadlines | Week 4 Labs |  |  |  | Quiz 3 |
 
 #### Week 6 - Advanced Supervised Learning (January 27 - January 31)
