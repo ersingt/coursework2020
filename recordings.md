@@ -1,5 +1,10 @@
 # ![GA Logo](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67) Recordings
 
+#### BONUS RECORDINGS
+
+* Advent of Code Day 2 challenge solutions: [Part 1](https://youtu.be/wHFaniciGbQ) \| [Part 2](https://youtu.be/DkUuogWTkL8) \| [Part 3](https://youtu.be/LV7bE4xuMZs)
+* Atlanta Guest Lecutre: [Intro to R](https://youtu.be/3xjFZ8qCBT8)
+
 #### Week 1 - Getting Started: Python for Data Science (December 9 - December 13)
 
 [Orientation & Global Introductions](https://youtu.be/EU1AA27vpMc)
@@ -23,8 +28,6 @@
 | Morning   | NO CLASS | NO CLASS | NO CLASS | 2.06 Object-Oriented Programming (OOP) ([EC](https://youtu.be/N0Szc2PNrug) \| [WC](https://youtu.be/zJQkC4waAKA)) | 2.07 Ethics & Plagiarism ([EC](https://youtu.be/eLR9cGQ4vlk))|
 | Afternoon   | NO CLASS | NO CLASS | NO CLASS | | |
 
-Advent of Code Day 2 challenge solutions: [Part 1](https://youtu.be/wHFaniciGbQ) \| [Part 2](https://youtu.be/DkUuogWTkL8) \| [Part 3](https://youtu.be/LV7bE4xuMZs)
-
 #### Week 3 - Regression (January 6 - January 10)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
@@ -46,5 +49,9 @@ Advent of Code Day 2 challenge solutions: [Part 1](https://youtu.be/wHFaniciGbQ)
 | Morning   | NO CLASS | 5.01 Intro to HTML ([EC](https://youtu.be/UcdPnFICyjo) \| [WC](https://youtu.be/SFpit5M2DAM)) | 5.03 NLP I ([EC](https://generalassembly.zoom.us/rec/share/2Odlc-n5zkJLG5XD8B2Hfp4aINvHaaa8hHca8qFbz0gNxx0pdPKlpqdVOzCt_zwR) \| WC) | 5.05 API Integration & Consumption ([EC](https://youtu.be/aHOcK-KzXf4) \| [WC](https://youtu.be/6AiJb7gdVug)) | 5.06 Introduction to AWS ([EC](https://youtu.be/luZsqH69v4A) \| [WC](https://youtu.be/x_sSRJm5vK8)) |
 | Afternoon | NO CLASS | 5.02 BeautifulSoup ([EC](https://youtu.be/orSFsr0wl28) \| [WC](https://youtu.be/P7OuAIUBSpM)) | 5.04 NLP II ([EC](https://youtu.be/iqD-0sBhadA) \| WC) |  |  |
 
-BONUS: [Intro to R](https://youtu.be/3xjFZ8qCBT8) Guest Lecture in Atlanta
+#### Week 6 - Advanced Supervised Learning (January 27 - January 31)
 
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | 6.01 CART | 6.03 Random Forests and Extra Trees | 6.05 SVMs | 6.07 Gradient Descent | |
+| Afternoon | 6.02 Bootstrapping and Bagging | 6.04 Boosting | 6.06 GLMs | Outcomes Programming | |
