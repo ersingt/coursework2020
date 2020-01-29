@@ -53,5 +53,5 @@
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 6.01 CART ([EC](https://generalassembly.zoom.us/rec/share/tPBnM_bh-XxLR430q2TbB60IJJbvX6a8gCMYrqVbmpZCChy00SAP4IvacQ8XtyI) \| [WC](https://generalassembly.zoom.us/rec/share/z9d7IbSg2DJJes-UyG-HQbwzNIDUT6a8hnJI8vELzR2lZYYVpunlZThH0rXtGr7S)) | 6.03 Random Forests and Extra Trees | 6.05 SVMs | 6.07 Gradient Descent | |
-| Afternoon | 6.02 Bootstrapping and Bagging ([EC](https://youtu.be/maf8NtOI93w) \| [WC](https://generalassembly.zoom.us/rec/share/49wyE7f0sW1LXZHBzHPFc7YCDJTET6a8hnNK_6cPzhnE7WIa6TKuUAcxfL11goqV)) | 6.04 Boosting | 6.06 GLMs | Outcomes Programming | |
+| Morning   | 6.01 CART ([EC](https://generalassembly.zoom.us/rec/share/tPBnM_bh-XxLR430q2TbB60IJJbvX6a8gCMYrqVbmpZCChy00SAP4IvacQ8XtyI) \| [WC](https://generalassembly.zoom.us/rec/share/z9d7IbSg2DJJes-UyG-HQbwzNIDUT6a8hnJI8vELzR2lZYYVpunlZThH0rXtGr7S)) | 6.03 Random Forests and Extra Trees ([EC](https://youtu.be/Mm5OjTajFb8) \| [WC](https://youtu.be/ea3phtwtKBY)) | 6.05 SVMs | 6.07 Gradient Descent | |
+| Afternoon | 6.02 Bootstrapping and Bagging ([EC](https://youtu.be/maf8NtOI93w) \| [WC](https://generalassembly.zoom.us/rec/share/49wyE7f0sW1LXZHBzHPFc7YCDJTET6a8hnNK_6cPzhnE7WIa6TKuUAcxfL11goqV)) | 6.04 Boosting ([EC](https://youtu.be/X7N9-XwNk_c) \| [WC](https://youtu.be/YFm-z8wvXVc)) | 6.06 GLMs | Outcomes Programming | |
