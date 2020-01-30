@@ -4,6 +4,7 @@
 
 * Advent of Code Day 2 challenge solutions: [Part 1](https://youtu.be/wHFaniciGbQ) \| [Part 2](https://youtu.be/DkUuogWTkL8) \| [Part 3](https://youtu.be/LV7bE4xuMZs)
 * Atlanta Guest Lecture: [Intro to R](https://youtu.be/3xjFZ8qCBT8)
+* Client Project Kickoff: [EC](https://generalassembly.zoom.us/rec/play/v8ArJuus_D03T4WctgSDVKMvW467eqOs1yZLqfRbmky8UiQBOwGiY7cXZOGDIOs1mvP0U7xmirkj_waC?autoplay=true&continueMode=true&startTime=1580403862000) \| [WC](https://generalassembly.zoom.us/rec/play/tMEofuD8qG03HNCQuASDAf97W47rJ6isgCVKqPJbyRy3AHIDMFChZ-ASN7SEkTZzPN48zSQMVu6xss22?autoplay=true&continueMode=true&startTime=1580411144000)
 
 #### Week 1 - Getting Started: Python for Data Science (December 9 - December 13)
 
