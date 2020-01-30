@@ -95,7 +95,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 | Labs | [6.01 Supervised Model Comparison](https://git.generalassemb.ly/DSI-US-10/6.01-lab-supervised-learning-models) | | | |
 | Deadlines | Week 5 Labs |  | Blog Post 3 |  | [Project 3 Presentation](https://git.generalassemb.ly/DSI-US-10/project_3) |
 
-#### Week 7 - Unsupervised Learning (February 3 - February 7)
+#### Week 7 - Big Data & Data Engineering (February 3 - February 7)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -104,7 +104,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 | Labs      |  | 7.01 SQL Lab | 7.02 Spark Model |  |  |
 | Deadlines |  | Week 6 Labs | Capstone Check-In 1 |  | Quiz 4 |
 
-#### Week 8 - Big Data & Data Engineering (February 10 - February 14)
+#### Week 8 - Unsupervised Learning (February 10 - February 14)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
