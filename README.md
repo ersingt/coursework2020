@@ -123,10 +123,10 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | NO CLASS | 9.01 Intro to Time Series | 9.03 ARIMA Models I | 9.05 VAR Models | Project 5 (Client) |
+| Morning   | NO CLASS | 9.01 Intro to Time Series | 9.03 ARIMA Models I | 9.05 VAR Models | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-10/project-client-project) |
 | Afternoon | NO CLASS | 9.02 Principles of Time Series Analysis | 9.04 ARIMA Models II | Outcomes | Local Time |
 | Labs      | | 9.01 Correlated Data Lab | 9.02 Time Series Data Lab |  |  |
-| Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | Project 5 (Client) |
+| Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-10/project-client-project) |
 
 #### Week 10 - Bayesian Statistics (February 24 - February 28)
 
