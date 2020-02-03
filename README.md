@@ -159,4 +159,4 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 | Coast      | URL                                         |
 |------------|---------------------------------------------|
 | East Coast | https://generalassembly.zoom.us/s/346509440 |
-| West Coast | https://generalassembly.zoom.us/s/983396761 |
+| West Coast | https://generalassembly.zoom.us/s/860658072 |
