@@ -99,8 +99,8 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Project 4 (Hackathon) | 7.01 SQL I | 7.03 Introduction to Scala | 7.05 Classification & Regression in Spark | 7.06 Pipelines & GridSearch in Spark |
-| Afternoon | Project 4 (Hackathon) | 7.02 SQL II | 7.04 DataFrames in Spark | Outcomes | Local Time |
+| Morning   | [Project 4 (Hackathon)](https://git.generalassemb.ly/DSI-US-10/Hackathon-Good-Fast-Cheap) | 7.01 SQL I | 7.03 Introduction to Scala | 7.05 Classification & Regression in Spark | 7.06 Pipelines & GridSearch in Spark |
+| Afternoon | [Project 4 (Hackathon)](https://git.generalassemb.ly/DSI-US-10/Hackathon-Good-Fast-Cheap) | 7.02 SQL II | 7.04 DataFrames in Spark | Outcomes | Local Time |
 | Labs      |  | 7.01 SQL Lab | 7.02 Spark Model |  |  |
 | Deadlines |  | Week 6 Labs | Capstone Check-In 1 |  | Quiz 4 |
 
