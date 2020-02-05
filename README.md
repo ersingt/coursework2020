@@ -99,7 +99,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [Project 4 (Hackathon)](https://git.generalassemb.ly/DSI-US-10/Hackathon-Good-Fast-Cheap) | [7.01 SQL I](https://git.generalassemb.ly/DSI-US-10/7.01-lesson-sql) | [7.03 Introduction to Scala](https://git.generalassemb.ly/DSI-US-10/7.03-lesson-scala) | [7.05 SparkML](https://git.generalassemb.ly/Data-science-immersive/7.05-lesson-spark-ml) | [7.06 Pipelines & Cross Validation in Spark](https://git.generalassemb.ly/Data-science-immersive/7.06-lesson-spark-pipelines) |
+| Morning   | [Project 4 (Hackathon)](https://git.generalassemb.ly/DSI-US-10/Hackathon-Good-Fast-Cheap) | [7.01 SQL I](https://git.generalassemb.ly/DSI-US-10/7.01-lesson-sql) | [7.03 Introduction to Scala](https://git.generalassemb.ly/DSI-US-10/7.03-lesson-scala) | [7.05 SparkML](https://git.generalassemb.ly/DSI-US-10/7.05-lesson-spark-ml) | [7.06 Pipelines & Cross Validation in Spark](https://git.generalassemb.ly/DSI-US-10/7.06-lesson-spark-pipelines) |
 | Afternoon | [Project 4 (Hackathon)](https://git.generalassemb.ly/DSI-US-10/Hackathon-Good-Fast-Cheap) | [7.02 SQL II](https://git.generalassemb.ly/DSI-US-10/7.01-lesson-sql) | [7.04 DataFrames in Spark](https://git.generalassemb.ly/DSI-US-10/7.04-lesson-dataframes) | Outcomes | Local Time |
 | Labs      |  | [7.01 SQL Lab](https://git.generalassemb.ly/DSI-US-10/7.01-lab-sql) | [7.02 Spark Model](https://git.generalassemb.ly/DSI-US-10/7.02-lab-spark-model) |  |  |
 | Deadlines |  | Week 6 Labs | Capstone Check-In 1 |  | Quiz 4 |
