@@ -68,5 +68,5 @@
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 8.01 Intro to Clustering: K-Means ([EC](https://generalassembly.zoom.us/rec/play/vZUtcLyt-j03TobBsASDCvQtW47pe_6s1HUYqfoNnUzjByMFNQbyZrAQY7NDk6tVSIJf_fh2TroGaV65?continueMode=true) \| WC)| 8.03 PCA | 8.05 Missing Data | 8.06 Recommender Systems | 8.07 Word Vectors |
+| Morning   | 8.01 Intro to Clustering: K-Means ([EC](https://generalassembly.zoom.us/rec/play/vZUtcLyt-j03TobBsASDCvQtW47pe_6s1HUYqfoNnUzjByMFNQbyZrAQY7NDk6tVSIJf_fh2TroGaV65?continueMode=true) \| WC)| 8.03 PCA ( [EC](https://generalassembly.zoom.us/rec/share/v_dsDrSp1GVJfIXLsn__db8IT6LMaaa8hCkX_vBfnRwiYGxR1IBfrrlLRe8p5dNn) \| WC ) | 8.05 Missing Data | 8.06 Recommender Systems | 8.07 Word Vectors |
 | Afternoon | 8.02 DBSCAN Clustering ([EC](https://generalassembly.zoom.us/rec/share/3cZVJp3C1yROequR4WriR_A7Bp78X6a80ydP-KEFykq5FJ9FVxk82z51JFwaSqa8) \| [WC](https://generalassembly.zoom.us/rec/share/ovR1bOj5yTJOX7eR0EjFQaorG63CT6a81SJNqaUKxU9yfWNXPvJoOGCGaD-KYUvM)) | 8.04 Transfer Learning | Project Worktime | Outcomes | Local Time |
