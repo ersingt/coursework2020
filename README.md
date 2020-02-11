@@ -1,3 +1,4 @@
+
 # ![GA Logo](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67) Handy Links
 
 #### Capstone Guidelines & Schedule
@@ -109,7 +110,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [8.01 Intro to Clustering: K-Means](https://git.generalassemb.ly/DSI-US-10/8.01-lesson-intro-to-kmeans) | 8.03 PCA | 8.05 Missing Data | 8.06 Recommender Systems | 8.07 Word Vectors |
-| Afternoon | [8.02 DBSCAN Clustering](https://git.generalassemb.ly/DSI-US-10/8.02-lesson-dbscan) | 8.04 Transfer Learning | Project Worktime | Outcomes | Local Time |
+| Afternoon | [8.02 DBSCAN Clustering](https://git.generalassemb.ly/DSI-US-10/8.02-lesson-dbscan) | [8.04 Transfer Learning](https://git.generalassemb.ly/DSI-US-10/8.04-lesson-transfer-learning) | Project Worktime | Outcomes | Local Time |
 | Labs      | [8.01 Clustering Lab](https://git.generalassemb.ly/DSI-US-10/8.01-lab-kmeans-isotopes) | [8.02 PCA Lab](https://git.generalassemb.ly/DSI-US-10/8.02-lab-principal-components-analysis) |  |  |  |
 | Deadlines | Week 7 Labs |  | Blog Post 4 |  |  |
 
