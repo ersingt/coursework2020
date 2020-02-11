@@ -64,3 +64,9 @@
 | Morning   |  | 7.01 SQL I ([EC](https://youtu.be/OMsV7Cy5YHI) \| [WC](https://youtu.be/50v-iKHlg48)) | 7.03 Introduction to Scala ([EC](https://generalassembly.zoom.us/rec/play/uZEvde6q_Dg3GoeQsQSDV6IsW9XoLqqs1SIe_KBfzE-8AndVNQamYbtGYOrheOevwp-rj1KvxqTabWsw?autoplay=true&continueMode=true&startTime=1580922418000) \| [WC](https://generalassembly.zoom.us/rec/play/uZEvde6q_Dg3GoeQsQSDV6IsW9XoLqqs1SIe_KBfzE-8AndVNQamYbtGYOrheOevwp-rj1KvxqTabWsw?autoplay=true&continueMode=true&startTime=1580922418000)) | 7.05 Classification & Regression in Spark ([EC](https://youtu.be/RzjbEmrkcuE) \| [WC](https://youtu.be/CogBnvLrYo0)) | 7.06 Pipelines & GridSearch in Spark ([EC](https://youtu.be/be438ul7q1w) \| WC) |
 | Afternoon |  | 7.02 SQL II ([EC](https://youtu.be/G7SykgcgtUs) \| WC) | 7.04 Spark DataFrames ([EC](https://youtu.be/nMoc-os2lGM) \| [WC](https://generalassembly.zoom.us/rec/play/75UtduCh_Dw3T4eTsASDV6AtW9XpeKusgSNN-PpcxBu2VCUFNFH3buQUZOQnuZbc6x6bJf-5qLCt4az1?continueMode=true)) |  | [Alexis Johnson-Gresham Guest Lecture - Design Thinking](https://generalassembly.zoom.us/rec/share/_9JxaI3C-FFOaNbA03yAWvdxQYnGT6a8hyNP_PcIyRpdqCmV8OIzMlC5Mvjxuw-q) _please do not share this link with others_ |
 
+#### Week 8 - Unsupervised Learning (February 10 - February 14)
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | 8.01 Intro to Clustering: K-Means ([EC](https://generalassembly.zoom.us/rec/play/vZUtcLyt-j03TobBsASDCvQtW47pe_6s1HUYqfoNnUzjByMFNQbyZrAQY7NDk6tVSIJf_fh2TroGaV65?continueMode=true) \| WC)| 8.03 PCA | 8.05 Missing Data | 8.06 Recommender Systems | 8.07 Word Vectors |
+| Afternoon | 8.02 DBSCAN Clustering | 8.04 Transfer Learning | Project Worktime | Outcomes | Local Time |
