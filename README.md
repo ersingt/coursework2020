@@ -114,20 +114,20 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 | Labs      | [8.01 Clustering Lab](https://git.generalassemb.ly/DSI-US-10/8.01-lab-kmeans-isotopes) | [8.02 PCA Lab](https://git.generalassemb.ly/DSI-US-10/8.02-lab-principal-components-analysis) |  |  |  |
 | Deadlines | Week 7 Labs |  | Blog Post 4 |  |  |
 
+#### Week 9 - Time Series Analysis (February 17 - February 21)
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | NO CLASS | [9.01 Intro to Time Series](https://git.generalassemb.ly/DSI-US-10/9.01-lesson-timeseries) | 9.03 ARIMA Models | 9.05 Benford's Law | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-10/project-client-project) |
+| Afternoon | NO CLASS | [9.02 Linear Time Series Modeling](https://git.generalassemb.ly/Data-science-immersive/lesson-linear-time-series-modeling) | 9.04 Advanced Time Series Concepts | Outcomes | Local Time |
+| Labs      | | 9.01 Correlated Data Lab | 9.02 Time Series Data Lab |  |  |
+| Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-10/project-client-project) |
+
 ---
 
 ### Everything below this point is subject to change.
 
 ---
-
-#### Week 9 - Time Series Analysis (February 17 - February 21)
-
-|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | NO CLASS | [9.01 Intro to Time Series](https://git.generalassemb.ly/DSI-US-10/9.01-lesson-timeseries) | 9.03 ARIMA Models I | 9.05 VAR Models | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-10/project-client-project) |
-| Afternoon | NO CLASS | 9.02 Principles of Time Series Analysis | 9.04 ARIMA Models II | Outcomes | Local Time |
-| Labs      | | 9.01 Correlated Data Lab | 9.02 Time Series Data Lab |  |  |
-| Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-10/project-client-project) |
 
 #### Week 10 - Bayesian Statistics (February 24 - February 28)
 
