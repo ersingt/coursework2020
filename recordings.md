@@ -75,5 +75,5 @@
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | NO CLASS | 9.01 Intro to Time Series (EC \| WC) | 9.03 ARIMA Models I (EC \| WC) | 9.05 VAR Models (EC \| WC) |  |
-| Afternoon | NO CLASS | 9.02 Principles of Time Series Analysis (EC \| WC) | 9.04 ARIMA Models II (EC \| WC) |  |  |
+| Morning   | NO CLASS | 9.01 Intro to Time Series (EC \| WC) | 9.03 ARIMA Models (EC \| WC) | 9.05 Benford's Law (EC \| WC) |  |
+| Afternoon | NO CLASS | 9.02 Principles of Time Series Analysis ([EC](https://generalassembly.zoom.us/rec/share/uspTBaD7qz1ORqeK2mz0RrQFGbr8X6a8gCceqfZbzkjEHKlXyi-_h85jHAC0xG6k) \| WC) | 9.04 Advanced Time Series Models (EC \| WC) |  |  |
