@@ -123,12 +123,6 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 | Labs      | | [9.01 Correlated Data Lab](https://git.generalassemb.ly/DSI-US-10/9.01-lab-correlated-data) | [9.02 Time Series Data Lab](https://git.generalassemb.ly/DSI-US-10/9.02-lab-time-series-arima) |  |  |
 | Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-10/project-client-project) |
 
----
-
-### Everything below this point is subject to change.
-
----
-
 #### Week 10 - Bayesian Statistics (February 24 - February 28)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
