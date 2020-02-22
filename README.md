@@ -128,7 +128,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 10.01 Bayesian Statistics I | 10.03 Simulation and MCMC | 10.05 Experimental Design | 10.06 A/B Testing | Local Time |
-| Afternoon | 10.02 Bayesian Statistics II | 10.04 PyMC3 and Bayesian Regression | Project Work Time | Outcomes: Technical Interview Prep | Local Time |
+| Afternoon | 10.02 Bayesian Statistics II | 10.04 PyMC3 and Bayesian Regression | Project Work Time | [Outcomes: Technical Interview Prep](https://git.generalassemb.ly/DSI-US-10/outcomes-tech-interview-prep) | Local Time |
 | Labs      |  | 10.01 Bayes Practice | 10.02 Bayes Data |  |  | 
 | Deadlines | Week 9 Labs |  |  |  | Quiz 5 |
 
