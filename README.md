@@ -119,7 +119,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | NO CLASS | [9.01 Intro to Time Series](https://git.generalassemb.ly/DSI-US-10/9.01-lesson-timeseries) | [9.03 ARIMA Models](https://git.generalassemb.ly/DSI-US-10/9.03-lesson-ARIMA) | [9.05 Benford's Law](https://git.generalassemb.ly/DSI-US-10/9.05-lesson-benfords-law) | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-10/project-client-project) |
-| Afternoon | NO CLASS | [9.02 Linear Time Series Modeling](https://git.generalassemb.ly/DSI-US-10/9.02-lesson-linear-time-series-modeling) | [9.04 Advanced Time Series Models](https://git.generalassemb.ly/DSI-US-10/9.04-lesson-VAR-models) | Outcomes | Local Time |
+| Afternoon | NO CLASS | [9.02 Linear Time Series Modeling](https://git.generalassemb.ly/DSI-US-10/9.02-lesson-linear-time-series-modeling) | [9.04 Advanced Time Series Models](https://git.generalassemb.ly/DSI-US-10/9.04-lesson-VAR-models) | [Outcomes: Technical Interview Prep](https://git.generalassemb.ly/DSI-US-10/outcomes-tech-interview-prep) | Local Time |
 | Labs      | | [9.01 Correlated Data Lab](https://git.generalassemb.ly/DSI-US-10/9.01-lab-correlated-data) | [9.02 Time Series Data Lab](https://git.generalassemb.ly/DSI-US-10/9.02-lab-time-series-arima) |  |  |
 | Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-10/project-client-project) |
 
@@ -128,7 +128,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 10.01 Bayesian Statistics I | 10.03 Simulation and MCMC | 10.05 Experimental Design | 10.06 A/B Testing | Local Time |
-| Afternoon | 10.02 Bayesian Statistics II | 10.04 PyMC3 and Bayesian Regression | Project Work Time | [Outcomes: Technical Interview Prep](https://git.generalassemb.ly/DSI-US-10/outcomes-tech-interview-prep) | Local Time |
+| Afternoon | 10.02 Bayesian Statistics II | 10.04 PyMC3 and Bayesian Regression | Project Work Time | Outcomes | Local Time |
 | Labs      |  | 10.01 Bayes Practice | 10.02 Bayes Data |  |  | 
 | Deadlines | Week 9 Labs |  |  |  | Quiz 5 |
 
