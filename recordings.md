@@ -82,5 +82,5 @@
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 10.01 Bayesian Statistics I ([EC](https://youtu.be/sCPH6qwsxoE) \| WC) | 10.03 Simulation and MCMC (EC \| WC) | 10.05 Experimental Design (EC \| WC) | 10.06 A/B Testing (EC \| WC) |  |
+| Morning   | 10.01 Bayesian Statistics I ([EC](https://youtu.be/sCPH6qwsxoE) \| [WC](https://generalassembly.zoom.us/rec/play/tZR8f7ypqj83GtydtQSDVvB8W9S1Jq6shyId-aYIzE-yVHEDNAX0MOcUM-qvKWGL_qKgZT9q7C0ETW-v?continueMode=true)) | 10.03 Simulation and MCMC (EC \| WC) | 10.05 Experimental Design (EC \| WC) | 10.06 A/B Testing (EC \| WC) |  |
 | Afternoon | 10.02 Bayesian Statistics II ([EC](https://generalassembly.zoom.us/rec/share/u8d0bLXBqnJJZqf_t1P0A7wkQbznT6a81HBI-vMEmk0yMIVGDSzs3nwV5EHFGmdP) \| [WC](https://generalassembly.zoom.us/rec/share/7OtELLvZxHNOS5XU7EaYWpExPt3qX6a81ykcrqIKyx3SIdDKf0LvuiA9t5Giklan)) | 10.04 PyMC3 and Bayesian Regression (EC \| WC) |  |  |  |
