@@ -127,8 +127,8 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [10.01 Bayesian Statistics I](https://git.generalassemb.ly/DSI-US-10/10.01-lesson-intro-to-bayes) | 10.03 Simulation and MCMC | 10.05 Experimental Design | 10.06 A/B Testing | Local Time |
-| Afternoon | [10.02 Bayesian Statistics II](https://git.generalassemb.ly/DSI-US-10/10.02-lesson-bayesian-inference-2) | 10.04 PyMC3 and Bayesian Regression | Project Work Time | Outcomes | Local Time |
+| Morning   | [10.01 Bayesian Statistics I](https://git.generalassemb.ly/DSI-US-10/10.01-lesson-intro-to-bayes) | [10.03 Simulation and MCMC](https://git.generalassemb.ly/DSI-US-10/10.03-lesson-simulation-and-mcmc) | 10.05 Experimental Design | 10.06 A/B Testing | Local Time |
+| Afternoon | [10.02 Bayesian Statistics II](https://git.generalassemb.ly/DSI-US-10/10.02-lesson-bayesian-inference-2) | [10.04 PyMC3 and Bayesian Regression](https://git.generalassemb.ly/DSI-US-10/10.04-lesson-pymc-bayesian-regression) | Project Work Time | Outcomes | Local Time |
 | Labs      |  | [10.01 Bayes Practice](https://git.generalassemb.ly/DSI-US-10/10.01-lab-bayes-practice) | [10.02 Bayes Data](https://git.generalassemb.ly/DSI-US-10/10.02-lab-bayes-data) |  |  | 
 | Deadlines | Week 9 Labs |  |  |  | Quiz 5 |
 
