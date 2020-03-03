@@ -91,4 +91,4 @@
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 11.01 Introduction to Neural Networks ([EC](https://generalassembly.zoom.us/rec/play/tZQtc72vrz83HdCV4wSDA_ArW9S8LqOs1HQaqfoMyx3nVXcCOlOvN7EWMOCYIOwL3trwdFoNqIQOUu0c?continueMode=true) \| [WC](https://generalassembly.zoom.us/rec/play/uJcrfuihrDM3H92ctQSDAPN8W9XsKv6s1XcY8vJYz0bjBiMBYFvyYuFEMOpR2_vkK0u7l3_sc7KqdLuN?autoplay=true&continueMode=true&startTime=1583168702000)) | 11.03 Deep Learning Regularization | 11.05 Recurrent Neural Networks | 11.06 GridSearch with Keras |  |
-| Afternoon | 11.02 Introduction to Keras | 11.04 Convolutional Neural Networks |  |  |  |
+| Afternoon | 11.02 Introduction to Keras ([EC](https://generalassembly.zoom.us/rec/share/xcVsH7Ot625IToX90QaOBpIrMobgT6a8hClLqfJYzUZc6TvI2N8lhReGoVS82jc5) \| [WC](https://generalassembly.zoom.us/rec/share/vc13ML3aqFpJRquKtEvPd49iLq_fT6a8hCIY_6FexByKw2tHXmSqpOuWkmfVJPr1) ) | 11.04 Convolutional Neural Networks |  |  |  |
