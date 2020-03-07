@@ -6,6 +6,7 @@
 * Atlanta Guest Lecture: [Intro to R](https://youtu.be/3xjFZ8qCBT8)
 * Client Project Kickoff: [EC](https://generalassembly.zoom.us/rec/play/v8ArJuus_D03T4WctgSDVKMvW467eqOs1yZLqfRbmky8UiQBOwGiY7cXZOGDIOs1mvP0U7xmirkj_waC?autoplay=true&continueMode=true&startTime=1580403862000) \| [WC](https://generalassembly.zoom.us/rec/play/tMEofuD8qG03HNCQuASDAf97W47rJ6isgCVKqPJbyRy3AHIDMFChZ-ASN7SEkTZzPN48zSQMVu6xss22?autoplay=true&continueMode=true&startTime=1580411144000)
 * Graduation Tracker & CDS1: [Recording](https://generalassembly.zoom.us/rec/play/7JMlJL_6rDo3TIfAtgSDAfYsW43rL6is0igZrKdbnkeyW3QKNwD3MrcRY7PovC65UYd9_s0d75E-L2vb?autoplay=true&continueMode=true&startTime=1582919342000)
+* DC Guest Lecture: [Intro to R](https://www.youtube.com/watch?v=FZCWxHPPB-g&feature=youtu.be)
 
 #### Week 1 - Getting Started: Python for Data Science (December 9 - December 13)
 
