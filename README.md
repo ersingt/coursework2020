@@ -31,7 +31,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 
 # ![GA Logo](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67) Schedule
 
-#### Week 1 - Getting Started: Python for Data Science (December 9 - December 13)
+#### Week 1 - Getting Started: Python for Data Science (March 16 - March 20)
 
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
@@ -40,7 +40,11 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Labs |  | 1.01 Pokemon Lab |  | 1.02 Loot Boxes Lab |  |
 | Deadlines |  |  |  |  | Quiz 1 |
 
-#### Week 2 - Exploratory Data Analysis (December 16 - December 20)
+---
+#### Everything below this point is subject to change
+---
+
+#### Week 2 - Exploratory Data Analysis (March 23 - March 27)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -49,18 +53,8 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Labs | 2.01 Titanic EDA |  | 2.02 Excel Madness! |  |  |
 | Deadlines | Week 1 Labs |  | Blog Post 1 |  | Project 1 |
 
-#### HOLIDAY BREAK WEEK - (December 23 - December 27)
 
-#### Week 2+ (December 30 - January 3)
-
-|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | NO CLASS | NO CLASS | NO CLASS | 2.06 Object-Oriented Programming (OOP) | 2.07 Ethics & Plagiarism |
-| Afternoon   | NO CLASS | NO CLASS | NO CLASS | Outcomes Programming | Local Time |
-| Labs |  |  |  |  |  |
-| Deadlines |  |  |  | Week 2 Labs |  |
-
-#### Week 3 - Regression (January 6 - January 10)
+#### Week 3 - Regression (March 30 - April 3)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -69,7 +63,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Labs | 3.01 Linear Regression Lab | | | 3.02 Validation Lab | |
 | Deadlines |  |  |  |  | Quiz 2 |
 
-#### Week 4 - Classification (January 13 - January 17)
+#### Week 4 - Classification (April 6 - April 10)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -78,7 +72,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Labs | 4.01 Classification Model Comparison | 4.02 Classification Model Evaluation | | | |
 | Deadlines | Week 3 Labs |  | Blog Post 2 |  | Project 2 |
 
-#### Week 5 - Web Scraping, APIs and NLP (January 20 - January 24)
+#### Week 5 - Web Scraping, APIs and NLP (April 13 - April 17)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -87,7 +81,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Labs | | 5.01 Scraping Lab | 5.02 NLP Lab |  | Guest Speaker: Zach Morris |
 | Deadlines | Week 4 Labs |  |  |  | Quiz 3 |
 
-#### Week 6 - Advanced Supervised Learning (January 27 - January 31)
+#### Week 6 - Advanced Supervised Learning (April 20 - April 24)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -96,7 +90,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Labs | 6.01 Supervised Model Comparison | | | |
 | Deadlines | Week 5 Labs |  | Blog Post 3 |  | Project 3 Presentation |
 
-#### Week 7 - Big Data & Data Engineering (February 3 - February 7)
+#### Week 7 - Big Data & Data Engineering (April 27 - May 1)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -105,7 +99,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Labs      |  | 7.01 SQL Lab | 7.02 Spark Model |  |  |
 | Deadlines |  | Week 6 Labs | Capstone Check-In 1 |  | Quiz 4 |
 
-#### Week 8 - Unsupervised Learning (February 10 - February 14)
+#### Week 8 - Unsupervised Learning (May 4 - May 8)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -114,7 +108,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Labs      | 8.01 Clustering Lab | 8.02 PCA Lab |  |  |  |
 | Deadlines | Week 7 Labs |  | Blog Post 4 |  |  |
 
-#### Week 9 - Time Series Analysis (February 17 - February 21)
+#### Week 9 - Time Series Analysis (May 11 - May 15)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -123,7 +117,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Labs      | | 9.01 Correlated Data Lab | 9.02 Time Series Data Lab |  |  |
 | Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | Project 5 (Client) |
 
-#### Week 10 - Bayesian Statistics (February 24 - February 28)
+#### Week 10 - Bayesian Statistics (May 18 - May 22)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -132,7 +126,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Labs      |  | 10.01 Bayes Practice | 10.02 Bayes Data |  |  | 
 | Deadlines | Week 9 Labs |  |  |  | Quiz 5 |
 
-#### Week 11 - Deep Learning (March 2 - March 6)
+#### Week 11 - Deep Learning (May 25 - May 29)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
@@ -141,7 +135,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Labs     | 11.01 Conceptual Neural Networks Lab | 11.02 Applied Neural Networks Lab |  |  |  |
 | Deadlines | Week 10 Labs |  | Blog Post 5 & Capstone Check-In 3 |  | Quiz 6 |
 
-#### Week 12 - Flex Time & Capstones (March 9 - March 13)
+#### Week 12 - Flex Time & Capstones (June 1 - June 5)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
