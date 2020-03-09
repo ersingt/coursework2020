@@ -130,18 +130,26 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 11.01 Introduction to Neural Networks | 11.03 Deep Learning Regularization | 11.05 Recurrent Neural Networks | 11.06 GridSearch with Keras | Local Time |
-| Afternoon | 11.02 Introduction to Keras | 11.04 Convolutional Neural Networks | Project Work Time | Outcomes | Local Time |
-| Labs     | 11.01 Conceptual Neural Networks Lab | 11.02 Applied Neural Networks Lab |  |  |  |
+| Morning   | NO CLASS | 11.03 Deep Learning Regularization | 11.05 Recurrent Neural Networks | 11.06 GridSearch with Keras | Local Time |
+| Afternoon | NO CLASS | 11.04 Convolutional Neural Networks | Project Work Time | Outcomes | Local Time |
+| Labs     |  | 11.01 Conceptual Neural Networks Lab | 11.02 Applied Neural Networks Lab |  |  |
 | Deadlines | Week 10 Labs |  | Blog Post 5 & Capstone Check-In 3 |  | Quiz 6 |
 
 #### Week 12 - Flex Time & Capstones (June 1 - June 5)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 12.01 The Linux Environment & Shell Scripting | 12.02 Flask | Local Flex Time | Local Flex Time | Capstone Presentations |
-| Afternoon | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time | Graduation! |
+| Morning   | 12.01 The Linux Environment & Shell Scripting | 12.02 Flask | Local Flex Time | Local Flex Time | Local Flex Time |
+| Afternoon | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time |
 | Deadlines | Week 11 Labs | Capstone Check-In 4 | Blog Post 6 |  | Capstone Check-In 5 |
+
+#### Week 13 - Capstone Presentations (June 8)
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | Capstone Presentations |  |  |  |  |
+| Afternoon | Graduation! |  |  |  |  |
+| Deadlines |  |  |  |  |  |
 
 #### Zoom
 
