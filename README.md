@@ -145,7 +145,7 @@ https://git.generalassemb.ly/DSI-US-10/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [12.01 The Linux Environment & Shell Scripting](https://git.generalassemb.ly/DSI-US-10/12.01-lesson-linux-and-automation) | 12.02 Flask | Local Flex Time | Local Flex Time | Capstone Presentations |
+| Morning   | [12.01 The Linux Environment & Shell Scripting](https://git.generalassemb.ly/DSI-US-10/12.01-lesson-linux-and-automation) | [12.02 Flask](https://git.generalassemb.ly/DSI-US-10/12.02-lesson-flask-basics) | Local Flex Time | Local Flex Time | Capstone Presentations |
 | Afternoon | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time | Graduation! |
 | Deadlines | Week 11 Labs | Capstone Check-In 4 | Blog Post 6 |  | Capstone Check-In 5 |
 
