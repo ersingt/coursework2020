@@ -40,10 +40,6 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Labs |  | 1.01 Pokemon Lab |  | 1.02 Loot Boxes Lab |  |
 | Deadlines |  |  |  |  | Quiz 1 |
 
----
-#### Everything below this point is subject to change
----
-
 #### Week 2 - Exploratory Data Analysis (March 23 - March 27)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
@@ -53,6 +49,9 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Labs | 2.01 Titanic EDA |  | 2.02 Excel Madness! |  |  |
 | Deadlines | Week 1 Labs |  | Blog Post 1 |  | Project 1 |
 
+---
+#### Everything below this point is subject to change
+---
 
 #### Week 3 - Regression (March 30 - April 3)
 
