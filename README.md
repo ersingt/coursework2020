@@ -35,8 +35,8 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
-| Morning | [1.01 Git](https://git.generalassemb.ly/DSI-US-11/0.00-zero-day) | 1.03 Datatypes | 1.05 FUNctions | 1.07 Distributions - Discrete | 1.08 List Comprehensions |
-| Afternoon | [1.02 Command Line](https://git.generalassemb.ly/DSI-US-11/0.00-zero-day) | 1.04 Control Flow | 1.06 Probability | Outcomes Programming | Local Time |
+| Morning | Local Time and Welcome! | [1.02 Datatypes](https://git.generalassemb.ly/DSI-US-11/1.02-lesson-python-intro) | 1.04 FUNctions | 1.06 Distributions - Discrete | 1.07 List Comprehensions |
+| Afternoon | 1.01 Command Line | [1.03 Control Flow](https://git.generalassemb.ly/DSI-US-11/1.03-lesson-python-control-flow) | 1.05 Probability | Outcomes Programming | Local Time |
 | Labs |  | 1.01 Pokemon Lab |  | 1.02 Loot Boxes Lab |  |
 | Deadlines |  |  |  |  | Quiz 1 |
 
