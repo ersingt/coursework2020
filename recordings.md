@@ -2,7 +2,7 @@
 
 #### Week 1 - Getting Started: Python for Data Science (March 16 - March 20)
 
-Orientation & Global Introductions
+Orientation & Global Introductions (EC \| [WC](https://generalassembly.zoom.us/rec/play/6ccrdrip-Gg3T9XEtwSDBqItW429J_-s1nMZ-KEFnk-3ASYFNgGhZLIaMeEkV_ZDFo5nbd9JTR3tV109?continueMode=true))
 
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
