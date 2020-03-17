@@ -6,6 +6,6 @@ Orientation & Global Introductions (EC \| [WC](https://generalassembly.zoom.us/r
 
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
-| Morning | 1.01 Git | 1.03 Datatypes | 1.05 FUNctions | 1.07 Distributions - Discrete | 1.08 List Comprehensions |
-| Afternoon | 1.02 Command Line | 1.04 Control Flow | 1.06 Probability | | |
+| Morning | | 1.02 Datatypes | 1.04 FUNctions | 1.06 Distributions - Discrete | 1.07 List Comprehensions |
+| Afternoon | 1.01 Command Line ([EC](https://generalassembly.zoom.us/rec/play/u8cpdeGhqTs3TtTG4QSDAvArW469ffqs1nJLqPNfzhqzAXAAN1r3M-EbNOUX04-TBgU4q39o_nlNfaDM?continueMode=true) \| WC) | 1.03 Control Flow | 1.05 Probability | | |
 
