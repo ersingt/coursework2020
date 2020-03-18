@@ -6,6 +6,6 @@ Orientation & Global Introductions (EC \| [WC](https://generalassembly.zoom.us/r
 
 |         | Monday     | Tuesday    | Wednesday  | Thursday| Friday  |
 |---------|------------|------------|------------|---------|---------|
-| Morning | | 1.02 Datatypes | 1.04 FUNctions | 1.06 Distributions - Discrete | 1.07 List Comprehensions |
-| Afternoon | 1.01 Command Line ([EC](https://generalassembly.zoom.us/rec/play/u8cpdeGhqTs3TtTG4QSDAvArW469ffqs1nJLqPNfzhqzAXAAN1r3M-EbNOUX04-TBgU4q39o_nlNfaDM?continueMode=true) \| WC) | 1.03 Control Flow | 1.05 Probability | | |
+| Morning | | 1.02 Datatypes ([EC](https://generalassembly.zoom.us/rec/play/v8Z8c-ChqjM3HNDGsQSDUPVxW43sLv2s1CRL_fIFyR7kVHYDZgDwYONDMOSgVlKcBNYiHadsc9sc1sS-?continueMode=true) \| WC) | 1.04 FUNctions | 1.06 Distributions - Discrete | 1.07 List Comprehensions |
+| Afternoon | 1.01 Command Line ([EC](https://generalassembly.zoom.us/rec/play/u8cpdeGhqTs3TtTG4QSDAvArW469ffqs1nJLqPNfzhqzAXAAN1r3M-EbNOUX04-TBgU4q39o_nlNfaDM?continueMode=true) \| WC) | 1.03 Control Flow ([EC](https://generalassembly.zoom.us/rec/play/upIucer-rTg3T4CS4gSDAPN9W427KqOs0Xcf8vdYyU3gAnIFY1SvN-dBYONCvFTm1Jt0nph0RU9ywyHJ?continueMode=true) \| [WC](https://generalassembly.zoom.us/rec/play/7Jd-Ib_5rj43Etyc5QSDVPR9W9W8e62sgXAf_fMInUuwAHUBM1T1M7IVZOtV-MwwxLtrALss9a0GNeoc?autoplay=true&continueMode=true&startTime=1584479050000)) | 1.05 Probability | | |
 
