@@ -49,10 +49,6 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Labs | 2.01 Titanic EDA |  | 2.02 Excel Madness! |  |  |
 | Deadlines | Week 1 Labs |  | Blog Post 1 |  | [Project 1](https://git.generalassemb.ly/DSI-US-11/project_1) |
 
----
-#### Everything below this point is subject to change
----
-
 #### Week 3 - Regression (March 30 - April 3)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
@@ -60,7 +56,12 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Morning   | 3.01 Linear Regression | 3.02 Regression Evaluation Metrics | 3.04 Train/Test Split + Cross Validation | 3.06 Hypothesis Testing | 3.07 Model Workflow |
 | Afternoon | 3.01 Linear Regression | 3.03 Bias-Variance Tradeoff | 3.05 Feature Engineering | Outcomes Programming | Local Time |
 | Labs | 3.01 Linear Regression Lab | | | 3.02 Validation Lab | |
-| Deadlines |  |  |  |  | Quiz 2 |
+| Deadlines | Week 2 Labs |  |  |  | Quiz 2 |
+
+---
+#### Everything below this point is subject to change
+---
+
 
 #### Week 4 - Classification (April 6 - April 10)
 
