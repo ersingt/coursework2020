@@ -37,7 +37,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 |---------|------------|------------|------------|---------|---------|
 | Morning | Local Time and Welcome! | [1.02 Datatypes](https://git.generalassemb.ly/DSI-US-11/1.02-lesson-python-intro) | [1.04 FUNctions](https://git.generalassemb.ly/DSI-US-11/1.04-lesson-python-functions) | [1.06 Distributions - Discrete](https://git.generalassemb.ly/DSI-US-11/1.06-lesson-discrete-distributions) | 1.07 List Comprehensions |
 | Afternoon | [1.01 Command Line](https://git.generalassemb.ly/DSI-US-11/1.01-lesson-cli-git-global) | [1.03 Control Flow](https://git.generalassemb.ly/DSI-US-11/1.03-lesson-python-control-flow) | [1.05 Probability](https://git.generalassemb.ly/DSI-US-11/1.05-lesson-intro-to-probability) | Outcomes Programming | Local Time |
-| Labs |  | [1.01 Pokemon Lab](https://git.generalassemb.ly/DSI-US-11/1.01-lab-pokemon) |  | 1.02 Loot Boxes Lab |  |
+| Labs |  | [1.01 Pokemon Lab](https://git.generalassemb.ly/DSI-US-11/1.01-lab-pokemon) |  | [1.02 Loot Boxes Lab](https://git.generalassemb.ly/DSI-US-11/1.02-lab-loot-boxes/) |  |
 | Deadlines |  |  |  |  | Quiz 1 |
 
 #### Week 2 - Exploratory Data Analysis (March 23 - March 27)
