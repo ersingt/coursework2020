@@ -76,9 +76,9 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | NO CLASS | 5.01 Intro to HTML | 5.03 NLP I | 5.05 API Integration & Consumption | 5.06 Introduction to AWS |
-| Afternoon | NO CLASS | 5.02 BeautifulSoup | 5.04 NLP II | Outcomes Programming | Local Time |
-| Labs | | 5.01 Scraping Lab | 5.02 NLP Lab |  | Guest Speaker: Zach Morris |
+| Morning   | 5.01 Intro to HTML | 5.03 NLP I | 5.05 API Integration & Consumption | 5.06 Introduction to AWS | TBD |
+| Afternoon | 5.02 BeautifulSoup | 5.04 NLP II | Outcomes Programming | Local Time | TBD |
+| Labs | | 5.01 Scraping Lab | 5.02 NLP Lab |  | Guest Speaker: Zach Morris | TBD |
 | Deadlines | Week 4 Labs |  |  |  | Quiz 3 |
 
 #### Week 6 - Advanced Supervised Learning (April 20 - April 24)
@@ -112,8 +112,8 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | NO CLASS | 9.01 Intro to Time Series | 9.03 ARIMA Models | 9.05 Benford's Law | Project 5 (Client) |
-| Afternoon | NO CLASS | 9.02 Linear Time Series Modeling | 9.04 Advanced Time Series Models | Outcomes: Technical Interview Prep | Local Time |
+| Morning   | 9.01 Intro to Time Series | 9.03 ARIMA Models | 9.05 Benford's Law | Project 5 (Client) | TBD |
+| Afternoon | 9.02 Linear Time Series Modeling | 9.04 Advanced Time Series Models | Outcomes: Technical Interview Prep | Local Time | TBD |
 | Labs      | | 9.01 Correlated Data Lab | 9.02 Time Series Data Lab |  |  |
 | Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | Project 5 (Client) |
 
