@@ -15,7 +15,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Graduation-Requirements
 
 #### Weekly Prep
 
-TBD
+[Click here](https://git.generalassemb.ly/DSI-US-11/dsi-weekly)
 
 #### Instructor and TA Appointment Sign-Ups
 
