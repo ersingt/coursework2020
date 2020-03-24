@@ -46,7 +46,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [2.01 Pandas: Part 1](https://git.generalassemb.ly/DSI-US-11/2.01-intro-to-pandas) | [2.02 Principles of Data Visualization](https://git.generalassemb.ly/DSI-US-11/2.02-lesson-principles-of-data-visualization) | 2.03 Exploratory Data Analysis (EDA) |  2.05 Central Limit Theorem and Confidence Intervals | 2.06 Ethics & Plagiarism |
 | Afternoon | [2.01 Pandas: Part 2](https://git.generalassemb.ly/DSI-US-11/2.01-intro-to-pandas) | [2.02 Principles of Data Visualization](https://git.generalassemb.ly/DSI-US-11/2.02-lesson-principles-of-data-visualization) | [2.04 Distributions - Continuous](https://git.generalassemb.ly/DSI-US-11/2.04-lesson-continuous-distributions) | Outcomes Programming | Local Time |
-| Labs | [2.01 Titanic EDA](https://git.generalassemb.ly/DSI-US-11/2.01-lab-pandas-titanic) |  | 2.02 Excel Madness! |  |  |
+| Labs | [2.01 Titanic EDA](https://git.generalassemb.ly/DSI-US-11/2.01-lab-pandas-titanic) |  | [2.02 Excel Madness!](https://git.generalassemb.ly/DSI-US-11/2.02-lab-excel-madness) |  |  |
 | Deadlines | Week 1 Labs |  | Blog Post 1 |  | [Project 1](https://git.generalassemb.ly/DSI-US-11/project_1) |
 
 #### Week 3 - Regression (March 30 - April 3)
