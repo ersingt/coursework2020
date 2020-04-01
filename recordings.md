@@ -25,5 +25,5 @@ Orientation & Global Introductions (EC \| [WC](https://generalassembly.zoom.us/r
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 3.01 Linear Regression ([EC](https://youtu.be/qvI2T5K1NiE) \| [WC](https://youtu.be/mkw8IWA1jRs)) | 3.02 Regression Evaluation Metrics | 3.04 Train/Test Split + Cross Validation | 3.06 Hypothesis Testing | 3.07 Model Workflow |
-| Afternoon | 3.01 Linear Regression ([EC](https://youtu.be/dW6GcmTQdbc) \| [WC](https://youtu.be/Xb_1Oy4ixzo)) | 3.03 Bias-Variance Tradeoff | 3.05 Feature Engineering | | |
+| Morning   | 3.01 Linear Regression ([EC](https://youtu.be/qvI2T5K1NiE) \| [WC](https://youtu.be/mkw8IWA1jRs)) | 3.02 Regression Evaluation Metrics ([EC](https://www.youtube.com/watch?v=qVj6HC_3lbg&feature=youtu.be) \| [WC](https://www.youtube.com/watch?v=ZFWoiR1PSRk&feature=youtu.be)) | 3.04 Train/Test Split + Cross Validation | 3.06 Hypothesis Testing | 3.07 Model Workflow |
+| Afternoon | 3.01 Linear Regression ([EC](https://youtu.be/dW6GcmTQdbc) \| [WC](https://youtu.be/Xb_1Oy4ixzo)) | 3.03 Bias-Variance Tradeoff ([EC](https://www.youtube.com/watch?v=D8ZZjx7zA10) \| [WC A](https://youtu.be/uICN_P1Omak) [WC B](https://youtu.be/e8e91dEXt60)) | 3.05 Feature Engineering | | |
