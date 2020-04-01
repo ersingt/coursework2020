@@ -2,6 +2,7 @@
 
 # Bonus Recordings
 * [Tues, Mar 24 - Group OH (Swiss Dog Owners data)](https://www.youtube.com/watch?v=_WZqr5PQqWM&feature=youtu.be)
+* [Tues, Mar 31 - Group OH (linear regression, log transformations, standard deviation, EDA)](https://youtu.be/LAjSzMCGeLk)
 
 # Lesson Recordings
 #### Week 1 - Getting Started: Python for Data Science (March 16 - March 20)
