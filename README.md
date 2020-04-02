@@ -67,18 +67,18 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Labs | 4.01 Classification Model Comparison | 4.02 Classification Model Evaluation | | | |
 | Deadlines | Week 3 Labs |  | Blog Post 2 |  | [Project 2](https://git.generalassemb.ly/DSI-US-11/project_2) |
 
----
-#### Everything below this point is subject to change
----
-
 #### Week 5 - Web Scraping, APIs and NLP (April 13 - April 17)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 5.01 Intro to HTML | 5.03 NLP I | 5.05 API Integration & Consumption | 5.06 Introduction to AWS | TBD |
-| Afternoon | 5.02 BeautifulSoup | 5.04 NLP II | Local Time | Outcomes Programming | TBD |
-| Labs | | 5.01 Scraping Lab | 5.02 NLP Lab |  | Guest Speaker: Zach Morris | TBD |
+| Morning   | 5.01 Intro to HTML | 5.03 NLP I | 5.05 API Integration & Consumption | 5.06 Introduction to AWS | 5.07 Object Oriented Programming |
+| Afternoon | 5.02 BeautifulSoup | 5.04 NLP II | Local Time | Outcomes Programming | Local Time |
+| Labs | 5.01 Scraping Lab | 5.02 NLP Lab | | | Guest Speaker: Zach Morris |
 | Deadlines | Week 4 Labs |  |  |  | Quiz 3 |
+
+---
+#### Everything below this point is subject to change
+---
 
 #### Week 6 - Advanced Supervised Learning (April 20 - April 24)
 
