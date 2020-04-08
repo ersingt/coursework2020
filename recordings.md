@@ -33,5 +33,5 @@ Orientation & Global Introductions (EC \| [WC](https://generalassembly.zoom.us/r
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 4.01 Intro to Classification + Logistic Regression ([EC-1](https://youtu.be/yWz0UgXVpU8) [EC-2](https://youtu.be/G6nncLQCP0k) \| WC) | 4.03 Classification Metrics I (EC \| WC) | 4.05 Regularization (EC \| WC) | 4.06 Hyperparameters, Gridsearch and Pipelines (EC \| WC) |  |
+| Morning   | 4.01 Intro to Classification + Logistic Regression ([EC-1](https://youtu.be/yWz0UgXVpU8) [EC-2](https://youtu.be/G6nncLQCP0k) \| WC) | 4.03 Classification Metrics I (EC \| WC) | 4.05 Regularization ([EC](https://youtu.be/dGAFHc6KtTo) \| [WC](https://youtu.be/XKzh1Egaf9k)) | 4.06 Hyperparameters, Gridsearch and Pipelines (EC \| WC) |  |
 | Afternoon | 4.02 k-Nearest Neighbors ([EC](https://youtu.be/FhXXHCM6OAo) \| WC) | 4.04 Classification Metrics II ([EC](https://youtu.be/rIkyv2mUCrg) \| WC) |  |  |  |
