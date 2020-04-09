@@ -154,5 +154,5 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 
 | Coast      | URL                                         | Meeting ID | Password |
 |------------|---------------------------------------------|------------|----------|
-| East Coast | https://generalassembly.zoom.us/s/346509440 | TBD        | TBD      |
+| East Coast | [Link](https://generalassembly.zoom.us/j/346509440?pwd=MmlXeEhCOG81TTE2a1ZzSmczQW5hUT09) | 346 509 440 | 721729      |
 | West Coast | [Link](https://generalassembly.zoom.us/j/620270527?pwd=Tkdpc29RZ0tCdGVpUjJDVGFHd3d0Zz09) | 620 270 527 | 008743 |
