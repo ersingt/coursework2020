@@ -3,6 +3,7 @@
 # Bonus Recordings
 * [Tues, Mar 24 - Group OH (Swiss Dog Owners data)](https://www.youtube.com/watch?v=_WZqr5PQqWM&feature=youtu.be)
 * [Tues, Mar 31 - Group OH (linear regression, log transformations, standard deviation, EDA)](https://youtu.be/LAjSzMCGeLk)
+* [Fri, Apr 10 - Group OH (Pipeline and GridSearchCV)](https://youtu.be/SAESvv0pV4Y)
 * [Project 2 - How to submit predictions to Kaggle](https://generalassembly.zoom.us/rec/share/zOFlH_bQ0W9Lb6vH1k_6BJMoNbT7X6a80XMd8_sIyEcyxju8nAfGmuwQDAu016X-)
 
 # Lesson Recordings
