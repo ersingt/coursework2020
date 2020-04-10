@@ -63,7 +63,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [4.01 Intro to Classification + Logistic Regression](https://git.generalassemb.ly/DSI-US-11/4.01-lesson-logistic-regression) | [4.03 Classification Metrics I](https://git.generalassemb.ly/DSI-US-11/4.03-lesson-classification_metrics_i) | [4.05 Regularization](https://git.generalassemb.ly/DSI-US-11/4.05-lesson-regularization) | [4.06 Hyperparameters, Gridsearch and Pipelines](https://git.generalassemb.ly/DSI-US-11/4.06-lesson-hyperparameters-gridsearch-and-pipelines) | [Project 2 Due](https://git.generalassemb.ly/DSI-US-11/project_2) |
-| Afternoon | [4.02 k-Nearest Neighbors](https://git.generalassemb.ly/DSI-US-11/4.02-lesson-knn) | [4.04 Classification Metrics II](https://git.generalassemb.ly/DSI-US-11/4.04-lesson-classification-metrics-ii) | Project Work Time | Outcomes Programming | Local Time |
+| Afternoon | [4.02 k-Nearest Neighbors](https://git.generalassemb.ly/DSI-US-11/4.02-lesson-knn) | [4.04 Classification Metrics II](https://git.generalassemb.ly/DSI-US-11/4.04-lesson-classification-metrics-ii) | Project Work Time | Outcomes Programming | Guest Speaker: Emma Grimes |
 | Labs | [4.01 Classification Model Comparison](https://git.generalassemb.ly/DSI-US-11/4.01-lab-classification-model-comparison) | [4.02 Classification Model Evaluation](https://git.generalassemb.ly/DSI-US-11/4.02-lab-classification-model-evaluation) | | | |
 | Deadlines | Week 3 Labs |  | Blog Post 2 |  | [Project 2](https://git.generalassemb.ly/DSI-US-11/project_2) |
 
@@ -73,7 +73,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 5.01 Intro to HTML | 5.03 NLP I | 5.05 API Integration & Consumption | 5.06 Introduction to AWS | 5.07 Object Oriented Programming |
 | Afternoon | 5.02 BeautifulSoup | 5.04 NLP II | Local Time | Outcomes Programming | Local Time |
-| Labs | 5.01 Scraping Lab | 5.02 NLP Lab | | | Guest Speaker: Zach Morris |
+| Labs | 5.01 Scraping Lab | 5.02 NLP Lab | | | Potential Guest Speaker |
 | Deadlines | Week 4 Labs |  |  |  | Quiz 3 |
 
 ---
@@ -85,7 +85,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 6.01 CART | 6.03 Random Forests and Extra Trees | 6.05 SVMs | 6.07 Gradient Descent | [Project 3](https://git.generalassemb.ly/DSI-US-11/project_3) |
-| Afternoon | 6.02 Bootstrapping and Bagging | 6.04 Boosting | 6.06 GLMs | Outcomes Programming | Local Time |
+| Afternoon | 6.02 Bootstrapping and Bagging | 6.04 Boosting | 6.06 GLMs | Outcomes Programming | Guest Speaker: Alexis Johnson-Gresham |
 | Labs | 6.01 Supervised Model Comparison | | | |
 | Deadlines | Week 5 Labs |  | Blog Post 3 |  | [Project 3 Presentation](https://git.generalassemb.ly/DSI-US-11/project_3) |
 
@@ -94,7 +94,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | Project 4 (Hackathon) | 7.01 SQL I | 7.03 Introduction to Scala | 7.05 SparkML | 7.06 Pipelines & Cross Validation in Spark |
-| Afternoon | Project 4 (Hackathon) | 7.02 SQL II | 7.04 DataFrames in Spark | Outcomes | Local Time |
+| Afternoon | Project 4 (Hackathon) | 7.02 SQL II | 7.04 DataFrames in Spark | Outcomes | Guest Speaker: Joseph Nelson |
 | Labs      |  | 7.01 SQL Lab | 7.02 Spark Model |  |  |
 | Deadlines |  | Week 6 Labs | Capstone Check-In 1 |  | Quiz 4 |
 
@@ -103,7 +103,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 8.01 Intro to Clustering: K-Means | 8.03 PCA | 8.05 Missing Data | 8.06 Recommender Systems | 8.07 Word Vectors |
-| Afternoon | 8.02 DBSCAN Clustering | 8.04 Transfer Learning | Project Worktime | Outcomes | Local Time |
+| Afternoon | 8.02 DBSCAN Clustering | 8.04 Transfer Learning | Project Worktime | Outcomes | Guest Speaker: Ritika Bhasker |
 | Labs      | 8.01 Clustering Lab | 8.02 PCA Lab |  |  |  |
 | Deadlines | Week 7 Labs |  | Blog Post 4 |  |  |
 
@@ -112,7 +112,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 9.01 Intro to Time Series | 9.03 ARIMA Models | 9.05 Benford's Law | Project 5 (Client) | TBD |
-| Afternoon | 9.02 Linear Time Series Modeling | 9.04 Advanced Time Series Models | Outcomes: Technical Interview Prep | Local Time | TBD |
+| Afternoon | 9.02 Linear Time Series Modeling | 9.04 Advanced Time Series Models | Outcomes: Technical Interview Prep | Local Time | Guest Speaker: Zach Morris |
 | Labs      | | 9.01 Correlated Data Lab | 9.02 Time Series Data Lab |  |  |
 | Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | Project 5 (Client) |
 
@@ -121,7 +121,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 10.01 Bayesian Statistics I | 10.03 Simulation and MCMC | 10.05 Experimental Design | 10.06 A/B Testing | Local Time |
-| Afternoon | 10.02 Bayesian Statistics II | 10.04 PyMC3 and Bayesian Regression | Project Work Time | Outcomes | Local Time |
+| Afternoon | 10.02 Bayesian Statistics II | 10.04 PyMC3 and Bayesian Regression | Project Work Time | Outcomes | Potential Guest Speaker |
 | Labs      |  | 10.01 Bayes Practice | 10.02 Bayes Data |  |  | 
 | Deadlines | Week 9 Labs |  |  |  | Quiz 5 |
 
@@ -130,7 +130,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | NO CLASS | 11.03 Deep Learning Regularization | 11.05 Recurrent Neural Networks | 11.06 GridSearch with Keras | Local Time |
-| Afternoon | NO CLASS | 11.04 Convolutional Neural Networks | Project Work Time | Outcomes | Local Time |
+| Afternoon | NO CLASS | 11.04 Convolutional Neural Networks | Project Work Time | Outcomes | Guest Speaker: David Stroud |
 | Labs     |  | 11.01 Conceptual Neural Networks Lab | 11.02 Applied Neural Networks Lab |  |  |
 | Deadlines | Week 10 Labs |  | Blog Post 5 & Capstone Check-In 3 |  | Quiz 6 |
 
