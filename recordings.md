@@ -36,3 +36,10 @@ Orientation & Global Introductions (EC \| [WC](https://generalassembly.zoom.us/r
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 4.01 Intro to Classification + Logistic Regression ([EC-1](https://youtu.be/yWz0UgXVpU8) [EC-2](https://youtu.be/G6nncLQCP0k) \| WC) | 4.03 Classification Metrics I ([EC](https://youtu.be/RKrg3ypmsOI) \| [WC](https://youtu.be/uqyRdTGfcow)) | 4.05 Regularization ([EC](https://youtu.be/dGAFHc6KtTo) \| [WC](https://youtu.be/XKzh1Egaf9k)) | 4.06 Hyperparameters, Gridsearch and Pipelines (EC \| WC) |  |
 | Afternoon | 4.02 k-Nearest Neighbors ([EC](https://youtu.be/FhXXHCM6OAo) \| [WC](https://youtu.be/GRvYWZMmniU)) | 4.04 Classification Metrics II ([EC](https://youtu.be/rIkyv2mUCrg) \| WC) |  |  |  |
+
+#### Week 5 - Web Scraping, APIs and NLP (April 13 - April 17)
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | 5.01 Intro to HTML ([EC](https://youtu.be/UcdPnFICyjo) \| [WC](https://youtu.be/SFpit5M2DAM)) | 5.03 NLP I (EC \| WC) | 5.05 API Integration & Consumption (EC \| WC) | 5.06 Introduction to AWS (EC \| WC) | 5.07 Object Oriented Programming (EC \| WC) |
+| Afternoon | 5.02 BeautifulSoup ([EC](https://youtu.be/-zJ7cbE4j5A) \| [WC](https://youtu.be/ro8Ep-ojQLw)) | 5.04 NLP II (EC \| WC) |  |  |  |
