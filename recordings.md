@@ -41,5 +41,5 @@ Orientation & Global Introductions (EC \| [WC](https://generalassembly.zoom.us/r
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 5.01 Intro to HTML ([EC](https://youtu.be/UcdPnFICyjo) \| [WC](https://youtu.be/SFpit5M2DAM)) | 5.03 NLP I ([EC](https://youtu.be/1-hZ3ZtGHEQ) \| WC) | 5.05 API Integration & Consumption ([EC](https://youtu.be/95xC77uUEhM) \| [WC](https://youtu.be/v7u9buTdCls)) | 5.06 Introduction to AWS (EC \| WC) | 5.07 Object Oriented Programming (EC \| WC) |
+| Morning   | 5.01 Intro to HTML ([EC](https://youtu.be/UcdPnFICyjo) \| [WC](https://youtu.be/SFpit5M2DAM)) | 5.03 NLP I ([EC](https://youtu.be/1-hZ3ZtGHEQ) \| WC) | 5.05 API Integration & Consumption ([EC](https://youtu.be/95xC77uUEhM) \| [WC](https://youtu.be/v7u9buTdCls)) | 5.06 Introduction to AWS ([EC](https://youtu.be/Y6tWUwHtLeo) \| [WC](https://youtu.be/DVUQvWmji0w)) | 5.07 Object Oriented Programming (EC \| WC) |
 | Afternoon | 5.02 BeautifulSoup ([EC](https://youtu.be/-zJ7cbE4j5A) \| [WC](https://youtu.be/ro8Ep-ojQLw)) | 5.04 NLP II ([EC](https://youtu.be/zN5F178CTPI) \| WC) |  |  |  |
