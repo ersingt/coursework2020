@@ -76,10 +76,6 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Labs | [5.01 Scraping Lab](https://git.generalassemb.ly/DSI-US-11/5.01-lab-webscraping) | [5.02 NLP Lab](https://git.generalassemb.ly/DSI-US-11/5.02-lab-nlp-naive-bayes) | | | [Guest Speaker: Mahdi Shadkam-Farrokhi](https://git.generalassemb.ly/DSI-US-11/guest-speakers) |
 | Deadlines | Week 4 Labs |  |  |  | Quiz 3 |
 
----
-#### Everything below this point is subject to change
----
-
 #### Week 6 - Advanced Supervised Learning (April 20 - April 24)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
@@ -88,6 +84,12 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Afternoon | 6.02 Bootstrapping and Bagging | 6.04 Boosting | 6.06 GLMs | Outcomes Programming | Guest Speaker: Alexis Johnson-Gresham |
 | Labs | 6.01 Supervised Model Comparison | | | |
 | Deadlines | Week 5 Labs |  | Blog Post 3 |  | [Project 3 Presentation](https://git.generalassemb.ly/DSI-US-11/project_3) |
+
+---
+
+#### Everything below this point is subject to change.
+
+---
 
 #### Week 7 - Big Data & Data Engineering (April 27 - May 1)
 
