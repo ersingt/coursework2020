@@ -5,7 +5,7 @@
 * [Tues, Mar 31 - Group OH (linear regression, log transformations, standard deviation, EDA)](https://youtu.be/LAjSzMCGeLk)
 * [Fri, Apr 10 - Group OH (Pipeline and GridSearchCV)](https://youtu.be/SAESvv0pV4Y)
 * [Project 2 - How to submit predictions to Kaggle](https://generalassembly.zoom.us/rec/share/zOFlH_bQ0W9Lb6vH1k_6BJMoNbT7X6a80XMd8_sIyEcyxju8nAfGmuwQDAu016X-)
-* [Thurs, Apr 16 - Group OH (Reddit API and NLP)]() (_soon_)
+* [Thurs, Apr 16 - Group OH (Reddit API and NLP)](https://www.youtube.com/watch?v=WJpevrznalI&feature=youtu.be)
 * Advent of Code Day 2 challenge solutions: [Part 1](https://youtu.be/wHFaniciGbQ) \| [Part 2](https://youtu.be/DkUuogWTkL8) \| [Part 3](https://youtu.be/LV7bE4xuMZs)
 
 # Lesson Recordings
