@@ -45,3 +45,10 @@ Orientation & Global Introductions (EC \| [WC](https://generalassembly.zoom.us/r
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 5.01 Intro to HTML ([EC](https://youtu.be/UcdPnFICyjo) \| [WC](https://youtu.be/SFpit5M2DAM)) | 5.03 NLP I ([EC](https://youtu.be/1-hZ3ZtGHEQ) \| WC) | 5.05 API Integration & Consumption ([EC](https://youtu.be/95xC77uUEhM) \| [WC](https://youtu.be/v7u9buTdCls)) | 5.06 Introduction to AWS ([EC](https://youtu.be/Y6tWUwHtLeo) \| [WC](https://youtu.be/DVUQvWmji0w)) | 5.07 Object Oriented Programming ([EC](https://www.youtube.com/watch?v=l35Jba7XvMo&feature=youtu.be) \| [WC](https://www.youtube.com/watch?v=7l5H9WKboX4&feature=youtu.be)) |
 | Afternoon | 5.02 BeautifulSoup ([EC](https://youtu.be/-zJ7cbE4j5A) \| [WC](https://youtu.be/ro8Ep-ojQLw)) | 5.04 NLP II ([EC](https://youtu.be/zN5F178CTPI) \| WC) |  |  |  |
+
+#### Week 6 - Advanced Supervised Learning (April 20 - April 24)
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | 6.01 CART | 6.03 Random Forests and Extra Trees | 6.05 SVMs | 6.07 Gradient Descent | |
+| Afternoon | 6.02 Bootstrapping and Bagging | 6.04 Boosting | 6.06 GLMs | | |
