@@ -50,5 +50,5 @@ Orientation & Global Introductions (EC \| [WC](https://generalassembly.zoom.us/r
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 6.01 CART | 6.03 Random Forests and Extra Trees | 6.05 SVMs | 6.07 Gradient Descent | |
-| Afternoon | 6.02 Bootstrapping and Bagging | 6.04 Boosting | 6.06 GLMs | | |
+| Morning   | 6.01 CART (EC \| WC) | 6.03 Random Forests and Extra Trees (EC \| WC) | 6.05 SVMs (EC \| WC) | 6.07 Gradient (EC \| WC) Descent | |
+| Afternoon | 6.02 Bootstrapping and Bagging (EC \| WC) | 6.04 Boosting (EC \| WC) | 6.06 GLMs (EC \| WC) | | |
