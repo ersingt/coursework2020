@@ -1,4 +1,3 @@
-
 # ![GA Logo](https://camo.githubusercontent.com/6ce15b81c1f06d716d753a61f5db22375fa684da/68747470733a2f2f67612d646173682e73332e616d617a6f6e6177732e636f6d2f70726f64756374696f6e2f6173736574732f6c6f676f2d39663838616536633963333837313639306533333238306663663535376633332e706e67) Handy Links
 
 #### Capstone Guidelines & Schedule
@@ -81,7 +80,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [6.01 CART] | 6.03 Random Forests and Extra Trees | 6.05 SVMs | 6.07 Gradient Descent | [Project 3](https://git.generalassemb.ly/DSI-US-11/project_3) |
-| Afternoon | 6.02 Bootstrapping and Bagging | 6.04 Boosting | 6.06 GLMs | Outcomes Programming | Guest Speaker: Alexis Johnson-Gresham |
+| Afternoon | [6.02 Bootstrapping and Bagging](https://git.generalassemb.ly/DSI-US-11/6.02-lesson-bagging) | 6.04 Boosting | 6.06 GLMs | Outcomes Programming | Guest Speaker: Alexis Johnson-Gresham |
 | Labs | 6.01 Supervised Model Comparison | | | |
 | Deadlines | Week 5 Labs |  | Blog Post 3 |  | [Project 3 Presentation](https://git.generalassemb.ly/DSI-US-11/project_3) |
 
