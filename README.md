@@ -84,12 +84,6 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Labs | [6.01 Supervised Model Comparison](https://git.generalassemb.ly/DSI-US-11/6.01-lab-supervised-learning-models) | | | |
 | Deadlines | Week 5 Labs |  | Blog Post 3 |  | [Project 3 Presentation](https://git.generalassemb.ly/DSI-US-11/project_3) |
 
----
-
-#### Everything below this point is subject to change.
-
----
-
 #### Week 7 - Big Data & Data Engineering (April 27 - May 1)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
@@ -98,6 +92,12 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Afternoon | Project 4 (Hackathon) | 7.02 SQL II | 7.04 DataFrames in Spark | Outcomes | Guest Speaker: Joseph Nelson |
 | Labs      |  | 7.01 SQL Lab | 7.02 Spark Model |  |  |
 | Deadlines |  | Week 6 Labs | Capstone Check-In 1 |  | Quiz 4 |
+
+---
+
+#### Everything below this point is subject to change.
+
+---
 
 #### Week 8 - Unsupervised Learning (May 4 - May 8)
 
