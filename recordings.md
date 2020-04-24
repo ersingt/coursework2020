@@ -7,6 +7,7 @@
 * [Project 2 - How to submit predictions to Kaggle](https://generalassembly.zoom.us/rec/share/zOFlH_bQ0W9Lb6vH1k_6BJMoNbT7X6a80XMd8_sIyEcyxju8nAfGmuwQDAu016X-)
 * [Thurs, Apr 16 - Group OH (Reddit API and NLP)](https://www.youtube.com/watch?v=WJpevrznalI&feature=youtu.be)
 * Advent of Code Day 2 challenge solutions: [Part 1](https://youtu.be/wHFaniciGbQ) \| [Part 2](https://youtu.be/DkUuogWTkL8) \| [Part 3](https://youtu.be/LV7bE4xuMZs)
+* [Tues, Apr 21 - Group OH (vectorizers, transformers, NLP)](https://youtu.be/rplJvh1aCk0)
 
 # Lesson Recordings
 #### Week 1 - Getting Started: Python for Data Science (March 16 - March 20)
