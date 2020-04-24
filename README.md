@@ -112,10 +112,10 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 9.01 Intro to Time Series | 9.03 ARIMA Models | 9.05 Benford's Law | Project 5 (Client) | TBD |
+| Morning   | 9.01 Intro to Time Series | 9.03 ARIMA Models | 9.05 Benford's Law | TBD | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-11/project-client-project) |
 | Afternoon | 9.02 Linear Time Series Modeling | 9.04 Advanced Time Series Models | Outcomes: Technical Interview Prep | Local Time | Guest Speaker: Zach Morris |
 | Labs      | | 9.01 Correlated Data Lab | 9.02 Time Series Data Lab |  |  |
-| Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | Project 5 (Client) |
+| Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-11/project-client-project) |
 
 #### Week 10 - Bayesian Statistics (May 18 - May 22)
 
