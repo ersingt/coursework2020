@@ -53,3 +53,10 @@ Orientation & Global Introductions (EC \| [WC](https://generalassembly.zoom.us/r
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 6.01 CART ([EC](https://youtu.be/Jko90enGI68) \| WC) | 6.03 Random Forests and Extra Trees (EC \| WC) | 6.05 SVMs ([EC](https://youtu.be/IfKaF_Q5xTI) \| [WC](https://youtu.be/1MJ-m32IdfQ)) | 6.07 Gradient Descent ([EC](https://youtu.be/1e8ttkOzJnA) \| [WC](https://youtu.be/Q58UYgVmCdY)) | |
 | Afternoon | 6.02 Bootstrapping and Bagging ([EC](https://youtu.be/fm6DINV8uho) \| WC) | 6.04 Boosting (EC \| WC) | 6.06 GLMs ([EC](https://youtu.be/-raG506eR4s) \| [WC](https://youtu.be/LPYVblm0-uQ)) | | |
+
+#### Week 7 - Big Data & Data Engineering (April 27 - May 1)
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   |  | 7.01 SQL I ([EC](https://youtu.be/iaUU0u2VEjE) \| WC) | 7.03 Introduction to Scala (EC \| WC) | 7.05 SparkML (EC \| WC) | 7.06 Pipelines & Cross Validation in Spark (EC \| WC) |
+| Afternoon |  | 7.02 SQL II (EC \| WC) | 7.04 DataFrames in Spark (EC \| WC) |  |  |
