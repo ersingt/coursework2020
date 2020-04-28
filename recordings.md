@@ -52,7 +52,7 @@ Orientation & Global Introductions (EC \| [WC](https://generalassembly.zoom.us/r
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 6.01 CART ([EC](https://youtu.be/Jko90enGI68) \| WC) | 6.03 Random Forests and Extra Trees (EC \| [WC](https://generalassembly.zoom.us/rec/share/95Jff-H950ZOUq_2zkHjeYkkJNTpeaa803QXq6YNzKk9NSK4v0ty6sz8vCyUCKk) PWD: 1H%*5C+& ) | 6.05 SVMs ([EC](https://youtu.be/IfKaF_Q5xTI) \| [WC](https://youtu.be/1MJ-m32IdfQ)) | 6.07 Gradient Descent ([EC](https://youtu.be/1e8ttkOzJnA) \| [WC](https://youtu.be/Q58UYgVmCdY)) | |
-| Afternoon | 6.02 Bootstrapping and Bagging ([EC](https://youtu.be/fm6DINV8uho) \| WC) | 6.04 Boosting (EC \| [WC](https://generalassembly.zoom.us/rec/share/y9VzP5fJ0UlIH6PW1HPmWPE_P9rUX6a80ycarvtbnxxbEpoQzjW7YVHP9QgM6rfe) PWD: 7S?9RM41 ) | 6.06 GLMs ([EC](https://youtu.be/-raG506eR4s) \| [WC](https://youtu.be/LPYVblm0-uQ)) | | |
+| Afternoon | 6.02 Bootstrapping and Bagging ([EC](https://youtu.be/fm6DINV8uho) \| WC) | 6.04 Boosting ([EC](https://youtu.be/2usmDgyPrH0) \| [WC](https://generalassembly.zoom.us/rec/share/y9VzP5fJ0UlIH6PW1HPmWPE_P9rUX6a80ycarvtbnxxbEpoQzjW7YVHP9QgM6rfe) PWD: 7S?9RM41 ) | 6.06 GLMs ([EC](https://youtu.be/-raG506eR4s) \| [WC](https://youtu.be/LPYVblm0-uQ)) | | |
 
 #### Week 7 - Big Data & Data Engineering (April 27 - May 1)
 
