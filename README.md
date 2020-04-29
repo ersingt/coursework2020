@@ -93,20 +93,20 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Labs      |  | [7.01 SQL Lab](https://git.generalassemb.ly/DSI-US-11/7.01-lab-sql) |  | [7.02 Spark Model](https://git.generalassemb.ly/DSI-US-11/7.02-lab-spark-model) |  |
 | Deadlines |  | Week 6 Labs | Capstone Check-In 1 |  | Quiz 4 |
 
+#### Week 8 - Unsupervised Learning (May 4 - May 8)
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | 8.01 Intro to Clustering: K-Means | [8.03 PCA](https://git.generalassemb.ly/DSI-US-11/8.03-lesson-principal-component-analysis) | 8.05 Missing Data | 8.06 Recommender Systems | 8.07 Word Vectors |
+| Afternoon | 8.02 DBSCAN Clustering | 8.04 Transfer Learning | Project Worktime | Outcomes | Guest Speaker: Ritika Bhasker |
+| Labs      | 8.01 Clustering Lab | 8.02 PCA Lab |  |  |  |
+| Deadlines | Week 7 Labs |  | Blog Post 4 |  |  |
+
 ---
 
 #### Everything below this point is subject to change.
 
 ---
-
-#### Week 8 - Unsupervised Learning (May 4 - May 8)
-
-|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 8.01 Intro to Clustering: K-Means | 8.03 PCA | 8.05 Missing Data | 8.06 Recommender Systems | 8.07 Word Vectors |
-| Afternoon | 8.02 DBSCAN Clustering | 8.04 Transfer Learning | Project Worktime | Outcomes | Guest Speaker: Ritika Bhasker |
-| Labs      | 8.01 Clustering Lab | 8.02 PCA Lab |  |  |  |
-| Deadlines | Week 7 Labs |  | Blog Post 4 |  |  |
 
 #### Week 9 - Time Series Analysis (May 11 - May 15)
 
