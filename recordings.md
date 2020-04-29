@@ -58,5 +58,5 @@ Orientation & Global Introductions (EC \| [WC](https://generalassembly.zoom.us/r
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   |  | 7.01 SQL I ([EC](https://youtu.be/iaUU0u2VEjE) \| [WC](https://generalassembly.zoom.us/rec/share/uJN7IL_f13lJZauX-W_4WfUjBdzXX6a8hiker_BexB9m7vTnY2hUf1YE5C5hBfI) PWD: 9U!45=L+ ) | 7.03 Introduction to Scala (EC \| WC) | 7.05 SparkML (EC \| WC) | 7.06 Pipelines & Cross Validation in Spark (EC \| WC) |
-| Afternoon |  | 7.02 SQL II ([EC](https://youtu.be/N7lXjRek3r4) \| [WC](https://youtu.be/IvSqZr7hG6s)) | 7.04 DataFrames in Spark ([EC](https://youtu.be/4d6znY979rw) \| WC) |  |  |
+| Morning   |  | 7.01 SQL I ([EC](https://youtu.be/iaUU0u2VEjE) \| [WC](https://generalassembly.zoom.us/rec/share/uJN7IL_f13lJZauX-W_4WfUjBdzXX6a8hiker_BexB9m7vTnY2hUf1YE5C5hBfI) PWD: 9U!45=L+ ) | 7.02 Introduction to Scala ([EC](https://youtu.be/GpVYa4iN97I) \| [WC](https://youtu.be/o5HQndbCFIw)) | 7.04 SparkML (EC \| WC) | 7.05 Pipelines & Cross Validation in Spark (EC \| WC) |
+| Afternoon |  | 7.01 SQL II ([EC](https://youtu.be/N7lXjRek3r4) \| [WC](https://youtu.be/IvSqZr7hG6s)) | 7.03 DataFrames in Spark ([EC](https://youtu.be/4d6znY979rw) \| WC) |  |  |
