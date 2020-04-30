@@ -102,20 +102,20 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Labs      | 8.01 Clustering Lab | 8.02 PCA Lab |  |  |  |
 | Deadlines | Week 7 Labs |  | Blog Post 4 |  |  |
 
+#### Week 9 - Time Series Analysis (May 11 - May 15)
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | 9.01 Intro to Time Series | 9.03 ARIMA Models | 9.05 Benford's Law | 9.06 Flask | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-11/project-client-project) |
+| Afternoon | 9.02 Linear Time Series Modeling | 9.04 Advanced Time Series Models | Project Worktime | Outcomes: Technical Interview Prep | Guest Speaker: Zach Morris |
+| Labs      | | 9.01 Correlated Data Lab | 9.02 Time Series Data Lab |  |  |
+| Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-11/project-client-project) |
+
 ---
 
 #### Everything below this point is subject to change.
 
 ---
-
-#### Week 9 - Time Series Analysis (May 11 - May 15)
-
-|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
-|-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 9.01 Intro to Time Series | 9.03 ARIMA Models | 9.05 Benford's Law | TBD | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-11/project-client-project) |
-| Afternoon | 9.02 Linear Time Series Modeling | 9.04 Advanced Time Series Models | Outcomes: Technical Interview Prep | Local Time | Guest Speaker: Zach Morris |
-| Labs      | | 9.01 Correlated Data Lab | 9.02 Time Series Data Lab |  |  |
-| Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-11/project-client-project) |
 
 #### Week 10 - Bayesian Statistics (May 18 - May 22)
 
@@ -139,7 +139,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 12.01 The Linux Environment & Shell Scripting | 12.02 Flask | Local Flex Time | Local Flex Time | Local Flex Time |
+| Morning   | 12.01 The Linux Environment & Shell Scripting | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time |
 | Afternoon | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time |
 | Deadlines | Week 11 Labs | Capstone Check-In 4 | Blog Post 6 |  | Capstone Check-In 5 |
 
