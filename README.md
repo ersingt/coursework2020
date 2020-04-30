@@ -88,7 +88,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | Project 4 (Hackathon) | [7.01 SQL I](https://git.generalassemb.ly/DSI-US-11/7.01-lesson-sql) | [7.02 Introduction to Scala](https://git.generalassemb.ly/DSI-US-11/7.02-lesson-scala) | [7.04 SparkML](https://git.generalassemb.ly/DSI-US-11/7.04-lesson-spark-ml) | 7.05 Pipelines & Cross Validation in Spark |
+| Morning   | Project 4 (Hackathon) | [7.01 SQL I](https://git.generalassemb.ly/DSI-US-11/7.01-lesson-sql) | [7.02 Introduction to Scala](https://git.generalassemb.ly/DSI-US-11/7.02-lesson-scala) | [7.04 SparkML](https://git.generalassemb.ly/DSI-US-11/7.04-lesson-spark-ml) | [7.05 Pipelines & Cross Validation in Spark](https://git.generalassemb.ly/DSI-US-11/7.05-lesson-spark-pipelines) |
 | Afternoon | Project 4 (Hackathon) | [7.01 SQL II](https://git.generalassemb.ly/DSI-US-11/7.01-lesson-sql) | [7.03 DataFrames in Spark](https://git.generalassemb.ly/DSI-US-11/7.03-lesson-dataframes) | Outcomes | Guest Speaker: Joseph Nelson |
 | Labs      |  | [7.01 SQL Lab](https://git.generalassemb.ly/DSI-US-11/7.01-lab-sql) |  | [7.02 Spark Model](https://git.generalassemb.ly/DSI-US-11/7.02-lab-spark-model) |  |
 | Deadlines |  | Week 6 Labs | Capstone Check-In 1 |  | Quiz 4 |
