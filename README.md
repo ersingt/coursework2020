@@ -111,12 +111,6 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Labs      | 9.01 Correlated Data Lab | 9.02 Time Series Data Lab |  |  | |
 | Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-11/project-client-project) |
 
----
-
-#### Everything below this point is subject to change.
-
----
-
 #### Week 10 - Bayesian Statistics (May 18 - May 22)
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
@@ -134,6 +128,12 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Afternoon | NO CLASS | 11.02 Introduction to Keras | 11.04 Convolutional Neural Networks | Outcomes | [Guest Speaker: David Stroud](https://git.generalassemb.ly/DSI-US-11/guest-speakers) |
 | Labs     |  | 11.01 Conceptual Neural Networks Lab | 11.02 Applied Neural Networks Lab |  |  |
 | Deadlines | Week 10 Labs |  | Blog Post 5 & Capstone Check-In 3 |  | Quiz 6 |
+
+---
+
+#### Everything below this point is subject to change.
+
+---
 
 #### Week 12 - Flex Time & Capstones (June 1 - June 5)
 
