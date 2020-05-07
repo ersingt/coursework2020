@@ -9,6 +9,7 @@
 * Advent of Code Day 2 challenge solutions: [Part 1](https://youtu.be/wHFaniciGbQ) \| [Part 2](https://youtu.be/DkUuogWTkL8) \| [Part 3](https://youtu.be/LV7bE4xuMZs)
 * [Tues, Apr 21 - Group OH (vectorizers, transformers, NLP)](https://youtu.be/rplJvh1aCk0)
 * [Thurs, Apr 30 - Group OH (SQLite3 + PetDB)](https://youtu.be/EjlzQCtMKrM)
+* [Weds, May 6 - Group OH (client project, PCA, missing data)](https://youtu.be/qDDiTtCWIp4)
 
 # Lesson Recordings
 #### Week 1 - Getting Started: Python for Data Science (March 16 - March 20)
@@ -66,5 +67,5 @@ Orientation & Global Introductions (EC \| [WC](https://generalassembly.zoom.us/r
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 8.01 Intro to Clustering: K-Means ([EC](https://youtu.be/II_UfH2lBuE) \| [WC](https://youtu.be/juBQb_2wD4M))| 8.03 PCA ([EC](https://youtu.be/QRKZQq9iHdA) \| WC) | 8.05 Missing Data (EC \| WC) | 8.06 Recommender Systems (EC \| WC) | 8.07 Word Vectors (EC \| WC) |
+| Morning   | 8.01 Intro to Clustering: K-Means ([EC](https://youtu.be/II_UfH2lBuE) \| [WC](https://youtu.be/juBQb_2wD4M))| 8.03 PCA ([EC](https://youtu.be/QRKZQq9iHdA) \| WC) | 8.05 Missing Data ([EC](https://youtu.be/vx-VNV3xIZY) \| [WC](https://youtu.be/gNRZiIHBZLM)) | 8.06 Recommender Systems (EC \| WC) | 8.07 Word Vectors (EC \| WC) |
 | Afternoon | 8.02 DBSCAN Clustering ([EC](https://youtu.be/QI4RHKxhMr8) \| [WC](https://youtu.be/GzFSnu44Pik)) | 8.04 Transfer Learning ([EC](https://youtu.be/TSVOHWGn3II) \| [WC](https://youtu.be/uJ1E2blIOrU)) | | | |
