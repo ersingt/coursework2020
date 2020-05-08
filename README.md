@@ -106,7 +106,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 9.01 Intro to Time Series | 9.03 ARIMA Models | 9.05 Benford's Law | 9.06 Flask | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-11/project-client-project) |
+| Morning   | 9.01 Intro to Time Series | 9.03 ARIMA Models | 9.05 Benford's Law | [9.06 Flask](https://git.generalassemb.ly/DSI-US-11/9.06-lesson-flask-basics) | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-11/project-client-project) |
 | Afternoon | 9.02 Linear Time Series Modeling | 9.04 Advanced Time Series Models | Project Worktime | Outcomes: Technical Interview Prep | [Guest Speaker: Zach Morris](https://git.generalassemb.ly/DSI-US-11/guest-speakers) |
 | Labs      | 9.01 Correlated Data Lab | 9.02 Time Series Data Lab |  |  | |
 | Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-11/project-client-project) |
