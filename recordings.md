@@ -69,3 +69,11 @@ Orientation & Global Introductions (EC \| [WC](https://generalassembly.zoom.us/r
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 8.01 Intro to Clustering: K-Means ([EC](https://youtu.be/II_UfH2lBuE) \| [WC](https://youtu.be/juBQb_2wD4M))| 8.03 PCA ([EC](https://youtu.be/QRKZQq9iHdA) \| [WC](https://generalassembly.zoom.us/rec/share/y-V_DI7C1UFORqvWs3H6f6kaOoHdaaa80ycfr_AMmUne3ubUhFyDflwbjoyTD98y) Password: 4L=1a!%e ) | 8.05 Missing Data ([EC](https://youtu.be/vx-VNV3xIZY) \| [WC](https://youtu.be/gNRZiIHBZLM)) | 8.06 Recommender Systems ([EC](https://youtu.be/eo2RUVvl-Ss) \| [WC](https://youtu.be/CYiS6ABr9jw)) | 8.07 Word Vectors ([EC](https://youtu.be/JA4vDNAYqxY) \| [WC](https://youtu.be/FtSW7RlAD24)) |
 | Afternoon | 8.02 DBSCAN Clustering ([EC](https://youtu.be/QI4RHKxhMr8) \| [WC](https://youtu.be/GzFSnu44Pik)) | 8.04 Transfer Learning ([EC](https://youtu.be/TSVOHWGn3II) \| [WC](https://youtu.be/uJ1E2blIOrU)) | | | |
+
+#### Week 9 - Time Series Analysis (May 11 - May 15)
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | 9.01 Intro to Time Series ([EC](https://youtu.be/4LDSzlUqtyw) \| WC) | 9.03 ARIMA Models (EC \| WC) | 9.05 Benford's Law (EC \| WC) | 9.06 Flask (EC \| WC) |  |
+| Afternoon | 9.02 Linear Time Series Modeling (EC \| WC) | 9.04 Advanced Time Series Models (EC \| WC) |  |  |  |
+
