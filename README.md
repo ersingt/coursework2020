@@ -107,7 +107,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [9.01 Intro to Time Series](https://git.generalassemb.ly/DSI-US-11/9.01-lesson-timeseries) | 9.03 ARIMA Models | 9.05 Benford's Law | [9.06 Flask](https://git.generalassemb.ly/DSI-US-11/9.06-lesson-flask-basics) | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-11/project-client-project) |
-| Afternoon | [9.02 Linear Time Series Modeling](https://git.generalassemb.ly/DSI-US-11/9.02-lesson-linear-time-series-modeling) | 9.04 Advanced Time Series Models | Project Worktime | Outcomes: Technical Interview Prep | [Guest Speaker: Zach Morris](https://git.generalassemb.ly/DSI-US-11/guest-speakers) |
+| Afternoon | [9.02 Linear Time Series Modeling](https://git.generalassemb.ly/DSI-US-11/9.02-lesson-linear-time-series-modeling) | 9.04 Advanced Time Series Models | Project Worktime | Outcomes | [Guest Speaker: Zach Morris](https://git.generalassemb.ly/DSI-US-11/guest-speakers) |
 | Labs      | [9.01 Correlated Data Lab](https://git.generalassemb.ly/DSI-US-11/9.01-lab-correlated-data) | [9.02 Time Series Data Lab](https://git.generalassemb.ly/DSI-US-11/9.02-lab-time-series-arima) |  |  | |
 | Deadlines | Week 8 Labs |  | Capstone Check-In 2 |  | [Project 5 (Client)](https://git.generalassemb.ly/DSI-US-11/project-client-project) |
 
@@ -116,7 +116,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 10.01 Bayesian Statistics I | 10.03 Simulation and MCMC | 10.05 Experimental Design | 10.06 A/B Testing | Local Time |
-| Afternoon | 10.02 Bayesian Statistics II | 10.04 PyMC3 and Bayesian Regression | Project Work Time | Outcomes | [Guest Speaker: Pauline Chow](https://git.generalassemb.ly/DSI-US-11/guest-speakers) |
+| Afternoon | 10.02 Bayesian Statistics II | 10.04 PyMC3 and Bayesian Regression | Project Work Time | Outcomes: Technical Interview Prep | [Guest Speaker: Pauline Chow](https://git.generalassemb.ly/DSI-US-11/guest-speakers) |
 | Labs      | 10.01 Bayes Practice | 10.02 Bayes Data |  |  |  |
 | Deadlines | Week 9 Labs |  |  |  | Quiz 5 |
 
