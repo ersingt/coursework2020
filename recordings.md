@@ -74,6 +74,6 @@ Orientation & Global Introductions (EC \| [WC](https://generalassembly.zoom.us/r
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 9.01 Intro to Time Series ([EC](https://youtu.be/4LDSzlUqtyw) \| [WC](https://youtu.be/7dIjDDioziA)) | 9.03 ARIMA Models ([EC](https://youtu.be/nOzyAeGAlwY) \| [WC](https://youtu.be/jCtcGW1kxTs)) | 9.05 Benford's Law ([EC](https://youtu.be/bhl4i-0_acQ) \| [WC](https://youtu.be/PrYQekvvsIQ)) | 9.06 Flask ([EC](https://youtu.be/eJcfhyccYeI) \| WC) |  |
+| Morning   | 9.01 Intro to Time Series ([EC](https://youtu.be/4LDSzlUqtyw) \| [WC](https://youtu.be/7dIjDDioziA)) | 9.03 ARIMA Models ([EC](https://youtu.be/nOzyAeGAlwY) \| [WC](https://youtu.be/jCtcGW1kxTs)) | 9.05 Benford's Law ([EC](https://youtu.be/bhl4i-0_acQ) \| [WC](https://youtu.be/PrYQekvvsIQ)) | 9.06 Flask ([EC](https://youtu.be/eJcfhyccYeI) \| [WC](https://youtu.be/2xAbYkk5oHE)) |  |
 | Afternoon | 9.02 Linear Time Series Modeling (EC \| [WC](https://youtu.be/ZbAuOXk5nM8)) | 9.04 Advanced Time Series Models ([EC](https://youtu.be/iQyCuBcyvNU) \| [WC](https://generalassembly.zoom.us/rec/share/vulkf-D31GxOR52X1EbySoUCDoHZaaa82iYc_KAOn08ZtgbWwf3RjseZ6_fcBVDk) PWD: 7u^!mbr^ ) |  |  |  |
 
