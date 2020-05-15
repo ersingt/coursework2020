@@ -9,7 +9,8 @@
 * Advent of Code Day 2 challenge solutions: [Part 1](https://youtu.be/wHFaniciGbQ) \| [Part 2](https://youtu.be/DkUuogWTkL8) \| [Part 3](https://youtu.be/LV7bE4xuMZs)
 * [Tues, Apr 21 - Group OH (vectorizers, transformers, NLP)](https://youtu.be/rplJvh1aCk0)
 * [Thurs, Apr 30 - Group OH (SQLite3 + PetDB)](https://youtu.be/EjlzQCtMKrM)
-* [Weds, May 6 - Group OH (client project, PCA, missing data)](https://youtu.be/qDDiTtCWIp4)
+* [Wed, May 6 - Group OH (client project, PCA, missing data)](https://youtu.be/qDDiTtCWIp4)
+* [Fri, May 15 - Group OH (create a portfolio site on the cheap)](https://youtu.be/eh9W9RJfR9U)
 
 # Lesson Recordings
 #### Week 1 - Getting Started: Python for Data Science (March 16 - March 20)
