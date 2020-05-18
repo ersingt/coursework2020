@@ -118,7 +118,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [10.01 Bayesian Statistics I](https://git.generalassemb.ly/DSI-US-11/10.01-lesson-intro-to-bayes) | [10.03 Simulation and MCMC](https://git.generalassemb.ly/DSI-US-11/10.03-lesson-simulation-and-mcmc) | 10.05 Experimental Design | 10.06 A/B Testing | Local Time |
 | Afternoon | [10.02 Bayesian Statistics II](https://git.generalassemb.ly/DSI-US-11/10.02-lesson-bayesian-inference-2) | 10.04 PyMC3 and Bayesian Regression | Project Work Time | Outcomes: Technical Interview Prep | [Guest Speaker: Pauline Chow](https://git.generalassemb.ly/DSI-US-11/guest-speakers) |
-| Labs      | 10.01 Bayes Practice | 10.02 Bayes Data |  |  |  |
+| Labs      | [10.01 Bayes Practice](https://git.generalassemb.ly/DSI-US-11/10.01-lab-bayes-practice) | [10.02 Bayes Data](https://git.generalassemb.ly/DSI-US-11/10.02-lab-bayes-data) |  |  |  |
 | Deadlines | Week 9 Labs |  |  |  | Quiz 5 |
 
 #### Week 11 - Deep Learning (May 25 - May 29)
