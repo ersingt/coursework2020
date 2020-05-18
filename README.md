@@ -117,7 +117,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [10.01 Bayesian Statistics I](https://git.generalassemb.ly/DSI-US-11/10.01-lesson-intro-to-bayes) | 10.03 Simulation and MCMC | 10.05 Experimental Design | 10.06 A/B Testing | Local Time |
-| Afternoon | 10.02 Bayesian Statistics II | 10.04 PyMC3 and Bayesian Regression | Project Work Time | Outcomes: Technical Interview Prep | [Guest Speaker: Pauline Chow](https://git.generalassemb.ly/DSI-US-11/guest-speakers) |
+| Afternoon | [10.02 Bayesian Statistics II](https://git.generalassemb.ly/DSI-US-11/10.02-lesson-bayesian-inference-2) | 10.04 PyMC3 and Bayesian Regression | Project Work Time | Outcomes: Technical Interview Prep | [Guest Speaker: Pauline Chow](https://git.generalassemb.ly/DSI-US-11/guest-speakers) |
 | Labs      | 10.01 Bayes Practice | 10.02 Bayes Data |  |  |  |
 | Deadlines | Week 9 Labs |  |  |  | Quiz 5 |
 
@@ -129,12 +129,6 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 | Afternoon | NO CLASS | 11.02 Introduction to Keras | 11.04 Convolutional Neural Networks | Outcomes | [Guest Speaker: David Stroud](https://git.generalassemb.ly/DSI-US-11/guest-speakers) |
 | Labs     |  | 11.01 Conceptual Neural Networks Lab | 11.02 Applied Neural Networks Lab |  |  |
 | Deadlines | Week 10 Labs |  | Blog Post 5 & Capstone Check-In 3 |  | Quiz 6 |
-
----
-
-#### Everything below this point is subject to change.
-
----
 
 #### Week 12 - Flex Time & Capstones (June 1 - June 5)
 
