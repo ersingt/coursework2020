@@ -83,4 +83,4 @@ Orientation & Global Introductions (EC \| [WC](https://generalassembly.zoom.us/r
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 10.01 Bayesian Statistics I ([EC](https://youtu.be/XXUOwkT43Kc) \| [WC](https://youtu.be/ZRmzBznQrCk)) | 10.03 Simulation and MCMC (EC \| WC) | 10.05 Experimental Design (EC \| WC) | 10.06 A/B Testing (EC \| WC) |  |
-| Afternoon | 10.02 Bayesian Statistics II (EC \| WC) | 10.04 PyMC3 and Bayesian Regression (EC \| WC) |  |  |  |
+| Afternoon | 10.02 Bayesian Statistics II ([EC](https://youtu.be/CnfwLKbeLs0) \| WC) | 10.04 PyMC3 and Bayesian Regression (EC \| WC) |  |  |  |
