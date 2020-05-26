@@ -85,3 +85,10 @@ Orientation & Global Introductions (EC \| [WC](https://generalassembly.zoom.us/r
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | 10.01 Bayesian Statistics I ([EC](https://youtu.be/XXUOwkT43Kc) \| [WC](https://youtu.be/ZRmzBznQrCk)) | 10.03 Simulation and MCMC ([EC](https://youtu.be/Vv9jQUQDFoM) \| [WC1](https://youtu.be/M8jnPAJLHnA) [WC2](https://youtu.be/Bb61mztAq50)) | 10.05 Experimental Design ([EC](https://youtu.be/udyq8dWLgbw) \| [WC](https://youtu.be/Hg6xCEmX9NI)) | 10.06 A/B Testing ([EC](https://youtu.be/VMm1y9_rOZQ) \| [WC](https://youtu.be/6IVSD1MhOlE)) |  |
 | Afternoon | 10.02 Bayesian Statistics II ([EC](https://youtu.be/CnfwLKbeLs0) \| [WC](https://generalassembly.zoom.us/rec/share/1OJJNo_CrH9JfJ2V8nnYV7wFOL3Zeaa8hyYX_KIFmUbiteKOlPw_9QYnnjXVZL_n) PWD: 9U&NI=73 ) | 10.04 PyMC3 and Bayesian Regression ([EC](https://youtu.be/WH_c4D36TZU) \| [WC](https://youtu.be/BLV_eLDF9XU)) |  | [Outcomes](https://youtu.be/aKAroxzhu0g) | [Pauline Chow Guest Lecture](https://generalassembly.zoom.us/rec/share/vshtIZz0yG9JeLPLy2vufPNwMKC8eaa81CMX-vULnkcpn9kQ4RRP-bEJGuba_854) PWD: 0w$3mrs* |
+
+#### Week 11 - Deep Learning (May 25 - May 29)
+
+|           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   |  | 11.01 Introduction to Neural Networks (EC \| WC) | 11.03 Deep Learning Regularization (EC \| WC) | 11.05 Recurrent Neural Networks (EC \| WC) | 11.06 GridSearch with Keras (EC \| WC) |
+| Afternoon |  | 11.02 Introduction to Keras (EC \| WC) | 11.04 Convolutional Neural Networks (EC \| WC) |  |  |
