@@ -90,5 +90,5 @@ Orientation & Global Introductions (EC \| [WC](https://generalassembly.zoom.us/r
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   |  | 11.01 Introduction to Neural Networks (EC \| WC) | 11.03 Deep Learning Regularization (EC \| WC) | 11.05 Recurrent Neural Networks ([EC](https://youtu.be/3nF9AdQZilI) \| WC) | 11.06 GridSearch with Keras (EC \| WC) |
-| Afternoon |  | 11.02 Introduction to Keras (EC \| WC) | 11.04 Convolutional Neural Networks (EC \| WC) |  |  |
+| Morning   |  | 11.01 Introduction to Neural Networks (EC \| WC) | 11.03 Deep Learning Regularization (EC \| WC) | 11.05 Recurrent Neural Networks (EC \| WC) | 11.06 GridSearch with Keras (EC \| WC) |
+| Afternoon |  | 11.02 Introduction to Keras ([EC](https://youtu.be/3nF9AdQZilI) \| WC) | 11.04 Convolutional Neural Networks (EC \| WC) |  |  |
