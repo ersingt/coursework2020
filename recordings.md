@@ -92,3 +92,7 @@ Orientation & Global Introductions (EC \| [WC](https://generalassembly.zoom.us/r
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   |  | 11.01 Introduction to Neural Networks ([EC](https://youtu.be/33B5c301gKo) \| [WC](https://youtu.be/wh_erPG9MEE)) | 11.03 Deep Learning Regularization ([EC](https://youtu.be/zoDCEIFZVXo) \| [WC](https://youtu.be/GvfbG9-5LPE)) | 11.05 Recurrent Neural Networks ([EC](https://youtu.be/NHvnlFr-1Uo) \| [WC](https://youtu.be/HdW7-ZFlpsA)) | 11.06 GridSearch with Keras (EC \| WC) |
 | Afternoon |  | 11.02 Introduction to Keras ([EC](https://youtu.be/3nF9AdQZilI) \| [WC](https://youtu.be/bj7v0udCoRo)) | 11.04 Convolutional Neural Networks ([EC](https://youtu.be/bVLyT_IDHLc) \| [WC](https://youtu.be/36I4rxmR0TA)) |  | [Guest Speaker David Stroud](https://youtu.be/hnQxP0xFQOA) |
+
+|           | Monday        |
+|-----------|---------------|
+| Morning   | 12.01 The Linux Environment & Shell Scripting ([EC](https://youtu.be/mTWp0PBA2Po) \| [WC](https://youtu.be/316jbUt5H4c)) |
