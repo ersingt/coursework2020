@@ -134,7 +134,7 @@ https://git.generalassemb.ly/DSI-US-11/course-info/wiki/Office-Hours
 
 |           | Monday        | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | 12.01 The Linux Environment & Shell Scripting | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time |
+| Morning   | [12.01 The Linux Environment & Shell Scripting](https://git.generalassemb.ly/DSI-US-11/12.01-lesson-linux-and-automation) | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time |
 | Afternoon | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time | Local Flex Time |
 | Deadlines | Week 11 Labs | Capstone Check-In 4 | Blog Post 6 |  | Capstone Check-In 5 |
 
